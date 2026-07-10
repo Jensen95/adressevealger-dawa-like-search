@@ -1,0 +1,92 @@
+{
+  "name": "adressevaelger-enhanced",
+  "version": "0.1.0",
+  "description": "Enhanced Danish address picker web component and headless search library for adressevaelger.dk (DAWA's successor) — DAWA-style relevance ranking, floor/door unit expansion, street+city fallback, Danish-letter typo folding and request caching.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Morten Jensen",
+  "homepage": "https://jensen95.github.io/adressevaelger-enhanced/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jensen95/adressevaelger-enhanced.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Jensen95/adressevaelger-enhanced/issues"
+  },
+  "keywords": [
+    "adressevaelger",
+    "dawa",
+    "address",
+    "autocomplete",
+    "denmark",
+    "danish",
+    "web-component",
+    "lit",
+    "custom-element"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "sideEffects": [
+    "./dist/components/adressevaelger-search.js"
+  ],
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "customElements": "custom-elements.json",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./lib": {
+      "types": "./dist/lib/index.d.ts",
+      "import": "./dist/lib/index.js"
+    },
+    "./component": {
+      "types": "./dist/components/adressevaelger-search.d.ts",
+      "import": "./dist/components/adressevaelger-search.js"
+    },
+    "./custom-elements.json": "./custom-elements.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "custom-elements.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "vite build && tsc -p tsconfig.build.json && npm run analyze",
+    "build:site": "vite build --config vite.site.config.ts",
+    "dev": "vite --config vite.site.config.ts",
+    "preview": "vite preview --config vite.site.config.ts",
+    "analyze": "cem analyze --config custom-elements-manifest.config.mjs",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "eslint . && prettier --check .",
+    "format": "prettier --write .",
+    "bench": "node scripts/benchmark.mjs"
+  },
+  "dependencies": {
+    "lit": "^3.2.1"
+  },
+  "devDependencies": {
+    "@custom-elements-manifest/analyzer": "^0.10.4",
+    "@eslint/js": "^9.17.0",
+    "chart.js": "^4.4.7",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "date-fns": "^4.1.0",
+    "eslint": "^9.17.0",
+    "globals": "^15.14.0",
+    "happy-dom": "^20.10.6",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.2",
+    "typescript-eslint": "^8.19.1",
+    "vite": "^7.0.0",
+    "vitest": "^3.2.4"
+  },
+  "overrides": {
+    "esbuild": "^0.25.0"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-site/
+coverage/
+*.log
+.DS_Store
+.env
+.env.*
+# Generated at the repo root by `npm run bench` / the workflow.
+/history.jsonl
+/latest.json
