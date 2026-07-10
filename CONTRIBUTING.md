@@ -27,6 +27,19 @@ Requires Node ≥ 22 and npm.
 - Small, focused PRs with a clear description are easiest to review. Please
   open an issue first for larger changes.
 
+## Commits & branches
+
+This repo follows the [Conventional Commits](https://www.conventionalcommits.org)
+and [Conventional Branches](https://conventional-branch.github.io) standards, and
+CI enforces both on every pull request.
+
+- **Commit messages**: `<type>[optional scope]: <description>` — e.g.
+  `feat: add keyboard navigation`, `fix(ranking): break score ties by id`,
+  `chore(deps): bump vite`. A local `commit-msg` hook (via Husky + commitlint)
+  checks each message as you commit; run `npm install` once to activate it.
+- **Branch names**: `<type>/<description>` using the same types — e.g.
+  `feature/floor-expansion`, `fix/debounce-race`, `chore/upgrade-vite`.
+
 ## Live API & token
 
 Manual testing against the live service needs a `token`. Request one from

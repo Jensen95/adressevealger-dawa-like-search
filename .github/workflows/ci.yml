@@ -22,3 +22,28 @@ jobs:
       - run: npm run test:coverage
       - run: npm run build
       - run: npm run build:site
+
+  conventions:
+    # Enforce Conventional Branches + Conventional Commits on pull requests.
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Validate branch name (Conventional Branches)
+        run: |
+          branch='${{ github.head_ref }}'
+          echo "Branch: $branch"
+          # Conventional Branches prefixes, plus Dependabot's generated branches.
+          if ! printf '%s' "$branch" | grep -qE '^(main|(feature|feat|fix|bugfix|hotfix|release|chore|docs|test|refactor|ci|build|perf|style|revert)/.+|dependabot/.+)$'; then
+            echo "::error::Branch '$branch' must follow Conventional Branches: <type>/<description> (e.g. feature/…, fix/…, chore/…)."
+            exit 1
+          fi
+      - name: Validate commit messages (Conventional Commits)
+        run: npx commitlint --from "${{ github.event.pull_request.base.sha }}" --to "${{ github.event.pull_request.head.sha }}" --verbose
