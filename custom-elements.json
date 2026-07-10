@@ -1,0 +1,432 @@
+{
+  "schemaVersion": "1.0.0",
+  "readme": "",
+  "modules": [
+    {
+      "kind": "javascript-module",
+      "path": "src/components/adressevaelger-search.ts",
+      "declarations": [
+        {
+          "kind": "class",
+          "description": "`<adressevaelger-search>` — an accessible Danish address autocomplete.\n\nA thin Lit wrapper around the headless createAddressSearch client:\ndebounced input, superseded-search abort, and a WAI-ARIA 1.2 combobox\n(`role=combobox` + popup `listbox`) with full keyboard support. Selecting a\nsuggestion resolves it by id and fires an `adresse-selected` event.",
+          "name": "AdressevaelgerSearch",
+          "cssProperties": [
+            {
+              "description": "Font family. Defaults to the system UI stack.",
+              "name": "--adressevaelger-font"
+            },
+            {
+              "description": "Corner radius of the input and list.",
+              "name": "--adressevaelger-radius",
+              "default": "8px"
+            },
+            {
+              "description": "Border colour.",
+              "name": "--adressevaelger-border",
+              "default": "#c4c9d4"
+            },
+            {
+              "description": "Accent / active-option colour.",
+              "name": "--adressevaelger-accent",
+              "default": "#2f6feb"
+            },
+            {
+              "description": "Background colour.",
+              "name": "--adressevaelger-bg",
+              "default": "Canvas"
+            },
+            {
+              "description": "Text colour.",
+              "name": "--adressevaelger-fg",
+              "default": "CanvasText"
+            }
+          ],
+          "cssParts": [
+            {
+              "description": "The text input.",
+              "name": "input"
+            },
+            {
+              "description": "The suggestion listbox.",
+              "name": "list"
+            },
+            {
+              "description": "A single suggestion option.",
+              "name": "item"
+            }
+          ],
+          "members": [
+            {
+              "kind": "field",
+              "name": "token",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "description": "API access token (required for the component to search).",
+              "attribute": "token"
+            },
+            {
+              "kind": "field",
+              "name": "baseUrl",
+              "type": {
+                "text": "string | undefined"
+              },
+              "description": "Override the API base URL.",
+              "attribute": "base-url"
+            },
+            {
+              "kind": "field",
+              "name": "includePreliminary",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "description": "Include preliminary (not-yet-finalized) addresses.",
+              "attribute": "include-preliminary"
+            },
+            {
+              "kind": "field",
+              "name": "placeholder",
+              "type": {
+                "text": "string"
+              },
+              "default": "'Søg efter adresse…'",
+              "description": "Placeholder text for the input.",
+              "attribute": "placeholder"
+            },
+            {
+              "kind": "field",
+              "name": "maxResults",
+              "type": {
+                "text": "number"
+              },
+              "default": "10",
+              "description": "Maximum number of suggestions to show.",
+              "attribute": "max-results"
+            },
+            {
+              "kind": "field",
+              "name": "value",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "description": "Current input value.",
+              "attribute": "value"
+            },
+            {
+              "kind": "field",
+              "name": "suggestions",
+              "type": {
+                "text": "AutocompletedAddress[]"
+              },
+              "privacy": "private",
+              "default": "[]"
+            },
+            {
+              "kind": "field",
+              "name": "open",
+              "type": {
+                "text": "boolean"
+              },
+              "privacy": "private",
+              "default": "false"
+            },
+            {
+              "kind": "field",
+              "name": "loading",
+              "type": {
+                "text": "boolean"
+              },
+              "privacy": "private",
+              "default": "false"
+            },
+            {
+              "kind": "field",
+              "name": "activeIndex",
+              "type": {
+                "text": "number"
+              },
+              "privacy": "private",
+              "default": "-1"
+            },
+            {
+              "kind": "field",
+              "name": "#client",
+              "privacy": "private",
+              "type": {
+                "text": "AddressSearchClient | null"
+              },
+              "default": "null"
+            },
+            {
+              "kind": "field",
+              "name": "#clientKey",
+              "privacy": "private",
+              "type": {
+                "text": "string"
+              },
+              "default": "''"
+            },
+            {
+              "kind": "field",
+              "name": "#debounceTimer",
+              "privacy": "private",
+              "type": {
+                "text": "ReturnType<typeof setTimeout> | null"
+              },
+              "default": "null"
+            },
+            {
+              "kind": "field",
+              "name": "#controller",
+              "privacy": "private",
+              "type": {
+                "text": "AbortController | null"
+              },
+              "default": "null"
+            },
+            {
+              "kind": "field",
+              "name": "#listboxId",
+              "privacy": "private",
+              "default": "`adressevaelger-listbox-${Math.random().toString(36).slice(2)}`"
+            },
+            {
+              "kind": "method",
+              "name": "client",
+              "privacy": "private",
+              "return": {
+                "type": {
+                  "text": "AddressSearchClient | null"
+                }
+              }
+            },
+            {
+              "kind": "method",
+              "name": "onInput",
+              "privacy": "private",
+              "return": {
+                "type": {
+                  "text": "void"
+                }
+              },
+              "parameters": [
+                {
+                  "name": "event",
+                  "type": {
+                    "text": "Event"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "method",
+              "name": "runSearch",
+              "privacy": "private",
+              "return": {
+                "type": {
+                  "text": "Promise<void>"
+                }
+              },
+              "parameters": [
+                {
+                  "name": "term",
+                  "type": {
+                    "text": "string"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "method",
+              "name": "onKeydown",
+              "privacy": "private",
+              "return": {
+                "type": {
+                  "text": "void"
+                }
+              },
+              "parameters": [
+                {
+                  "name": "event",
+                  "type": {
+                    "text": "KeyboardEvent"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "method",
+              "name": "move",
+              "privacy": "private",
+              "return": {
+                "type": {
+                  "text": "void"
+                }
+              },
+              "parameters": [
+                {
+                  "name": "delta",
+                  "type": {
+                    "text": "number"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "method",
+              "name": "select",
+              "privacy": "private",
+              "return": {
+                "type": {
+                  "text": "Promise<void>"
+                }
+              },
+              "parameters": [
+                {
+                  "name": "suggestion",
+                  "type": {
+                    "text": "AutocompletedAddress"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "method",
+              "name": "optionId",
+              "privacy": "private",
+              "return": {
+                "type": {
+                  "text": "string"
+                }
+              },
+              "parameters": [
+                {
+                  "name": "index",
+                  "type": {
+                    "text": "number"
+                  }
+                }
+              ]
+            },
+            {
+              "kind": "method",
+              "name": "renderHighlight",
+              "privacy": "private",
+              "return": {
+                "type": {
+                  "text": "TemplateResult[]"
+                }
+              },
+              "parameters": [
+                {
+                  "name": "titel",
+                  "type": {
+                    "text": "string"
+                  }
+                }
+              ]
+            }
+          ],
+          "events": [
+            {
+              "name": "adresse-input",
+              "type": {
+                "text": "CustomEvent"
+              },
+              "description": "`{ value: string }` on every debounced query change."
+            },
+            {
+              "name": "adresse-selected",
+              "type": {
+                "text": "CustomEvent"
+              },
+              "description": "{@link AdresseSelectedDetail} when a suggestion is chosen."
+            }
+          ],
+          "attributes": [
+            {
+              "name": "token",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "description": "API access token (required for the component to search).",
+              "fieldName": "token"
+            },
+            {
+              "name": "base-url",
+              "type": {
+                "text": "string | undefined"
+              },
+              "description": "Override the API base URL.",
+              "fieldName": "baseUrl"
+            },
+            {
+              "name": "include-preliminary",
+              "type": {
+                "text": "boolean"
+              },
+              "default": "false",
+              "description": "Include preliminary (not-yet-finalized) addresses.",
+              "fieldName": "includePreliminary"
+            },
+            {
+              "name": "placeholder",
+              "type": {
+                "text": "string"
+              },
+              "default": "'Søg efter adresse…'",
+              "description": "Placeholder text for the input.",
+              "fieldName": "placeholder"
+            },
+            {
+              "name": "max-results",
+              "type": {
+                "text": "number"
+              },
+              "default": "10",
+              "description": "Maximum number of suggestions to show.",
+              "fieldName": "maxResults"
+            },
+            {
+              "name": "value",
+              "type": {
+                "text": "string"
+              },
+              "default": "''",
+              "description": "Current input value.",
+              "fieldName": "value"
+            }
+          ],
+          "superclass": {
+            "name": "LitElement",
+            "package": "lit"
+          },
+          "tagName": "adressevaelger-search",
+          "customElement": true
+        }
+      ],
+      "exports": [
+        {
+          "kind": "js",
+          "name": "AdressevaelgerSearch",
+          "declaration": {
+            "name": "AdressevaelgerSearch",
+            "module": "src/components/adressevaelger-search.ts"
+          }
+        },
+        {
+          "kind": "custom-element-definition",
+          "name": "adressevaelger-search",
+          "declaration": {
+            "name": "AdressevaelgerSearch",
+            "module": "src/components/adressevaelger-search.ts"
+          }
+        }
+      ]
+    }
+  ]
+}
