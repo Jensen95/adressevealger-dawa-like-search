@@ -1,4 +1,4 @@
-# adressevaelger-enhanced
+# @jensen95/adressevaelger
 
 An enhanced Danish address picker for [adressevaelger.dk][av] (the official
 address service and DAWA's successor) — a drop-in
@@ -39,11 +39,11 @@ client-side.
 ## Install
 
 ```sh
-npm install adressevaelger-enhanced lit
+npm install @jensen95/adressevaelger lit
 ```
 
 ESM-only, Node ≥ 22. `lit` is a peer of the web component; the headless library
-(`adressevaelger-enhanced/lib`) has no runtime dependencies.
+(`@jensen95/adressevaelger/lib`) has no runtime dependencies.
 
 ## Token & terms
 
@@ -60,7 +60,7 @@ adressevaelger.dk is its replacement.
 
 ```html
 <script type="module">
-  import 'adressevaelger-enhanced'
+  import '@jensen95/adressevaelger'
 </script>
 
 <adressevaelger-search token="your-token"></adressevaelger-search>
@@ -84,7 +84,7 @@ Attributes: `token` (required), `base-url`, `include-preliminary`,
 Usable in any framework, or on the server, with no DOM:
 
 ```ts
-import { createAddressSearch } from 'adressevaelger-enhanced/lib'
+import { createAddressSearch } from '@jensen95/adressevaelger/lib'
 
 const search = createAddressSearch({ token: 'your-token' })
 

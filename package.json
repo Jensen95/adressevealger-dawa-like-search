@@ -1,5 +1,5 @@
 {
-  "name": "adressevaelger-enhanced",
+  "name": "@jensen95/adressevaelger",
   "version": "0.1.0",
   "description": "Enhanced Danish address picker web component and headless search library for adressevaelger.dk (DAWA's successor) — DAWA-style relevance ranking, floor/door unit expansion, street+city fallback, Danish-letter typo folding and request caching.",
   "type": "module",
@@ -67,18 +67,22 @@
     "test:coverage": "vitest run --coverage",
     "lint": "oxlint && prettier --check .",
     "format": "prettier --write .",
-    "bench": "node scripts/benchmark.mjs"
+    "bench": "node scripts/benchmark.mjs",
+    "prepare": "husky"
   },
   "dependencies": {
     "lit": "^3.2.1"
   },
   "devDependencies": {
+    "@commitlint/cli": "^21.2.1",
+    "@commitlint/config-conventional": "^21.2.0",
     "@custom-elements-manifest/analyzer": "^0.11.0",
     "@vitest/coverage-v8": "^4.1.10",
     "chart.js": "^4.4.7",
     "chartjs-adapter-date-fns": "^3.0.0",
     "date-fns": "^4.1.0",
     "happy-dom": "^20.10.6",
+    "husky": "^9.1.7",
     "oxlint": "^1.73.0",
     "prettier": "^3.4.2",
     "typescript": "^7.0.2",
@@ -87,5 +91,8 @@
   },
   "overrides": {
     "esbuild": "^0.25.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
