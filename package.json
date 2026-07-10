@@ -1,5 +1,5 @@
 {
-  "name": "adressevaelger-enhanced",
+  "name": "@jensen95/adressevaelger",
   "version": "0.1.0",
   "description": "Enhanced Danish address picker web component and headless search library for adressevaelger.dk (DAWA's successor) — DAWA-style relevance ranking, floor/door unit expansion, street+city fallback, Danish-letter typo folding and request caching.",
   "type": "module",

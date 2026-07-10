@@ -1,4 +1,4 @@
-// Headless, framework-free entry point. Import from `adressevaelger-enhanced/lib`
+// Headless, framework-free entry point. Import from `@jensen95/adressevaelger/lib`
 // to use the search pipeline and ranking utilities without the web component.
 export {
   createAddressSearch,

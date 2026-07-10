@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for your interest in improving `adressevaelger-enhanced`.
+Thanks for your interest in improving `@jensen95/adressevaelger`.
 
 ## Getting started
 

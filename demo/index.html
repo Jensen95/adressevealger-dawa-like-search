@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>adressevaelger-enhanced — Danish address picker</title>
+    <title>@jensen95/adressevaelger — Danish address picker</title>
     <meta
       name="description"
       content="Enhanced Danish address picker web component for adressevaelger.dk with DAWA-style ranking, floor/door expansion, street+city fallback, typo folding and caching."
@@ -13,7 +13,7 @@
   <body>
     <header class="site">
       <nav>
-        <a class="brand" href="./index.html">adressevaelger-enhanced</a>
+        <a class="brand" href="./index.html">@jensen95/adressevaelger</a>
         <a href="./index.html" aria-current="page">Demo</a>
         <a href="./docs.html">Docs</a>
         <a href="./benchmark.html">Benchmark</a>
@@ -107,8 +107,8 @@
       <section>
         <h2>Quick start</h2>
         <h3>Web component (npm)</h3>
-        <pre><code>npm install adressevaelger-enhanced lit</code></pre>
-        <pre><code>import 'adressevaelger-enhanced'
+        <pre><code>npm install @jensen95/adressevaelger lit</code></pre>
+        <pre><code>import '@jensen95/adressevaelger'
 
 // &lt;adressevaelger-search token="your-token"&gt;&lt;/adressevaelger-search&gt;
 document
@@ -118,7 +118,7 @@ document
   })</code></pre>
 
         <h3>Headless library</h3>
-        <pre><code>import { createAddressSearch } from 'adressevaelger-enhanced/lib'
+        <pre><code>import { createAddressSearch } from '@jensen95/adressevaelger/lib'
 
 const search = createAddressSearch({ token: 'your-token' })
 const controller = new AbortController()
