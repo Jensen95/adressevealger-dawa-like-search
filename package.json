@@ -78,7 +78,7 @@
     "chartjs-adapter-date-fns": "^3.0.0",
     "date-fns": "^4.1.0",
     "eslint": "^10.6.0",
-    "globals": "^15.14.0",
+    "globals": "^17.7.0",
     "happy-dom": "^20.10.6",
     "prettier": "^3.4.2",
     "typescript": "^5.7.2",
