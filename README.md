@@ -136,7 +136,7 @@ npm run build && npm run bench
 ```sh
 npm install
 npm test          # vitest, no network
-npm run lint      # eslint + prettier
+npm run lint      # oxlint + prettier
 npm run build     # library -> dist/ + custom-elements.json
 npm run dev       # demo site dev server
 npm run build:site

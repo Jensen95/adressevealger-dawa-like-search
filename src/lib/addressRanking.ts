@@ -97,7 +97,9 @@ function matchTokens(
     return { queryScore: 0, titelCoverage: 0, unmatchedQueryTokens: 0 }
   }
 
-  const consumed = new Array<boolean>(titelTokens.length).fill(false)
+  const consumed = Array.from<boolean>({ length: titelTokens.length }).fill(
+    false,
+  )
   let totalScore = 0
   let consumedCount = 0
   let unmatchedQueryTokens = 0
