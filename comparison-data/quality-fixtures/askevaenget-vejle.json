@@ -1,0 +1,3174 @@
+{
+	"query": "askevænget vejle",
+	"recordedAt": "2026-07-09T19:51:49.995Z",
+	"dawa": {
+		"texts": [
+			"Askevænget 1, 7100 Vejle",
+			"Askevænget 1, 1. tv, 7100 Vejle",
+			"Askevænget 1, 1. th, 7100 Vejle",
+			"Askevænget 1, 2. tv, 7100 Vejle",
+			"Askevænget 3, 1. tv, 7100 Vejle",
+			"Askevænget 3, 2. tv, 7100 Vejle",
+			"Askevænget 5, 1. tv, 7100 Vejle",
+			"Askevænget 5, 2. tv, 7100 Vejle",
+			"Askevænget 7, 1. tv, 7100 Vejle",
+			"Askevænget 7, 2. tv, 7100 Vejle"
+		],
+		"ids": [
+			"87d78f5d-6273-4152-86fb-c15d8cf12057",
+			"0a3f50bc-9a48-32b8-e044-0003ba298018",
+			"0a3f50bc-9a47-32b8-e044-0003ba298018",
+			"0a3f50bc-9a4a-32b8-e044-0003ba298018",
+			"0a3f50bc-9a4e-32b8-e044-0003ba298018",
+			"0a3f50bc-9a50-32b8-e044-0003ba298018",
+			"0a3f50bc-9a54-32b8-e044-0003ba298018",
+			"0a3f50bc-9a56-32b8-e044-0003ba298018",
+			"0a3f50bc-9a5c-32b8-e044-0003ba298018",
+			"0a3f50bc-9a5f-32b8-e044-0003ba298018"
+		],
+		"count": 10
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=askevænget vejle": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": []
+		},
+		"/adresser/soeg?tekst=askevænget": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "ebcc3d59-2f21-4086-803b-3c957e204c8e",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 2680 Solrød Strand",
+					"vejnavn": "Askevænget",
+					"postnr": "2680",
+					"postdistrikt": "Solrød Strand",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "18c55726-249f-4b50-bf58-1f45c8a50c82",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 2830 Virum",
+					"vejnavn": "Askevænget",
+					"postnr": "2830",
+					"postdistrikt": "Virum",
+					"antal_husnumre": 28
+				},
+				{
+					"id": "62ee1ec7-9fa4-4e87-840a-b7c4db645e58",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 3770 Allinge",
+					"vejnavn": "Askevænget",
+					"postnr": "3770",
+					"postdistrikt": "Allinge",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "0a934e0b-1f12-4ad0-aec4-02707ac9463d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 4200 Slagelse",
+					"vejnavn": "Askevænget",
+					"postnr": "4200",
+					"postdistrikt": "Slagelse",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "3edfe863-58e1-41a9-a4af-7db9340184a0",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 4550 Asnæs",
+					"vejnavn": "Askevænget",
+					"postnr": "4550",
+					"postdistrikt": "Asnæs",
+					"antal_husnumre": 33
+				},
+				{
+					"id": "f33fc10e-33a5-40e5-84d1-b154e0e59004",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 4700 Næstved",
+					"vejnavn": "Askevænget",
+					"postnr": "4700",
+					"postdistrikt": "Næstved",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "ab6d3eb9-30c4-498f-81dc-aa66ed380cd6",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 4720 Præstø",
+					"vejnavn": "Askevænget",
+					"postnr": "4720",
+					"postdistrikt": "Præstø",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "25a98eda-ee19-4912-bfe8-58bd7f8b729d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 4800 Nykøbing F",
+					"vejnavn": "Askevænget",
+					"postnr": "4800",
+					"postdistrikt": "Nykøbing F",
+					"antal_husnumre": 21
+				},
+				{
+					"id": "ef159148-3de0-4b4b-a82a-a10ef2daaeec",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 5471 Søndersø",
+					"vejnavn": "Askevænget",
+					"postnr": "5471",
+					"postdistrikt": "Søndersø",
+					"antal_husnumre": 20
+				},
+				{
+					"id": "90bda222-41fa-47c6-a951-c42ccd1f78dd",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 5500 Middelfart",
+					"vejnavn": "Askevænget",
+					"postnr": "5500",
+					"postdistrikt": "Middelfart",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "666e447c-645f-4e07-82e4-41a655267333",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 5592 Ejby",
+					"vejnavn": "Askevænget",
+					"postnr": "5592",
+					"postdistrikt": "Ejby",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "2f74fe98-9378-47ca-91b3-1f84a43cf908",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 5690 Tommerup",
+					"vejnavn": "Askevænget",
+					"postnr": "5690",
+					"postdistrikt": "Tommerup",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "bc60fb27-28f0-4727-8f65-b029f932ce55",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 5700 Svendborg",
+					"vejnavn": "Askevænget",
+					"postnr": "5700",
+					"postdistrikt": "Svendborg",
+					"antal_husnumre": 22
+				},
+				{
+					"id": "dd4ec164-e70a-4c15-b752-d336a5f1b194",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 5750 Ringe",
+					"vejnavn": "Askevænget",
+					"postnr": "5750",
+					"postdistrikt": "Ringe",
+					"antal_husnumre": 15
+				},
+				{
+					"id": "c8ffdc2b-698e-47dd-a499-5352d3137f94",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 5800 Nyborg",
+					"vejnavn": "Askevænget",
+					"postnr": "5800",
+					"postdistrikt": "Nyborg",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "feb68b48-d688-4c8f-9cf6-ec98ee56761c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 5884 Gudme",
+					"vejnavn": "Askevænget",
+					"postnr": "5884",
+					"postdistrikt": "Gudme",
+					"antal_husnumre": 23
+				},
+				{
+					"id": "436cee2d-608d-4ebd-8621-2ee42d51ecd5",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 5932 Humble",
+					"vejnavn": "Askevænget",
+					"postnr": "5932",
+					"postdistrikt": "Humble",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "237319ed-5669-4294-8d2e-eeaf8c85fedc",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 7000 Fredericia",
+					"vejnavn": "Askevænget",
+					"postnr": "7000",
+					"postdistrikt": "Fredericia",
+					"antal_husnumre": 15
+				},
+				{
+					"id": "c6a3dc03-ebd8-45b5-b63e-4562cb6a05f2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Askevænget 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"postnr": "7100",
+					"postdistrikt": "Vejle",
+					"antal_husnumre": 13
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 2680": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5082-3ed9-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, 2680 Solrød Strand",
+					"vejnavn": "Askevænget",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-4eb8-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2, 2680 Solrød Strand",
+					"husnummerId": "0a3f5082-3eda-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-4eb9-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, 2680 Solrød Strand",
+					"husnummerId": "0a3f5082-3edb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-4eba-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, 2680 Solrød Strand",
+					"husnummerId": "0a3f5082-3edc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-4ebb-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 2680 Solrød Strand",
+					"husnummerId": "0a3f5082-3edd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-4ebc-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, 2680 Solrød Strand",
+					"husnummerId": "0a3f5082-3ede-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-4ebd-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, 2680 Solrød Strand",
+					"husnummerId": "0a3f5082-3edf-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 2830": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00dfd67a-5a67-402d-9f24-02ab9ac01fd3",
+					"titel": "Askevænget 2, 2830 Virum",
+					"husnummerId": "0a3f507d-3805-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3806-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f2c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, 2830 Virum",
+					"husnummerId": "0a3f507d-3807-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3808-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "7"
+				},
+				{
+					"type": "adresse",
+					"id": "60542e9e-5a2b-4701-bcdc-6c0eff4644db",
+					"titel": "Askevænget 8, 2830 Virum",
+					"husnummerId": "0a3f507d-3809-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-380a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "9"
+				},
+				{
+					"type": "adresse",
+					"id": "4d473c9d-1546-47b3-e044-0003ba298018",
+					"titel": "Askevænget 10, 2830 Virum",
+					"husnummerId": "0a3f507d-380b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "44fd9903-cc6e-453a-b900-4b241d638bf7",
+					"titel": "Askevænget 10A, 2830 Virum",
+					"husnummerId": "9d26587a-fa91-43a4-80e8-34f981a1c2d7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-380e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-380f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3810-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3811-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3812-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3813-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3814-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3815-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3816-32b8-e044-0003ba298018",
+					"titel": "Askevænget 27, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3817-32b8-e044-0003ba298018",
+					"titel": "Askevænget 29, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "29"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3818-32b8-e044-0003ba298018",
+					"titel": "Askevænget 31, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "31"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3819-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "33"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-381a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 35, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "35"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-381b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 37, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "37"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-381c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 39, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "39"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-381d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 41, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "41"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-381e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 43, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "43"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-381f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 45, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "45"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-3820-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, 2830 Virum",
+					"vejnavn": "Askevænget",
+					"husnummer": "47"
+				},
+				{
+					"type": "adresse",
+					"id": "40474b93-8dd1-4fd0-8d51-5ce77fed6a6b",
+					"titel": "Askevænget 49, 2830 Virum",
+					"husnummerId": "0a3f507d-3821-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 3770": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-d5ce-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, Allinge, 3770 Allinge",
+					"husnummerId": "0a3f5087-5346-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5661ca25-f3a3-25c4-e044-0003ba298018",
+					"titel": "Askevænget 2, Allinge, 3770 Allinge",
+					"husnummerId": "0a3f5087-5347-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-d5cf-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Allinge, 3770 Allinge",
+					"husnummerId": "0a3f5087-5348-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "94392020-8641-4585-9694-b19191e308d5",
+					"titel": "Askevænget 4, Allinge, 3770 Allinge",
+					"husnummerId": "0a3f5087-5349-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-d5d0-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, Allinge, 3770 Allinge",
+					"husnummerId": "0a3f5087-534a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1730-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f54-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1731-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1732-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1733-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f57-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1734-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f58-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1735-32b8-e044-0003ba298018",
+					"titel": "Askevænget 12, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1736-32b8-e044-0003ba298018",
+					"titel": "Askevænget 14, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f5a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1737-32b8-e044-0003ba298018",
+					"titel": "Askevænget 16, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f5b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1738-32b8-e044-0003ba298018",
+					"titel": "Askevænget 18, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f5c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1739-32b8-e044-0003ba298018",
+					"titel": "Askevænget 20, Skrillinge, 5500 Middelfart",
+					"husnummerId": "0a3f5088-8f5d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5932": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b976-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, Hesselbjerg, 5932 Humble",
+					"husnummerId": "0a3f508a-94e5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b977-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2, Hesselbjerg, 5932 Humble",
+					"husnummerId": "0a3f508a-94e6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b978-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Hesselbjerg, 5932 Humble",
+					"husnummerId": "0a3f508a-94e7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b979-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, Hesselbjerg, 5932 Humble",
+					"husnummerId": "0a3f508a-94e8-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 7100": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab08-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab09-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab0a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab0b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab0c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab0d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab0e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab0f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab10-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab11-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab12-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab13-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ab14-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, 7100 Vejle",
+					"vejnavn": "Askevænget",
+					"husnummer": "25"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5471": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-c771-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2, 5471 Søndersø",
+					"husnummerId": "0a3f508a-a473-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-c772-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, 5471 Søndersø",
+					"husnummerId": "0a3f508a-a474-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-c773-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, 5471 Søndersø",
+					"husnummerId": "0a3f508a-a475-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-c774-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, 5471 Søndersø",
+					"husnummerId": "0a3f508a-a476-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-c775-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10, 5471 Søndersø",
+					"husnummerId": "0a3f508a-a477-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5a7b4930-18b1-4a39-8c1c-457695ecefb5",
+					"titel": "Askevænget 12, 5471 Søndersø",
+					"husnummerId": "0a3f508a-a478-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-c776-32b8-e044-0003ba298018",
+					"titel": "Askevænget 14, 5471 Søndersø",
+					"husnummerId": "0a3f508a-a479-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-c777-32b8-e044-0003ba298018",
+					"titel": "Askevænget 16, 5471 Søndersø",
+					"husnummerId": "0a3f508a-a47a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e5a9ccc4-6c23-4a13-b914-aa21af6da6a4",
+					"titel": "Askevænget 18, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c2e-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5338c3f8-b35b-00e2-e044-0003ba298018",
+					"titel": "Askevænget 20, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c2f-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "434d4d3b-148f-0401-e044-0003ba298018",
+					"titel": "Askevænget 22, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c30-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4a78ea4c-0a8f-6ee8-e044-0003ba298018",
+					"titel": "Askevænget 24, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c31-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4eca26b5-f6e8-6765-e044-0003ba298018",
+					"titel": "Askevænget 26, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c32-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a6eb663c-bcf5-4d83-8b4d-f4c057fe3b42",
+					"titel": "Askevænget 28, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c33-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-1931-51c5-e044-0003ba298018",
+					"titel": "Askevænget 30, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c34-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "32c88351-b250-1479-e044-0003ba298018",
+					"titel": "Askevænget 32, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c35-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "45f29248-a513-2b68-e044-0003ba298018",
+					"titel": "Askevænget 34, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c36-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "10f83014-7efe-4957-a535-2327c1329f93",
+					"titel": "Askevænget 35P, 5471 Søndersø",
+					"husnummerId": "26789b10-d64a-4eb0-a998-7ac5e992eca4"
+				},
+				{
+					"type": "adresse",
+					"id": "32c88351-b251-1479-e044-0003ba298018",
+					"titel": "Askevænget 36, 5471 Søndersø",
+					"husnummerId": "1f289f18-8c37-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "56ef5b7b-e0b7-4c44-9d57-6bfc7aef8b11",
+					"titel": "Askevænget 38, 5471 Søndersø",
+					"husnummerId": "86d4fe48-0de5-4840-80fe-cd0dd7a15d95"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5750": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29b4-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15e8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7157bc63-bc0d-4d9d-95fe-46085639f922",
+					"titel": "Askevænget 2, Espe, 5750 Ringe",
+					"husnummerId": "71961cb5-3110-4416-b664-e4d21a64b1b1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29b5-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15e9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29b6-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15ea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29b7-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15eb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29b8-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15ec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29b9-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29ba-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15ee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29bb-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15ef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29bc-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15f0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29bd-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15f1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29be-32b8-e044-0003ba298018",
+					"titel": "Askevænget 12, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15f2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29bf-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15f3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29c0-32b8-e044-0003ba298018",
+					"titel": "Askevænget 14, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15f4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-29c1-32b8-e044-0003ba298018",
+					"titel": "Askevænget 16, Espe, 5750 Ringe",
+					"husnummerId": "0a3f508a-15f5-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5884": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-ceb2-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2, 5884 Gudme",
+					"husnummerId": "0a3f5088-4544-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4e147d1d-8282-41b5-a9da-f7a29879111f",
+					"titel": "Askevænget 3, 5884 Gudme",
+					"husnummerId": "0a3f5088-4545-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-ceb3-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3A, 5884 Gudme",
+					"husnummerId": "0a3f5088-4546-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-ceb4-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3B, 5884 Gudme",
+					"husnummerId": "0a3f5088-4547-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-ceb5-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3C, 5884 Gudme",
+					"husnummerId": "0a3f5088-4548-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-ceb6-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3D, 5884 Gudme",
+					"husnummerId": "0a3f5088-4549-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-ceb7-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3E, 5884 Gudme",
+					"husnummerId": "0a3f5088-454a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-ceb8-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3F, 5884 Gudme",
+					"husnummerId": "0a3f5088-454b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-ceb9-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3G, 5884 Gudme",
+					"husnummerId": "0a3f5088-454c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-ceba-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3H, 5884 Gudme",
+					"husnummerId": "0a3f5088-454d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cebb-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3I, 5884 Gudme",
+					"husnummerId": "0a3f5088-454e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cebc-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3J, 5884 Gudme",
+					"husnummerId": "0a3f5088-454f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cebd-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3K, 5884 Gudme",
+					"husnummerId": "0a3f5088-4550-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cebe-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3L, 5884 Gudme",
+					"husnummerId": "0a3f5088-4551-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cebf-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3M, 5884 Gudme",
+					"husnummerId": "0a3f5088-4552-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cec0-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3N, 5884 Gudme",
+					"husnummerId": "0a3f5088-4553-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cec1-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3O, 5884 Gudme",
+					"husnummerId": "0a3f5088-4554-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cec2-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3P, 5884 Gudme",
+					"husnummerId": "0a3f5088-4555-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cec3-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, 5884 Gudme",
+					"husnummerId": "0a3f5088-4556-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "39ff92cd-ec0d-0991-e044-0003ba298018",
+					"titel": "Askevænget 5, 5884 Gudme",
+					"husnummerId": "0a3f5088-4557-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cec4-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, 5884 Gudme",
+					"husnummerId": "0a3f5088-4558-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "38b54e9c-4147-4449-9cce-d95db64c0033",
+					"titel": "Askevænget 8, 5884 Gudme",
+					"husnummerId": "12f7afbd-747b-41fc-8367-844b138cf5ee"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-cec5-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 5884 Gudme",
+					"husnummerId": "0a3f5088-455a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 7000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-830c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f22f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-830d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f230-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-830e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f231-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-830f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f232-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8310-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f233-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8311-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f234-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8312-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f235-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8313-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f236-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8314-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f237-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8315-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f238-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8316-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f239-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8317-32b8-e044-0003ba298018",
+					"titel": "Askevænget 12, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f23a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8318-32b8-e044-0003ba298018",
+					"titel": "Askevænget 14, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f23b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-8319-32b8-e044-0003ba298018",
+					"titel": "Askevænget 16, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f23c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-831a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 18, Taulov, 7000 Fredericia",
+					"husnummerId": "0a3f508e-f23d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 4700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-f8c4-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, Appenæs, 4700 Næstved",
+					"vejnavn": "Askevænget",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-6528-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Appenæs, 4700 Næstved",
+					"husnummerId": "0a3f5085-f8c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b1dab89f-0670-42aa-b7ca-460c565fe5cc",
+					"titel": "Askevænget 5, Appenæs, 4700 Næstved",
+					"husnummerId": "0a3f5085-f8c6-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 4200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "44d454b9-3566-4e17-9153-4ef7c4e6e341",
+					"titel": "Askevænget 1, Skovsø, 4200 Slagelse",
+					"husnummerId": "017b8765-10b4-4d04-b0ad-f541dd7cb296"
+				},
+				{
+					"type": "adresse",
+					"id": "a88e43a2-6334-4519-8de1-3ea24d1197c5",
+					"titel": "Askevænget 2, Skovsø, 4200 Slagelse",
+					"husnummerId": "9b85d188-082f-499d-b69b-b5906ac25e14"
+				},
+				{
+					"type": "adresse",
+					"id": "08d14c5b-bd9e-478d-b7e3-c1450c0718b4",
+					"titel": "Askevænget 3, Skovsø, 4200 Slagelse",
+					"husnummerId": "fa83d2aa-3411-48c4-bfd0-e285a65faace"
+				},
+				{
+					"type": "adresse",
+					"id": "a53f03a1-b69a-45d0-80b0-59318278f55a",
+					"titel": "Askevænget 4, Skovsø, 4200 Slagelse",
+					"husnummerId": "c0bf731c-ab40-47a7-8bb0-d9a563903b02"
+				},
+				{
+					"type": "adresse",
+					"id": "2b249d30-e1cf-44a5-9e16-9812e1a571b1",
+					"titel": "Askevænget 5, Skovsø, 4200 Slagelse",
+					"husnummerId": "82f14e21-adde-4c17-bf26-e2158986556c"
+				},
+				{
+					"type": "adresse",
+					"id": "60d2855c-d731-4c09-b407-2d6649a64b96",
+					"titel": "Askevænget 6, Skovsø, 4200 Slagelse",
+					"husnummerId": "abeae66a-7c2a-46b9-9b1d-99c77b730a09"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5df8-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-47f9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5df9-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-47fa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5dfa-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-47fb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5dfb-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-47fc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5dfc-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-47fd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5dfd-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-47fe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5dfe-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-47ff-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5dff-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4800-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e00-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4801-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e01-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4802-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e02-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4803-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e03-32b8-e044-0003ba298018",
+					"titel": "Askevænget 12, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4804-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e04-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4805-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e05-32b8-e044-0003ba298018",
+					"titel": "Askevænget 14, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4806-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e06-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4807-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e07-32b8-e044-0003ba298018",
+					"titel": "Askevænget 16, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4808-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e08-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-4809-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e09-32b8-e044-0003ba298018",
+					"titel": "Askevænget 18, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-480a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e0a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-480b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-5e0b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 20, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-480c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "763efd36-73ad-4819-b68a-7d65c204d8b8",
+					"titel": "Askevænget 21, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-480d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4f8d6cf3-a96e-483a-9b7d-7647dddfee7f",
+					"titel": "Askevænget 22, Thurø, 5700 Svendborg",
+					"husnummerId": "0a3f508a-480e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 4550": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac87-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9db1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac88-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2A, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9db2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac89-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2B, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9db3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac8a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2C, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9db4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac8b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9db5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac8c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4A, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9db6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac8d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4B, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9db7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac8e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9db8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac8f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6A, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9db9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac90-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6B, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac91-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dbb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac92-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8A, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dbc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac93-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8B, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dbd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac94-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dbe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac95-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10A, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dbf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac96-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10B, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac97-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac98-32b8-e044-0003ba298018",
+					"titel": "Askevænget 12, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac99-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac9a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 14, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac9b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac9c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 16, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac9d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac9e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 18, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ac9f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dc9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-aca0-32b8-e044-0003ba298018",
+					"titel": "Askevænget 20, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-aca1-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dcb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-aca2-32b8-e044-0003ba298018",
+					"titel": "Askevænget 22, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dcc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-aca3-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dcd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-aca4-32b8-e044-0003ba298018",
+					"titel": "Askevænget 24, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-aca5-32b8-e044-0003ba298018",
+					"titel": "Askevænget 26, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dcf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-aca6-32b8-e044-0003ba298018",
+					"titel": "Askevænget 28, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dd0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-aca7-32b8-e044-0003ba298018",
+					"titel": "Askevænget 30, 4550 Asnæs",
+					"husnummerId": "0a3f5082-9dd1-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 4800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f13-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf77-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f14-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf78-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f15-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf79-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f16-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf7a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f17-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf7b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f18-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf7c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f19-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf7d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f1a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf7e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f1b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf7f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f1c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf80-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f1d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 12, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf81-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f1e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf82-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f1f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 14, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf83-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f20-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf84-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f21-32b8-e044-0003ba298018",
+					"titel": "Askevænget 16, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf85-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f22-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf86-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f23-32b8-e044-0003ba298018",
+					"titel": "Askevænget 18, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf87-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f24-32b8-e044-0003ba298018",
+					"titel": "Askevænget 20, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf88-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f25-32b8-e044-0003ba298018",
+					"titel": "Askevænget 22, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf89-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f26-32b8-e044-0003ba298018",
+					"titel": "Askevænget 24, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf8a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-1f27-32b8-e044-0003ba298018",
+					"titel": "Askevænget 26, Sdr Vedby, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-bf8b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5592": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-846e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Ejby, 5592 Ejby",
+					"husnummerId": "0a3f5087-fded-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-846f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, Ejby, 5592 Ejby",
+					"husnummerId": "0a3f5087-fdee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-8470-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, Ejby, 5592 Ejby",
+					"husnummerId": "0a3f5087-fdef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-8471-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, Ejby, 5592 Ejby",
+					"husnummerId": "0a3f5087-fdf0-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 4720": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-eb3b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-624e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-eb3c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-624f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-eb3d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-6250-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-eb3e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-6251-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "302ee762-420f-4ee8-99d2-1e96b3736098",
+					"titel": "Askevænget 5, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-6252-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-eb3f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-6253-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4a78ea4c-09c2-6ee8-e044-0003ba298018",
+					"titel": "Askevænget 7, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-6254-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-eb40-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-6255-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-eb41-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-6256-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-eb42-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-6257-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-eb43-32b8-e044-0003ba298018",
+					"titel": "Askevænget 12, Bøged Strand, 4720 Præstø",
+					"husnummerId": "0a3f5086-6258-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5690": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-db37-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, Tommerup St, 5690 Tommerup",
+					"husnummerId": "0a3f508a-b963-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-db38-32b8-e044-0003ba298018",
+					"titel": "Askevænget 2, Tommerup St, 5690 Tommerup",
+					"husnummerId": "0a3f508a-b964-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-db39-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, Tommerup St, 5690 Tommerup",
+					"husnummerId": "0a3f508a-b965-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-db3a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, Tommerup St, 5690 Tommerup",
+					"husnummerId": "0a3f508a-b966-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-db3b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, Tommerup St, 5690 Tommerup",
+					"husnummerId": "0a3f508a-b967-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-db3c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, Tommerup St, 5690 Tommerup",
+					"husnummerId": "0a3f508a-b968-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-db3d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, Tommerup St, 5690 Tommerup",
+					"husnummerId": "0a3f508a-b969-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-db3e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, Tommerup St, 5690 Tommerup",
+					"husnummerId": "0a3f508a-b96a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c4b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 3, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c14e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c4c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 4, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c14f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c4d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c150-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c4e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 6, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c151-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c4f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c152-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c50-32b8-e044-0003ba298018",
+					"titel": "Askevænget 8, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c153-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c51-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c154-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c52-32b8-e044-0003ba298018",
+					"titel": "Askevænget 10, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c155-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c53-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c156-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c54-32b8-e044-0003ba298018",
+					"titel": "Askevænget 12, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c157-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c55-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c158-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-4c56-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c159-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 17, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f57-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3811-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f56-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3811-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f59-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3811-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f58-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3811-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f5b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3811-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f5a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3811-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f5d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3811-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f5c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 17, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3811-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 27, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f7f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 27, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f7e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 27, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f81-32b8-e044-0003ba298018",
+					"titel": "Askevænget 27, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f80-32b8-e044-0003ba298018",
+					"titel": "Askevænget 27, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f83-32b8-e044-0003ba298018",
+					"titel": "Askevænget 27, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f82-32b8-e044-0003ba298018",
+					"titel": "Askevænget 27, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f85-32b8-e044-0003ba298018",
+					"titel": "Askevænget 27, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f84-32b8-e044-0003ba298018",
+					"titel": "Askevænget 27, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3816-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 5, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f25-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3806-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f24-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3806-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f27-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3806-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f26-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3806-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f29-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3806-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f28-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3806-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f2b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3806-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f2a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 5, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3806-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 7, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f2e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3808-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f2d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3808-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f30-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3808-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f2f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3808-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f32-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3808-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f31-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3808-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f34-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3808-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f33-32b8-e044-0003ba298018",
+					"titel": "Askevænget 7, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3808-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 1, 2680 Solrød Strand": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-4eb7-32b8-e044-0003ba298018",
+					"titel": "Askevænget 1, 2680 Solrød Strand",
+					"husnummerId": "0a3f5082-3ed9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2e329313-4a71-445f-b214-a746865710d7",
+					"titel": "Askevænget 1, st., 2680 Solrød Strand",
+					"husnummerId": "0a3f5082-3ed9-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 33, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f97-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f96-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f99-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f98-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f9c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f9a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, 2. mf, 2830 Virum",
+					"husnummerId": "0a3f507d-3819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f9b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f9e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f9d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 33, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3819-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 19, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f5f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f5e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f61-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f60-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f63-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f62-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f65-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f64-32b8-e044-0003ba298018",
+					"titel": "Askevænget 19, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3812-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 15, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f4f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f4e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f51-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f50-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f53-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f52-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f55-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f54-32b8-e044-0003ba298018",
+					"titel": "Askevænget 15, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3810-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 9, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f36-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f35-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f38-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f37-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f3a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f39-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f3c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f3b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 9, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 25, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f77-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f76-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f79-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f78-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f7b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f7a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f7d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f7c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 25, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3815-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 23, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f6f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f6e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f71-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f70-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f73-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f72-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f75-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f74-32b8-e044-0003ba298018",
+					"titel": "Askevænget 23, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3814-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 21, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f67-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3813-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f66-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3813-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f69-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3813-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f68-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3813-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f6b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3813-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f6a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3813-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f6d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3813-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f6c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 21, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3813-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 35, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa0-32b8-e044-0003ba298018",
+					"titel": "Askevænget 35, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f9f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 35, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa2-32b8-e044-0003ba298018",
+					"titel": "Askevænget 35, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa1-32b8-e044-0003ba298018",
+					"titel": "Askevænget 35, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa4-32b8-e044-0003ba298018",
+					"titel": "Askevænget 35, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa3-32b8-e044-0003ba298018",
+					"titel": "Askevænget 35, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa6-32b8-e044-0003ba298018",
+					"titel": "Askevænget 35, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa5-32b8-e044-0003ba298018",
+					"titel": "Askevænget 35, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 31, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f8f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 31, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f8e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 31, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f91-32b8-e044-0003ba298018",
+					"titel": "Askevænget 31, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f90-32b8-e044-0003ba298018",
+					"titel": "Askevænget 31, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f93-32b8-e044-0003ba298018",
+					"titel": "Askevænget 31, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f92-32b8-e044-0003ba298018",
+					"titel": "Askevænget 31, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f95-32b8-e044-0003ba298018",
+					"titel": "Askevænget 31, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f94-32b8-e044-0003ba298018",
+					"titel": "Askevænget 31, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3818-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 11, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f3f-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f3e-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f41-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f40-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f43-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f42-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f45-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f44-32b8-e044-0003ba298018",
+					"titel": "Askevænget 11, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 13, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f47-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f46-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f49-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f48-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f4b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f4a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f4d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-380f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f4c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 13, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-380f-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 47, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fd1-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fcf-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, st. mf, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fd0-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fd3-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fd2-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fd5-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b920cfde-05d0-496f-b8f8-abe17602add5",
+					"titel": "Askevænget 47, 2. mf, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fd4-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fd7-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fd6-32b8-e044-0003ba298018",
+					"titel": "Askevænget 47, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3820-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 37, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa8-32b8-e044-0003ba298018",
+					"titel": "Askevænget 37, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa7-32b8-e044-0003ba298018",
+					"titel": "Askevænget 37, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0faa-32b8-e044-0003ba298018",
+					"titel": "Askevænget 37, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fa9-32b8-e044-0003ba298018",
+					"titel": "Askevænget 37, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fac-32b8-e044-0003ba298018",
+					"titel": "Askevænget 37, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fab-32b8-e044-0003ba298018",
+					"titel": "Askevænget 37, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fae-32b8-e044-0003ba298018",
+					"titel": "Askevænget 37, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fad-32b8-e044-0003ba298018",
+					"titel": "Askevænget 37, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 29, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f87-32b8-e044-0003ba298018",
+					"titel": "Askevænget 29, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f86-32b8-e044-0003ba298018",
+					"titel": "Askevænget 29, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f89-32b8-e044-0003ba298018",
+					"titel": "Askevænget 29, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f88-32b8-e044-0003ba298018",
+					"titel": "Askevænget 29, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f8b-32b8-e044-0003ba298018",
+					"titel": "Askevænget 29, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f8a-32b8-e044-0003ba298018",
+					"titel": "Askevænget 29, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f8d-32b8-e044-0003ba298018",
+					"titel": "Askevænget 29, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-3817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0f8c-32b8-e044-0003ba298018",
+					"titel": "Askevænget 29, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-3817-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 1, Appenæs, 4700 Næstved": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "4f65a83c-ff81-4d9b-ac38-651ea0bbecd4",
+					"titel": "Askevænget 1, Appenæs, 4700 Næstved",
+					"husnummerId": "0a3f5085-f8c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "21eff008-821b-473d-b374-cdca50e1c9d4",
+					"titel": "Askevænget 1, st., Appenæs, 4700 Næstved",
+					"husnummerId": "0a3f5085-f8c4-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 45, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc8-32b8-e044-0003ba298018",
+					"titel": "Askevænget 45, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc7-32b8-e044-0003ba298018",
+					"titel": "Askevænget 45, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fca-32b8-e044-0003ba298018",
+					"titel": "Askevænget 45, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc9-32b8-e044-0003ba298018",
+					"titel": "Askevænget 45, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fcc-32b8-e044-0003ba298018",
+					"titel": "Askevænget 45, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fcb-32b8-e044-0003ba298018",
+					"titel": "Askevænget 45, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fce-32b8-e044-0003ba298018",
+					"titel": "Askevænget 45, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fcd-32b8-e044-0003ba298018",
+					"titel": "Askevænget 45, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381f-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 43, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc0-32b8-e044-0003ba298018",
+					"titel": "Askevænget 43, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fbf-32b8-e044-0003ba298018",
+					"titel": "Askevænget 43, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc2-32b8-e044-0003ba298018",
+					"titel": "Askevænget 43, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc1-32b8-e044-0003ba298018",
+					"titel": "Askevænget 43, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc4-32b8-e044-0003ba298018",
+					"titel": "Askevænget 43, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc3-32b8-e044-0003ba298018",
+					"titel": "Askevænget 43, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc6-32b8-e044-0003ba298018",
+					"titel": "Askevænget 43, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fc5-32b8-e044-0003ba298018",
+					"titel": "Askevænget 43, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 41, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fb8-32b8-e044-0003ba298018",
+					"titel": "Askevænget 41, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fb7-32b8-e044-0003ba298018",
+					"titel": "Askevænget 41, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fba-32b8-e044-0003ba298018",
+					"titel": "Askevænget 41, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fb9-32b8-e044-0003ba298018",
+					"titel": "Askevænget 41, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fbc-32b8-e044-0003ba298018",
+					"titel": "Askevænget 41, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fbb-32b8-e044-0003ba298018",
+					"titel": "Askevænget 41, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fbe-32b8-e044-0003ba298018",
+					"titel": "Askevænget 41, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fbd-32b8-e044-0003ba298018",
+					"titel": "Askevænget 41, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Askevænget 39, 2830 Virum": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "6f6677a3-27bb-45f3-bd0c-29c6e4440edf",
+					"titel": "Askevænget 39, 2830 Virum",
+					"husnummerId": "0a3f507d-381c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fb0-32b8-e044-0003ba298018",
+					"titel": "Askevænget 39, st. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0faf-32b8-e044-0003ba298018",
+					"titel": "Askevænget 39, st. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fb2-32b8-e044-0003ba298018",
+					"titel": "Askevænget 39, 1. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fb1-32b8-e044-0003ba298018",
+					"titel": "Askevænget 39, 1. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "83a8945a-c3ee-496b-946f-69fb795417e0",
+					"titel": "Askevænget 39, 2. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fb3-32b8-e044-0003ba298018",
+					"titel": "Askevænget 39, 2. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fb6-32b8-e044-0003ba298018",
+					"titel": "Askevænget 39, 3. tv, 2830 Virum",
+					"husnummerId": "0a3f507d-381c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a6-0fb5-32b8-e044-0003ba298018",
+					"titel": "Askevænget 39, 3. th, 2830 Virum",
+					"husnummerId": "0a3f507d-381c-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

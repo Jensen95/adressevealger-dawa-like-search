@@ -4,3 +4,4 @@ custom-elements.json
 coverage
 package-lock.json
 *.jsonl
+comparison-data/

@@ -1,0 +1,836 @@
+{
+	"tekst": "Kong Christians Vej 1, 9600 Aars",
+	"dawaId": "0a3f50cb-1f69-32b8-e044-0003ba298018",
+	"recordedAt": "2026-07-09T20:37:20.407Z",
+	"stages": [
+		{
+			"stage": "kong",
+			"dawa": [
+				"Kongensgade 4D, 9293 Kongerslev",
+				"Kongensgade 49B, 9293 Kongerslev",
+				"Kongensgade 51B, 9293 Kongerslev",
+				"Kongstedlundvej 22, 9293 Kongerslev",
+				"Kongensgade 8, 6760 Ribe",
+				"Kongevejen 25, 9370 Hals",
+				"Kongehøj 249, 6600 Vejen",
+				"Kongegade 1A, 5800 Nyborg",
+				"Kongegade 8A, 5800 Nyborg",
+				"Kongeleddet 15, 4970 Rødby"
+			]
+		},
+		{
+			"stage": "kong christians vej",
+			"dawa": [
+				"Kong Christians Vej 1, 9600 Aars",
+				"Kong Christians Vej 2, 9600 Aars",
+				"Kong Christians Vej 3, 9600 Aars",
+				"Kong Christians Vej 4, 9600 Aars",
+				"Kong Christians Vej 5, 9600 Aars",
+				"Kong Christians Vej 6, 9600 Aars",
+				"Kong Christians Vej 7, 9600 Aars",
+				"Kong Christians Vej 8, 9600 Aars",
+				"Kong Christians Vej 9, 9600 Aars",
+				"Kong Christians Vej 10, 9600 Aars"
+			]
+		},
+		{
+			"stage": "kong christians vej 1",
+			"dawa": [
+				"Kong Christians Vej 1, 9600 Aars",
+				"Kong Christians Vej 10, 9600 Aars",
+				"Kong Christians Vej 12, 9600 Aars",
+				"Kong Christians Vej 13, 9600 Aars",
+				"Kong Christians Vej 14, 9600 Aars",
+				"Kong Christians Vej 15, 9600 Aars",
+				"Kong Christians Vej 16, 9600 Aars",
+				"Kong Christians Vej 17, 9600 Aars",
+				"Kong Christians Vej 18, 9600 Aars",
+				"Kong Christians Vej 19, 9600 Aars"
+			]
+		},
+		{
+			"stage": "Kong Christians Vej 1, 9600 Aars",
+			"dawa": [
+				"Kong Christians Vej 1, 9600 Aars"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=kong": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Kong Asgers Vej",
+					"vejNavn": "Kong Asgers Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Chr.D. X s Bro",
+					"vejNavn": "Kong Chr.D. X s Bro"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Christians Alle",
+					"vejNavn": "Kong Christians Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Christians Vej",
+					"vejNavn": "Kong Christians Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Christoffers Vej",
+					"vejNavn": "Kong Christoffers Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Dansvej",
+					"vejNavn": "Kong Dansvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Eriks Have",
+					"vejNavn": "Kong Eriks Have"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Eriks Vej",
+					"vejNavn": "Kong Eriks Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Frederiks Vej",
+					"vejNavn": "Kong Frederiks Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Georgs Vej",
+					"vejNavn": "Kong Georgs Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Georgsvej",
+					"vejNavn": "Kong Georgsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Gorms Vej",
+					"vejNavn": "Kong Gorms Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Gustafsvej",
+					"vejNavn": "Kong Gustafsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Hans Alle",
+					"vejNavn": "Kong Hans Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Hans Gade",
+					"vejNavn": "Kong Hans Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Hans Vej",
+					"vejNavn": "Kong Hans Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Haralds Park",
+					"vejNavn": "Kong Haralds Park"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Haralds Vej",
+					"vejNavn": "Kong Haralds Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Helges Vej",
+					"vejNavn": "Kong Helges Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Knaps Vej",
+					"vejNavn": "Kong Knaps Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Knuds Park",
+					"vejNavn": "Kong Knuds Park"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Knuds Vej",
+					"vejNavn": "Kong Knuds Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Kristoffersvej",
+					"vejNavn": "Kong Kristoffersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Magnus Vej",
+					"vejNavn": "Kong Magnus Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Minos Vej",
+					"vejNavn": "Kong Minos Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Olafs Vej",
+					"vejNavn": "Kong Olafs Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Oscars Gade",
+					"vejNavn": "Kong Oscars Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Roars Vej",
+					"vejNavn": "Kong Roars Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Sigfreds Vej",
+					"vejNavn": "Kong Sigfreds Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Skjoldsvej",
+					"vejNavn": "Kong Skjoldsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Svends Plads",
+					"vejNavn": "Kong Svends Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Svends Vej",
+					"vejNavn": "Kong Svends Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Svends Vænge",
+					"vejNavn": "Kong Svends Vænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Valdemars Vej",
+					"vejNavn": "Kong Valdemars Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Volmers Vej",
+					"vejNavn": "Kong Volmers Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kong Volmersvej",
+					"vejNavn": "Kong Volmersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Konge-Åsen",
+					"vejNavn": "Konge-Åsen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongebakken",
+					"vejNavn": "Kongebakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongeballevej",
+					"vejNavn": "Kongeballevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongebregnen",
+					"vejNavn": "Kongebregnen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongebrocentret",
+					"vejNavn": "Kongebrocentret"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongebroen",
+					"vejNavn": "Kongebroen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongebrogade",
+					"vejNavn": "Kongebrogade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongebrovej",
+					"vejNavn": "Kongebrovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongedalen",
+					"vejNavn": "Kongedalen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongedammen",
+					"vejNavn": "Kongedammen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongedybet",
+					"vejNavn": "Kongedybet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongedybs Allé",
+					"vejNavn": "Kongedybs Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongefolden",
+					"vejNavn": "Kongefolden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongegade",
+					"vejNavn": "Kongegade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongegangen",
+					"vejNavn": "Kongegangen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongehaven",
+					"vejNavn": "Kongehaven"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongehusvej",
+					"vejNavn": "Kongehusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongehøj",
+					"vejNavn": "Kongehøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongehøjen",
+					"vejNavn": "Kongehøjen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongehøjvej",
+					"vejNavn": "Kongehøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongeleddet",
+					"vejNavn": "Kongeleddet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongeledet",
+					"vejNavn": "Kongeledet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongelunden",
+					"vejNavn": "Kongelunden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongelunden Vest",
+					"vejNavn": "Kongelunden Vest"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongelundens Tværvej",
+					"vejNavn": "Kongelundens Tværvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongelundsvej",
+					"vejNavn": "Kongelundsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongelys",
+					"vejNavn": "Kongelys"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongelysdalen",
+					"vejNavn": "Kongelysdalen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongelyset",
+					"vejNavn": "Kongelyset"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongelysgangen",
+					"vejNavn": "Kongelysgangen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongelysvej",
+					"vejNavn": "Kongelysvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongeløkken",
+					"vejNavn": "Kongeløkken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongemarken",
+					"vejNavn": "Kongemarken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongemarksvej",
+					"vejNavn": "Kongemarksvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongemindevejen",
+					"vejNavn": "Kongemindevejen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongemosen",
+					"vejNavn": "Kongemosen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongemosevej",
+					"vejNavn": "Kongemosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongemøllevej",
+					"vejNavn": "Kongemøllevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Borer",
+					"vejNavn": "Kongens Borer"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Ege",
+					"vejNavn": "Kongens Ege"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Enge",
+					"vejNavn": "Kongens Enge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Have",
+					"vejNavn": "Kongens Have"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Kvarter",
+					"vejNavn": "Kongens Kvarter"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Kær",
+					"vejNavn": "Kongens Kær"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Møllevej",
+					"vejNavn": "Kongens Møllevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Nytorv",
+					"vejNavn": "Kongens Nytorv"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Port",
+					"vejNavn": "Kongens Port"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Tværvej",
+					"vejNavn": "Kongens Tværvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongens Vænge",
+					"vejNavn": "Kongens Vænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongensbrovej",
+					"vejNavn": "Kongensbrovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongensgade",
+					"vejNavn": "Kongensgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongensgavevej",
+					"vejNavn": "Kongensgavevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongensgavevænget",
+					"vejNavn": "Kongensgavevænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongensgårdparken",
+					"vejNavn": "Kongensgårdparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongensgårdsvej",
+					"vejNavn": "Kongensgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongenshusvej",
+					"vejNavn": "Kongenshusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongenshøj",
+					"vejNavn": "Kongenshøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongenshøjvej",
+					"vejNavn": "Kongenshøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongensmark",
+					"vejNavn": "Kongensmark"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongensstræde",
+					"vejNavn": "Kongensstræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongenstoft",
+					"vejNavn": "Kongenstoft"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongenstofte",
+					"vejNavn": "Kongenstofte"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongensvej",
+					"vejNavn": "Kongensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Kongeparken",
+					"vejNavn": "Kongeparken"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=kong christians vej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f69-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 1, 9600 Aars",
+					"husnummerId": "0a3f509c-fa2f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f6a-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 2, 9600 Aars",
+					"husnummerId": "0a3f509c-fa30-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f6b-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 3, 9600 Aars",
+					"husnummerId": "0a3f509c-fa31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f6c-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 4, 9600 Aars",
+					"husnummerId": "0a3f509c-fa32-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f6d-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 5, 9600 Aars",
+					"husnummerId": "0a3f509c-fa33-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f6e-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 6, 9600 Aars",
+					"husnummerId": "0a3f509c-fa34-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f6f-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 7, 9600 Aars",
+					"husnummerId": "0a3f509c-fa35-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f70-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 8, 9600 Aars",
+					"husnummerId": "0a3f509c-fa36-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f71-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 9, 9600 Aars",
+					"husnummerId": "0a3f509c-fa37-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f72-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 10, 9600 Aars",
+					"husnummerId": "0a3f509c-fa38-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f73-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 12, 9600 Aars",
+					"husnummerId": "0a3f509c-fa39-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f74-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 13, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f75-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 14, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f76-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 15, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f77-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 16, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f78-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 17, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f79-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 18, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f7a-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 19, 9600 Aars",
+					"husnummerId": "0a3f509c-fa40-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f7b-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 20, 9600 Aars",
+					"husnummerId": "0a3f509c-fa41-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f7c-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 21, 9600 Aars",
+					"husnummerId": "0a3f509c-fa42-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f7d-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 22, 9600 Aars",
+					"husnummerId": "0a3f509c-fa43-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f7e-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 23, 9600 Aars",
+					"husnummerId": "0a3f509c-fa44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f7f-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 25, 9600 Aars",
+					"husnummerId": "0a3f509c-fa45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f80-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 27, 9600 Aars",
+					"husnummerId": "0a3f509c-fa46-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f81-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 29, 9600 Aars",
+					"husnummerId": "0a3f509c-fa47-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f82-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 31, 9600 Aars",
+					"husnummerId": "0a3f509c-fa48-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f83-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 33, 9600 Aars",
+					"husnummerId": "0a3f509c-fa49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f84-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 35, 9600 Aars",
+					"husnummerId": "0a3f509c-fa4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f85-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 37, 9600 Aars",
+					"husnummerId": "0a3f509c-fa4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f86-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 39, 9600 Aars",
+					"husnummerId": "0a3f509c-fa4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f87-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 41, 9600 Aars",
+					"husnummerId": "0a3f509c-fa4d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=kong christians vej 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f69-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 1, 9600 Aars",
+					"husnummerId": "0a3f509c-fa2f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f72-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 10, 9600 Aars",
+					"husnummerId": "0a3f509c-fa38-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f73-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 12, 9600 Aars",
+					"husnummerId": "0a3f509c-fa39-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f74-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 13, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f75-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 14, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f76-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 15, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f77-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 16, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f78-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 17, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f79-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 18, 9600 Aars",
+					"husnummerId": "0a3f509c-fa3f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f7a-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 19, 9600 Aars",
+					"husnummerId": "0a3f509c-fa40-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Kong Christians Vej 1, 9600 Aars": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1f69-32b8-e044-0003ba298018",
+					"titel": "Kong Christians Vej 1, 9600 Aars",
+					"husnummerId": "0a3f509c-fa2f-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

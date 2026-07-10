@@ -1,0 +1,591 @@
+{
+	"tekst": "Højbro Plads 2B, kl. th, 1200 København K",
+	"dawaId": "0a3f509e-dc5f-32b8-e044-0003ba298018",
+	"recordedAt": "2026-07-09T20:37:26.800Z",
+	"stages": [
+		{
+			"stage": "højb",
+			"dawa": [
+				"Højbygårdsvej 5, 4573 Højby",
+				"Højbyvej 39B, Højby, 4320 Lejre",
+				"Højbyvej 49B, Højby, 4320 Lejre",
+				"Højbjergvej 12, Højbjerg, 7830 Vinderup",
+				"Højby Hovedgade 67A, 4573 Højby",
+				"Højbuen 1, 2730 Herlev",
+				"Højbovej 2, 2500 Valby",
+				"Højbuen 2, 2730 Herlev",
+				"Højbuen 3, 2730 Herlev",
+				"Højbuen 4, 2730 Herlev"
+			]
+		},
+		{
+			"stage": "højbro plads",
+			"dawa": [
+				"Højbro Plads 3, 1200 København K",
+				"Højbro Plads 4, 1200 København K",
+				"Højbro Plads 5, 1200 København K",
+				"Højbro Plads 6, 1200 København K",
+				"Højbro Plads 7, 1200 København K",
+				"Højbro Plads 8, 1200 København K",
+				"Højbro Plads 9, 1200 København K",
+				"Højbro Plads 3B, 1200 København K",
+				"Højbro Plads 5A, 1200 København K",
+				"Højbro Plads 7A, 1200 København K"
+			]
+		},
+		{
+			"stage": "højbro plads 2",
+			"dawa": [
+				"Højbro Plads 2B, 2., 1200 København K",
+				"Højbro Plads 2C, 2., 1200 København K",
+				"Højbro Plads 21, 2., 1200 København K",
+				"Højbro Plads 21A, 2., 1200 København K",
+				"Højbro Plads 21B, 2., 1200 København K",
+				"Højbro Plads 21, 2. th, 1200 København K",
+				"Højbro Plads 21, 2. tv, 1200 København K",
+				"Højbro Plads 21A, 2. th, 1200 København K",
+				"Højbro Plads 21A, 2. tv, 1200 København K",
+				"Højbro Plads 21, 1200 København K"
+			]
+		},
+		{
+			"stage": "højbro plads 2b",
+			"dawa": [
+				"Højbro Plads 2B, 1., 1200 København K",
+				"Højbro Plads 2B, 2., 1200 København K",
+				"Højbro Plads 2B, 3., 1200 København K",
+				"Højbro Plads 2B, st., 1200 København K",
+				"Højbro Plads 2B, kl. th, 1200 København K"
+			]
+		},
+		{
+			"stage": "højbro plads 2b kl",
+			"dawa": [
+				"Højbro Plads 2B, kl. th, 1200 København K"
+			]
+		},
+		{
+			"stage": "højbro plads 2b kl th",
+			"dawa": [
+				"Højbro Plads 2B, kl. th, 1200 København K"
+			]
+		},
+		{
+			"stage": "Højbro Plads 2B, kl. th, 1200 København K",
+			"dawa": [
+				"Højbro Plads 2B, kl. th, 1200 København K"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=højb": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Højbakgårdsvej",
+					"vejNavn": "Højbakgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbakkegård Alle",
+					"vejNavn": "Højbakkegård Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbakken",
+					"vejNavn": "Højbakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbakkestræde",
+					"vejNavn": "Højbakkestræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbakkevej",
+					"vejNavn": "Højbakkevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højballevej",
+					"vejNavn": "Højballevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbanetorvet",
+					"vejNavn": "Højbanetorvet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjerg Byvej",
+					"vejNavn": "Højbjerg Byvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjerg Huse",
+					"vejNavn": "Højbjerg Huse"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjerg Møllevej",
+					"vejNavn": "Højbjerg Møllevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjerg Vang",
+					"vejNavn": "Højbjerg Vang"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjerg Vænge",
+					"vejNavn": "Højbjerg Vænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjerggårdsvej",
+					"vejNavn": "Højbjerggårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjergparken",
+					"vejNavn": "Højbjergparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjergsvej",
+					"vejNavn": "Højbjergsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjergvej",
+					"vejNavn": "Højbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbjærgvej",
+					"vejNavn": "Højbjærgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbo",
+					"vejNavn": "Højbo"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbo Tværvej",
+					"vejNavn": "Højbo Tværvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbodalvej",
+					"vejNavn": "Højbodalvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbogård",
+					"vejNavn": "Højbogård"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbogårdsvej",
+					"vejNavn": "Højbogårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbohusvej",
+					"vejNavn": "Højbohusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbolund",
+					"vejNavn": "Højbolund"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højborgvej",
+					"vejNavn": "Højborgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbovangen",
+					"vejNavn": "Højbovangen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbovej",
+					"vejNavn": "Højbovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbovænge",
+					"vejNavn": "Højbovænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbovænget",
+					"vejNavn": "Højbovænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbro",
+					"vejNavn": "Højbro"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbro Plads",
+					"vejNavn": "Højbro Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbro Åvej",
+					"vejNavn": "Højbro Åvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbrogade",
+					"vejNavn": "Højbrogade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbrovej",
+					"vejNavn": "Højbrovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbuen",
+					"vejNavn": "Højbuen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højby Allé",
+					"vejNavn": "Højby Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højby Hovedgade",
+					"vejNavn": "Højby Hovedgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højby Kærvej",
+					"vejNavn": "Højby Kærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højby Lyngvej",
+					"vejNavn": "Højby Lyngvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højby Rosenvej",
+					"vejNavn": "Højby Rosenvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højby Skovvej",
+					"vejNavn": "Højby Skovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højby Stationsvej",
+					"vejNavn": "Højby Stationsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbygaardhuse",
+					"vejNavn": "Højbygaardhuse"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbygårdsvej",
+					"vejNavn": "Højbygårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbygårdvej",
+					"vejNavn": "Højbygårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbyhus",
+					"vejNavn": "Højbyhus"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højbyvej",
+					"vejNavn": "Højbyvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Højparken",
+					"vejNavn": "Højparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Høybergvej",
+					"vejNavn": "Høybergvej"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=højbro plads": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9614-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 2B, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "2B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9615-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 2C, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "2C"
+				},
+				{
+					"type": "husnummer",
+					"id": "37351fd3-d4b9-61ef-e044-0003ba298018",
+					"titel": "Højbro Plads 3, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "37351fd3-d4ba-61ef-e044-0003ba298018",
+					"titel": "Højbro Plads 3B, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "3B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9617-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 4, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "6b0db63f-2db5-4654-a4c0-4f42abbe46f4",
+					"titel": "Højbro Plads 4A, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "4A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9618-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 5, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9619-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 6, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-961a-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 7, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-961b-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 8, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-961c-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 9, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-961d-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 10, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "47401d73-d0ce-4040-826f-297ed823d7c2",
+					"titel": "Højbro Plads 11, 1200 København K",
+					"husnummerId": "0a3f507a-961e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-961f-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 13, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9620-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 15, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9621-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 17, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9622-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 19, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9623-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 21, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9624-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 21A, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "21A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9625-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 21B, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "21B"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=højbro plads 2": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9614-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 2B, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "2B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9615-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 2C, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "2C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9623-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 21, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9624-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 21A, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "21A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-9625-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 21B, 1200 København K",
+					"vejnavn": "Højbro Plads",
+					"husnummer": "21B"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=højbro plads 2b": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f509e-dc5f-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 2B, kl. th, 1200 København K",
+					"husnummerId": "0a3f507a-9614-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c60f133c-0a55-485c-a525-23da28c63ec4",
+					"titel": "Højbro Plads 2B, st., 1200 København K",
+					"husnummerId": "0a3f507a-9614-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5696740d-b6ea-4321-bb67-4cc8531adeff",
+					"titel": "Højbro Plads 2B, 1., 1200 København K",
+					"husnummerId": "0a3f507a-9614-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d90be9aa-d736-45d8-b81e-66b0de7424bd",
+					"titel": "Højbro Plads 2B, 2., 1200 København K",
+					"husnummerId": "0a3f507a-9614-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b03125e7-f238-46e3-ac68-833815af6d9e",
+					"titel": "Højbro Plads 2B, 3., 1200 København K",
+					"husnummerId": "0a3f507a-9614-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=højbro plads 2b kl": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f509e-dc5f-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 2B, kl. th, 1200 København K",
+					"husnummerId": "0a3f507a-9614-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=højbro plads 2b kl th": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f509e-dc5f-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 2B, kl. th, 1200 København K",
+					"husnummerId": "0a3f507a-9614-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Højbro Plads 2B, kl. th, 1200 København K": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f509e-dc5f-32b8-e044-0003ba298018",
+					"titel": "Højbro Plads 2B, kl. th, 1200 København K",
+					"husnummerId": "0a3f507a-9614-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

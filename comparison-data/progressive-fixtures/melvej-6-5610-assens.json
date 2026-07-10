@@ -1,0 +1,640 @@
+{
+	"tekst": "Melvej 6, 5610 Assens",
+	"dawaId": "000059b7-1fe6-4ed2-8386-d9578b2a8859",
+	"recordedAt": "2026-07-09T20:34:33.377Z",
+	"stages": [
+		{
+			"stage": "melv",
+			"dawa": [
+				"Melvej 1, 9990 Skagen",
+				"Melvej 1, 5610 Assens",
+				"Melvej 2, 5610 Assens",
+				"Melvej 3, 9990 Skagen",
+				"Melvej 3, 5610 Assens",
+				"Melvej 4, 9990 Skagen",
+				"Melvej 4, 5610 Assens",
+				"Melvej 5, 5610 Assens",
+				"Melvej 6, 5610 Assens",
+				"Melvej 8, 5610 Assens"
+			]
+		},
+		{
+			"stage": "melvej",
+			"dawa": [
+				"Melvej 1, 9990 Skagen",
+				"Melvej 1, 5610 Assens",
+				"Melvej 2, 5610 Assens",
+				"Melvej 3, 9990 Skagen",
+				"Melvej 3, 5610 Assens",
+				"Melvej 4, 9990 Skagen",
+				"Melvej 4, 5610 Assens",
+				"Melvej 5, 5610 Assens",
+				"Melvej 6, 5610 Assens",
+				"Melvej 8, 5610 Assens"
+			]
+		},
+		{
+			"stage": "melvej 6",
+			"dawa": [
+				"Melvej 6, 5610 Assens"
+			]
+		},
+		{
+			"stage": "Melvej 6, 5610 Assens",
+			"dawa": [
+				"Melvej 6, 5610 Assens"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=melv": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "a6a50095-598a-44da-8fe6-ff5b211531d5",
+					"type": "navngivenvejpostnummer",
+					"titel": "Melvadvej 9320 Hjallerup",
+					"vejnavn": "Melvadvej",
+					"postnr": "9320",
+					"postdistrikt": "Hjallerup",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "c29c0e8e-fac9-49f5-88c5-c9a40c9d20e3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Melvang 6520 Toftlund",
+					"vejnavn": "Melvang",
+					"postnr": "6520",
+					"postdistrikt": "Toftlund",
+					"antal_husnumre": 22
+				},
+				{
+					"id": "ec244f5a-c931-4dd8-a395-d2b2cdd5b84e",
+					"type": "navngivenvejpostnummer",
+					"titel": "Melvangvej 6600 Vejen",
+					"vejnavn": "Melvangvej",
+					"postnr": "6600",
+					"postdistrikt": "Vejen",
+					"antal_husnumre": 16
+				},
+				{
+					"id": "53af414b-65c1-4d91-a30a-800cd29a9333",
+					"type": "navngivenvejpostnummer",
+					"titel": "Melvej 5610 Assens",
+					"vejnavn": "Melvej",
+					"postnr": "5610",
+					"postdistrikt": "Assens",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "549e7708-78ad-48d1-9d5d-b52fd42a8a2f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Melvej 9990 Skagen",
+					"vejnavn": "Melvej",
+					"postnr": "9990",
+					"postdistrikt": "Skagen",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "4fd93bd1-ff4d-4df6-8ff1-e8a061624bc8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Melvillevej 2900 Hellerup",
+					"vejnavn": "Melvillevej",
+					"postnr": "2900",
+					"postdistrikt": "Hellerup",
+					"antal_husnumre": 14
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Melvej 5610": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "8f38a563-6830-403d-a979-31bc15940674",
+					"titel": "Melvej 1, 5610 Assens",
+					"husnummerId": "78bd622d-d860-65f4-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "afa387cd-e99c-42b2-a26a-509fe3f2c32c",
+					"titel": "Melvej 1A, 5610 Assens",
+					"husnummerId": "78bd622d-d861-65f4-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "48ad2fdb-5522-4ce0-8abc-25dd788f6aef",
+					"titel": "Melvej 2, 5610 Assens",
+					"husnummerId": "0a3f5087-c636-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7668268d-d52b-4731-a069-83c5b6c81e22",
+					"titel": "Melvej 3, 5610 Assens",
+					"husnummerId": "53279ace-c6ef-1b90-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2a77c5f6-d3b4-4c9c-a6df-6d45ba32d8fb",
+					"titel": "Melvej 4, 5610 Assens",
+					"husnummerId": "0a3f5087-c637-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5338c3f8-b22a-00e2-e044-0003ba298018",
+					"titel": "Melvej 5, 5610 Assens",
+					"husnummerId": "53279ace-c6f0-1b90-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "000059b7-1fe6-4ed2-8386-d9578b2a8859",
+					"titel": "Melvej 6, 5610 Assens",
+					"husnummerId": "0a3f5087-c638-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7991e175-a0a1-47f0-9137-5cca535d2c1a",
+					"titel": "Melvej 8, 5610 Assens",
+					"husnummerId": "0a3f5087-c639-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7686c94a-1788-07bb-e044-00144f3ead67",
+					"titel": "Melvej 10, 5610 Assens",
+					"husnummerId": "0a3f5087-c63a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Melvej 9990": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "17b3c4c1-f030-4911-8b07-3403c843aa0d",
+					"titel": "Melvej 1, 9990 Skagen",
+					"husnummerId": "0a3f509b-937b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4d824f71-f0f8-498a-9dab-6c1a7e2cabc1",
+					"titel": "Melvej 3, 9990 Skagen",
+					"husnummerId": "0a3f509b-937c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509b-937d-32b8-e044-0003ba298018",
+					"titel": "Melvej 4, 9990 Skagen",
+					"vejnavn": "Melvej",
+					"husnummer": "4"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Melvang 6520": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-32ff-32b8-e044-0003ba298018",
+					"titel": "Melvang 1, 6520 Toftlund",
+					"husnummerId": "0a3f508b-fea6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3300-32b8-e044-0003ba298018",
+					"titel": "Melvang 1A, 6520 Toftlund",
+					"husnummerId": "0a3f508b-fea7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3301-32b8-e044-0003ba298018",
+					"titel": "Melvang 2A, 6520 Toftlund",
+					"husnummerId": "0a3f508b-fea8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5c21c373-8d76-4f38-be0e-b654269edd8e",
+					"titel": "Melvang 2B, 6520 Toftlund",
+					"husnummerId": "ffdc806a-8d7e-46ef-8999-db375b937c95"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3302-32b8-e044-0003ba298018",
+					"titel": "Melvang 2C, 6520 Toftlund",
+					"husnummerId": "0a3f508b-fea9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3303-32b8-e044-0003ba298018",
+					"titel": "Melvang 3, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feaa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4884f738-945f-43dd-a44a-b11ff76d0f0a",
+					"titel": "Melvang 3A, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9e335a9b-18bd-455e-8047-f3a321449600",
+					"titel": "Melvang 3C, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3304-32b8-e044-0003ba298018",
+					"titel": "Melvang 4, 6520 Toftlund",
+					"husnummerId": "0a3f508b-fead-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "956fffd3-fb89-4558-9af2-e14216d7de99",
+					"titel": "Melvang 5, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3305-32b8-e044-0003ba298018",
+					"titel": "Melvang 6, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feaf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3306-32b8-e044-0003ba298018",
+					"titel": "Melvang 8, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feb1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "969190b6-de75-43b9-bd2e-e0bfb83e1184",
+					"titel": "Melvang 9, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feb2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3307-32b8-e044-0003ba298018",
+					"titel": "Melvang 10A, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feb4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3308-32b8-e044-0003ba298018",
+					"titel": "Melvang 10B, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feb5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "af07e02c-91d0-485b-a865-8815ec63b562",
+					"titel": "Melvang 10C, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feb6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d878bbe0-eb99-4bce-8d21-4d8d45c0a95d",
+					"titel": "Melvang 11, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feb7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3309-32b8-e044-0003ba298018",
+					"titel": "Melvang 12, 6520 Toftlund",
+					"husnummerId": "0a3f508b-feb8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "11f17ae3-be84-0668-e044-0003ba298018",
+					"titel": "Melvang 16A, 6520 Toftlund",
+					"husnummerId": "11db2423-4945-5796-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "11f17ae3-be85-0668-e044-0003ba298018",
+					"titel": "Melvang 16B, 6520 Toftlund",
+					"husnummerId": "11db2423-4946-5796-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "11f17ae3-be86-0668-e044-0003ba298018",
+					"titel": "Melvang 16C, 6520 Toftlund",
+					"husnummerId": "11db2423-4947-5796-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "11f17ae3-be87-0668-e044-0003ba298018",
+					"titel": "Melvang 16D, 6520 Toftlund",
+					"husnummerId": "11db2423-4948-5796-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Melvadvej 9320": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1053-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 1, Thorup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6daa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1054-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 2, Thorup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6dab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1055-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 3, Thorup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6dac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1056-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 5, Thorup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6dad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1057-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 7, Thorup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6dae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1058-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 8, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6daf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1059-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 9, Thorup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6db0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-105a-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 10, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6db1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-105b-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 12, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6db2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-105c-32b8-e044-0003ba298018",
+					"titel": "Melvadvej 14, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-6db3-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Melvangvej 6600": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1900-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 1, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84e9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1901-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 2, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84ea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1902-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 3, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84eb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1903-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 4, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84ec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1904-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 6, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1905-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 7, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84ee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1906-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 8, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84ef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1907-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 9, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84f0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1908-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 10, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84f1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-1909-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 11, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84f2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-190a-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 12, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84f3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-190b-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 13, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84f4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-190c-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 14, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84f5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-190d-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 16, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84f6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-190e-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 20, Askov, 6600 Vejen",
+					"husnummerId": "0a3f508e-84f7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-190f-32b8-e044-0003ba298018",
+					"titel": "Melvangvej 22, 6600 Vejen",
+					"husnummerId": "0a3f508e-84f8-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Melvillevej 2900": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e460-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 1, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f286-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e461-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 3, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f287-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e462-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 4, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f288-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e463-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 5, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f289-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e464-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 6, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f28a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e465-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 7, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f28b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e466-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 8, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f28c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e467-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 9, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f28d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e468-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 13, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f28e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e469-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 14, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f28f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e46a-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 15, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f290-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e46b-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 16, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f291-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e46c-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 18, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f292-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-e46d-32b8-e044-0003ba298018",
+					"titel": "Melvillevej 20, 2900 Hellerup",
+					"husnummerId": "0a3f507b-f293-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=melvej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "53af414b-65c1-4d91-a30a-800cd29a9333",
+					"type": "navngivenvejpostnummer",
+					"titel": "Melvej 5610 Assens",
+					"vejnavn": "Melvej",
+					"postnr": "5610",
+					"postdistrikt": "Assens",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "549e7708-78ad-48d1-9d5d-b52fd42a8a2f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Melvej 9990 Skagen",
+					"vejnavn": "Melvej",
+					"postnr": "9990",
+					"postdistrikt": "Skagen",
+					"antal_husnumre": 3
+				}
+			]
+		},
+		"/adresser/soeg?tekst=melvej 6": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "000059b7-1fe6-4ed2-8386-d9578b2a8859",
+					"titel": "Melvej 6, 5610 Assens",
+					"husnummerId": "0a3f5087-c638-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Melvej 6, 5610 Assens": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "000059b7-1fe6-4ed2-8386-d9578b2a8859",
+					"titel": "Melvej 6, 5610 Assens",
+					"husnummerId": "0a3f5087-c638-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

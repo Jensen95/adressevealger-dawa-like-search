@@ -1,0 +1,5361 @@
+{
+	"tekst": "Mirabellehegnet 59, 8700 Horsens",
+	"dawaId": "0000aaf0-826f-4458-b26f-4317ad2a4979",
+	"recordedAt": "2026-07-09T20:34:45.448Z",
+	"stages": [
+		{
+			"stage": "mira",
+			"dawa": [
+				"Miravej 1, 7100 Vejle",
+				"Miravej 2, 7100 Vejle",
+				"Miravej 3, 7100 Vejle",
+				"Miravej 4, 7100 Vejle",
+				"Miravej 5, 7100 Vejle",
+				"Miravej 6, 7100 Vejle",
+				"Miravej 7, 7100 Vejle",
+				"Miravej 8, 7100 Vejle",
+				"Miravej 9, 7100 Vejle",
+				"Miravej 3A, 7100 Vejle"
+			]
+		},
+		{
+			"stage": "mirabellehegnet",
+			"dawa": [
+				"Mirabellehegnet 1, 8700 Horsens",
+				"Mirabellehegnet 2, 8700 Horsens",
+				"Mirabellehegnet 3, 8700 Horsens",
+				"Mirabellehegnet 4, 8700 Horsens",
+				"Mirabellehegnet 5, 8700 Horsens",
+				"Mirabellehegnet 6, 8700 Horsens",
+				"Mirabellehegnet 7, 8700 Horsens",
+				"Mirabellehegnet 8, 8700 Horsens",
+				"Mirabellehegnet 9, 8700 Horsens",
+				"Mirabellehegnet 10, 8700 Horsens"
+			]
+		},
+		{
+			"stage": "mirabellehegnet 5",
+			"dawa": [
+				"Mirabellehegnet 5, 8700 Horsens",
+				"Mirabellehegnet 50, 8700 Horsens",
+				"Mirabellehegnet 51, 8700 Horsens",
+				"Mirabellehegnet 52, 8700 Horsens",
+				"Mirabellehegnet 53, 8700 Horsens",
+				"Mirabellehegnet 54, 8700 Horsens",
+				"Mirabellehegnet 55, 8700 Horsens",
+				"Mirabellehegnet 56, 8700 Horsens",
+				"Mirabellehegnet 57, 8700 Horsens",
+				"Mirabellehegnet 58, 8700 Horsens"
+			]
+		},
+		{
+			"stage": "mirabellehegnet 59",
+			"dawa": [
+				"Mirabellehegnet 59, 8700 Horsens"
+			]
+		},
+		{
+			"stage": "Mirabellehegnet 59, 8700 Horsens",
+			"dawa": [
+				"Mirabellehegnet 59, 8700 Horsens"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=mira": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "e9b1635c-468b-40d4-b6e9-355a2229ff6a",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mira Mare 5700 Svendborg",
+					"vejnavn": "Mira Mare",
+					"postnr": "5700",
+					"postdistrikt": "Svendborg",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "e5007a3f-3335-4ba7-a100-bc96fb902621",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellegrenen 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"postnr": "5500",
+					"postdistrikt": "Middelfart",
+					"antal_husnumre": 76
+				},
+				{
+					"id": "a7b50b98-8173-4fc8-8e15-c7f0920f8ba8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellehegnet 6440 Augustenborg",
+					"vejnavn": "Mirabellehegnet",
+					"postnr": "6440",
+					"postdistrikt": "Augustenborg",
+					"antal_husnumre": 2
+				},
+				{
+					"id": "2afb7bb3-6699-4ddb-aebf-7547050c7034",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellehegnet 8700 Horsens",
+					"vejnavn": "Mirabellehegnet",
+					"postnr": "8700",
+					"postdistrikt": "Horsens",
+					"antal_husnumre": 67
+				},
+				{
+					"id": "ab73a03e-b502-4ce3-99e9-4de4759f9469",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellestien 2750 Ballerup",
+					"vejnavn": "Mirabellestien",
+					"postnr": "2750",
+					"postdistrikt": "Ballerup",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "61b167e0-7961-4af0-afaa-3c23aa862c21",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellestien 3390 Hundested",
+					"vejnavn": "Mirabellestien",
+					"postnr": "3390",
+					"postdistrikt": "Hundested",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "a5c3fea9-f6b9-4b4a-befa-c8ef59d1d618",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellestrædet 4050 Skibby",
+					"vejnavn": "Mirabellestrædet",
+					"postnr": "4050",
+					"postdistrikt": "Skibby",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "08f1e262-6ed3-4300-a2ff-bc6c7826b9a4",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 2400 København NV",
+					"vejnavn": "Mirabellevej",
+					"postnr": "2400",
+					"postdistrikt": "København NV",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "cd2a63e4-8441-4557-b844-aadb246524fa",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 2635 Ishøj",
+					"vejnavn": "Mirabellevej",
+					"postnr": "2635",
+					"postdistrikt": "Ishøj",
+					"antal_husnumre": 43
+				},
+				{
+					"id": "2026ebd6-5621-4bcc-89a1-0ca6a6827a65",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 3630 Jægerspris",
+					"vejnavn": "Mirabellevej",
+					"postnr": "3630",
+					"postdistrikt": "Jægerspris",
+					"antal_husnumre": 17
+				},
+				{
+					"id": "5a3e1e2d-cef0-48f0-8f00-c4041a98dcee",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 4070 Kirke Hyllinge",
+					"vejnavn": "Mirabellevej",
+					"postnr": "4070",
+					"postdistrikt": "Kirke Hyllinge",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "16a7a3ca-544b-4d0e-a3b6-22a224679cb7",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 4300 Holbæk",
+					"vejnavn": "Mirabellevej",
+					"postnr": "4300",
+					"postdistrikt": "Holbæk",
+					"antal_husnumre": 16
+				},
+				{
+					"id": "aaa82d02-e3b3-4036-b82d-139d286e41c3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 4540 Fårevejle",
+					"vejnavn": "Mirabellevej",
+					"postnr": "4540",
+					"postdistrikt": "Fårevejle",
+					"antal_husnumre": 2
+				},
+				{
+					"id": "a093ce5b-d971-4a25-b8ae-7284ab02334a",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 4573 Højby",
+					"vejnavn": "Mirabellevej",
+					"postnr": "4573",
+					"postdistrikt": "Højby",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "6f1248dc-84c1-4736-9073-91878deb0bf1",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 4681 Herfølge",
+					"vejnavn": "Mirabellevej",
+					"postnr": "4681",
+					"postdistrikt": "Herfølge",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "bbd85245-5f7a-439a-9f10-dbd2c05d9ca7",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 4690 Haslev",
+					"vejnavn": "Mirabellevej",
+					"postnr": "4690",
+					"postdistrikt": "Haslev",
+					"antal_husnumre": 18
+				},
+				{
+					"id": "ab885b31-adfa-40b0-b65b-0c10e285d411",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 4760 Vordingborg",
+					"vejnavn": "Mirabellevej",
+					"postnr": "4760",
+					"postdistrikt": "Vordingborg",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "1bad145a-fea7-4634-a7a8-9eb6fe805865",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 5700 Svendborg",
+					"vejnavn": "Mirabellevej",
+					"postnr": "5700",
+					"postdistrikt": "Svendborg",
+					"antal_husnumre": 12
+				},
+				{
+					"id": "989d840b-9830-458a-a434-3c4f5f0ec6db",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 6000 Kolding",
+					"vejnavn": "Mirabellevej",
+					"postnr": "6000",
+					"postdistrikt": "Kolding",
+					"antal_husnumre": 39
+				},
+				{
+					"id": "f4a99cc9-a312-49a5-af60-aaa758437333",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 6500 Vojens",
+					"vejnavn": "Mirabellevej",
+					"postnr": "6500",
+					"postdistrikt": "Vojens",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "955afce2-d51a-42b7-af87-25c8be8e0a99",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 7130 Juelsminde",
+					"vejnavn": "Mirabellevej",
+					"postnr": "7130",
+					"postdistrikt": "Juelsminde",
+					"antal_husnumre": 18
+				},
+				{
+					"id": "0bcad53c-af81-4477-8f65-efe7c1425202",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 7500 Holstebro",
+					"vejnavn": "Mirabellevej",
+					"postnr": "7500",
+					"postdistrikt": "Holstebro",
+					"antal_husnumre": 20
+				},
+				{
+					"id": "7b013c23-1711-4833-bd0d-8580ffa8622f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 7700 Thisted",
+					"vejnavn": "Mirabellevej",
+					"postnr": "7700",
+					"postdistrikt": "Thisted",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "d275c9f0-2dbb-455c-ae87-949f8d060168",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 7741 Frøstrup",
+					"vejnavn": "Mirabellevej",
+					"postnr": "7741",
+					"postdistrikt": "Frøstrup",
+					"antal_husnumre": 12
+				},
+				{
+					"id": "292f8d5f-0727-489c-ab87-42b413d0fa0f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 8240 Risskov",
+					"vejnavn": "Mirabellevej",
+					"postnr": "8240",
+					"postdistrikt": "Risskov",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "4de09537-30d7-4d7a-84aa-75e38c822d24",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 8370 Hadsten",
+					"vejnavn": "Mirabellevej",
+					"postnr": "8370",
+					"postdistrikt": "Hadsten",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "3fcef742-8a4d-49b7-8ad7-4a15603f18dd",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 8500 Grenaa",
+					"vejnavn": "Mirabellevej",
+					"postnr": "8500",
+					"postdistrikt": "Grenaa",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "574bdcbb-d386-439e-a8b1-0af5815b7a76",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 8600 Silkeborg",
+					"vejnavn": "Mirabellevej",
+					"postnr": "8600",
+					"postdistrikt": "Silkeborg",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "88dc6f3b-7012-4b6a-b37e-41ee353b6aea",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 8800 Viborg",
+					"vejnavn": "Mirabellevej",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "bf4bdb7a-bff0-4004-933c-b4fcfa9a0a98",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 8850 Bjerringbro",
+					"vejnavn": "Mirabellevej",
+					"postnr": "8850",
+					"postdistrikt": "Bjerringbro",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "eddc0981-22f7-4245-8b10-c98d7fdf259d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 8920 Randers NV",
+					"vejnavn": "Mirabellevej",
+					"postnr": "8920",
+					"postdistrikt": "Randers NV",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "948029b1-8583-4b05-9fe3-d572c0bc2a81",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 8930 Randers NØ",
+					"vejnavn": "Mirabellevej",
+					"postnr": "8930",
+					"postdistrikt": "Randers NØ",
+					"antal_husnumre": 28
+				},
+				{
+					"id": "af0757de-087b-40b3-8b65-04bcce978712",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 9000 Aalborg",
+					"vejnavn": "Mirabellevej",
+					"postnr": "9000",
+					"postdistrikt": "Aalborg",
+					"antal_husnumre": 20
+				},
+				{
+					"id": "893aa164-871b-4f1b-a773-0b152df4ef32",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 9440 Aabybro",
+					"vejnavn": "Mirabellevej",
+					"postnr": "9440",
+					"postdistrikt": "Aabybro",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "4b214f27-c3c5-4716-9d22-a494d13ec39e",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 9850 Hirtshals",
+					"vejnavn": "Mirabellevej",
+					"postnr": "9850",
+					"postdistrikt": "Hirtshals",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "b014871a-d4d5-45a6-b344-e8b4b9e43a1c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 9900 Frederikshavn",
+					"vejnavn": "Mirabellevej",
+					"postnr": "9900",
+					"postdistrikt": "Frederikshavn",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "52bc9b60-7d79-4714-b8c7-d360dd87d9cd",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevej 9940 Læsø",
+					"vejnavn": "Mirabellevej",
+					"postnr": "9940",
+					"postdistrikt": "Læsø",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "e63f8ded-f180-4b39-b3c5-1ac9bc131276",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellevænget 5270 Odense N",
+					"vejnavn": "Mirabellevænget",
+					"postnr": "5270",
+					"postdistrikt": "Odense N",
+					"antal_husnumre": 21
+				},
+				{
+					"id": "cbbae1a4-3ae6-43c9-a378-8b9eb8dcb655",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabelstræde 7100 Vejle",
+					"vejnavn": "Mirabelstræde",
+					"postnr": "7100",
+					"postdistrikt": "Vejle",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "cea7ef51-2272-48e7-b08f-462ad3b6813e",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabelvej 3300 Frederiksværk",
+					"vejnavn": "Mirabelvej",
+					"postnr": "3300",
+					"postdistrikt": "Frederiksværk",
+					"antal_husnumre": 31
+				},
+				{
+					"id": "4cd8d477-b535-4dbf-a46f-b7a30edda606",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabelvej 4871 Horbelev",
+					"vejnavn": "Mirabelvej",
+					"postnr": "4871",
+					"postdistrikt": "Horbelev",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "6648861f-abea-4650-85b4-e5055a1b1634",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabelvej 4873 Væggerløse",
+					"vejnavn": "Mirabelvej",
+					"postnr": "4873",
+					"postdistrikt": "Væggerløse",
+					"antal_husnumre": 2
+				},
+				{
+					"id": "34a239de-3337-40f3-87fd-45d088921c2d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabelvej 9520 Skørping",
+					"vejnavn": "Mirabelvej",
+					"postnr": "9520",
+					"postdistrikt": "Skørping",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "9470a24e-9db4-4b3e-9242-69a79f1a4a42",
+					"type": "navngivenvejpostnummer",
+					"titel": "Miravej 5500 Middelfart",
+					"vejnavn": "Miravej",
+					"postnr": "5500",
+					"postdistrikt": "Middelfart",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "4c526236-b161-44fb-a730-20071e6b961f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Miravej 7100 Vejle",
+					"vejnavn": "Miravej",
+					"postnr": "7100",
+					"postdistrikt": "Vejle",
+					"antal_husnumre": 16
+				},
+				{
+					"id": "beb19978-3b92-4f59-9c17-25b0cae9eca2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Miravej 8240 Risskov",
+					"vejnavn": "Miravej",
+					"postnr": "8240",
+					"postdistrikt": "Risskov",
+					"antal_husnumre": 18
+				},
+				{
+					"id": "27c533f9-ac57-45d9-82df-0ce9cb388b51",
+					"type": "navngivenvejpostnummer",
+					"titel": "Miravej 8382 Hinnerup",
+					"vejnavn": "Miravej",
+					"postnr": "8382",
+					"postdistrikt": "Hinnerup",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "617ecbca-8b9f-4452-9782-7a21afa70320",
+					"type": "navngivenvejpostnummer",
+					"titel": "Miravænget 2620 Albertslund",
+					"vejnavn": "Miravænget",
+					"postnr": "2620",
+					"postdistrikt": "Albertslund",
+					"antal_husnumre": 48
+				},
+				{
+					"id": "e65f4839-f6be-4820-ba71-0f09d95a9f6d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Miravænget 7000 Fredericia",
+					"vejnavn": "Miravænget",
+					"postnr": "7000",
+					"postdistrikt": "Fredericia",
+					"antal_husnumre": 12
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mira Mare 5700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8c9e-32b8-e044-0003ba298018",
+					"titel": "Mira Mare 1, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e23-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8c9f-32b8-e044-0003ba298018",
+					"titel": "Mira Mare 2, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca0-32b8-e044-0003ba298018",
+					"titel": "Mira Mare 3, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e25-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca1-32b8-e044-0003ba298018",
+					"titel": "Mira Mare 4, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e26-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca2-32b8-e044-0003ba298018",
+					"titel": "Mira Mare 5, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e27-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca3-32b8-e044-0003ba298018",
+					"titel": "Mira Mare 6, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e28-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d6a8ffdc-bea8-44e3-b236-796ff0bd97b4",
+					"titel": "Mira Mare 7, 5700 Svendborg",
+					"husnummerId": "14130587-c67a-4a1c-bdd0-dd5b93ddff64"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca4-32b8-e044-0003ba298018",
+					"titel": "Mira Mare 8, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e2a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca5-32b8-e044-0003ba298018",
+					"titel": "Mira Mare 10, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e2b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca6-32b8-e044-0003ba298018",
+					"titel": "Mira Mare 12, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e2c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 6500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b8-143b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, Over Jerstal, 6500 Vojens",
+					"husnummerId": "0a3f508c-c622-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b8-143c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, Over Jerstal, 6500 Vojens",
+					"husnummerId": "0a3f508c-c623-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b8-143d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, Over Jerstal, 6500 Vojens",
+					"husnummerId": "0a3f508c-c624-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b8-143e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, Over Jerstal, 6500 Vojens",
+					"husnummerId": "0a3f508c-c625-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b8-143f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, Over Jerstal, 6500 Vojens",
+					"husnummerId": "0a3f508c-c626-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b8-1440-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, Over Jerstal, 6500 Vojens",
+					"husnummerId": "0a3f508c-c627-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b8-1441-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, Over Jerstal, 6500 Vojens",
+					"husnummerId": "0a3f508c-c628-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b8-1442-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, Over Jerstal, 6500 Vojens",
+					"husnummerId": "0a3f508c-c629-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 7741": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd0c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a20-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd0d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a21-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd0e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a22-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd0f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a23-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5661ca25-f7ac-25c4-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd10-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a25-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd11-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a26-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd12-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a27-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "814b7e7e-0911-479e-85d5-bf02011e147b",
+					"titel": "Mirabellevej 9, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a28-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd13-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a29-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd14-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a2a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-fd15-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 7741 Frøstrup",
+					"husnummerId": "0a3f5097-6a2b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 4760": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bce7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3c9c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bce8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3c9d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bce9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3c9e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bcea-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3c9f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bceb-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3ca0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bcec-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3ca1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bced-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3ca2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bcee-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3ca3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bcef-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3ca4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-bcf0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 4760 Vordingborg",
+					"husnummerId": "0a3f5087-3ca5-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellegrenen 5500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "e41137fa-791a-4bfa-8f97-360519988340",
+					"titel": "Mirabellegrenen 1, 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "568fba85-9315-49f9-9795-d911df84d158",
+					"titel": "Mirabellegrenen 2, 5500 Middelfart",
+					"husnummerId": "0cca49a1-0e10-4cdd-b1ac-39d8b83a4211"
+				},
+				{
+					"type": "adresse",
+					"id": "87ff781a-bcbc-4f0b-bb15-600e929abf43",
+					"titel": "Mirabellegrenen 3, 5500 Middelfart",
+					"husnummerId": "abf35b3e-36c5-48f0-99c2-78a478aeb8c3"
+				},
+				{
+					"type": "adresse",
+					"id": "f6769b06-30b0-41ba-8214-3d7bdee5baee",
+					"titel": "Mirabellegrenen 4, 5500 Middelfart",
+					"husnummerId": "a8467ce7-8f08-47cc-b6a6-7f620aa2f186"
+				},
+				{
+					"type": "adresse",
+					"id": "5fa45fb2-9df8-4f96-a808-7cf16f451df3",
+					"titel": "Mirabellegrenen 5, 5500 Middelfart",
+					"husnummerId": "224f45bd-29f4-47ad-b066-2e0460c5a0eb"
+				},
+				{
+					"type": "adresse",
+					"id": "65ed0093-8158-4310-9af5-36c672d431dd",
+					"titel": "Mirabellegrenen 6, 5500 Middelfart",
+					"husnummerId": "04d8e557-8672-4562-a422-d592221edd64"
+				},
+				{
+					"type": "adresse",
+					"id": "0c542325-cbc5-4b46-bf51-a9170f0aabfe",
+					"titel": "Mirabellegrenen 7, 5500 Middelfart",
+					"husnummerId": "de5cf185-6d46-4999-bd37-d969640519db"
+				},
+				{
+					"type": "adresse",
+					"id": "30e16cea-95b5-4f3d-ab52-ee6f1f414a2d",
+					"titel": "Mirabellegrenen 8, 5500 Middelfart",
+					"husnummerId": "687deb7e-bd88-4b08-b2b3-763457ddaf2a"
+				},
+				{
+					"type": "adresse",
+					"id": "4040b66c-f43d-42f6-ac87-16ed11c06deb",
+					"titel": "Mirabellegrenen 9, 5500 Middelfart",
+					"husnummerId": "189b3952-1b3f-45f6-8b32-353d22e007cf"
+				},
+				{
+					"type": "husnummer",
+					"id": "2d3bc225-e3b1-409f-94bc-24c09f9f6af4",
+					"titel": "Mirabellegrenen 10, 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "235520d1-52f2-4102-b562-ca2010a8265a",
+					"titel": "Mirabellegrenen 11, 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"husnummer": "11"
+				},
+				{
+					"type": "adresse",
+					"id": "03e31c8c-60ad-488e-8f18-8e8622033806",
+					"titel": "Mirabellegrenen 12, 5500 Middelfart",
+					"husnummerId": "1f7281fc-ea9a-4f90-aee4-d460781a2f6c"
+				},
+				{
+					"type": "husnummer",
+					"id": "91eef0e2-c9cb-47ce-941c-64a540f03d7f",
+					"titel": "Mirabellegrenen 14, 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "59b2ec8d-05da-41b0-ac86-b7032ac90478",
+					"titel": "Mirabellegrenen 16, 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "282dc738-992b-44e4-a368-7b331c867ee8",
+					"titel": "Mirabellegrenen 18, 5500 Middelfart",
+					"husnummerId": "67ddfbda-935b-4455-a828-1db9e7f5806b"
+				},
+				{
+					"type": "adresse",
+					"id": "b8de8fa2-73e1-447d-9919-b497398f6d14",
+					"titel": "Mirabellegrenen 20, 5500 Middelfart",
+					"husnummerId": "dbdce2ab-7ced-48d4-b691-518497b09d93"
+				},
+				{
+					"type": "adresse",
+					"id": "f19c11fc-e59f-4068-bec3-822ba29e0e97",
+					"titel": "Mirabellegrenen 22, 5500 Middelfart",
+					"husnummerId": "bb66299b-4455-4c37-bcc8-fa820bd6c9f1"
+				},
+				{
+					"type": "husnummer",
+					"id": "594e27a7-f6d6-47cd-a1a2-517601391cb2",
+					"titel": "Mirabellegrenen 24, 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "8e30c349-09a8-4148-950a-dc3ca28783c0",
+					"titel": "Mirabellegrenen 26, 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "310dded1-26a9-460a-bbde-d0f86b907fdc",
+					"titel": "Mirabellegrenen 28, 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"husnummer": "28"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a41e-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 29, 5500 Middelfart",
+					"husnummerId": "22729a66-8bb5-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "356425ee-8f04-4a45-82e9-49b71efefa15",
+					"titel": "Mirabellegrenen 30, 5500 Middelfart",
+					"husnummerId": "2b121441-9983-414d-bcb0-fa235afc0918"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a41f-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 31, 5500 Middelfart",
+					"husnummerId": "22729a66-8bb6-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "2d245eec-b36b-4164-9913-2f301b70d319",
+					"titel": "Mirabellegrenen 32, 5500 Middelfart",
+					"vejnavn": "Mirabellegrenen",
+					"husnummer": "32"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a420-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 33, 5500 Middelfart",
+					"husnummerId": "22729a66-8bb7-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a421-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 35, 5500 Middelfart",
+					"husnummerId": "22729a66-8bb8-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a422-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 37, 5500 Middelfart",
+					"husnummerId": "22729a66-8bb9-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a423-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 39, 5500 Middelfart",
+					"husnummerId": "22729a66-8bba-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a424-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 41, 5500 Middelfart",
+					"husnummerId": "22729a66-8bbb-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a425-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 42, 5500 Middelfart",
+					"husnummerId": "22729a66-8bbc-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a426-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 43, 5500 Middelfart",
+					"husnummerId": "22729a66-8bbd-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a427-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 44, 5500 Middelfart",
+					"husnummerId": "22729a66-8bbe-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a428-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 45, 5500 Middelfart",
+					"husnummerId": "22729a66-8bbf-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a429-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 46, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc0-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a42a-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 47, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc1-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a42b-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 48, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc2-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a42c-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 49, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc3-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a42d-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 50, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc4-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a42e-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 51, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc5-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a42f-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 52, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc6-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a430-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 53, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc7-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a431-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 54, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc8-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a432-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 55, 5500 Middelfart",
+					"husnummerId": "22729a66-8bc9-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a433-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 56, 5500 Middelfart",
+					"husnummerId": "22729a66-8bca-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a434-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 57, 5500 Middelfart",
+					"husnummerId": "22729a66-8bcb-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a435-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 58, 5500 Middelfart",
+					"husnummerId": "22729a66-8bcc-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a436-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 60, 5500 Middelfart",
+					"husnummerId": "22729a66-8bcd-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a437-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 61, 5500 Middelfart",
+					"husnummerId": "22729a66-8bce-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a438-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 62, 5500 Middelfart",
+					"husnummerId": "22729a66-8bcf-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a439-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 63, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd0-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a43a-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 64, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd1-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a43b-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 65, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd2-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a43c-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 66, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd3-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a43d-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 67, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd4-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a43e-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 68, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd5-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a43f-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 69, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd6-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a440-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 70, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd7-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a441-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 71, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd8-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a442-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 72, 5500 Middelfart",
+					"husnummerId": "22729a66-8bd9-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a443-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 74, 5500 Middelfart",
+					"husnummerId": "22729a66-8bda-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a444-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 76, 5500 Middelfart",
+					"husnummerId": "22729a66-8bdb-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a445-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 78, 5500 Middelfart",
+					"husnummerId": "22729a66-8bdc-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a446-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 80, 5500 Middelfart",
+					"husnummerId": "22729a66-8bdd-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a447-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 82, 5500 Middelfart",
+					"husnummerId": "22729a66-8bde-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a448-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 84, 5500 Middelfart",
+					"husnummerId": "22729a66-8bdf-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a449-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 86, 5500 Middelfart",
+					"husnummerId": "22729a66-8be0-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a44a-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 88, 5500 Middelfart",
+					"husnummerId": "22729a66-8be1-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a44b-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 90, 5500 Middelfart",
+					"husnummerId": "22729a66-8be2-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a44c-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 92, 5500 Middelfart",
+					"husnummerId": "22729a66-8be3-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a44d-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 96, 5500 Middelfart",
+					"husnummerId": "22729a66-8be4-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a44e-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 98, 5500 Middelfart",
+					"husnummerId": "22729a66-8be5-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a44f-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 100, 5500 Middelfart",
+					"husnummerId": "22729a66-8be6-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a450-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 102, 5500 Middelfart",
+					"husnummerId": "22729a66-8be7-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a451-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 104, 5500 Middelfart",
+					"husnummerId": "22729a66-8be8-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a452-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 106, 5500 Middelfart",
+					"husnummerId": "22729a66-8be9-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-a453-44d0-e044-0003ba298018",
+					"titel": "Mirabellegrenen 108, 5500 Middelfart",
+					"husnummerId": "22729a66-8bea-44d0-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 7130": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c586-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c587-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c588-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa4d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c589-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa4e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c58a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c58b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa50-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c58c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa51-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c58d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa52-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c58e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa53-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c58f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa54-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c590-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c591-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c592-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 13, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa57-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c593-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa58-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c594-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 15, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c595-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 17, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa5a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c596-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 19, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa5b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-c597-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 21, 7130 Juelsminde",
+					"husnummerId": "0a3f508f-fa5c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 8370": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-f62e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 8370 Hadsten",
+					"husnummerId": "0a3f5093-bb4e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-bb4f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 8370 Hadsten",
+					"vejnavn": "Mirabellevej",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-bb50-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 8370 Hadsten",
+					"vejnavn": "Mirabellevej",
+					"husnummer": "4"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-f634-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 8370 Hadsten",
+					"husnummerId": "0a3f5093-bb51-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-c227-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 8370 Hadsten",
+					"vejnavn": "Mirabellevej",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-c226-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 8370 Hadsten",
+					"vejnavn": "Mirabellevej",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "c6afa04a-726d-4f39-a560-5f34bb473324",
+					"titel": "Mirabellevej 10, 8370 Hadsten",
+					"husnummerId": "820099ff-b30f-46e4-9104-975ba850433a"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 8600": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f23f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-75fc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f240-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-75fd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f241-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-75fe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f242-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-75ff-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f243-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-7600-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f244-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-7601-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f245-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-7602-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f246-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-7603-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f247-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-7604-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-f248-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-7605-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 6000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2317-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2318-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2319-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-231a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-231b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-231c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-231d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-231e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-231f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44cb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2320-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2321-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2322-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2323-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 13, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2324-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2325-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 15, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2326-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2327-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 17, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2328-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 18, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2329-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 19, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-232a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 20, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-232b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 21, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-232c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 22, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-232d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 23, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44d9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-232e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 24, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44da-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-232f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 25, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44db-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2330-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 26, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44dc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2331-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 27, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44dd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2332-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 28, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44de-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2333-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 30, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44df-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2334-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 32, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2335-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 34, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2336-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 36, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2337-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 38, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2338-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 40, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2339-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 42, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-233a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 44, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-233b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 46, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-233c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 48, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-233d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 50, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-44e9-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 8240": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a848-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 8240 Risskov",
+					"husnummerId": "0a3f5096-9697-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a849-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 8240 Risskov",
+					"husnummerId": "0a3f5096-9698-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a84a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 8240 Risskov",
+					"husnummerId": "0a3f5096-9699-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a84b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 8240 Risskov",
+					"husnummerId": "0a3f5096-969a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a84c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 8240 Risskov",
+					"husnummerId": "0a3f5096-969b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a84d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 8240 Risskov",
+					"husnummerId": "0a3f5096-969c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a84e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 8240 Risskov",
+					"husnummerId": "0a3f5096-969d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a84f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 8240 Risskov",
+					"husnummerId": "0a3f5096-969e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a850-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 8240 Risskov",
+					"husnummerId": "0a3f5096-969f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "051f7ae1-7dac-4d78-a7cd-0ac16955ce5b",
+					"titel": "Mirabellevej 14, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d66b83d0-54dd-4e9b-bd83-da60c2a0b970",
+					"titel": "Mirabellevej 16, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a1-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 2635": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d422-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d423-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d424-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d3-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d425-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d426-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d427-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d6-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d428-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d429-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d42a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13d9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d42b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13da-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d42c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13db-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d42d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13dc-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 13, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d42e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6e2226fb-92e6-4b04-9f4d-78008714953f",
+					"titel": "Mirabellevej 13T, 2635 Ishøj",
+					"husnummerId": "75d4829b-354f-165e-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13dd-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d42f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13de-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 15, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d430-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13df-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d431-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13e0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 17, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d432-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13e1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 18, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d433-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13e2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 19, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d434-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-d435-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 20, 2635 Ishøj",
+					"vejnavn": "Mirabellevej",
+					"husnummer": "20"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13e4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 21, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d436-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13e5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 22, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d437-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13e6-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 23, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d438-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13e7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 24, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d439-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13e8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 25, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d43a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13e9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 26, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d43b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13ea-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 27, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d43c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13eb-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 28, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d43d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13ec-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 29, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d43e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13ed-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 30, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d43f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13ee-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 31, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d440-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13ef-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 32, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d441-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 33, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d442-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 34A, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d443-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 34B, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d444-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f3-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 35, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d445-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 36, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d446-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 37, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d447-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f6-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 38, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d448-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 39, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d449-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 40, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d44a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-13f9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 42, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d44b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 7500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13a8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e269-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13a9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e26a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "19910d90-1ad1-41c9-e044-0003ba298018",
+					"titel": "Mirabellevej 2A, Mejdal, 7500 Holstebro",
+					"husnummerId": "1357eb80-a7be-3d79-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13aa-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e26b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13ab-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e26c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13ac-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e26d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13ad-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e26e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13ae-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e26f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13af-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e270-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e271-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e272-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e273-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b3-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 13, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e274-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e275-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 15, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e276-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b6-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e277-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 17, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e278-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 18, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e279-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13b9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 19, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e27a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-13ba-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 21, Mejdal, 7500 Holstebro",
+					"husnummerId": "0a3f5091-e27b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellestien 3390": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-f3f9-32b8-e044-0003ba298018",
+					"titel": "Mirabellestien 1, 3390 Hundested",
+					"husnummerId": "0a3f5080-32c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-f3fa-32b8-e044-0003ba298018",
+					"titel": "Mirabellestien 2, 3390 Hundested",
+					"husnummerId": "0a3f5080-32c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-f3fb-32b8-e044-0003ba298018",
+					"titel": "Mirabellestien 3, 3390 Hundested",
+					"husnummerId": "0a3f5080-32c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-f3fc-32b8-e044-0003ba298018",
+					"titel": "Mirabellestien 4, 3390 Hundested",
+					"husnummerId": "0a3f5080-32c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-f3fd-32b8-e044-0003ba298018",
+					"titel": "Mirabellestien 5, 3390 Hundested",
+					"husnummerId": "0a3f5080-32c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-f3fe-32b8-e044-0003ba298018",
+					"titel": "Mirabellestien 6, 3390 Hundested",
+					"husnummerId": "0a3f5080-32ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-f3ff-32b8-e044-0003ba298018",
+					"titel": "Mirabellestien 7, 3390 Hundested",
+					"husnummerId": "0a3f5080-32cb-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellestrædet 4050": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-759f-32b8-e044-0003ba298018",
+					"titel": "Mirabellestrædet 1, Ferslev, 4050 Skibby",
+					"husnummerId": "0a3f5080-a409-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-75a0-32b8-e044-0003ba298018",
+					"titel": "Mirabellestrædet 3, Ferslev, 4050 Skibby",
+					"husnummerId": "0a3f5080-a40a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-7450-32b8-e044-0003ba298018",
+					"titel": "Mirabellestrædet 4, Ferslev, 4050 Skibby",
+					"husnummerId": "0a3f5080-a28d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22729a66-9f0b-44d0-e044-0003ba298018",
+					"titel": "Mirabellestrædet 5, Ferslev, 4050 Skibby",
+					"husnummerId": "0a3f5080-a40b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-75a1-32b8-e044-0003ba298018",
+					"titel": "Mirabellestrædet 6, Ferslev, 4050 Skibby",
+					"husnummerId": "0a3f5080-a40c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellestien 2750": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "d804d46b-1b45-4f09-8669-0022f7115893",
+					"titel": "Mirabellestien 1, Hestholm, 2750 Ballerup",
+					"husnummerId": "17659f4c-b0f9-4347-b315-ad1ff436f628"
+				},
+				{
+					"type": "adresse",
+					"id": "83ec7421-e18e-4a05-83f1-62c00a976599",
+					"titel": "Mirabellestien 2, Hestholm, 2750 Ballerup",
+					"husnummerId": "bfdcb9b5-1cc9-4672-a247-8821cefa2cbc"
+				},
+				{
+					"type": "adresse",
+					"id": "33b2f0c7-e092-4111-9a95-f8d69fc6e7c7",
+					"titel": "Mirabellestien 3, Hestholm, 2750 Ballerup",
+					"husnummerId": "dde928da-5129-4980-b388-208be02f0564"
+				},
+				{
+					"type": "adresse",
+					"id": "12b1944f-f779-4695-9a84-d0ea11bae687",
+					"titel": "Mirabellestien 4, Hestholm, 2750 Ballerup",
+					"husnummerId": "3f708560-a1d2-439f-a707-59b7d1e125cb"
+				},
+				{
+					"type": "adresse",
+					"id": "b7e2c174-916f-4132-bc05-7141662095bd",
+					"titel": "Mirabellestien 5, Hestholm, 2750 Ballerup",
+					"husnummerId": "81b21b5a-0ba4-43a2-984a-7a9587a168c8"
+				},
+				{
+					"type": "adresse",
+					"id": "0bb4d840-8116-44dc-a0e1-9b0bc9c1f2d6",
+					"titel": "Mirabellestien 6, Hestholm, 2750 Ballerup",
+					"husnummerId": "1c2c23e8-70a4-4a86-9f3c-59c970584150"
+				},
+				{
+					"type": "adresse",
+					"id": "b82e67b3-5d09-414a-89ce-7020ce7c9a96",
+					"titel": "Mirabellestien 7, Hestholm, 2750 Ballerup",
+					"husnummerId": "ca93f775-1ea8-4efa-b6ff-d79083131371"
+				},
+				{
+					"type": "adresse",
+					"id": "d72e5adb-82b9-4c0a-a9ec-f6449e8ba20e",
+					"titel": "Mirabellestien 9, Hestholm, 2750 Ballerup",
+					"husnummerId": "5590e099-4890-42ba-9805-625a60f45d57"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 4573": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50af-3c8d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, Ell Kohave, 4573 Højby",
+					"husnummerId": "0a3f5084-e01d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-3c8e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, Ell Kohave, 4573 Højby",
+					"husnummerId": "0a3f5084-e01e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-35ba-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, Ell Kohave, 4573 Højby",
+					"husnummerId": "0a3f5084-d8a0-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 2400": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa8c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 2400 København NV",
+					"husnummerId": "0a3f507a-c432-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa8d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 2400 København NV",
+					"husnummerId": "0a3f507a-c433-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa8e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 2400 København NV",
+					"husnummerId": "0a3f507a-c434-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa8f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 2400 København NV",
+					"husnummerId": "0a3f507a-c435-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa90-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 2400 København NV",
+					"husnummerId": "0a3f507a-c436-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa91-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 2400 København NV",
+					"husnummerId": "0a3f507a-c437-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa92-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 2400 København NV",
+					"husnummerId": "0a3f507a-c438-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa93-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 2400 København NV",
+					"husnummerId": "0a3f507a-c439-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa94-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 2400 København NV",
+					"husnummerId": "0a3f507a-c43a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa95-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 2400 København NV",
+					"husnummerId": "0a3f507a-c43b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa96-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, 2400 København NV",
+					"husnummerId": "0a3f507a-c43c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa97-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, 2400 København NV",
+					"husnummerId": "0a3f507a-c43d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509f-aa98-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 18, 2400 København NV",
+					"husnummerId": "0a3f507a-c43e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 8500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "f63adf45-35bb-413c-a401-d39ac2d0a52f",
+					"titel": "Mirabellevej 1, Haveforening Alfredsminde, 8500 Grenaa",
+					"husnummerId": "78d0c301-af41-6373-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "47c485ed-afb3-4e6b-9f07-cc1ad2f0406d",
+					"titel": "Mirabellevej 2, Haveforening Alfredsminde, 8500 Grenaa",
+					"husnummerId": "78d0c301-af42-6373-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "dfcc50e6-fb97-45cb-a4a0-779b92a2ba17",
+					"titel": "Mirabellevej 5, Haveforening Alfredsminde, 8500 Grenaa",
+					"husnummerId": "78d0c301-af43-6373-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "7c821ddd-a284-4a73-b6ed-5bf5a1e6a857",
+					"titel": "Mirabellevej 6, Haveforening Alfredsminde, 8500 Grenaa",
+					"husnummerId": "78d0c301-af44-6373-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "84f91ccf-ada9-4b5a-bec6-7c199dc72fba",
+					"titel": "Mirabellevej 7, Haveforening Alfredsminde, 8500 Grenaa",
+					"husnummerId": "78d0c301-af45-6373-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "a06e4885-36b1-48d7-85d7-1a143c13ec83",
+					"titel": "Mirabellevej 11, Haveforening Alfredsminde, 8500 Grenaa",
+					"husnummerId": "78d0c301-af46-6373-e044-00144f3ead67"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 8800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8296-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 8800 Viborg",
+					"husnummerId": "0a3f5098-e522-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8297-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 8800 Viborg",
+					"husnummerId": "0a3f5098-e523-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8298-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 8800 Viborg",
+					"husnummerId": "0a3f5098-e524-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8299-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 8800 Viborg",
+					"husnummerId": "0a3f5098-e525-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-829a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 8800 Viborg",
+					"husnummerId": "0a3f5098-e526-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-829b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 8800 Viborg",
+					"husnummerId": "0a3f5098-e527-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-829c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, 8800 Viborg",
+					"husnummerId": "0a3f5098-e528-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-829d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, 8800 Viborg",
+					"husnummerId": "0a3f5098-e529-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-829e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 18, 8800 Viborg",
+					"husnummerId": "0a3f5098-e52a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-829f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 20, 8800 Viborg",
+					"husnummerId": "0a3f5098-e52b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-82a0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 22, 8800 Viborg",
+					"husnummerId": "0a3f5098-e52c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-82a1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 23, 8800 Viborg",
+					"husnummerId": "0a3f5098-e52d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellehegnet 6440": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-433d-32b8-e044-0003ba298018",
+					"titel": "Mirabellehegnet 1, 6440 Augustenborg",
+					"husnummerId": "0a3f508b-2352-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-433e-32b8-e044-0003ba298018",
+					"titel": "Mirabellehegnet 2, 6440 Augustenborg",
+					"husnummerId": "0a3f508b-2353-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 3630": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2A, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2B, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2C, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff3-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2D, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4A, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4B, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff6-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ff9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ffa-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ffb-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ffc-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 13, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ffd-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3ffe-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 15, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3fff-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 17, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-4000-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 19, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-73b3-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabelvej 4873": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-9040-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 1, 4873 Væggerløse",
+					"husnummerId": "0a3f5087-1108-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-9041-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 2, 4873 Væggerløse",
+					"husnummerId": "0a3f5087-1109-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabelvej 4871": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-648f-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 1, Bregninge, 4871 Horbelev",
+					"husnummerId": "0a3f5086-e2df-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-6490-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 2, Bregninge, 4871 Horbelev",
+					"husnummerId": "0a3f5086-e2e0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-6491-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 3, Bregninge, 4871 Horbelev",
+					"husnummerId": "0a3f5086-e2e1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-6492-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 4, Bregninge, 4871 Horbelev",
+					"husnummerId": "0a3f5086-e2e2-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 4070": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5081-076d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 4070 Kirke Hyllinge",
+					"vejnavn": "Mirabellevej",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4aa-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-076e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4ab-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-076f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4ac-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-0770-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4ad-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-0771-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4ae-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-0772-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4af-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-0773-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4b0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-0774-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4b1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-0775-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4b2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-0776-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-d4b3-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, 4070 Kirke Hyllinge",
+					"husnummerId": "0a3f5081-0777-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabelvej 3300": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8e9b-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 1, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff38-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8e9c-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 2, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff39-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8e9d-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 3, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff3a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8e9e-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 4, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff3b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8e9f-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 5, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff3c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea0-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 6, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff3d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea1-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 7, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea2-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 8, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff3f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea3-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 9, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff40-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "23b027d1-6531-49dc-a66b-187477dfeac3",
+					"titel": "Mirabelvej 10A, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff41-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea4-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 10B, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff42-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea5-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 11, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff43-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea6-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 12, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea7-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 13, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea8-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 14, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff46-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ea9-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 15, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff47-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3efc5b34-9f97-463d-b634-174cd42e77d7",
+					"titel": "Mirabelvej 15B, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff48-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eaa-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 16, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eab-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 17, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eac-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 18, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8ead-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 19, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eae-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 20, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff4d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eaf-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 21, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff4e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eb0-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 22, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eb1-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 23, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff50-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eb2-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 24, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff51-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eb3-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 25, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff52-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eb4-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 26, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff53-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eb5-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 28, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff54-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a8-8eb6-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 30, 3300 Frederiksværk",
+					"husnummerId": "0a3f507e-ff55-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 8920": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-c6d2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, Øster Bjerregrav, 8920 Randers NV",
+					"husnummerId": "0a3f5094-901d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-c6d3-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, Øster Bjerregrav, 8920 Randers NV",
+					"husnummerId": "0a3f5094-901f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-c6d4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, Øster Bjerregrav, 8920 Randers NV",
+					"husnummerId": "0a3f5094-9020-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-c6d5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, Øster Bjerregrav, 8920 Randers NV",
+					"husnummerId": "0a3f5094-9021-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 4300": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5760-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c08-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5761-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c09-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5762-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c0a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5763-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c0b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5764-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c0c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5765-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c0d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5766-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c0e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5767-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c0f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5768-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c10-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5769-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c11-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-576a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 13, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c12-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-576b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 15, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c13-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-576c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 17, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c14-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-576d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 19, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c15-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-576e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 21, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c16-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-576f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 23, Hørby, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3c17-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 9900": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-76ac-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d172-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-76ad-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d173-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-76ae-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d174-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-76af-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d175-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-76b0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d176-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-76b1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d177-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 9850": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "33aed40b-ff9b-471b-b7e7-e4be4c305043",
+					"titel": "Mirabellevej 102, Horne, 9850 Hirtshals",
+					"husnummerId": "cd092a39-7b55-4680-b3dc-641ec31cc44d"
+				},
+				{
+					"type": "adresse",
+					"id": "38ff1265-22d0-4839-ad27-07ecb010a8ea",
+					"titel": "Mirabellevej 103, Horne, 9850 Hirtshals",
+					"husnummerId": "a07b55af-f63b-41dd-9e35-18808cfbe674"
+				},
+				{
+					"type": "adresse",
+					"id": "f47a01f4-f36c-4e99-9799-7f915100091a",
+					"titel": "Mirabellevej 111, Horne, 9850 Hirtshals",
+					"husnummerId": "c0a84671-9c5d-445f-b4ba-20962bec8199"
+				},
+				{
+					"type": "adresse",
+					"id": "c98b2f38-369d-4aee-9a51-c5bc56a43f1f",
+					"titel": "Mirabellevej 112, Horne, 9850 Hirtshals",
+					"husnummerId": "392120d2-ab9a-4d15-9ac4-589b8d2badca"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellehegnet 8700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "118f4c1c-4a84-4dd2-9346-6c7ac891b006",
+					"titel": "Mirabellehegnet 1, 8700 Horsens",
+					"husnummerId": "434b5797-c89b-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b3516d6d-3da6-499b-b7cb-f01ece5fbcc3",
+					"titel": "Mirabellehegnet 2, 8700 Horsens",
+					"husnummerId": "434b5797-c89c-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8b8fb12a-39eb-4fe5-aeab-0259ba6e517d",
+					"titel": "Mirabellehegnet 3, 8700 Horsens",
+					"husnummerId": "434b5797-c89d-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "705aa7e1-5a0c-4d01-9c2e-d79bd98fc66a",
+					"titel": "Mirabellehegnet 4, 8700 Horsens",
+					"husnummerId": "434b5797-c89e-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "61a883d3-accf-4660-8f1a-1cb45bcad3a1",
+					"titel": "Mirabellehegnet 5, 8700 Horsens",
+					"husnummerId": "434b5797-c89f-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "948bd46e-cd77-41bd-baa6-1c5804e69de7",
+					"titel": "Mirabellehegnet 6, 8700 Horsens",
+					"husnummerId": "434b5797-c8a0-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "86bc3fb5-8dec-4717-bd95-14cb394bc3d4",
+					"titel": "Mirabellehegnet 7, 8700 Horsens",
+					"husnummerId": "434b5797-c8a1-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5dff1531-0bd5-459b-b50c-5ba5be7694a0",
+					"titel": "Mirabellehegnet 8, 8700 Horsens",
+					"husnummerId": "434b5797-c8a2-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0cd7a216-55bb-46fb-a8f7-c920a8048a29",
+					"titel": "Mirabellehegnet 9, 8700 Horsens",
+					"husnummerId": "434b5797-c8a3-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "65f0949c-3214-4ac5-a28d-4a9e7bb8b077",
+					"titel": "Mirabellehegnet 10, 8700 Horsens",
+					"husnummerId": "434b5797-c8a4-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "34308cbb-f147-410a-8710-402022e70622",
+					"titel": "Mirabellehegnet 11, 8700 Horsens",
+					"husnummerId": "434b5797-c8a5-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "32e68a11-2516-4c7b-81af-c6a34bd0dacb",
+					"titel": "Mirabellehegnet 12, 8700 Horsens",
+					"husnummerId": "434b5797-c8a6-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c867d3d4-20ca-44ed-86fd-ef8ca20a1db9",
+					"titel": "Mirabellehegnet 13, 8700 Horsens",
+					"husnummerId": "434b5797-c8a7-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4394f5bb-05f6-4150-8731-51de04f1a5af",
+					"titel": "Mirabellehegnet 14, 8700 Horsens",
+					"husnummerId": "434b5797-c8a8-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f4e8b0d1-3a00-4dc3-9982-8f45c7fdc1cb",
+					"titel": "Mirabellehegnet 15, 8700 Horsens",
+					"husnummerId": "434b5797-c8a9-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c574e78f-9c55-47b6-bd44-fbd3f25d9433",
+					"titel": "Mirabellehegnet 16, 8700 Horsens",
+					"husnummerId": "434b5797-c8aa-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f333ae85-abf8-4870-bae4-f9ae7ddbd22d",
+					"titel": "Mirabellehegnet 17, 8700 Horsens",
+					"husnummerId": "434b5797-c8ab-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97be370c-2670-44da-8c89-61d39f5ff046",
+					"titel": "Mirabellehegnet 18, 8700 Horsens",
+					"husnummerId": "434b5797-c8ac-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c0a95f53-c4ba-42af-8faf-57a13ae102ef",
+					"titel": "Mirabellehegnet 19, 8700 Horsens",
+					"husnummerId": "434b5797-c8ad-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "26f48c29-4d11-46cf-ba24-7f907050935d",
+					"titel": "Mirabellehegnet 20, 8700 Horsens",
+					"husnummerId": "434b5797-c8ae-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9a56b058-fe4d-460a-9b64-12ddd11a8e53",
+					"titel": "Mirabellehegnet 21, 8700 Horsens",
+					"husnummerId": "4a614f95-f2b5-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5e5011b7-eb79-58be-e044-0003ba298018",
+					"titel": "Mirabellehegnet 22, 8700 Horsens",
+					"husnummerId": "4a614f95-f2b6-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "59b3530d-6c3f-4ff5-95ed-f63c26bb719b",
+					"titel": "Mirabellehegnet 23, 8700 Horsens",
+					"husnummerId": "4a614f95-f2b7-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "aeb14c75-b524-4493-8b25-622edbe990f1",
+					"titel": "Mirabellehegnet 24, 8700 Horsens",
+					"husnummerId": "4a614f95-f2b8-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2d2085bf-6edf-4632-980f-7610ed9e0c25",
+					"titel": "Mirabellehegnet 25, 8700 Horsens",
+					"husnummerId": "4a614f95-f2b9-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4b42734a-ec49-4fa5-a73f-62874be1bf03",
+					"titel": "Mirabellehegnet 26, 8700 Horsens",
+					"husnummerId": "4a614f95-f2ba-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cc91007d-272a-4536-96fd-cb8eaf7643b2",
+					"titel": "Mirabellehegnet 27, 8700 Horsens",
+					"husnummerId": "4a614f95-f2bb-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "875694b8-d9c1-4f31-b79c-13f1798d521a",
+					"titel": "Mirabellehegnet 28, 8700 Horsens",
+					"husnummerId": "4a614f95-f2bc-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "653e7651-61d8-488f-9c95-c933a297f71b",
+					"titel": "Mirabellehegnet 29, 8700 Horsens",
+					"husnummerId": "4a614f95-f2bd-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4c0c3121-2612-4db4-970e-629e9b1f20b2",
+					"titel": "Mirabellehegnet 30, 8700 Horsens",
+					"husnummerId": "4a614f95-f2be-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "15c1d6cf-edbc-4d93-bff3-27d5fd51b689",
+					"titel": "Mirabellehegnet 31, 8700 Horsens",
+					"husnummerId": "4a614f95-f2bf-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f0bc4e61-6a82-45c3-bd22-f6c21ebb1b84",
+					"titel": "Mirabellehegnet 32, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c0-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "18d53319-30a9-4276-b311-e5e1a3ec9053",
+					"titel": "Mirabellehegnet 33, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c1-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ef0877e7-e7a1-447d-ae33-aa38ea4c4165",
+					"titel": "Mirabellehegnet 34, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c2-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "466557f3-815e-4d5c-8b86-02d46e267c13",
+					"titel": "Mirabellehegnet 35, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c3-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4e0806b9-446d-4d73-81cf-1387d46304b8",
+					"titel": "Mirabellehegnet 36, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c4-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "76c7fa68-45a1-4f03-b6f2-c41a024eeeb1",
+					"titel": "Mirabellehegnet 37, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c5-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4c3e3c48-93c2-48f6-b7d2-d2a09db03e8d",
+					"titel": "Mirabellehegnet 38, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c6-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ba8e446b-dcaf-444d-b9a5-337b287af01f",
+					"titel": "Mirabellehegnet 39, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c7-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "70d3cf34-d51c-4e2b-a2dd-8ecf018a6a43",
+					"titel": "Mirabellehegnet 40, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c8-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4ea0a5d0-3a4b-4c78-9a4d-fdccfb70c3b6",
+					"titel": "Mirabellehegnet 41, 8700 Horsens",
+					"husnummerId": "4a614f95-f2c9-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "75de5b7b-2cd7-4313-b988-39aea68105cf",
+					"titel": "Mirabellehegnet 42, 8700 Horsens",
+					"husnummerId": "4a614f95-f2ca-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5260fe18-0052-43b4-9fb4-d6c0249aab98",
+					"titel": "Mirabellehegnet 43, 8700 Horsens",
+					"husnummerId": "4a614f95-f2cb-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "70d98383-0a27-1b8b-e044-00144f3ead67",
+					"titel": "Mirabellehegnet 44, 8700 Horsens",
+					"husnummerId": "4a614f95-f2cc-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2c8bec7d-68c7-4743-b557-3cce99d337a2",
+					"titel": "Mirabellehegnet 45, 8700 Horsens",
+					"husnummerId": "4a614f95-f2cd-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ccd4b6a4-d234-407d-b4b8-9db1dbf06e9d",
+					"titel": "Mirabellehegnet 46, 8700 Horsens",
+					"husnummerId": "4a614f95-f2ce-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4f3b29f7-fe89-4975-8e09-b74225e3b949",
+					"titel": "Mirabellehegnet 47, 8700 Horsens",
+					"husnummerId": "4a614f95-f2cf-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "73541c8d-1587-47cf-93a9-5804226fd41f",
+					"titel": "Mirabellehegnet 48, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d0-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "996852a9-6667-4989-8158-9e2fbef7ce60",
+					"titel": "Mirabellehegnet 49, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d1-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "79d0256a-05e6-4506-b8b3-b750e8bcdf36",
+					"titel": "Mirabellehegnet 50, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d2-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "790424fe-56eb-46f2-beb0-b0fde11eab47",
+					"titel": "Mirabellehegnet 51, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d3-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ed2347f0-ca79-4530-b307-65b99aff44ec",
+					"titel": "Mirabellehegnet 52, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d4-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "104881f9-e719-4cdc-9df9-ee154ad36536",
+					"titel": "Mirabellehegnet 53, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d5-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22953741-364c-44a1-aa55-b9fe1f9537dc",
+					"titel": "Mirabellehegnet 54, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d6-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a0ef9985-52ce-4aa5-8c84-d6f2e74b9344",
+					"titel": "Mirabellehegnet 55, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d7-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1d5deb99-63ec-4eec-a70b-2fe34700cb24",
+					"titel": "Mirabellehegnet 56, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d8-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3e50da51-9e2a-434b-b539-9016ef9285ff",
+					"titel": "Mirabellehegnet 57, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d9-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "820ad3ef-c74e-4da8-b963-ba04b4a233b4",
+					"titel": "Mirabellehegnet 58, 8700 Horsens",
+					"husnummerId": "4a614f95-f2da-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0000aaf0-826f-4458-b26f-4317ad2a4979",
+					"titel": "Mirabellehegnet 59, 8700 Horsens",
+					"husnummerId": "4a614f95-f2db-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "23827bf9-fb44-44b4-a96e-01200f58500c",
+					"titel": "Mirabellehegnet 60, 8700 Horsens",
+					"husnummerId": "4a614f95-f2dc-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "88f0188f-d3f9-42eb-8820-133e035c95b5",
+					"titel": "Mirabellehegnet 61, 8700 Horsens",
+					"husnummerId": "4a614f95-f2dd-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b64a4fc1-cc97-4543-9ebc-12fafca85160",
+					"titel": "Mirabellehegnet 62, 8700 Horsens",
+					"husnummerId": "4a614f95-f2de-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1946d3af-8d3e-4276-ab3a-63ecfd1035a7",
+					"titel": "Mirabellehegnet 63, 8700 Horsens",
+					"husnummerId": "4a614f95-f2df-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "677d9575-7c4d-421d-9f52-89319fa05895",
+					"titel": "Mirabellehegnet 64, 8700 Horsens",
+					"husnummerId": "4a614f95-f2e0-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c046ce6e-4bb1-4f07-bef0-04c42ed4ced2",
+					"titel": "Mirabellehegnet 65, 8700 Horsens",
+					"husnummerId": "4a614f95-f2e1-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4249c968-2ee8-4480-a1bf-2a265d428b65",
+					"titel": "Mirabellehegnet 67, 8700 Horsens",
+					"husnummerId": "4a614f95-f2e2-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fb688682-cf93-4427-93b2-1a50657e5fef",
+					"titel": "Mirabellehegnet 69, 8700 Horsens",
+					"husnummerId": "4a614f95-f2e3-5766-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 7700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-1ee0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, Vilsund, 7700 Thisted",
+					"husnummerId": "0a3f5098-8ceb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-1ee1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, Vilsund, 7700 Thisted",
+					"husnummerId": "0a3f5098-8cec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-1ee2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, Vilsund, 7700 Thisted",
+					"husnummerId": "0a3f5098-8ced-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 5700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e2d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e2e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8ca9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e2f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8caa-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e30-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8cab-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8cac-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e32-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8cad-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e33-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8cae-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e34-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8caf-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e35-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8cb0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e36-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8cb1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e37-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-8cb2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, Tåsinge, 5700 Svendborg",
+					"husnummerId": "0a3f508a-6e38-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Miravej 8240": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a851-32b8-e044-0003ba298018",
+					"titel": "Miravej 2, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a852-32b8-e044-0003ba298018",
+					"titel": "Miravej 3, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a853-32b8-e044-0003ba298018",
+					"titel": "Miravej 4, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a854-32b8-e044-0003ba298018",
+					"titel": "Miravej 5, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a855-32b8-e044-0003ba298018",
+					"titel": "Miravej 6, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a856-32b8-e044-0003ba298018",
+					"titel": "Miravej 7, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a857-32b8-e044-0003ba298018",
+					"titel": "Miravej 8, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a858-32b8-e044-0003ba298018",
+					"titel": "Miravej 9, 8240 Risskov",
+					"husnummerId": "0a3f5096-96a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a859-32b8-e044-0003ba298018",
+					"titel": "Miravej 10, 8240 Risskov",
+					"husnummerId": "0a3f5096-96aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a85a-32b8-e044-0003ba298018",
+					"titel": "Miravej 11, 8240 Risskov",
+					"husnummerId": "0a3f5096-96ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a85b-32b8-e044-0003ba298018",
+					"titel": "Miravej 12, 8240 Risskov",
+					"husnummerId": "0a3f5096-96ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a85c-32b8-e044-0003ba298018",
+					"titel": "Miravej 13, 8240 Risskov",
+					"husnummerId": "0a3f5096-96ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a85d-32b8-e044-0003ba298018",
+					"titel": "Miravej 14, 8240 Risskov",
+					"husnummerId": "0a3f5096-96ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a85e-32b8-e044-0003ba298018",
+					"titel": "Miravej 15, 8240 Risskov",
+					"husnummerId": "0a3f5096-96af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a85f-32b8-e044-0003ba298018",
+					"titel": "Miravej 16, 8240 Risskov",
+					"husnummerId": "0a3f5096-96b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a860-32b8-e044-0003ba298018",
+					"titel": "Miravej 18, 8240 Risskov",
+					"husnummerId": "0a3f5096-96b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a861-32b8-e044-0003ba298018",
+					"titel": "Miravej 20, 8240 Risskov",
+					"husnummerId": "0a3f5096-96b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-a862-32b8-e044-0003ba298018",
+					"titel": "Miravej 22, 8240 Risskov",
+					"husnummerId": "0a3f5096-96b3-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 9000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65cf-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8458-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8459-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 9000 Aalborg",
+					"husnummerId": "0a3f509c-845a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 9000 Aalborg",
+					"husnummerId": "0a3f509c-845b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d3-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 9000 Aalborg",
+					"husnummerId": "0a3f509c-845c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 9000 Aalborg",
+					"husnummerId": "0a3f509c-845d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 9000 Aalborg",
+					"husnummerId": "0a3f509c-845e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d6-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 9000 Aalborg",
+					"husnummerId": "0a3f509c-845f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8460-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8461-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65d9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 11, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8462-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65da-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8463-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65db-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 13, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8464-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65dc-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8465-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65dd-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 15, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8466-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65de-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8467-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65df-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 17, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8468-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65e0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 18, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8469-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-65e1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 19A, 9000 Aalborg",
+					"husnummerId": "0a3f509c-846a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6df0fdd9-8415-437d-8ff1-99db0377c2b6",
+					"titel": "Mirabellevej 19B, 9000 Aalborg",
+					"husnummerId": "6c5fe0a5-fb73-4735-a8e2-9aa70f795fa4"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 8850": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-d7f1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, Mammen, 8850 Bjerringbro",
+					"husnummerId": "0a3f5097-43bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-d7f2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, Mammen, 8850 Bjerringbro",
+					"husnummerId": "0a3f5097-43be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-d7f3-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, Mammen, 8850 Bjerringbro",
+					"husnummerId": "0a3f5097-43bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-d7f4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, Mammen, 8850 Bjerringbro",
+					"husnummerId": "0a3f5097-43c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c4-d7f5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, Mammen, 8850 Bjerringbro",
+					"husnummerId": "0a3f5097-43c1-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 8930": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "526c262d-dbe7-434c-b514-9c45ba357332",
+					"titel": "Mirabellevej 1, 8930 Randers NØ",
+					"husnummerId": "d6682ec3-3a80-4a95-aa91-42313a689e05"
+				},
+				{
+					"type": "adresse",
+					"id": "c38b5c60-8c83-4667-b90c-77202b2b665f",
+					"titel": "Mirabellevej 1A, 8930 Randers NØ",
+					"husnummerId": "f5104ca4-0c65-4309-9980-15db4c49a2e7"
+				},
+				{
+					"type": "adresse",
+					"id": "e4cb5d55-b2f7-4010-993e-c4622f570873",
+					"titel": "Mirabellevej 1B, 8930 Randers NØ",
+					"husnummerId": "f44feb26-ad1c-4cbd-9d52-4f271703ca1c"
+				},
+				{
+					"type": "adresse",
+					"id": "a933c71c-f27e-4be4-9ba2-746cfcd92917",
+					"titel": "Mirabellevej 1C, 8930 Randers NØ",
+					"husnummerId": "5a43d5c1-7a43-4b06-aac9-c359260ce729"
+				},
+				{
+					"type": "adresse",
+					"id": "512a2ffb-1877-4e3e-8b48-943688684047",
+					"titel": "Mirabellevej 1D, 8930 Randers NØ",
+					"husnummerId": "dba5398d-6403-4abe-82c4-efb55731890f"
+				},
+				{
+					"type": "adresse",
+					"id": "7e0a3170-76f8-4f42-a2d4-aebb67eede16",
+					"titel": "Mirabellevej 1E, 8930 Randers NØ",
+					"husnummerId": "a89c1838-86a6-4ab3-9be4-e2fd0bfd854b"
+				},
+				{
+					"type": "adresse",
+					"id": "f805206b-4d54-4a06-9a79-fea243758e9f",
+					"titel": "Mirabellevej 2, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c159-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bbccb8dc-8db7-422d-989d-5b91460903ee",
+					"titel": "Mirabellevej 3, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c15a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e6813705-764b-4a34-b3a4-6737ccbb83c9",
+					"titel": "Mirabellevej 4, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c15b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "17b6f005-f91f-4809-a4f4-f47a2df221ab",
+					"titel": "Mirabellevej 6, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c15c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f50af854-44e1-4cee-ae0a-cd327247e55e",
+					"titel": "Mirabellevej 7, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c15d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-c15e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 8930 Randers NØ",
+					"vejnavn": "Mirabellevej",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "f452490b-7b10-444d-9d6f-c025a69ced9d",
+					"titel": "Mirabellevej 9A, 8930 Randers NØ",
+					"husnummerId": "3a7ea430-6695-4c7c-b842-9bb5716a26da"
+				},
+				{
+					"type": "adresse",
+					"id": "60cc792f-b8ac-4471-b5f7-16486421e9a7",
+					"titel": "Mirabellevej 9B, 8930 Randers NØ",
+					"husnummerId": "a91bb931-3df7-460e-9cd5-7f9b18166cd7"
+				},
+				{
+					"type": "adresse",
+					"id": "caa7685e-a439-472d-a94f-178df4238166",
+					"titel": "Mirabellevej 9C, 8930 Randers NØ",
+					"husnummerId": "e2ac79fb-e211-433b-b86e-8c7e8656e6ce"
+				},
+				{
+					"type": "adresse",
+					"id": "1e8bcd4f-8b18-4534-803d-c7589359f5a7",
+					"titel": "Mirabellevej 9D, 8930 Randers NØ",
+					"husnummerId": "5b603a4d-f483-47e4-a825-3968f095d8c6"
+				},
+				{
+					"type": "adresse",
+					"id": "ee816566-3e80-420a-abe6-f89ea4c12ce9",
+					"titel": "Mirabellevej 9E, 8930 Randers NØ",
+					"husnummerId": "e2c62c6f-ef50-4847-8a51-0a9222bf5aa8"
+				},
+				{
+					"type": "adresse",
+					"id": "086f934d-e704-4dca-b5ac-c2fe6fde8e1e",
+					"titel": "Mirabellevej 11A, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c160-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "45486740-1220-44bd-b4b6-b4ab7d332f46",
+					"titel": "Mirabellevej 11B, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c161-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6097ce6e-6290-4ca6-8bce-afccb79230d1",
+					"titel": "Mirabellevej 11C, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c162-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "39ff92cd-ef1d-0991-e044-0003ba298018",
+					"titel": "Mirabellevej 11E, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c163-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "39ff92cd-ef1e-0991-e044-0003ba298018",
+					"titel": "Mirabellevej 11F, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c164-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "55b34b06-e33a-48f3-bc3e-2ce69425b2d6",
+					"titel": "Mirabellevej 11G, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c165-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "39ff92cd-ef1f-0991-e044-0003ba298018",
+					"titel": "Mirabellevej 11H, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c166-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "944a0392-e3a3-49de-888b-19b7e63d5b91",
+					"titel": "Mirabellevej 11J, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c167-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-c169-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, 8930 Randers NØ",
+					"vejnavn": "Mirabellevej",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "1cd7a8f1-dcb2-45eb-b4f0-56396b3a3407",
+					"titel": "Mirabellevej 19, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-c16a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 4690": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17d4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c8a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17d5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2A, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c8b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17d6-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2B, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c8c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17d7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2C, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17d8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2D, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c8e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17d9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2E, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c8f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17da-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c90-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17db-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4A, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c91-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17dc-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4B, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c92-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17dd-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4C, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c93-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17de-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4D, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c94-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17df-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c95-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17e0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6A, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c96-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17e1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6B, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c97-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17e2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c98-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17e3-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c99-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17e4-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c9a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-17e5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 4690 Haslev",
+					"husnummerId": "0a3f5083-0c9b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 4540": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-c263-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, Stubberup, 4540 Fårevejle",
+					"husnummerId": "0a3f5082-b4e8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-c264-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, Stubberup, 4540 Fårevejle",
+					"husnummerId": "0a3f5082-b4e9-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabelstræde 7100": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d7fa-32b8-e044-0003ba298018",
+					"titel": "Mirabelstræde 1, 7100 Vejle",
+					"husnummerId": "0a3f5090-d938-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d7fb-32b8-e044-0003ba298018",
+					"titel": "Mirabelstræde 3, 7100 Vejle",
+					"husnummerId": "0a3f5090-d939-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d7fc-32b8-e044-0003ba298018",
+					"titel": "Mirabelstræde 5, 7100 Vejle",
+					"husnummerId": "0a3f5090-d93a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d7fd-32b8-e044-0003ba298018",
+					"titel": "Mirabelstræde 12, 7100 Vejle",
+					"husnummerId": "0a3f5090-d93b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d7fe-32b8-e044-0003ba298018",
+					"titel": "Mirabelstræde 14, 7100 Vejle",
+					"husnummerId": "0a3f5090-d93c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d7ff-32b8-e044-0003ba298018",
+					"titel": "Mirabelstræde 16, 7100 Vejle",
+					"husnummerId": "0a3f5090-d93d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Miravej 7100": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d800-32b8-e044-0003ba298018",
+					"titel": "Miravej 1, 7100 Vejle",
+					"husnummerId": "0a3f5090-d93e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d801-32b8-e044-0003ba298018",
+					"titel": "Miravej 2, 7100 Vejle",
+					"husnummerId": "0a3f5090-d93f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d802-32b8-e044-0003ba298018",
+					"titel": "Miravej 3, 7100 Vejle",
+					"husnummerId": "0a3f5090-d940-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d803-32b8-e044-0003ba298018",
+					"titel": "Miravej 3A, 7100 Vejle",
+					"husnummerId": "0a3f5090-d941-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d804-32b8-e044-0003ba298018",
+					"titel": "Miravej 4, 7100 Vejle",
+					"husnummerId": "0a3f5090-d942-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d805-32b8-e044-0003ba298018",
+					"titel": "Miravej 5, 7100 Vejle",
+					"husnummerId": "0a3f5090-d943-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d806-32b8-e044-0003ba298018",
+					"titel": "Miravej 6, 7100 Vejle",
+					"husnummerId": "0a3f5090-d944-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d807-32b8-e044-0003ba298018",
+					"titel": "Miravej 7, 7100 Vejle",
+					"husnummerId": "0a3f5090-d945-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d808-32b8-e044-0003ba298018",
+					"titel": "Miravej 8, 7100 Vejle",
+					"husnummerId": "0a3f5090-d946-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d809-32b8-e044-0003ba298018",
+					"titel": "Miravej 9, 7100 Vejle",
+					"husnummerId": "0a3f5090-d947-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d80a-32b8-e044-0003ba298018",
+					"titel": "Miravej 10, 7100 Vejle",
+					"husnummerId": "0a3f5090-d948-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d80b-32b8-e044-0003ba298018",
+					"titel": "Miravej 11, 7100 Vejle",
+					"husnummerId": "0a3f5090-d949-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d80c-32b8-e044-0003ba298018",
+					"titel": "Miravej 12, 7100 Vejle",
+					"husnummerId": "0a3f5090-d94a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d80d-32b8-e044-0003ba298018",
+					"titel": "Miravej 13, 7100 Vejle",
+					"husnummerId": "0a3f5090-d94b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-d94c-32b8-e044-0003ba298018",
+					"titel": "Miravej 14, 7100 Vejle",
+					"vejnavn": "Miravej",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-d810-32b8-e044-0003ba298018",
+					"titel": "Miravej 15, 7100 Vejle",
+					"husnummerId": "0a3f5090-d94d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 9940": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "a676d9ba-3ce0-45c2-844b-61953b81ad25",
+					"titel": "Mirabellevej 4, 9940 Læsø",
+					"husnummerId": "0a3f509a-cce6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29b77acb-6d54-4d62-9523-85e42bdc626a",
+					"titel": "Mirabellevej 6, 9940 Læsø",
+					"husnummerId": "0a3f509a-cce7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-79cf-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 9940 Læsø",
+					"husnummerId": "0a3f509a-cce8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-79d0-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 9940 Læsø",
+					"husnummerId": "0a3f509a-cce9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-79d1-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 9940 Læsø",
+					"husnummerId": "0a3f509a-ccea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2374c2e5-9e80-3ff2-e044-0003ba298018",
+					"titel": "Mirabellevej 14, 9940 Læsø",
+					"husnummerId": "0a3f509a-cceb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-79d2-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, 9940 Læsø",
+					"husnummerId": "0a3f509a-ccec-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Miravænget 7000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbb8-32b8-e044-0003ba298018",
+					"titel": "Miravænget 1, 7000 Fredericia",
+					"husnummerId": "0a3f508f-191f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbb9-32b8-e044-0003ba298018",
+					"titel": "Miravænget 2, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1920-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbba-32b8-e044-0003ba298018",
+					"titel": "Miravænget 3, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1921-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbbb-32b8-e044-0003ba298018",
+					"titel": "Miravænget 4, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1922-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbbc-32b8-e044-0003ba298018",
+					"titel": "Miravænget 5, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1923-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbbd-32b8-e044-0003ba298018",
+					"titel": "Miravænget 6, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1924-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbbe-32b8-e044-0003ba298018",
+					"titel": "Miravænget 7, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1925-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbbf-32b8-e044-0003ba298018",
+					"titel": "Miravænget 8, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1926-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbc0-32b8-e044-0003ba298018",
+					"titel": "Miravænget 9, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1927-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbc1-32b8-e044-0003ba298018",
+					"titel": "Miravænget 11, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1928-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbc2-32b8-e044-0003ba298018",
+					"titel": "Miravænget 13, 7000 Fredericia",
+					"husnummerId": "0a3f508f-1929-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-bbc3-32b8-e044-0003ba298018",
+					"titel": "Miravænget 15, 7000 Fredericia",
+					"husnummerId": "0a3f508f-192a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 4681": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-7bf5-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 4681 Herfølge",
+					"husnummerId": "0a3f5081-9d63-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-7bf6-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 4681 Herfølge",
+					"husnummerId": "0a3f5081-9d64-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-7bf7-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 4681 Herfølge",
+					"husnummerId": "0a3f5081-9d65-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-7bf8-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 4681 Herfølge",
+					"husnummerId": "0a3f5081-9d66-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-7bf9-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 4681 Herfølge",
+					"husnummerId": "0a3f5081-9d67-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-7bfa-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 4681 Herfølge",
+					"husnummerId": "0a3f5081-9d68-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabelvej 9520": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-514b-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 1, Blenstrup, 9520 Skørping",
+					"husnummerId": "0a3f509b-b07f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-514c-32b8-e044-0003ba298018",
+					"titel": "Mirabelvej 2, Blenstrup, 9520 Skørping",
+					"husnummerId": "0a3f509b-b080-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2297eb63-cfbc-4f80-8d99-666443090575",
+					"titel": "Mirabelvej 3, Blenstrup, 9520 Skørping",
+					"husnummerId": "0a3f509b-b081-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Miravænget 2620": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-273b-32b8-e044-0003ba298018",
+					"titel": "Miravænget 1, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a621-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-273c-32b8-e044-0003ba298018",
+					"titel": "Miravænget 2, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a622-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-273d-32b8-e044-0003ba298018",
+					"titel": "Miravænget 3, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a623-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-273e-32b8-e044-0003ba298018",
+					"titel": "Miravænget 4, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a624-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-273f-32b8-e044-0003ba298018",
+					"titel": "Miravænget 5, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a625-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2740-32b8-e044-0003ba298018",
+					"titel": "Miravænget 6, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a626-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2741-32b8-e044-0003ba298018",
+					"titel": "Miravænget 7, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a627-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2742-32b8-e044-0003ba298018",
+					"titel": "Miravænget 8, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a628-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2743-32b8-e044-0003ba298018",
+					"titel": "Miravænget 9, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a629-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2744-32b8-e044-0003ba298018",
+					"titel": "Miravænget 10, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a62a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2745-32b8-e044-0003ba298018",
+					"titel": "Miravænget 11, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a62b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2746-32b8-e044-0003ba298018",
+					"titel": "Miravænget 12, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a62c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2747-32b8-e044-0003ba298018",
+					"titel": "Miravænget 13, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a62d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2748-32b8-e044-0003ba298018",
+					"titel": "Miravænget 14, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a62e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2749-32b8-e044-0003ba298018",
+					"titel": "Miravænget 15, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a62f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-274a-32b8-e044-0003ba298018",
+					"titel": "Miravænget 16, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a630-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-274b-32b8-e044-0003ba298018",
+					"titel": "Miravænget 17, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a631-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-274c-32b8-e044-0003ba298018",
+					"titel": "Miravænget 18, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a632-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-274d-32b8-e044-0003ba298018",
+					"titel": "Miravænget 19, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a633-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-274e-32b8-e044-0003ba298018",
+					"titel": "Miravænget 20, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a634-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-274f-32b8-e044-0003ba298018",
+					"titel": "Miravænget 21, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a635-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2750-32b8-e044-0003ba298018",
+					"titel": "Miravænget 22, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a636-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2751-32b8-e044-0003ba298018",
+					"titel": "Miravænget 23, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a637-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2752-32b8-e044-0003ba298018",
+					"titel": "Miravænget 24, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a638-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2753-32b8-e044-0003ba298018",
+					"titel": "Miravænget 25, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a639-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2754-32b8-e044-0003ba298018",
+					"titel": "Miravænget 26, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a63a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2755-32b8-e044-0003ba298018",
+					"titel": "Miravænget 27, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a63b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2756-32b8-e044-0003ba298018",
+					"titel": "Miravænget 28, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a63c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2757-32b8-e044-0003ba298018",
+					"titel": "Miravænget 29, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a63d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2758-32b8-e044-0003ba298018",
+					"titel": "Miravænget 30, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a63e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2759-32b8-e044-0003ba298018",
+					"titel": "Miravænget 31, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a63f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-275a-32b8-e044-0003ba298018",
+					"titel": "Miravænget 32, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a640-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-275b-32b8-e044-0003ba298018",
+					"titel": "Miravænget 33, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a641-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-275c-32b8-e044-0003ba298018",
+					"titel": "Miravænget 34, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a642-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-275d-32b8-e044-0003ba298018",
+					"titel": "Miravænget 35, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a643-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-275e-32b8-e044-0003ba298018",
+					"titel": "Miravænget 36, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a644-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-275f-32b8-e044-0003ba298018",
+					"titel": "Miravænget 37, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a645-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2760-32b8-e044-0003ba298018",
+					"titel": "Miravænget 38, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a646-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2761-32b8-e044-0003ba298018",
+					"titel": "Miravænget 39, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a647-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2762-32b8-e044-0003ba298018",
+					"titel": "Miravænget 40, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a648-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2763-32b8-e044-0003ba298018",
+					"titel": "Miravænget 41, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a649-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2764-32b8-e044-0003ba298018",
+					"titel": "Miravænget 42, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a64a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2765-32b8-e044-0003ba298018",
+					"titel": "Miravænget 43, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a64b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2766-32b8-e044-0003ba298018",
+					"titel": "Miravænget 44, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a64c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2767-32b8-e044-0003ba298018",
+					"titel": "Miravænget 45, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a64d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2768-32b8-e044-0003ba298018",
+					"titel": "Miravænget 46, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a64e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-2769-32b8-e044-0003ba298018",
+					"titel": "Miravænget 47, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a64f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "49b3bddf-2474-4d2e-88c2-f9e3cef6d9ab",
+					"titel": "Miravænget 48, 2620 Albertslund",
+					"husnummerId": "0a3f507c-a650-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Miravej 5500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-2b02-32b8-e044-0003ba298018",
+					"titel": "Miravej 3, Vejlby Fed, 5500 Middelfart",
+					"husnummerId": "0a3f5088-a20c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-2b03-32b8-e044-0003ba298018",
+					"titel": "Miravej 5, Vejlby Fed, 5500 Middelfart",
+					"husnummerId": "0a3f5088-a20d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-2b04-32b8-e044-0003ba298018",
+					"titel": "Miravej 7, Vejlby Fed, 5500 Middelfart",
+					"husnummerId": "0a3f5088-a20e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-2b05-32b8-e044-0003ba298018",
+					"titel": "Miravej 9, Vejlby Fed, 5500 Middelfart",
+					"husnummerId": "0a3f5088-a20f-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Miravej 8382": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1efc-32b8-e044-0003ba298018",
+					"titel": "Miravej 1, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e379-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1efd-32b8-e044-0003ba298018",
+					"titel": "Miravej 2, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e37a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1efe-32b8-e044-0003ba298018",
+					"titel": "Miravej 3, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e37b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1eff-32b8-e044-0003ba298018",
+					"titel": "Miravej 4, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e37c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f00-32b8-e044-0003ba298018",
+					"titel": "Miravej 5, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e37d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f01-32b8-e044-0003ba298018",
+					"titel": "Miravej 6, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e37e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f02-32b8-e044-0003ba298018",
+					"titel": "Miravej 7, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e37f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f03-32b8-e044-0003ba298018",
+					"titel": "Miravej 8, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e380-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f04-32b8-e044-0003ba298018",
+					"titel": "Miravej 9, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e381-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f05-32b8-e044-0003ba298018",
+					"titel": "Miravej 10, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e382-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f06-32b8-e044-0003ba298018",
+					"titel": "Miravej 11, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e383-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f07-32b8-e044-0003ba298018",
+					"titel": "Miravej 12, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e384-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f08-32b8-e044-0003ba298018",
+					"titel": "Miravej 14, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e385-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-1f09-32b8-e044-0003ba298018",
+					"titel": "Miravej 16, Søften, 8382 Hinnerup",
+					"husnummerId": "0a3f5093-e386-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevænget 5270": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5769-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 1, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fcf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-576a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 2, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-576b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 3, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-576c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 4, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-576d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 5, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-576e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 6, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-576f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 7, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5770-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 8, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5771-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 9, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5772-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 10, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5773-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 11, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fd9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5774-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 12, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fda-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5775-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 13, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fdb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5776-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 14, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fdc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5777-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 15, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fdd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5778-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 16, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fde-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5779-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 17, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fdf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-577a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 18, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fe0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-577b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 20, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fe1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-577c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 22, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fe2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-577d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevænget 24, Stige, 5270 Odense N",
+					"husnummerId": "0a3f5089-7fe3-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellevej 9440": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a544-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 1, 9440 Aabybro",
+					"husnummerId": "0a3f509c-0829-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a545-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 2, 9440 Aabybro",
+					"husnummerId": "0a3f509c-082a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a546-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 3, 9440 Aabybro",
+					"husnummerId": "0a3f509c-082b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a547-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 4, 9440 Aabybro",
+					"husnummerId": "0a3f509c-082c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a548-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 5, 9440 Aabybro",
+					"husnummerId": "0a3f509c-082d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a549-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 6, 9440 Aabybro",
+					"husnummerId": "0a3f509c-082e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a54a-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 7, 9440 Aabybro",
+					"husnummerId": "0a3f509c-082f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a54b-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 8, 9440 Aabybro",
+					"husnummerId": "0a3f509c-0830-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a54c-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 9, 9440 Aabybro",
+					"husnummerId": "0a3f509c-0831-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a54d-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 10, 9440 Aabybro",
+					"husnummerId": "0a3f509c-0832-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a54e-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 12, 9440 Aabybro",
+					"husnummerId": "0a3f509c-0833-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a54f-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 14, 9440 Aabybro",
+					"husnummerId": "0a3f509c-0834-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-a550-32b8-e044-0003ba298018",
+					"titel": "Mirabellevej 16, 9440 Aabybro",
+					"husnummerId": "0a3f509c-0835-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=mirabellehegnet": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "a7b50b98-8173-4fc8-8e15-c7f0920f8ba8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellehegnet 6440 Augustenborg",
+					"vejnavn": "Mirabellehegnet",
+					"postnr": "6440",
+					"postdistrikt": "Augustenborg",
+					"antal_husnumre": 2
+				},
+				{
+					"id": "2afb7bb3-6699-4ddb-aebf-7547050c7034",
+					"type": "navngivenvejpostnummer",
+					"titel": "Mirabellehegnet 8700 Horsens",
+					"vejnavn": "Mirabellehegnet",
+					"postnr": "8700",
+					"postdistrikt": "Horsens",
+					"antal_husnumre": 67
+				}
+			]
+		},
+		"/adresser/soeg?tekst=mirabellehegnet 5": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "61a883d3-accf-4660-8f1a-1cb45bcad3a1",
+					"titel": "Mirabellehegnet 5, 8700 Horsens",
+					"husnummerId": "434b5797-c89f-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "79d0256a-05e6-4506-b8b3-b750e8bcdf36",
+					"titel": "Mirabellehegnet 50, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d2-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "790424fe-56eb-46f2-beb0-b0fde11eab47",
+					"titel": "Mirabellehegnet 51, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d3-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ed2347f0-ca79-4530-b307-65b99aff44ec",
+					"titel": "Mirabellehegnet 52, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d4-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "104881f9-e719-4cdc-9df9-ee154ad36536",
+					"titel": "Mirabellehegnet 53, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d5-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22953741-364c-44a1-aa55-b9fe1f9537dc",
+					"titel": "Mirabellehegnet 54, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d6-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a0ef9985-52ce-4aa5-8c84-d6f2e74b9344",
+					"titel": "Mirabellehegnet 55, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d7-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1d5deb99-63ec-4eec-a70b-2fe34700cb24",
+					"titel": "Mirabellehegnet 56, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d8-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3e50da51-9e2a-434b-b539-9016ef9285ff",
+					"titel": "Mirabellehegnet 57, 8700 Horsens",
+					"husnummerId": "4a614f95-f2d9-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "820ad3ef-c74e-4da8-b963-ba04b4a233b4",
+					"titel": "Mirabellehegnet 58, 8700 Horsens",
+					"husnummerId": "4a614f95-f2da-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0000aaf0-826f-4458-b26f-4317ad2a4979",
+					"titel": "Mirabellehegnet 59, 8700 Horsens",
+					"husnummerId": "4a614f95-f2db-5766-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=mirabellehegnet 59": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0000aaf0-826f-4458-b26f-4317ad2a4979",
+					"titel": "Mirabellehegnet 59, 8700 Horsens",
+					"husnummerId": "4a614f95-f2db-5766-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Mirabellehegnet 59, 8700 Horsens": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0000aaf0-826f-4458-b26f-4317ad2a4979",
+					"titel": "Mirabellehegnet 59, 8700 Horsens",
+					"husnummerId": "4a614f95-f2db-5766-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

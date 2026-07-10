@@ -1,0 +1,714 @@
+{
+	"tekst": "Cylindervej 17, 1. th, 2450 København SV",
+	"dawaId": "0001567d-cdec-4e93-9b2c-b879660a48f4",
+	"recordedAt": "2026-07-09T20:35:40.129Z",
+	"stages": [
+		{
+			"stage": "cyli",
+			"dawa": [
+				"Cylindervej 7, 2450 København SV",
+				"Cylindervej 9, 2450 København SV",
+				"Cylindervej 10, 1., 2450 København SV",
+				"Cylindervej 11, 1., 2450 København SV",
+				"Cylindervej 19, 1., 2450 København SV",
+				"Cylindervej 10, st., 2450 København SV",
+				"Cylindervej 11, st., 2450 København SV",
+				"Cylindervej 18, st., 2450 København SV",
+				"Cylindervej 19, st., 2450 København SV",
+				"Cylindervej 23, st., 2450 København SV"
+			]
+		},
+		{
+			"stage": "cylindervej",
+			"dawa": [
+				"Cylindervej 7, 2450 København SV",
+				"Cylindervej 9, 2450 København SV",
+				"Cylindervej 10, 1., 2450 København SV",
+				"Cylindervej 11, 1., 2450 København SV",
+				"Cylindervej 19, 1., 2450 København SV",
+				"Cylindervej 10, st., 2450 København SV",
+				"Cylindervej 11, st., 2450 København SV",
+				"Cylindervej 18, st., 2450 København SV",
+				"Cylindervej 19, st., 2450 København SV",
+				"Cylindervej 23, st., 2450 København SV"
+			]
+		},
+		{
+			"stage": "cylindervej 1",
+			"dawa": [
+				"Cylindervej 10, 1., 2450 København SV",
+				"Cylindervej 11, 1., 2450 København SV",
+				"Cylindervej 19, 1., 2450 København SV",
+				"Cylindervej 12, 1. mf, 2450 København SV",
+				"Cylindervej 12, 1. th, 2450 København SV",
+				"Cylindervej 12, 1. tv, 2450 København SV",
+				"Cylindervej 13, 1. mf, 2450 København SV",
+				"Cylindervej 13, 1. th, 2450 København SV",
+				"Cylindervej 13, 1. tv, 2450 København SV",
+				"Cylindervej 14, 1. th, 2450 København SV"
+			]
+		},
+		{
+			"stage": "cylindervej 17",
+			"dawa": [
+				"Cylindervej 17, 1. mf, 2450 København SV",
+				"Cylindervej 17, 1. th, 2450 København SV",
+				"Cylindervej 17, 1. tv, 2450 København SV",
+				"Cylindervej 17, 2. mf, 2450 København SV",
+				"Cylindervej 17, 2. th, 2450 København SV",
+				"Cylindervej 17, 2. tv, 2450 København SV",
+				"Cylindervej 17, 3. mf, 2450 København SV",
+				"Cylindervej 17, 3. th, 2450 København SV",
+				"Cylindervej 17, 3. tv, 2450 København SV",
+				"Cylindervej 17, st. th, 2450 København SV"
+			]
+		},
+		{
+			"stage": "cylindervej 17 1",
+			"dawa": [
+				"Cylindervej 17, 1. mf, 2450 København SV",
+				"Cylindervej 17, 1. th, 2450 København SV",
+				"Cylindervej 17, 1. tv, 2450 København SV",
+				"Cylindervej 17, 2. mf, 2450 København SV",
+				"Cylindervej 17, 2. th, 2450 København SV",
+				"Cylindervej 17, 2. tv, 2450 København SV",
+				"Cylindervej 17, 3. mf, 2450 København SV",
+				"Cylindervej 17, 3. th, 2450 København SV",
+				"Cylindervej 17, 3. tv, 2450 København SV",
+				"Cylindervej 17, st. th, 2450 København SV"
+			]
+		},
+		{
+			"stage": "cylindervej 17 1 th",
+			"dawa": [
+				"Cylindervej 17, 1. th, 2450 København SV"
+			]
+		},
+		{
+			"stage": "Cylindervej 17, 1. th, 2450 København SV",
+			"dawa": [
+				"Cylindervej 17, 1. th, 2450 København SV"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=cyli": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "cb2a3c80-6dba-48f5-8eaa-6ddfc9a2558f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Cylindervej 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"postnr": "2450",
+					"postdistrikt": "København SV",
+					"antal_husnumre": 18
+				},
+				{
+					"id": "bfca63bc-c0b7-4d81-aed0-0610533e0bcd",
+					"type": "navngivenvejpostnummer",
+					"titel": "Sydlige Parallelbane 7184 Vandel",
+					"vejnavn": "Sydlige Parallelbane",
+					"postnr": "7184",
+					"postdistrikt": "Vandel",
+					"antal_husnumre": 24
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Cylindervej 2450": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "9460fc21-bbb0-456c-b0eb-538e37413a0d",
+					"titel": "Cylindervej 9, 2450 København SV",
+					"husnummerId": "01fb9c88-d54d-42c8-87c8-c397879a2842"
+				},
+				{
+					"type": "husnummer",
+					"id": "f834fa86-1373-4166-a9d3-29af067f0d61",
+					"titel": "Cylindervej 10, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "73c83502-3d4e-48aa-8045-bfe13ec23a6c",
+					"titel": "Cylindervej 11, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "52fa95f3-10b4-45cb-9278-c8fa67e97c09",
+					"titel": "Cylindervej 12, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "00ffca06-456a-42a5-a721-716be2491eb6",
+					"titel": "Cylindervej 13, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "4c8c6134-ac23-48a6-9239-e3bfdb6da7c8",
+					"titel": "Cylindervej 14, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "a01d3bb5-bf9c-4cb7-8283-2bb9d2daf3db",
+					"titel": "Cylindervej 15, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "e3317b83-349f-48b3-9cc4-5d8e88f3f476",
+					"titel": "Cylindervej 16, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "e3469960-0b8f-4160-a304-ff645afd9cc6",
+					"titel": "Cylindervej 17, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "edb61ce5-4707-483a-bb69-4aaccde4f4dd",
+					"titel": "Cylindervej 18, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "d11d7be1-042f-4ea8-94d7-eacd6d2a26fd",
+					"titel": "Cylindervej 19, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "d723da04-0205-4654-a03a-58547346786e",
+					"titel": "Cylindervej 21, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "cea179f5-c56a-4102-a4c6-ebf0d617ae38",
+					"titel": "Cylindervej 23, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "7a9e6c14-5474-404b-84a5-42b7fe511b49",
+					"titel": "Cylindervej 25, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "e11b8931-96e2-4a84-8533-3a7e8523bcb0",
+					"titel": "Cylindervej 27, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "f9cea07f-6cad-4a1f-b941-af88ee4cab8d",
+					"titel": "Cylindervej 29, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "29"
+				},
+				{
+					"type": "husnummer",
+					"id": "b90ddb67-a2e0-4418-a4be-cc60c7e3ad8f",
+					"titel": "Cylindervej 31, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "31"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Sydlige Parallelbane 7184": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "c6b2363f-0359-488f-a8ac-e83c1645aeee",
+					"titel": "Sydlige Parallelbane 5, 7184 Vandel",
+					"husnummerId": "5ddb979d-c545-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c14c77f3-09f2-4a9c-a7fc-bcdeadd0add2",
+					"titel": "Sydlige Parallelbane 9, 7184 Vandel",
+					"husnummerId": "5ddb979d-c546-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "32651c49-b9d7-4169-8e03-43a379dfdf6b",
+					"titel": "Sydlige Parallelbane 13, 7184 Vandel",
+					"husnummerId": "5ddb979d-c547-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22b3e9f3-2af6-49f1-9519-fb24b39687cd",
+					"titel": "Sydlige Parallelbane 17, 7184 Vandel",
+					"husnummerId": "5ddb979d-c548-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "753b2955-86ef-47b8-9c06-66d65a70001d",
+					"titel": "Sydlige Parallelbane 21, 7184 Vandel",
+					"husnummerId": "5ddb979d-c549-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a46bbcad-09b1-42cc-89e9-ca17ebf5dcbb",
+					"titel": "Sydlige Parallelbane 25, 7184 Vandel",
+					"husnummerId": "5ddb979d-c54a-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2b4a43e5-bc4f-4b31-ae09-283fcd3c23dc",
+					"titel": "Sydlige Parallelbane 27, 7184 Vandel",
+					"husnummerId": "b07bb46b-5e90-4111-a6e9-2121b72e7518"
+				},
+				{
+					"type": "adresse",
+					"id": "c14662b6-73fb-4c19-983e-8213f3d3cdf2",
+					"titel": "Sydlige Parallelbane 29, 7184 Vandel",
+					"husnummerId": "5ddb979d-c54b-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a61e6d7-81af-48aa-9dc6-06ad1235b828",
+					"titel": "Sydlige Parallelbane 31, 7184 Vandel",
+					"husnummerId": "5ddb979d-c54c-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ebf7f49c-6de7-42ef-ad76-32fde0f38aee",
+					"titel": "Sydlige Parallelbane 35, 7184 Vandel",
+					"husnummerId": "5ddb979d-c54d-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cada58b4-01f7-4330-a4e6-eb91afb7bd98",
+					"titel": "Sydlige Parallelbane 39, 7184 Vandel",
+					"husnummerId": "5ddb979d-c54e-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4fed9fc4-b558-4cbe-8654-afa51374d8a6",
+					"titel": "Sydlige Parallelbane 41, 7184 Vandel",
+					"husnummerId": "5e7c1c16-fd54-473a-a29d-433a2a9b2402"
+				},
+				{
+					"type": "adresse",
+					"id": "12200d10-d78f-4202-806e-07ea5afe13f9",
+					"titel": "Sydlige Parallelbane 43, 7184 Vandel",
+					"husnummerId": "5ddb979d-c54f-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bac87604-9cd8-4d40-a026-260b9a7f59fc",
+					"titel": "Sydlige Parallelbane 47, 7184 Vandel",
+					"husnummerId": "5ddb979d-c550-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b7ee94c6-9dce-4fcf-8426-10f2050911d3",
+					"titel": "Sydlige Parallelbane 51, 7184 Vandel",
+					"husnummerId": "5ddb979d-c551-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f96d3adf-75f7-4ac3-9cdd-656925aca08f",
+					"titel": "Sydlige Parallelbane 55, 7184 Vandel",
+					"husnummerId": "5ddb979d-c552-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e5cd5a17-94c2-421a-bed5-23fc3d0e7741",
+					"titel": "Sydlige Parallelbane 57, 7184 Vandel",
+					"husnummerId": "178edf07-60c7-4cf9-a3bf-68c6cacf377b"
+				},
+				{
+					"type": "adresse",
+					"id": "ab85caa2-a3b6-461e-a381-f686eac24d82",
+					"titel": "Sydlige Parallelbane 101, 7184 Vandel",
+					"husnummerId": "5ddb979d-c553-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6d04ce42-99f0-46d4-a018-6b094674ea01",
+					"titel": "Sydlige Parallelbane 105, 7184 Vandel",
+					"husnummerId": "5ddb979d-c554-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5144eff4-581b-4422-88d1-a305df21d3fe",
+					"titel": "Sydlige Parallelbane 110, 7184 Vandel",
+					"husnummerId": "0cf63d2f-112d-4382-9522-7a2e4f26f71f"
+				},
+				{
+					"type": "adresse",
+					"id": "d7fd570d-f430-406e-a990-4b8a95facb5c",
+					"titel": "Sydlige Parallelbane 113, 7184 Vandel",
+					"husnummerId": "b7dadfdf-8f8f-43f8-bedf-ce8289816b66"
+				},
+				{
+					"type": "adresse",
+					"id": "81dc62c1-f7c2-46a1-849e-92ade8c7682b",
+					"titel": "Sydlige Parallelbane 115, 7184 Vandel",
+					"husnummerId": "5ddb979d-c555-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3a0d440c-ebfa-4d05-a80b-8b100fec1b97",
+					"titel": "Sydlige Parallelbane 121, 7184 Vandel",
+					"husnummerId": "5ddb979d-c556-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5e3d34f7-34e2-432e-ad4b-8598b2d5b800",
+					"titel": "Sydlige Parallelbane 125, 7184 Vandel",
+					"husnummerId": "5ddb979d-c557-40d3-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=cylindervej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "9460fc21-bbb0-456c-b0eb-538e37413a0d",
+					"titel": "Cylindervej 9, 2450 København SV",
+					"husnummerId": "01fb9c88-d54d-42c8-87c8-c397879a2842"
+				},
+				{
+					"type": "husnummer",
+					"id": "f834fa86-1373-4166-a9d3-29af067f0d61",
+					"titel": "Cylindervej 10, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "73c83502-3d4e-48aa-8045-bfe13ec23a6c",
+					"titel": "Cylindervej 11, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "52fa95f3-10b4-45cb-9278-c8fa67e97c09",
+					"titel": "Cylindervej 12, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "00ffca06-456a-42a5-a721-716be2491eb6",
+					"titel": "Cylindervej 13, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "4c8c6134-ac23-48a6-9239-e3bfdb6da7c8",
+					"titel": "Cylindervej 14, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "a01d3bb5-bf9c-4cb7-8283-2bb9d2daf3db",
+					"titel": "Cylindervej 15, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "e3317b83-349f-48b3-9cc4-5d8e88f3f476",
+					"titel": "Cylindervej 16, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "e3469960-0b8f-4160-a304-ff645afd9cc6",
+					"titel": "Cylindervej 17, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "edb61ce5-4707-483a-bb69-4aaccde4f4dd",
+					"titel": "Cylindervej 18, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "d11d7be1-042f-4ea8-94d7-eacd6d2a26fd",
+					"titel": "Cylindervej 19, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "d723da04-0205-4654-a03a-58547346786e",
+					"titel": "Cylindervej 21, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "cea179f5-c56a-4102-a4c6-ebf0d617ae38",
+					"titel": "Cylindervej 23, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "7a9e6c14-5474-404b-84a5-42b7fe511b49",
+					"titel": "Cylindervej 25, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "e11b8931-96e2-4a84-8533-3a7e8523bcb0",
+					"titel": "Cylindervej 27, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "f9cea07f-6cad-4a1f-b941-af88ee4cab8d",
+					"titel": "Cylindervej 29, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "29"
+				},
+				{
+					"type": "husnummer",
+					"id": "b90ddb67-a2e0-4418-a4be-cc60c7e3ad8f",
+					"titel": "Cylindervej 31, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "31"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=cylindervej 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "f834fa86-1373-4166-a9d3-29af067f0d61",
+					"titel": "Cylindervej 10, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "73c83502-3d4e-48aa-8045-bfe13ec23a6c",
+					"titel": "Cylindervej 11, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "52fa95f3-10b4-45cb-9278-c8fa67e97c09",
+					"titel": "Cylindervej 12, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "00ffca06-456a-42a5-a721-716be2491eb6",
+					"titel": "Cylindervej 13, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "4c8c6134-ac23-48a6-9239-e3bfdb6da7c8",
+					"titel": "Cylindervej 14, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "a01d3bb5-bf9c-4cb7-8283-2bb9d2daf3db",
+					"titel": "Cylindervej 15, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "e3317b83-349f-48b3-9cc4-5d8e88f3f476",
+					"titel": "Cylindervej 16, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "e3469960-0b8f-4160-a304-ff645afd9cc6",
+					"titel": "Cylindervej 17, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "edb61ce5-4707-483a-bb69-4aaccde4f4dd",
+					"titel": "Cylindervej 18, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "d11d7be1-042f-4ea8-94d7-eacd6d2a26fd",
+					"titel": "Cylindervej 19, 2450 København SV",
+					"vejnavn": "Cylindervej",
+					"husnummer": "19"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=cylindervej 17": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "082a623b-d157-4002-904b-d40fa8a6a48c",
+					"titel": "Cylindervej 17, st. tv, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "e5fa33b1-4bef-481d-abe6-5162a742fa49",
+					"titel": "Cylindervej 17, st. th, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "0ab80578-f7ce-49ba-b1d7-10216ddd2db8",
+					"titel": "Cylindervej 17, 1. tv, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "9624087f-b508-471a-90fc-2f0b8dc48c43",
+					"titel": "Cylindervej 17, 1. mf, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "0001567d-cdec-4e93-9b2c-b879660a48f4",
+					"titel": "Cylindervej 17, 1. th, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "fe4a6d8d-c67f-4ec8-ad56-d040a1352319",
+					"titel": "Cylindervej 17, 2. tv, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "b46fbd62-ad9c-4910-98f5-340d8c4b60b2",
+					"titel": "Cylindervej 17, 2. mf, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "2535e4fc-c00e-45ae-8680-bfa893fa7aca",
+					"titel": "Cylindervej 17, 2. th, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "3ef4e8c2-3423-4f7c-a0b7-79c54f3dd355",
+					"titel": "Cylindervej 17, 3. tv, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "1a364387-f21e-45f3-bd68-d866e0aab1de",
+					"titel": "Cylindervej 17, 3. mf, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "e5efc31a-4497-47d1-93a4-e35acd4f2747",
+					"titel": "Cylindervej 17, 3. th, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=cylindervej 17 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0ab80578-f7ce-49ba-b1d7-10216ddd2db8",
+					"titel": "Cylindervej 17, 1. tv, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "9624087f-b508-471a-90fc-2f0b8dc48c43",
+					"titel": "Cylindervej 17, 1. mf, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				},
+				{
+					"type": "adresse",
+					"id": "0001567d-cdec-4e93-9b2c-b879660a48f4",
+					"titel": "Cylindervej 17, 1. th, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=cylindervej 17 1 th": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0001567d-cdec-4e93-9b2c-b879660a48f4",
+					"titel": "Cylindervej 17, 1. th, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Cylindervej 17, 1. th, 2450 København SV": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0001567d-cdec-4e93-9b2c-b879660a48f4",
+					"titel": "Cylindervej 17, 1. th, 2450 København SV",
+					"husnummerId": "e3469960-0b8f-4160-a304-ff645afd9cc6"
+				}
+			]
+		}
+	}
+}

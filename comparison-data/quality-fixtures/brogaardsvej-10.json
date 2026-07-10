@@ -1,0 +1,165 @@
+{
+	"query": "brogårdsvej 10",
+	"recordedAt": "2026-07-09T19:51:56.346Z",
+	"dawa": {
+		"texts": [
+			"Brogårdsvej 10, 6880 Tarm",
+			"Brogårdsvej 10, 2670 Greve",
+			"Brogårdsvej 10, 6920 Videbæk",
+			"Brogårdsvej 10, 2820 Gentofte",
+			"Brogårdsvej 10, 4920 Søllested",
+			"Brogårdsvej 100, 2820 Gentofte",
+			"Brogårdsvej 102, 2820 Gentofte",
+			"Brogårdsvej 103, 2820 Gentofte",
+			"Brogårdsvej 106, 2820 Gentofte",
+			"Brogårdsvej 105, 1., 2820 Gentofte"
+		],
+		"ids": [
+			"6626397d-1888-43d5-a151-eafc3bfca3f0",
+			"0a3f50aa-e369-32b8-e044-0003ba298018",
+			"e29c76b0-9fc8-401e-abc8-2fff7c9102a0",
+			"f15222bb-f4d0-4ea3-8973-a111cb76eb3b",
+			"0a3f50af-ac90-32b8-e044-0003ba298018",
+			"46ccd0c8-f447-4a71-90c6-31921b0836c8",
+			"3fc546c4-84bc-4216-9470-7171bad156d4",
+			"0a3f50a3-a441-32b8-e044-0003ba298018",
+			"76d92ab9-b9b1-4cc1-b922-02bf84b1a3ae",
+			"0a3f50a3-a44a-32b8-e044-0003ba298018"
+		],
+		"count": 10
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=brogårdsvej 10": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-e369-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, 2670 Greve",
+					"husnummerId": "0a3f5081-165e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f15222bb-f4d0-4ea3-8973-a111cb76eb3b",
+					"titel": "Brogårdsvej 10, 2820 Gentofte",
+					"husnummerId": "bb307506-905a-4826-9269-5c472beb5999"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-ac90-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, 4920 Søllested",
+					"husnummerId": "0a3f5085-53ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-a61d-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, Bellinge, 5250 Odense SV",
+					"husnummerId": "0a3f5089-0781-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6626397d-1888-43d5-a151-eafc3bfca3f0",
+					"titel": "Brogårdsvej 10, 6880 Tarm",
+					"husnummerId": "0a3f5091-1d9a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e29c76b0-9fc8-401e-abc8-2fff7c9102a0",
+					"titel": "Brogårdsvej 10, 6920 Videbæk",
+					"husnummerId": "0a3f5092-ef1f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0342-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-716c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-3c40-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, Centrum, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-aa70-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-b1de-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, Balle, 8370 Hadsten",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d272-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 100, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "100"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d273-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "102"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a441-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 103, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d274-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d275-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 104, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "104"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d276-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 105, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "105"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d277-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 106, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "106"
+				},
+				{
+					"type": "adresse",
+					"id": "766e3c8a-68a1-448f-9fc0-55f10bff1c07",
+					"titel": "Brogårdsvej 10A, Balle, 8370 Hadsten",
+					"husnummerId": "a1b1170b-685b-43e5-8e44-bcac8870de4e"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-094b-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 105, Sæsing, 9830 Tårs",
+					"husnummerId": "0a3f509a-6475-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-094c-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 109, Sæsing, 9830 Tårs",
+					"husnummerId": "0a3f509a-6476-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc29-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvejen 10, Poulsker, 3730 Nexø",
+					"husnummerId": "0a3f5087-59b6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-670b-32b8-e044-0003ba298018",
+					"titel": "Brogårdvej 10, 7650 Bøvlingbjerg",
+					"husnummerId": "0a3f5092-28bc-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,5328 @@
+{
+	"tekst": "Toldbodgade 2, 2. 2, 8600 Silkeborg",
+	"dawaId": "363cc2db-6e78-1eb8-e044-0003ba298018",
+	"recordedAt": "2026-07-09T20:37:02.684Z",
+	"stages": [
+		{
+			"stage": "told",
+			"dawa": [
+				"Toldergade 6, 2791 Dragør",
+				"Toldbodvej 29, 9480 Løkken",
+				"Toldbodvej 46, 9480 Løkken",
+				"Toldbodvej 1A, 6330 Padborg",
+				"Toldbodvej 1B, 9492 Blokhus",
+				"Toldbodvej 1F, 9492 Blokhus",
+				"Toldbodvej 13, 6857 Blåvand",
+				"Toldbodvej 18, 6857 Blåvand",
+				"Toldbodvej 47A, 4581 Rørvig",
+				"Toldbodgade 1C, 9670 Løgstør"
+			]
+		},
+		{
+			"stage": "toldbodgade",
+			"dawa": [
+				"Toldbodgade 1, 5800 Nyborg",
+				"Toldbodgade 3, 5800 Nyborg",
+				"Toldbodgade 4, 5800 Nyborg",
+				"Toldbodgade 5, 5800 Nyborg",
+				"Toldbodgade 7, 5800 Nyborg",
+				"Toldbodgade 9, 5800 Nyborg",
+				"Toldbodgade 1, 5960 Marstal",
+				"Toldbodgade 3, 5960 Marstal",
+				"Toldbodgade 4, 4700 Næstved",
+				"Toldbodgade 7, 5960 Marstal"
+			]
+		},
+		{
+			"stage": "toldbodgade 2",
+			"dawa": [
+				"Toldbodgade 2B, 2. 2, 7700 Thisted",
+				"Toldbodgade 25, 2., 4700 Næstved",
+				"Toldbodgade 2A, 2., 6100 Haderslev",
+				"Toldbodgade 2, 2. 2, 8600 Silkeborg",
+				"Toldbodgade 2, 2., 4990 Sakskøbing",
+				"Toldbodgade 2, 9670 Løgstør",
+				"Toldbodgade 21, 5800 Nyborg",
+				"Toldbodgade 23, 5800 Nyborg",
+				"Toldbodgade 24, 5800 Nyborg",
+				"Toldbodgade 25, 5800 Nyborg"
+			]
+		},
+		{
+			"stage": "toldbodgade 2 2",
+			"dawa": [
+				"Toldbodgade 2B, 2. 2, 7700 Thisted",
+				"Toldbodgade 25, 2., 4700 Næstved",
+				"Toldbodgade 2A, 2., 6100 Haderslev",
+				"Toldbodgade 2, 2. 2, 8600 Silkeborg",
+				"Toldbodgade 2, 2., 4990 Sakskøbing",
+				"Toldbodgade 2, 9670 Løgstør",
+				"Toldbodgade 2, 4000 Roskilde",
+				"Toldbodgade 2, Nexø, 3730 Nexø",
+				"Toldbodgade 2, Hasle, 3790 Hasle",
+				"Toldbodgade 2, Rønne, 3700 Rønne"
+			]
+		},
+		{
+			"stage": "toldbodgade 2 2 2",
+			"dawa": [
+				"Toldbodgade 2B, 2. 2, 7700 Thisted",
+				"Toldbodgade 25, 2., 4700 Næstved",
+				"Toldbodgade 2A, 2., 6100 Haderslev",
+				"Toldbodgade 2, 2. 2, 8600 Silkeborg",
+				"Toldbodgade 2, 2., 4990 Sakskøbing",
+				"Toldbodgade 2, 9670 Løgstør",
+				"Toldbodgade 2, 4000 Roskilde",
+				"Toldbodgade 2, Nexø, 3730 Nexø",
+				"Toldbodgade 2, Hasle, 3790 Hasle",
+				"Toldbodgade 2, Rønne, 3700 Rønne"
+			]
+		},
+		{
+			"stage": "Toldbodgade 2, 2. 2, 8600 Silkeborg",
+			"dawa": [
+				"Toldbodgade 2, 2. 2, 8600 Silkeborg",
+				"Toldbodgade 2, 1. 2, 8600 Silkeborg",
+				"Toldbodgade 2, 2. 1, 8600 Silkeborg",
+				"Toldbodgade 2, 2. 3, 8600 Silkeborg",
+				"Toldbodgade 2, 2. 4, 8600 Silkeborg",
+				"Toldbodgade 2, 2. 5, 8600 Silkeborg",
+				"Toldbodgade 2, 2. 6, 8600 Silkeborg",
+				"Toldbodgade 2, 3. 2, 8600 Silkeborg",
+				"Toldbodgade 2, 1. 1, 8600 Silkeborg",
+				"Toldbodgade 2, st. 2, 8600 Silkeborg"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=told": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Toldbakken",
+					"vejNavn": "Toldbakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbod Plads",
+					"vejNavn": "Toldbod Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldboden",
+					"vejNavn": "Toldboden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldboderne",
+					"vejNavn": "Toldboderne"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodgade",
+					"vejNavn": "Toldbodgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodgyde",
+					"vejNavn": "Toldbodgyde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodhusevej",
+					"vejNavn": "Toldbodhusevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodstræde",
+					"vejNavn": "Toldbodstræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodvej",
+					"vejNavn": "Toldbodvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodvænget",
+					"vejNavn": "Toldbodvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbuen",
+					"vejNavn": "Toldbuen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolderensstræde",
+					"vejNavn": "Tolderensstræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldergade",
+					"vejNavn": "Toldergade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldergårdsvej",
+					"vejNavn": "Toldergårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolderhusene",
+					"vejNavn": "Tolderhusene"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolderlundsvej",
+					"vejNavn": "Tolderlundsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolderstien",
+					"vejNavn": "Tolderstien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldertoften",
+					"vejNavn": "Toldertoften"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldertoftvej",
+					"vejNavn": "Toldertoftvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldervej",
+					"vejNavn": "Toldervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldgade",
+					"vejNavn": "Toldgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldgårdsvej",
+					"vejNavn": "Toldgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldhusvej",
+					"vejNavn": "Toldhusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldkammeret",
+					"vejNavn": "Toldkammeret"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldmestervej",
+					"vejNavn": "Toldmestervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldmose",
+					"vejNavn": "Toldmose"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldskrivervej",
+					"vejNavn": "Toldskrivervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldstedet",
+					"vejNavn": "Toldstedet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldstedvej",
+					"vejNavn": "Toldstedvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldstien",
+					"vejNavn": "Toldstien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldstrupsgade",
+					"vejNavn": "Toldstrupsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldvagten",
+					"vejNavn": "Toldvagten"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldvej",
+					"vejNavn": "Toldvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldvejen",
+					"vejNavn": "Toldvejen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toelbjergvej",
+					"vejNavn": "Toelbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toelhøjvej",
+					"vejNavn": "Toelhøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toelstangsvej",
+					"vejNavn": "Toelstangsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toeltvej",
+					"vejNavn": "Toeltvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollemosevej",
+					"vejNavn": "Tollemosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollerup Strandvej",
+					"vejNavn": "Tollerup Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolleruphusvej",
+					"vejNavn": "Tolleruphusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollerupparken",
+					"vejNavn": "Tollerupparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollerupvej",
+					"vejNavn": "Tollerupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollerødvej",
+					"vejNavn": "Tollerødvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollesensvej",
+					"vejNavn": "Tollesensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollestruphedevej",
+					"vejNavn": "Tollestruphedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollestrupvej",
+					"vejNavn": "Tollestrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollundvej",
+					"vejNavn": "Tollundvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolmehøjvej",
+					"vejNavn": "Tolmehøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolnevej",
+					"vejNavn": "Tolnevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolsagervej",
+					"vejNavn": "Tolsagervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolsbjergvej",
+					"vejNavn": "Tolsbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolsbro",
+					"vejNavn": "Tolsbro"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolsgaardsvej",
+					"vejNavn": "Tolsgaardsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolsgårdvej",
+					"vejNavn": "Tolsgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolshavevej",
+					"vejNavn": "Tolshavevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolshøj",
+					"vejNavn": "Tolshøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolskovgård",
+					"vejNavn": "Tolskovgård"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolskovvej",
+					"vejNavn": "Tolskovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstedhaven",
+					"vejNavn": "Tolstedhaven"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstedhøjen",
+					"vejNavn": "Tolstedhøjen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstedparken",
+					"vejNavn": "Tolstedparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstedvej",
+					"vejNavn": "Tolstedvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstojs Alle",
+					"vejNavn": "Tolstojs Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstrup Allé",
+					"vejNavn": "Tolstrup Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstrup Byvej",
+					"vejNavn": "Tolstrup Byvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstrupvej",
+					"vejNavn": "Tolstrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolumvej",
+					"vejNavn": "Tolumvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolvalenvej",
+					"vejNavn": "Tolvalenvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolvkarlevej",
+					"vejNavn": "Tolvkarlevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tågelundvej",
+					"vejNavn": "Tågelundvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tålforhøj",
+					"vejNavn": "Tålforhøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tålforvej",
+					"vejNavn": "Tålforvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tålforvænget",
+					"vejNavn": "Tålforvænget"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=toldbodgade": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "b889eb53-4dc9-4682-afd6-2b7f4f656c6f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"postnr": "1253",
+					"postdistrikt": "København K",
+					"antal_husnumre": 124
+				},
+				{
+					"id": "38ea80a6-eee8-42f4-ab91-440161e17984",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 3700 Rønne",
+					"vejnavn": "Toldbodgade",
+					"postnr": "3700",
+					"postdistrikt": "Rønne",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "e013531a-79d7-4668-984a-bd0c40af6109",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 3730 Nexø",
+					"vejnavn": "Toldbodgade",
+					"postnr": "3730",
+					"postdistrikt": "Nexø",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "2cfcab25-fa23-4d88-ba9b-bede37d81af7",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 3790 Hasle",
+					"vejnavn": "Toldbodgade",
+					"postnr": "3790",
+					"postdistrikt": "Hasle",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "0a4cb861-e239-46dd-844a-4fa4bda2f728",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 4000 Roskilde",
+					"vejnavn": "Toldbodgade",
+					"postnr": "4000",
+					"postdistrikt": "Roskilde",
+					"antal_husnumre": 16
+				},
+				{
+					"id": "76abe9e2-6fa6-4680-ad1d-f924839412e3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"postnr": "4700",
+					"postdistrikt": "Næstved",
+					"antal_husnumre": 18
+				},
+				{
+					"id": "0f6cc05c-523c-47bc-8936-ec65275e33f9",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 4800 Nykøbing F",
+					"vejnavn": "Toldbodgade",
+					"postnr": "4800",
+					"postdistrikt": "Nykøbing F",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "191c60e5-010c-42a9-afb3-8f31fcbca947",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 4990 Sakskøbing",
+					"vejnavn": "Toldbodgade",
+					"postnr": "4990",
+					"postdistrikt": "Sakskøbing",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "3cef155b-8880-4ed3-9605-137c39c8b34a",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"postnr": "5000",
+					"postdistrikt": "Odense C",
+					"antal_husnumre": 43
+				},
+				{
+					"id": "11f710cf-5f4e-48e0-ab70-d06a7eff9e76",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"postnr": "5800",
+					"postdistrikt": "Nyborg",
+					"antal_husnumre": 56
+				},
+				{
+					"id": "cbd35a12-b4d2-4278-900d-59416e66deaf",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 5960 Marstal",
+					"vejnavn": "Toldbodgade",
+					"postnr": "5960",
+					"postdistrikt": "Marstal",
+					"antal_husnumre": 26
+				},
+				{
+					"id": "8115ca7d-6932-47d4-be98-28159eb0f2b7",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 6000 Kolding",
+					"vejnavn": "Toldbodgade",
+					"postnr": "6000",
+					"postdistrikt": "Kolding",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "f8a0b019-a11b-4ff2-a9e3-c1c482761c12",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 6100 Haderslev",
+					"vejnavn": "Toldbodgade",
+					"postnr": "6100",
+					"postdistrikt": "Haderslev",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "4ea424c4-80d7-4ef4-9468-9ee1b1419fc1",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"postnr": "6300",
+					"postdistrikt": "Gråsten",
+					"antal_husnumre": 19
+				},
+				{
+					"id": "7da03266-6a0a-4493-8eac-142b3b90f310",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 6520 Toftlund",
+					"vejnavn": "Toldbodgade",
+					"postnr": "6520",
+					"postdistrikt": "Toftlund",
+					"antal_husnumre": 24
+				},
+				{
+					"id": "c49aa6da-7893-4471-8f0f-7d7cd45757ff",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 6960 Hvide Sande",
+					"vejnavn": "Toldbodgade",
+					"postnr": "6960",
+					"postdistrikt": "Hvide Sande",
+					"antal_husnumre": 24
+				},
+				{
+					"id": "d88fb5b7-0c30-48e6-b9a0-2aa5386aa23a",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 7620 Lemvig",
+					"vejnavn": "Toldbodgade",
+					"postnr": "7620",
+					"postdistrikt": "Lemvig",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "be993ded-8f4b-427b-88c9-f047331fca31",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 7700 Thisted",
+					"vejnavn": "Toldbodgade",
+					"postnr": "7700",
+					"postdistrikt": "Thisted",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "6959947b-aae3-4a95-8ad8-03abf08c599d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 7900 Nykøbing M",
+					"vejnavn": "Toldbodgade",
+					"postnr": "7900",
+					"postdistrikt": "Nykøbing M",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "90ec075c-e2ca-454b-af55-c52822bc8ee5",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 8000 Aarhus C",
+					"vejnavn": "Toldbodgade",
+					"postnr": "8000",
+					"postdistrikt": "Aarhus C",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "95c63b5b-4dae-44a6-8850-8f2e2cc7b819",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"postnr": "8600",
+					"postdistrikt": "Silkeborg",
+					"antal_husnumre": 56
+				},
+				{
+					"id": "4a292dd6-7e9d-444e-9ed6-effec5f6d8ec",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 21
+				},
+				{
+					"id": "35d4a8eb-f43d-40cd-835c-73c37ed2947b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 8900 Randers C",
+					"vejnavn": "Toldbodgade",
+					"postnr": "8900",
+					"postdistrikt": "Randers C",
+					"antal_husnumre": 12
+				},
+				{
+					"id": "4139d8d2-14ba-4234-b29b-aa5c0936f495",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"postnr": "8930",
+					"postdistrikt": "Randers NØ",
+					"antal_husnumre": 32
+				},
+				{
+					"id": "a6ad8554-85cc-493a-af0b-9f8374a09128",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"postnr": "9000",
+					"postdistrikt": "Aalborg",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "48e54591-6604-435a-aa74-c7c71a6f187f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Toldbodgade 9670 Løgstør",
+					"vejnavn": "Toldbodgade",
+					"postnr": "9670",
+					"postdistrikt": "Løgstør",
+					"antal_husnumre": 16
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 1253": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1103-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1104-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1105-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1106-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1107-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 6, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1108-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 7, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1109-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 7A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "7A"
+				},
+				{
+					"type": "adresse",
+					"id": "64651667-91af-4955-8ab5-7f1bd68379e9",
+					"titel": "Toldbodgade 7B, 1253 København K",
+					"husnummerId": "7d118fde-7d8e-4571-9e6c-50903a20be62"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-110a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34d0-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8A, 1253 København K",
+					"husnummerId": "0a3f507b-110b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-110c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 9, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "9"
+				},
+				{
+					"type": "adresse",
+					"id": "4361d1ff-daac-4b92-b0df-9e83e8109125",
+					"titel": "Toldbodgade 10, 1253 København K",
+					"husnummerId": "8152211e-3973-4677-9b73-b4c287f8c593"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-110d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "10A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-110e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "10B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-110f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10C, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "10C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1110-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 11, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1111-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 12, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "912c6937-f698-4e98-b507-877568f92ed5",
+					"titel": "Toldbodgade 12A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "12A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1112-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 13, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1113-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 14, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1115-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 14B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "14B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1116-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 15, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1117-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 15A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "15A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1118-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 15B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "15B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1119-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 16, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-111a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 16A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "16A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-111b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0c65634c-c2fe-30a3-e044-0003ba298018",
+					"titel": "Toldbodgade 17A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "17A"
+				},
+				{
+					"type": "adresse",
+					"id": "11f17ae3-b7ad-0668-e044-0003ba298018",
+					"titel": "Toldbodgade 17B, 1253 København K",
+					"husnummerId": "0c65634c-c2ff-30a3-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0c65634c-c300-30a3-e044-0003ba298018",
+					"titel": "Toldbodgade 17C, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "17C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-111c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 18, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-111d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 19A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "19A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-111e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 19B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "19B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1120-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "21"
+				},
+				{
+					"type": "adresse",
+					"id": "14d4821a-65ed-497b-8f6e-f04308405ec0",
+					"titel": "Toldbodgade 23, 1253 København K",
+					"husnummerId": "0a3f507b-1121-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1122-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1123-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "bd630ca9-f6f1-4110-8cdc-a039ae5a90c9",
+					"titel": "Toldbodgade 25A, 1253 København K",
+					"husnummerId": "16bed59f-95f7-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "40b6c08f-389a-4f3c-acca-11d8b05afbde",
+					"titel": "Toldbodgade 26, 1253 København K",
+					"husnummerId": "0a3f507b-1124-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1125-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "27"
+				},
+				{
+					"type": "adresse",
+					"id": "4f97f17c-e4bd-4b1f-b16e-c1f06153ff80",
+					"titel": "Toldbodgade 28, 1253 København K",
+					"husnummerId": "0a3f507b-1127-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "38f26153-4cfa-4898-b27c-b11f6e1b4187",
+					"titel": "Toldbodgade 28A, 1253 København K",
+					"husnummerId": "0a3f507b-1126-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1129-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "29A"
+				},
+				{
+					"type": "husnummer",
+					"id": "22729a66-841e-44d0-e044-0003ba298018",
+					"titel": "Toldbodgade 29B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "29B"
+				},
+				{
+					"type": "husnummer",
+					"id": "22729a66-841f-44d0-e044-0003ba298018",
+					"titel": "Toldbodgade 29C, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "29C"
+				},
+				{
+					"type": "adresse",
+					"id": "4597dbaa-d14f-4272-ba25-99beeefca304",
+					"titel": "Toldbodgade 30, 1253 København K",
+					"husnummerId": "0a3f507b-112a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-112b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 31, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "31"
+				},
+				{
+					"type": "adresse",
+					"id": "9b874ac7-883e-42be-9ace-90076e066af1",
+					"titel": "Toldbodgade 32, 1253 København K",
+					"husnummerId": "0a3f507b-112c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-112d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 33, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "33"
+				},
+				{
+					"type": "adresse",
+					"id": "615ad603-12b8-42ac-9695-3de058a76306",
+					"titel": "Toldbodgade 34, 1253 København K",
+					"husnummerId": "0a3f507b-112e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-112f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 35, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "35"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1130-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 35A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "35A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1131-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 36A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "36A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1132-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 36B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "36B"
+				},
+				{
+					"type": "husnummer",
+					"id": "2102a1c0-9371-496a-9d7a-b24a3dc7e319",
+					"titel": "Toldbodgade 37A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "37A"
+				},
+				{
+					"type": "husnummer",
+					"id": "4d43ed8e-4741-41be-b45a-c8a3871b3be8",
+					"titel": "Toldbodgade 37B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "37B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1134-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 38A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "38A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1135-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 38B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "38B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1136-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 38C, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "38C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1137-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 39, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "39"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1138-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 40, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "40"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1139-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 41, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "41"
+				},
+				{
+					"type": "adresse",
+					"id": "3b01c24d-8fdc-48b5-b8e1-7c6d670c88ff",
+					"titel": "Toldbodgade 41A, 1253 København K",
+					"husnummerId": "0a3f507b-113a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-35df-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 43A, 1253 København K",
+					"husnummerId": "0a3f507b-113b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-113c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 43B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "43B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-35e4-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 43D, 1253 København K",
+					"husnummerId": "0a3f507b-113d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-35e5-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 43E, st., 1253 København K",
+					"husnummerId": "0a3f507b-113e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-113f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 43F, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "43F"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-35eb-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 43G, 1253 København K",
+					"husnummerId": "0a3f507b-1140-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d28f9a64-45ac-4448-92f1-c7d3fbc30aa4",
+					"titel": "Toldbodgade 45, 1253 København K",
+					"husnummerId": "0a3f507b-1141-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-35ec-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 45A, 1253 København K",
+					"husnummerId": "0a3f507b-1142-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1143-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 45B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "45B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-35f1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 45C, 1253 København K",
+					"husnummerId": "0a3f507b-1144-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-35f2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 45D, 1253 København K",
+					"husnummerId": "0a3f507b-1145-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1146-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 47, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "47"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1147-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 49A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "49A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1148-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 49B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "49B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1149-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 51A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "51A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-114a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 51B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "51B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-114b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 51C, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "51C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-114c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 51D, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "51D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-114d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 51E, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "51E"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-114e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 53, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "53"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-114f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 55, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "55"
+				},
+				{
+					"type": "husnummer",
+					"id": "ea0764f9-3a0e-4a4e-bbd4-46a322b3121e",
+					"titel": "Toldbodgade 55A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "55A"
+				},
+				{
+					"type": "husnummer",
+					"id": "fcfd30df-f911-4858-9ca0-b82c04d0dda7",
+					"titel": "Toldbodgade 55B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "55B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1150-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 57, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "57"
+				},
+				{
+					"type": "husnummer",
+					"id": "bee80363-0948-4350-b409-96a8dcbe6401",
+					"titel": "Toldbodgade 57A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "57A"
+				},
+				{
+					"type": "husnummer",
+					"id": "fb0b3044-c3f4-46d8-9676-e98fe70d257d",
+					"titel": "Toldbodgade 57B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "57B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1151-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 59, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "59"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1152-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 59B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "59B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1153-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 61, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "61"
+				},
+				{
+					"type": "husnummer",
+					"id": "5faf618a-38a1-4229-b650-6b40d2c21b52",
+					"titel": "Toldbodgade 61A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "61A"
+				},
+				{
+					"type": "husnummer",
+					"id": "d0bfe52f-6509-4dcb-a25d-aa898afb3217",
+					"titel": "Toldbodgade 61B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "61B"
+				},
+				{
+					"type": "husnummer",
+					"id": "16760575-6d2b-464b-bca5-ae167186f2e4",
+					"titel": "Toldbodgade 61C, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "61C"
+				},
+				{
+					"type": "husnummer",
+					"id": "ee241338-12c0-4e7a-88ac-048500ad2485",
+					"titel": "Toldbodgade 61D, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "61D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1154-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 63, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "63"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1155-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 65, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "65"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1156-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 65B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "65B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1157-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 67A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "67A"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 4000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5082-1f6a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1, 4000 Roskilde",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-298d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f6b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-298e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f6c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-298f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f6d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-2990-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f6e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5082-1f6f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 6, 4000 Roskilde",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "52dfad47-c609-42f7-a79d-25262be446dc",
+					"titel": "Toldbodgade 7, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f70-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5082-1f71-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8A, 4000 Roskilde",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5082-1f72-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8B, 4000 Roskilde",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5082-1f73-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 9, 4000 Roskilde",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "9"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-299a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f74-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5082-1f75-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 11, 4000 Roskilde",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-299e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 12, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f76-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-299f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 13, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f77-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5082-1f78-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 14, 4000 Roskilde",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "14"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 3730": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5087-af36-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1, Nexø, 3730 Nexø",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "03a40271-bad9-4d7c-b137-8857d0c088d9",
+					"titel": "Toldbodgade 2, Nexø, 3730 Nexø",
+					"husnummerId": "0a3f5087-af37-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3392-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, Nexø, 3730 Nexø",
+					"husnummerId": "0a3f5087-af38-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3393-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, Nexø, 3730 Nexø",
+					"husnummerId": "0a3f5087-af39-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5087-af3a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, Nexø, 3730 Nexø",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 4990": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-c1b7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4990 Sakskøbing",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "7e41cc9b-b301-4002-813c-6278d15245dd",
+					"titel": "Toldbodgade 6, 4990 Sakskøbing",
+					"husnummerId": "cde7ff40-dfe8-46b8-8b20-6fc23de91602"
+				},
+				{
+					"type": "adresse",
+					"id": "b42a0c71-7634-4aa5-8a1c-a19bef2c4693",
+					"titel": "Toldbodgade 8, 4990 Sakskøbing",
+					"husnummerId": "1517cea7-a78a-4043-be7f-55be50d2198c"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 9000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0e7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0e8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0e9-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0ea-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0eb-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0ec-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "29"
+				},
+				{
+					"type": "husnummer",
+					"id": "bb7d1c95-148d-466e-aee2-947539855aec",
+					"titel": "Toldbodgade 30, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "30"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0ed-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 31, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "31"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 8800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-fcc1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1B, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "1B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a0ce-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1C, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcc2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-fcc3-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3A, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "3A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a0d1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3B, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcc4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-fcc5-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4P, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "4P"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-fcc6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5A, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-fcc7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5B, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5B"
+				},
+				{
+					"type": "adresse",
+					"id": "f5cfd859-91ff-4aee-a1e6-4f547f58715f",
+					"titel": "Toldbodgade 6A, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcc8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3f440ecd-0e03-4d2b-9126-ae1aed836bcc",
+					"titel": "Toldbodgade 6B, 8800 Viborg",
+					"husnummerId": "1bdcbe8b-46bc-4337-95d5-209832362eba"
+				},
+				{
+					"type": "adresse",
+					"id": "368da339-d936-4c3a-9624-359c79fcfe73",
+					"titel": "Toldbodgade 6C, 8800 Viborg",
+					"husnummerId": "7a4c3784-87b6-46d2-9696-50862e69a4d1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-fcc9-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 7, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-fcca-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-fccb-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-fccc-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 11, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "1f289f18-9409-372c-e044-0003ba298018",
+					"titel": "Toldbodgade 12B, 8800 Viborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "12B"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-7048-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 12M, 8800 Viborg",
+					"husnummerId": "1f289f18-9408-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1174101a-b3a9-47dd-84ab-ef1cdfb71260",
+					"titel": "Toldbodgade 12N, 8800 Viborg",
+					"husnummerId": "d05dca91-5b5b-4fec-bcbf-b704a0a925ac"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 7620": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5092-477e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Lemvig, 7620 Lemvig",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "262c4c91-3df2-4c1a-a1c3-08b818253d86",
+					"titel": "Toldbodgade 4, Lemvig, 7620 Lemvig",
+					"husnummerId": "50229f9f-f79f-4986-8d60-055fb6e2d91a"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5092-477f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, Lemvig, 7620 Lemvig",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 8600": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "362e6b23-54f6-0f9b-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ecf-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ed0-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ed1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 6, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ed2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 7, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ed3-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "4f262d48-56e6-4195-a14f-f5ca1026fac5",
+					"titel": "Toldbodgade 10, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ed5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ed6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 11, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "adresse",
+					"id": "a6a917de-f4ad-4485-a61e-6cf8b7652814",
+					"titel": "Toldbodgade 11B, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ed7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ed8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 12, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "12"
+				},
+				{
+					"type": "adresse",
+					"id": "aa46f631-e120-4593-bc58-86127d67c339",
+					"titel": "Toldbodgade 12B, 8600 Silkeborg",
+					"husnummerId": "00e15403-b326-4110-9759-68c0ec6a227b"
+				},
+				{
+					"type": "adresse",
+					"id": "78f3f00d-864e-432b-b8aa-e137a4dcc9fd",
+					"titel": "Toldbodgade 12C, 8600 Silkeborg",
+					"husnummerId": "8e8859ea-0471-4c87-b975-6bb38623268f"
+				},
+				{
+					"type": "adresse",
+					"id": "1c646479-3b1e-4192-8ebc-42b3525078fd",
+					"titel": "Toldbodgade 12D, 8600 Silkeborg",
+					"husnummerId": "2c74fe5a-0976-4dbd-aaf0-36b2aa22a0ec"
+				},
+				{
+					"type": "adresse",
+					"id": "232326ee-1775-40f7-b9a1-88ebee7a501a",
+					"titel": "Toldbodgade 12E, 8600 Silkeborg",
+					"husnummerId": "a2da1532-bf2f-461d-83ad-6f52cb9fddde"
+				},
+				{
+					"type": "adresse",
+					"id": "b5dbb4d0-0bda-4a3e-86a8-b625ccc018fc",
+					"titel": "Toldbodgade 12F, 8600 Silkeborg",
+					"husnummerId": "0177db3e-762f-435b-af88-64b8db236c9f"
+				},
+				{
+					"type": "adresse",
+					"id": "25421d5c-6a05-4602-ab2f-dd2a6ec6fcf4",
+					"titel": "Toldbodgade 12G, 8600 Silkeborg",
+					"husnummerId": "03c0806d-755c-4305-97d1-c44302cff4fe"
+				},
+				{
+					"type": "adresse",
+					"id": "9ad2a5ba-21fa-4477-a6de-efb2086b3f63",
+					"titel": "Toldbodgade 12H, 8600 Silkeborg",
+					"husnummerId": "4bd9487c-0cf1-4845-825a-7f5187930f73"
+				},
+				{
+					"type": "adresse",
+					"id": "6f5cedec-baea-4466-ba99-e1a4e55da9c2",
+					"titel": "Toldbodgade 12K, 8600 Silkeborg",
+					"husnummerId": "d07b8709-f976-4b77-900c-83e6a05d3f2e"
+				},
+				{
+					"type": "adresse",
+					"id": "a07e0a8e-b6d5-4bd1-969e-b8270c4d943a",
+					"titel": "Toldbodgade 12L, 8600 Silkeborg",
+					"husnummerId": "7f7ed3d4-6074-4ba2-8a8e-77374bd4edb4"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-104e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 13, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ed9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8eda-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 14, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-1050-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 15, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8edb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8edc-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 16, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8edd-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17A, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "17A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ede-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17B, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "17B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8edf-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17C, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "17C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee0-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 18, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-1066-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ee1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee3-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 22A, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-1068-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 22B, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ee4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee5-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "b4d82e7c-3d2d-4cb3-93b0-8a12f6bf31e8",
+					"titel": "Toldbodgade 23A, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "23A"
+				},
+				{
+					"type": "adresse",
+					"id": "2825c781-e551-4ec3-832d-df0b14c05124",
+					"titel": "Toldbodgade 23B, 8600 Silkeborg",
+					"husnummerId": "7a2cfea8-b4fc-42c6-94bf-77ba1a1bdf30"
+				},
+				{
+					"type": "adresse",
+					"id": "12851d93-f1b5-40a7-8b48-337bc503700f",
+					"titel": "Toldbodgade 23C, 8600 Silkeborg",
+					"husnummerId": "ba16df85-41af-4c0b-92be-d27113d399dd"
+				},
+				{
+					"type": "adresse",
+					"id": "8a8016c3-9691-4d7b-905b-095e8b65dc9b",
+					"titel": "Toldbodgade 23D, 8600 Silkeborg",
+					"husnummerId": "585da2b2-e81c-4110-ac32-36bfd4731b76"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-106c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24B, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ee7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24C, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee9-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-1078-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 26A, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8eea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-1079-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 26B, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8eeb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8eec-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 26D, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "26D"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-107e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 26E, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8eed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-107f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 26F, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8eee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8eef-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "27"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-1086-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 28, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ef0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3731ea3e-f75e-422e-94ef-033aaee05675",
+					"titel": "Toldbodgade 29, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ef1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ef2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 30, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "30"
+				},
+				{
+					"type": "adresse",
+					"id": "7ce90f32-0aec-4a26-93bf-098d125559d9",
+					"titel": "Toldbodgade 30B, 8600 Silkeborg",
+					"husnummerId": "4ab0b665-ae55-4f8c-b415-dd3d4d04a0e5"
+				},
+				{
+					"type": "adresse",
+					"id": "962fa05b-0388-46f9-a3eb-e10b6e8fdf36",
+					"titel": "Toldbodgade 31, 8600 Silkeborg",
+					"husnummerId": "4d2cd77b-0c92-49e6-a2c3-a77214da0289"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-108c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 32, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ef3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ef5-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 35, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "35"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ef6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 37, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "37"
+				},
+				{
+					"type": "adresse",
+					"id": "cbdfcfe7-b741-4bb2-aab8-4cf5665e6668",
+					"titel": "Toldbodgade 37B, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ef7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ef8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 39, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "39"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 8900": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "824a0ebc-b7ef-428f-b3fe-4ef711e01981",
+					"titel": "Toldbodgade 2, 8900 Randers C",
+					"husnummerId": "a6bbdc9f-a903-4331-8613-9533c26da02d"
+				},
+				{
+					"type": "adresse",
+					"id": "23197646-a4dc-45fa-b185-ca4bf41a8369",
+					"titel": "Toldbodgade 2A, 8900 Randers C",
+					"husnummerId": "9ff95080-8e19-45ae-b26d-f07e2e5527d2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9dd-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 8900 Randers C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "3"
+				},
+				{
+					"type": "adresse",
+					"id": "6c28d47b-9a7c-4fd9-a2ee-60ae8ed8349e",
+					"titel": "Toldbodgade 4, 8900 Randers C",
+					"husnummerId": "0a3f5094-d9de-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9df-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 6, 8900 Randers C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "adb9f2a4-c6ae-47ac-a037-dba131e1d9ad",
+					"titel": "Toldbodgade 6A, 8900 Randers C",
+					"husnummerId": "34f0c5cb-df7b-4c18-a3c9-1cd20db8fe81"
+				},
+				{
+					"type": "adresse",
+					"id": "6019d6c6-4367-4ee8-bb9b-792ec1caa866",
+					"titel": "Toldbodgade 7A, 8900 Randers C",
+					"husnummerId": "0a3f5094-d9e0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8abf4c60-2645-46d5-9a46-73b8f97b4038",
+					"titel": "Toldbodgade 8A, 8900 Randers C",
+					"husnummerId": "0a3f5094-d9e2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "14ab945a-a88b-46eb-abb9-0d1283b7111c",
+					"titel": "Toldbodgade 9, 8900 Randers C",
+					"husnummerId": "0a3f5094-d9e3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1f6f3ece-3800-4dd9-b3b1-629394642a4f",
+					"titel": "Toldbodgade 10A, 8900 Randers C",
+					"husnummerId": "0a3f5094-d9e4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a4370c2e-71f5-44a1-b8bc-7d34be4c2147",
+					"titel": "Toldbodgade 10B, 8900 Randers C",
+					"husnummerId": "0a3f5094-d9e5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "876d0891-45b9-4a1b-a200-1c238f2eca1b",
+					"titel": "Toldbodgade 13, 8900 Randers C",
+					"husnummerId": "0a3f5094-d9e8-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 3790": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3380-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af28-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3381-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af29-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3382-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af2a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3383-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af2b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3384-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af2c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3385-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 6, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af2d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3386-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af2e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 4800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-4ec2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1A, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e48d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-4ec3-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1B, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e48e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-4ec4-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1C, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e48f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c2fdf3ac-1a23-4ae1-bb67-421d68b512fe",
+					"titel": "Toldbodgade 2, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e490-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d2715873-1bfd-4e61-9aec-56f0156a9b17",
+					"titel": "Toldbodgade 11, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e491-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "02955bcc-4f9b-41a7-aafa-6d44ebe36b6d",
+					"titel": "Toldbodgade 12, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e492-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b83af1d8-f513-4791-a494-8ac76576d7d5",
+					"titel": "Toldbodgade 13, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e493-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-e495-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17, 4800 Nykøbing F",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "17"
+				},
+				{
+					"type": "adresse",
+					"id": "adb24a95-7f3d-4df1-b6ce-993c65eb3f13",
+					"titel": "Toldbodgade 19, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e496-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "11796165-e268-4835-b56e-d061e880ab3a",
+					"titel": "Toldbodgade 25, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e497-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-4ed5-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e499-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-e49a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 31, 4800 Nykøbing F",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "31"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 4700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43e1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43e2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "63e49a06-8903-4e88-a17b-98980f3a4a6c",
+					"titel": "Toldbodgade 10, 4700 Næstved",
+					"husnummerId": "e3d02ffc-4bd3-49b5-9ad7-eafd36afc6aa"
+				},
+				{
+					"type": "adresse",
+					"id": "8e63fac6-4f2d-4767-8a77-d8bf0a27d29c",
+					"titel": "Toldbodgade 12, 4700 Næstved",
+					"husnummerId": "34397f54-d248-4396-9185-34689e7c4817"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43e6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 16, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-cc50-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17, 4700 Næstved",
+					"husnummerId": "0a3f5086-43e7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43e8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 18, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43e9-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 19, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43ea-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 20, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "20"
+				},
+				{
+					"type": "adresse",
+					"id": "15cece59-ff23-49f2-b99d-a98a63cad2b4",
+					"titel": "Toldbodgade 21, 4700 Næstved",
+					"husnummerId": "0a3f5086-43eb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43ec-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 22, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22"
+				},
+				{
+					"type": "adresse",
+					"id": "f3f11952-e91e-4d5d-9c94-70fad467a5fa",
+					"titel": "Toldbodgade 23, 4700 Næstved",
+					"husnummerId": "0a3f5086-43ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43ee-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 6100": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-b399-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1, 6100 Haderslev",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-b39a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2A, 6100 Haderslev",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-b39b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2B, 6100 Haderslev",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2B"
+				},
+				{
+					"type": "adresse",
+					"id": "eeb3119e-a4d3-4be5-8432-618cc93ae40f",
+					"titel": "Toldbodgade 5, 6100 Haderslev",
+					"husnummerId": "0a3f508b-a65b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "28123031-a93e-4da5-b692-96f8e038cb35",
+					"titel": "Toldbodgade 7, 6100 Haderslev",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "7"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 7900": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "46ca8780-ac71-4df7-bd33-4270bb885bf6",
+					"titel": "Toldbodgade 1, 7900 Nykøbing M",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5097-d1f6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 7900 Nykøbing M",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5097-d1f7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, 7900 Nykøbing M",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5097-d1f9-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8A, 7900 Nykøbing M",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8A"
+				},
+				{
+					"type": "husnummer",
+					"id": "2fc25dab-a725-402c-b763-3e6a6ee96827",
+					"titel": "Toldbodgade 8B, 7900 Nykøbing M",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8B"
+				},
+				{
+					"type": "adresse",
+					"id": "6d0a35a9-5a00-4b4c-b267-da3b9c85c53a",
+					"titel": "Toldbodgade 8C, 7900 Nykøbing M",
+					"husnummerId": "fd63975c-1d3f-4250-8fa8-dd74838abb21"
+				},
+				{
+					"type": "adresse",
+					"id": "62f195a6-9e1d-4b05-91b1-3143a4ed782e",
+					"titel": "Toldbodgade 10, 7900 Nykøbing M",
+					"husnummerId": "d870d12e-08e4-4390-8fc1-6022fc2eb515"
+				},
+				{
+					"type": "adresse",
+					"id": "58b014e4-e15d-4441-92be-ae7ad3eb2ffa",
+					"titel": "Toldbodgade 12, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-d1fa-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 6000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "c7923a0d-c6e1-4da2-9437-5d3c35f4b9dd",
+					"titel": "Toldbodgade 3, 6000 Kolding",
+					"husnummerId": "0a3f5090-632d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-632e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, 6000 Kolding",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-632f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 7, 6000 Kolding",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-6330-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10, 6000 Kolding",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "38503c89-ec77-4897-8eaa-fb679b83ffb1",
+					"titel": "Toldbodgade 12A, 6000 Kolding",
+					"husnummerId": "0a3f5090-6332-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-6333-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 14, 6000 Kolding",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-6334-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 16, 6000 Kolding",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "16"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 6960": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-dcfc-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1, 6960 Hvide Sande",
+					"husnummerId": "0a3f5091-b34a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1db61642-9d9c-4b65-91a9-6f3331459f65",
+					"titel": "Toldbodgade 2, 6960 Hvide Sande",
+					"husnummerId": "0a3f5091-b34b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "62192b80-87a8-4f2b-bbe7-de051e561194",
+					"titel": "Toldbodgade 3, 6960 Hvide Sande",
+					"husnummerId": "b047fb1f-36a4-4774-9d1e-8935c557551b"
+				},
+				{
+					"type": "adresse",
+					"id": "3ad2ed65-4612-40d7-91eb-0c6f174d435a",
+					"titel": "Toldbodgade 4A, 6960 Hvide Sande",
+					"husnummerId": "c012429d-d7c7-4609-89a7-ecb0d3a2c97d"
+				},
+				{
+					"type": "husnummer",
+					"id": "eb5a9a67-fa63-4cb4-8dab-8817636848c2",
+					"titel": "Toldbodgade 4B, 6960 Hvide Sande",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "4B"
+				},
+				{
+					"type": "husnummer",
+					"id": "bd6dcc71-ad8e-411b-ab53-92f90d172d85",
+					"titel": "Toldbodgade 6A, 6960 Hvide Sande",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6A"
+				},
+				{
+					"type": "husnummer",
+					"id": "59f96a5a-8c75-4749-b7a9-79c7ff0705c7",
+					"titel": "Toldbodgade 6B, 6960 Hvide Sande",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6B"
+				},
+				{
+					"type": "adresse",
+					"id": "7d282b2e-684b-40f8-b93e-82d427a027ae",
+					"titel": "Toldbodgade 8A, 6960 Hvide Sande",
+					"husnummerId": "3bdbb73d-aa66-4e81-be30-f8afcb203852"
+				},
+				{
+					"type": "husnummer",
+					"id": "f26a7ca0-092a-4f34-8944-d3f1086f6524",
+					"titel": "Toldbodgade 8B, 6960 Hvide Sande",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8B"
+				},
+				{
+					"type": "husnummer",
+					"id": "c9c1983c-3bfd-45fd-b3d2-ddef66c18058",
+					"titel": "Toldbodgade 10A, 6960 Hvide Sande",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "10A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0711f0dd-9c61-416c-abbe-f910555e65af",
+					"titel": "Toldbodgade 10B, 6960 Hvide Sande",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "10B"
+				},
+				{
+					"type": "adresse",
+					"id": "0c865156-6008-4e14-8e34-833f6c5e6eb8",
+					"titel": "Toldbodgade 20B, 6960 Hvide Sande",
+					"husnummerId": "46d3d29f-102f-4b5a-b814-29419fc1e0f2"
+				},
+				{
+					"type": "adresse",
+					"id": "4b72a623-fcbc-44d5-a761-6a36f4f52aa5",
+					"titel": "Toldbodgade 20C, 6960 Hvide Sande",
+					"husnummerId": "502e7b75-c6c6-4790-bdec-9d82dc022211"
+				},
+				{
+					"type": "adresse",
+					"id": "a82df97e-9bce-43da-96c3-95b38e420f00",
+					"titel": "Toldbodgade 24, 6960 Hvide Sande",
+					"husnummerId": "fc6cd269-b699-4c9a-9522-e9e5f90889f3"
+				},
+				{
+					"type": "adresse",
+					"id": "c7e528f9-7e00-4a5e-adfa-7f778e6f57b7",
+					"titel": "Toldbodgade 26, 6960 Hvide Sande",
+					"husnummerId": "0c1afbb5-fbf9-4e48-bcb2-e5f2427a18a6"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 6300": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-a13a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1, 6300 Gråsten",
+					"husnummerId": "0a3f508b-802d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-802e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-802f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-8030-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "a3d503ad-d421-4855-95dc-269e4b588bb7",
+					"titel": "Toldbodgade 5, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-8032-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 6, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "38132877-773d-48ab-9491-1bc7e16d2e53",
+					"titel": "Toldbodgade 7, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-a14b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, 6300 Gråsten",
+					"husnummerId": "0a3f508b-8034-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "00efae85-3f22-4db4-ac56-f46a5baff752",
+					"titel": "Toldbodgade 9, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "9"
+				},
+				{
+					"type": "adresse",
+					"id": "2fa6d371-552f-436d-a298-7f0706ab3051",
+					"titel": "Toldbodgade 9A, 6300 Gråsten",
+					"husnummerId": "1a67b8b2-2baa-4161-9ade-1994c76ec4f5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-8035-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "02e9ee15-de19-45d3-b88b-13ea5b383be0",
+					"titel": "Toldbodgade 11, kl., 6300 Gråsten",
+					"husnummerId": "cda1d5f1-c9b6-41c8-860b-e4655e99ecec"
+				},
+				{
+					"type": "adresse",
+					"id": "ce4751d0-2598-4b4c-b9d9-9c44b4e9c934",
+					"titel": "Toldbodgade 12, 6300 Gråsten",
+					"husnummerId": "4bc7d8ba-d34f-4c7d-a8b3-e6d60ec40719"
+				},
+				{
+					"type": "adresse",
+					"id": "2bc5a289-ddd0-4536-9b09-2ec6513e123d",
+					"titel": "Toldbodgade 13, kl., 6300 Gråsten",
+					"husnummerId": "9693f91e-9184-4fc9-99ef-2e2f5fdf1e06"
+				},
+				{
+					"type": "adresse",
+					"id": "67bf45f1-9496-4f59-a16d-e2f67fc91b49",
+					"titel": "Toldbodgade 15, kl., 6300 Gråsten",
+					"husnummerId": "42f2d2f1-6ac9-4c1a-971b-c726bc42a435"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 7700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "dc689055-c6ba-4b1d-9067-bc8e3fd7f74b",
+					"titel": "Toldbodgade 2B, 7700 Thisted",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2B"
+				},
+				{
+					"type": "adresse",
+					"id": "7aff35b5-c8f9-4ee9-93be-a33758fefd42",
+					"titel": "Toldbodgade 3, 7700 Thisted",
+					"husnummerId": "d8dbd07f-0abf-4c84-9709-73be04d2ce78"
+				},
+				{
+					"type": "adresse",
+					"id": "93ca9fc1-0279-4f95-8b85-14e1bc894e05",
+					"titel": "Toldbodgade 3A, 7700 Thisted",
+					"husnummerId": "c2882375-1b5a-4638-baf6-aec9e87ff873"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-a1d4-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, 7700 Thisted",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "4"
+				},
+				{
+					"type": "adresse",
+					"id": "853e2017-973e-4a9f-a97a-fd2be87277d6",
+					"titel": "Toldbodgade 4A, 7700 Thisted",
+					"husnummerId": "bdb4cae5-8a2c-4fbc-98f9-7a1e565e61a8"
+				},
+				{
+					"type": "adresse",
+					"id": "5af201b0-e64f-406c-83bd-33c0d44259f0",
+					"titel": "Toldbodgade 4B, 7700 Thisted",
+					"husnummerId": "798845fc-364a-41fd-ba07-69b2339ae09d"
+				},
+				{
+					"type": "adresse",
+					"id": "5ab470de-64a0-447f-abcb-713831446de1",
+					"titel": "Toldbodgade 4C, 7700 Thisted",
+					"husnummerId": "43f0fa79-0520-48fc-bf92-27413d70b028"
+				},
+				{
+					"type": "adresse",
+					"id": "b375a73d-af6e-42e5-8d87-8e7f61e05a33",
+					"titel": "Toldbodgade 4D, 7700 Thisted",
+					"husnummerId": "bdcf911a-fcc1-4295-8616-06c2e2f9a8a8"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 8930": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "b5622415-49bb-4282-b3ec-ae5f12df16d7",
+					"titel": "Toldbodgade 12, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9e7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e81dd0fd-7b8f-42fd-be91-5281e8016fda",
+					"titel": "Toldbodgade 14, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9e9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c827e000-ce63-4b62-b4f2-1e2c3b210ff3",
+					"titel": "Toldbodgade 15, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9ea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9eb-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 16, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9ed-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9ee-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 18, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9ef-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 19, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9f0-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "16bed59f-a451-1efc-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9f1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9f2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "3486f5cb-fb22-4b11-a3bc-b7805c2e43c5",
+					"titel": "Toldbodgade 26, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9f3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "13a587f8-3d0b-48a7-b3f2-bb9c23578676",
+					"titel": "Toldbodgade 27, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "27"
+				},
+				{
+					"type": "adresse",
+					"id": "73467290-8267-473c-8b78-2c37c047fbd0",
+					"titel": "Toldbodgade 31, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9f5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9f6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 39, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "39"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9f7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 40, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "40"
+				},
+				{
+					"type": "adresse",
+					"id": "35080473-8fc3-48a6-b4dd-12ed01bb5881",
+					"titel": "Toldbodgade 48, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9f9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "383c3a33-983e-4515-897b-84862e12341b",
+					"titel": "Toldbodgade 49, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9fa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0883cff7-80b5-4d78-88da-25ba6f86bdf1",
+					"titel": "Toldbodgade 50, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9fb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ba8d0a96-20a2-47e0-a92b-b5f2dd1818df",
+					"titel": "Toldbodgade 51, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9fc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "be6d0a06-e3ee-49b1-aa9e-35c15a9177d9",
+					"titel": "Toldbodgade 60, 8930 Randers NØ",
+					"husnummerId": "bb36d607-063e-4bc4-9a03-87d94139ef58"
+				},
+				{
+					"type": "adresse",
+					"id": "442cf564-f80b-4af6-b48c-2af51e65c03c",
+					"titel": "Toldbodgade 68, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9fd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d1cd834f-3bed-4be6-ac31-b38ad4b3558f",
+					"titel": "Toldbodgade 70, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9fe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "343e6056-1613-4a83-b05d-893f0b8e3a46",
+					"titel": "Toldbodgade 71, 8930 Randers NØ",
+					"husnummerId": "0df0f0d5-0d0b-4786-aa96-3d087afd03a9"
+				},
+				{
+					"type": "adresse",
+					"id": "8cb81453-e052-48fb-b8df-9a9494c45983",
+					"titel": "Toldbodgade 80, 8930 Randers NØ",
+					"husnummerId": "af76735d-b4e0-4932-80f2-584a77daee16"
+				},
+				{
+					"type": "adresse",
+					"id": "9de1277b-4c21-42ec-9164-0806eccb91b3",
+					"titel": "Toldbodgade 81, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9ff-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-da00-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 88, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "88"
+				},
+				{
+					"type": "adresse",
+					"id": "888cac7d-8ed2-4e44-a8a7-3f6b3ff263b9",
+					"titel": "Toldbodgade 94, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-da01-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "452c7a45-8709-4a38-836f-1433c114a21e",
+					"titel": "Toldbodgade 96, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-da02-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d1d0a1db-ce21-432a-9190-e1c50def1a25",
+					"titel": "Toldbodgade 104, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-da04-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 5800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5633-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c961-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "78bb4ea7-90fd-4914-e044-00144f3ead67",
+					"titel": "Toldbodgade 1T, 5800 Nyborg",
+					"husnummerId": "78bb4ea7-8df1-4914-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5637-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c963-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b42d4c87-9e89-4cf1-abfa-f5db5b5ac9f0",
+					"titel": "Toldbodgade 4, 5800 Nyborg",
+					"husnummerId": "41d07e17-2b01-4135-9c6a-2ec731d9ee1e"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5638-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c964-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-563a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 7, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c966-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-563c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 9, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c968-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f943a58b-ec0d-4768-bb93-77a243e6720c",
+					"titel": "Toldbodgade 10A, 5800 Nyborg",
+					"husnummerId": "78d0c301-af0b-6373-e044-00144f3ead67"
+				},
+				{
+					"type": "husnummer",
+					"id": "22de3445-ddeb-4e7a-8680-632af3b635e0",
+					"titel": "Toldbodgade 10B, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "10B"
+				},
+				{
+					"type": "adresse",
+					"id": "6a1a813e-d1e0-434f-8b22-83144ecd7933",
+					"titel": "Toldbodgade 10C, 5800 Nyborg",
+					"husnummerId": "bc940221-5ef4-437d-a30f-ee9475ae2358"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-563e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 11, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c96a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "38f0c75b-636c-49ed-b1ae-2c848b858715",
+					"titel": "Toldbodgade 12A, 5800 Nyborg",
+					"husnummerId": "084a4ae5-6d73-4f5d-a76d-40fb711b7f06"
+				},
+				{
+					"type": "husnummer",
+					"id": "8be12f19-a2b4-4966-acf6-7de88791e329",
+					"titel": "Toldbodgade 12B, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "12B"
+				},
+				{
+					"type": "adresse",
+					"id": "8643dedd-62bd-40dc-a1ed-9b2a02ec3f79",
+					"titel": "Toldbodgade 12C, 5800 Nyborg",
+					"husnummerId": "2c9ad664-b238-42c5-b9ba-d16d86c5e4ee"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5640-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 13, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c96c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ed55275e-eecf-4b66-9bd8-51b34af853ad",
+					"titel": "Toldbodgade 14A, 5800 Nyborg",
+					"husnummerId": "a8746545-190a-4611-b828-93cfa9e3a5bc"
+				},
+				{
+					"type": "husnummer",
+					"id": "260cd7b6-f6df-4a8a-935e-861e527ecdd5",
+					"titel": "Toldbodgade 14B, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "14B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5642-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 15, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c96e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d5e2f1ac-1e46-4446-93b1-0c7de69d6b18",
+					"titel": "Toldbodgade 16A, 5800 Nyborg",
+					"husnummerId": "4ff5fdda-10d5-4303-b0d5-87ef2422aaf2"
+				},
+				{
+					"type": "husnummer",
+					"id": "b1fd77b7-e7d0-4dc0-a4c4-084836078a4f",
+					"titel": "Toldbodgade 16B, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "16B"
+				},
+				{
+					"type": "adresse",
+					"id": "0c831a96-3c06-4958-9318-bce55be69360",
+					"titel": "Toldbodgade 16C, 5800 Nyborg",
+					"husnummerId": "12bdd551-cb56-454e-815b-3ec5cdc1b39e"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5644-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c970-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f29cd686-a1eb-4553-922e-55d3bd033bc2",
+					"titel": "Toldbodgade 18A, 5800 Nyborg",
+					"husnummerId": "eee86dd1-f71d-4353-bb07-4143a06e8c06"
+				},
+				{
+					"type": "husnummer",
+					"id": "e1425890-d5aa-4c33-80cb-d6799f1d0849",
+					"titel": "Toldbodgade 18B, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "18B"
+				},
+				{
+					"type": "adresse",
+					"id": "386a65af-2333-4b2c-b4df-bd188a881a04",
+					"titel": "Toldbodgade 18C, 5800 Nyborg",
+					"husnummerId": "f29ce692-67eb-4e60-abe3-062ad915701e"
+				},
+				{
+					"type": "adresse",
+					"id": "14328836-7097-4010-bd1f-2a696046205d",
+					"titel": "Toldbodgade 19, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c972-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5088-c973-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 20, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "20"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-564d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c974-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5088-c975-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 22, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5655-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c976-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5656-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c977-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5657-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c978-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5658-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 26, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c979-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5659-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c97a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-565a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 28, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c97b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-565b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c97c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-565c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 30, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c97d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-565d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 31, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c97e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5088-c97f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 32, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "32"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-565f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 33, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c980-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0c65634c-c7c7-30a3-e044-0003ba298018",
+					"titel": "Toldbodgade 34, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "34"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5661-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 35, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c982-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "11db2423-4849-5796-e044-0003ba298018",
+					"titel": "Toldbodgade 36, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "36"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5663-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 37, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c984-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "37351fd3-d837-61ef-e044-0003ba298018",
+					"titel": "Toldbodgade 38, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "38"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5665-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 39, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c986-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "37351fd3-d838-61ef-e044-0003ba298018",
+					"titel": "Toldbodgade 40, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "40"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5088-c988-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 41, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "41"
+				},
+				{
+					"type": "husnummer",
+					"id": "abe01ef9-ba45-4842-ae2a-858d8ce312ef",
+					"titel": "Toldbodgade 42, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "42"
+				},
+				{
+					"type": "husnummer",
+					"id": "8ea5e036-c491-4c2d-88bf-278d6580003b",
+					"titel": "Toldbodgade 44, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "44"
+				},
+				{
+					"type": "husnummer",
+					"id": "b46bfa40-bbff-4776-8c86-3de8137c9f00",
+					"titel": "Toldbodgade 46, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "46"
+				},
+				{
+					"type": "husnummer",
+					"id": "0ecbc36c-8fce-47f0-8a9f-41d21f4b62a2",
+					"titel": "Toldbodgade 48A, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "48A"
+				},
+				{
+					"type": "adresse",
+					"id": "11d140a9-7455-4df6-ab37-266f91ca5be7",
+					"titel": "Toldbodgade 48B, 5800 Nyborg",
+					"husnummerId": "f020bd5d-b6a8-481e-b10e-dd3b2da3b53a"
+				},
+				{
+					"type": "adresse",
+					"id": "131e8cf6-0a93-4808-a21b-592fd4ded805",
+					"titel": "Toldbodgade 50, 5800 Nyborg",
+					"husnummerId": "0c0773d1-121e-4691-a7b0-9541bacad13e"
+				},
+				{
+					"type": "adresse",
+					"id": "df81e57e-1983-4172-b2f1-6145c857270c",
+					"titel": "Toldbodgade 52, 5800 Nyborg",
+					"husnummerId": "2ff7e990-3808-4205-aaae-20282e525e34"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 9670": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "ba333069-1da2-4437-8757-50fe8e55e64b",
+					"titel": "Toldbodgade 1B, 9670 Løgstør",
+					"husnummerId": "ba0653a9-a1ad-4d84-af95-df54dcfbaeed"
+				},
+				{
+					"type": "adresse",
+					"id": "991c9c77-ed9e-45ed-bad4-66a9bc5c76c9",
+					"titel": "Toldbodgade 1C, 9670 Løgstør",
+					"husnummerId": "031e9f50-1453-4707-8867-99d74788ed67"
+				},
+				{
+					"type": "adresse",
+					"id": "ab9f34ce-2a5b-4554-adcf-477aa1ce2dd8",
+					"titel": "Toldbodgade 2, 9670 Løgstør",
+					"husnummerId": "3cae7253-165b-0f90-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92ae-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2A, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e877-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7cbcf0e2-1b54-427a-a661-d2b3baf191f1",
+					"titel": "Toldbodgade 2B, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e878-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "48154b07-c2b3-1d3e-e044-0003ba298018",
+					"titel": "Toldbodgade 2C, 9670 Løgstør",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92af-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e879-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-e87a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, 9670 Løgstør",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "4"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92b6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e87b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-e87c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 6, 9670 Løgstør",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92bd-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 7, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e87d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-e87e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, 9670 Løgstør",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92c1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e87f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92c2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 12, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e880-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-e881-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 14, 9670 Løgstør",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-e882-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 16, 9670 Løgstør",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "16"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 3700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3387-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1A, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-af2f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3388-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1B, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-af30-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3389-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1C, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-af31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-338a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1D, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-af32-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "32805b67-f778-4a46-a4fc-3c241343a3f9",
+					"titel": "Toldbodgade 1H, Rønne, 3700 Rønne",
+					"husnummerId": "1c9a0c61-084e-4af2-b34a-2906824ccb9b"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-338b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-af33-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-338d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-af34-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5087-af35-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, Rønne, 3700 Rønne",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 5000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-de88-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1, 5000 Odense C",
+					"husnummerId": "0a3f5089-d911-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-de89-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 5000 Odense C",
+					"husnummerId": "0a3f5089-d912-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-de8a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, 5000 Odense C",
+					"husnummerId": "0a3f5089-d913-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-d914-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "753451e8-5d84-4e23-8cc3-1c93a6cff67a",
+					"titel": "Toldbodgade 5A, 5000 Odense C",
+					"husnummerId": "4103107c-2a0e-496b-bfaf-9311c69c8b21"
+				},
+				{
+					"type": "adresse",
+					"id": "9e79d6ad-745e-4fb7-92b2-0464ec5b0dff",
+					"titel": "Toldbodgade 5B, 5000 Odense C",
+					"husnummerId": "98d16a1a-19e0-4dbc-9778-70a38edb2ca0"
+				},
+				{
+					"type": "adresse",
+					"id": "a1ca3726-e4ce-4de9-8569-c95c27fb0cd6",
+					"titel": "Toldbodgade 5C, 5000 Odense C",
+					"husnummerId": "00a44681-36e0-4795-a66e-26b9de5a5923"
+				},
+				{
+					"type": "adresse",
+					"id": "e9e09411-0ac4-4398-b597-f9d56622eb4b",
+					"titel": "Toldbodgade 5D, 5000 Odense C",
+					"husnummerId": "f8f56175-2c7f-4797-8750-f6853731e2da"
+				},
+				{
+					"type": "adresse",
+					"id": "a7354902-a8a6-4ec0-9d7d-fcee4ec91c70",
+					"titel": "Toldbodgade 5E, 5000 Odense C",
+					"husnummerId": "e98996e2-5032-4697-b627-761a2043a6f5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-d915-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 6, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "78ff7cc0-29ab-49e9-9539-881106b26ddc",
+					"titel": "Toldbodgade 7, 5000 Odense C",
+					"husnummerId": "59fa0953-eb85-4b32-ab27-7193619a706b"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-d916-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-d917-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 9, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "9"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-de8e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10, 5000 Odense C",
+					"husnummerId": "0a3f5089-d918-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-d919-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 11, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-de8f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 12, 5000 Odense C",
+					"husnummerId": "0a3f5089-d91a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-de90-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 14, 5000 Odense C",
+					"husnummerId": "0a3f5089-d91b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "55f5a195-3616-4a51-b261-fbbef38a5a19",
+					"titel": "Toldbodgade 15, 5000 Odense C",
+					"husnummerId": "0a3f5089-d91c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-de91-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17, 5000 Odense C",
+					"husnummerId": "0a3f5089-d91d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-d91e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 19, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "19"
+				},
+				{
+					"type": "adresse",
+					"id": "e5f9304d-7548-4599-a033-a24f44b14fe5",
+					"titel": "Toldbodgade 19T, 5000 Odense C",
+					"husnummerId": "0a3f5089-d91f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "59b3f4fd-7ea0-4040-b678-2ad915f071c4",
+					"titel": "Toldbodgade 21, 5000 Odense C",
+					"husnummerId": "0a3f5089-d920-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d1cb63a7-c6d0-444c-a0a6-900f1b54d343",
+					"titel": "Toldbodgade 22, 5000 Odense C",
+					"husnummerId": "0a3f5089-d921-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5213c5fd-23dd-4b08-93d4-e53bb42ef5cd",
+					"titel": "Toldbodgade 22A, 1., 5000 Odense C",
+					"husnummerId": "1a38339b-3c91-4eab-9d47-8d7cb6011d4c"
+				},
+				{
+					"type": "husnummer",
+					"id": "882d2050-ebe4-4dcb-87b5-f95872aa446b",
+					"titel": "Toldbodgade 22B, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22B"
+				},
+				{
+					"type": "adresse",
+					"id": "0fcb94d2-ea62-4752-ae80-17a166294549",
+					"titel": "Toldbodgade 22C, 1., 5000 Odense C",
+					"husnummerId": "8be50a54-6d3d-4f2f-abfa-2f49b25558e1"
+				},
+				{
+					"type": "husnummer",
+					"id": "90a94f2e-c1ef-4b27-9d87-2b0b05f853c9",
+					"titel": "Toldbodgade 22D, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22D"
+				},
+				{
+					"type": "adresse",
+					"id": "35ebb3f8-6ec6-4501-856b-6ae2f2871b1f",
+					"titel": "Toldbodgade 22E, 1., 5000 Odense C",
+					"husnummerId": "5f8abb29-c14f-4d71-9e76-59f58cb21335"
+				},
+				{
+					"type": "adresse",
+					"id": "951b5b06-9fde-45f9-a643-befff2cecd5e",
+					"titel": "Toldbodgade 30, 5000 Odense C",
+					"husnummerId": "8e37c3d0-4a66-4f4d-8604-70c1de1dbe67"
+				},
+				{
+					"type": "husnummer",
+					"id": "ab2e6dd7-e62b-4d44-a83c-a331c3653839",
+					"titel": "Toldbodgade 37A, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "37A"
+				},
+				{
+					"type": "husnummer",
+					"id": "f1cdc583-5c7c-4aaa-ac07-619c843159db",
+					"titel": "Toldbodgade 37B, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "37B"
+				},
+				{
+					"type": "husnummer",
+					"id": "ab6e9140-14ef-4481-95f8-67af78eb1288",
+					"titel": "Toldbodgade 37C, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "37C"
+				},
+				{
+					"type": "husnummer",
+					"id": "fd65f928-534a-444f-996d-1b90fcbfa234",
+					"titel": "Toldbodgade 37D, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "37D"
+				},
+				{
+					"type": "husnummer",
+					"id": "1c0fa81e-bab1-40bc-8101-79c8b8374a9b",
+					"titel": "Toldbodgade 39A, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "39A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-d923-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 39B, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "39B"
+				},
+				{
+					"type": "adresse",
+					"id": "57dd2afe-069a-4ee9-8f80-0fce24947764",
+					"titel": "Toldbodgade 39C, 5000 Odense C",
+					"husnummerId": "b810832c-0ac7-4c25-a639-ffc47a9a1c6a"
+				},
+				{
+					"type": "husnummer",
+					"id": "8036b1c8-17d0-44a3-945f-f58fe113b424",
+					"titel": "Toldbodgade 39D, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "39D"
+				},
+				{
+					"type": "adresse",
+					"id": "b45edc53-b4c3-41de-8ec2-13d50fd703e1",
+					"titel": "Toldbodgade 39E, 5000 Odense C",
+					"husnummerId": "cad5b580-4e28-44a9-884a-42fb1ecc6183"
+				},
+				{
+					"type": "husnummer",
+					"id": "14d6734e-4776-4e2a-a3eb-c0c801d26822",
+					"titel": "Toldbodgade 39F, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "39F"
+				},
+				{
+					"type": "adresse",
+					"id": "7e0a9335-267e-45de-9252-1eef888ffb34",
+					"titel": "Toldbodgade 39T, 5000 Odense C",
+					"husnummerId": "5d1b0d74-907f-4609-b686-dea3b77a0d1f"
+				},
+				{
+					"type": "adresse",
+					"id": "1a8362be-e066-4ec1-8c40-327fb618d4a0",
+					"titel": "Toldbodgade 49, 5000 Odense C",
+					"husnummerId": "3f4364d2-cf7c-44d8-9873-7aa8a4f3ae9c"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 5960": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0fee-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 1, 5960 Marstal",
+					"husnummerId": "0a3f5088-8810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0fef-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 5960 Marstal",
+					"husnummerId": "0a3f5088-8812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff0-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 7, 5960 Marstal",
+					"husnummerId": "0a3f5088-8813-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 9, 5960 Marstal",
+					"husnummerId": "0a3f5088-8814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 11, 5960 Marstal",
+					"husnummerId": "0a3f5088-8815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff3-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 12, 5960 Marstal",
+					"husnummerId": "0a3f5088-8816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff4-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 13, 5960 Marstal",
+					"husnummerId": "0a3f5088-8817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff5-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 14, 5960 Marstal",
+					"husnummerId": "0a3f5088-8818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 15, 5960 Marstal",
+					"husnummerId": "0a3f5088-8819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 16, 5960 Marstal",
+					"husnummerId": "0a3f5088-881a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17, 5960 Marstal",
+					"husnummerId": "0a3f5088-881b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ff9-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 18, 5960 Marstal",
+					"husnummerId": "0a3f5088-881c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffa-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 20, 5960 Marstal",
+					"husnummerId": "0a3f5088-881d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffb-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 5960 Marstal",
+					"husnummerId": "0a3f5088-881e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffc-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 5960 Marstal",
+					"husnummerId": "0a3f5088-881f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c8c0f149-3d25-4655-8613-366ba2367cf1",
+					"titel": "Toldbodgade 24, 5960 Marstal",
+					"husnummerId": "bc27b795-7da5-4aca-8001-5848cc3567fc"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffd-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 5960 Marstal",
+					"husnummerId": "0a3f5088-8820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffe-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 26, 5960 Marstal",
+					"husnummerId": "0a3f5088-8821-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0fff-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 5960 Marstal",
+					"husnummerId": "0a3f5088-8822-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1000-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 28, 5960 Marstal",
+					"husnummerId": "0a3f5088-8823-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1001-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29, 5960 Marstal",
+					"husnummerId": "0a3f5088-8824-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1002-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 31, 5960 Marstal",
+					"husnummerId": "0a3f5088-8825-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1003-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 32, 5960 Marstal",
+					"husnummerId": "0a3f5088-8826-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1004-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 33, 5960 Marstal",
+					"husnummerId": "0a3f5088-8827-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f25aa1f7-41e4-440e-a985-79b55306996e",
+					"titel": "Toldbodgade 33A, 5960 Marstal",
+					"husnummerId": "7a9f219e-b6e1-4cd8-9e1e-9d4c4997858b"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1005-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 34, 5960 Marstal",
+					"husnummerId": "0a3f5088-8829-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 8000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5097-0d76-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, 8000 Aarhus C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "8a16cc04-acda-48be-8677-4c48648135ec",
+					"titel": "Toldbodgade 6A, 8000 Aarhus C",
+					"husnummerId": "98905cd8-9334-4b0d-a45e-c9f90078d80e"
+				},
+				{
+					"type": "adresse",
+					"id": "bc8f9a48-beeb-4244-97d6-442f8527527f",
+					"titel": "Toldbodgade 6C, 8000 Aarhus C",
+					"husnummerId": "6407eebc-afc5-4eb4-9f3f-a2abc6eacb5e"
+				},
+				{
+					"type": "husnummer",
+					"id": "6c753490-888d-4be1-a9fe-004223378c62",
+					"titel": "Toldbodgade 6E, 8000 Aarhus C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6E"
+				},
+				{
+					"type": "adresse",
+					"id": "362077bb-7fa3-4348-abe7-2617eef3dcbd",
+					"titel": "Toldbodgade 6F, 8000 Aarhus C",
+					"husnummerId": "6d38115e-8217-422c-ade1-37b1b645be9a"
+				},
+				{
+					"type": "husnummer",
+					"id": "22ad3707-809b-4bb1-b6e4-b93b17c8125c",
+					"titel": "Toldbodgade 7, 8000 Aarhus C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5097-0d78-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, 8000 Aarhus C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "cdda1d35-ace5-483c-970c-9708e78b0c98",
+					"titel": "Toldbodgade 8B, kl., 8000 Aarhus C",
+					"husnummerId": "f3ee4693-9a7a-4a0c-999b-a55bc73c022d"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 6520": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3925-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2A, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0587-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bbeeea8e-1983-4dff-92fe-be8dfd20fa37",
+					"titel": "Toldbodgade 2B, 6520 Toftlund",
+					"husnummerId": "e899ce71-de31-440c-b49c-601865b0b9ec"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3926-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 3, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0588-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3927-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 4, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0589-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508c-058a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 5, 6520 Toftlund",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508c-058b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 6, 6520 Toftlund",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3931-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 7, 6520 Toftlund",
+					"husnummerId": "0a3f508c-058d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508c-058e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 8, 6520 Toftlund",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3934-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 10, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0590-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3935-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 11, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0591-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3fa50a77-33f8-4d00-b0fb-2d25c24f42fd",
+					"titel": "Toldbodgade 12, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0592-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508c-0593-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 13, 6520 Toftlund",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "13"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3938-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 14, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0594-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "225b08ff-667e-4136-b42b-7b318fd94793",
+					"titel": "Toldbodgade 15, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0595-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "1cac9759-d973-4d97-ae70-4c14aaf6922d",
+					"titel": "Toldbodgade 16A, 6520 Toftlund",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "16A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-393a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 16B, st., 6520 Toftlund",
+					"husnummerId": "0a3f508c-0596-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508c-0597-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 17, 6520 Toftlund",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "17"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-393f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 18, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0598-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2c0125cb-07d0-474e-a56a-93bc5e3fadfd",
+					"titel": "Toldbodgade 19, 6520 Toftlund",
+					"husnummerId": "d5151950-e595-47fd-8776-93ad420b541d"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3940-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 20, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0599-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=toldbodgade 2": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1103-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-338b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-af33-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "03a40271-bad9-4d7c-b137-8857d0c088d9",
+					"titel": "Toldbodgade 2, Nexø, 3730 Nexø",
+					"husnummerId": "0a3f5087-af37-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3381-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af29-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-298d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f6b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c2fdf3ac-1a23-4ae1-bb67-421d68b512fe",
+					"titel": "Toldbodgade 2, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e490-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-c1b7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4990 Sakskøbing",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-802e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "1db61642-9d9c-4b65-91a9-6f3331459f65",
+					"titel": "Toldbodgade 2, 6960 Hvide Sande",
+					"husnummerId": "0a3f5091-b34b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5092-477e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Lemvig, 7620 Lemvig",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5097-d1f6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 7900 Nykøbing M",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "362e6b23-54f6-0f9b-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "824a0ebc-b7ef-428f-b3fe-4ef711e01981",
+					"titel": "Toldbodgade 2, 8900 Randers C",
+					"husnummerId": "a6bbdc9f-a903-4331-8613-9533c26da02d"
+				},
+				{
+					"type": "adresse",
+					"id": "ab9f34ce-2a5b-4554-adcf-477aa1ce2dd8",
+					"titel": "Toldbodgade 2, 9670 Løgstør",
+					"husnummerId": "3cae7253-165b-0f90-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1120-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "21"
+				},
+				{
+					"type": "adresse",
+					"id": "14d4821a-65ed-497b-8f6e-f04308405ec0",
+					"titel": "Toldbodgade 23, 1253 København K",
+					"husnummerId": "0a3f507b-1121-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1122-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1123-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "40b6c08f-389a-4f3c-acca-11d8b05afbde",
+					"titel": "Toldbodgade 26, 1253 København K",
+					"husnummerId": "0a3f507b-1124-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1125-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "27"
+				},
+				{
+					"type": "adresse",
+					"id": "4f97f17c-e4bd-4b1f-b16e-c1f06153ff80",
+					"titel": "Toldbodgade 28, 1253 København K",
+					"husnummerId": "0a3f507b-1127-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43ea-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 20, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "20"
+				},
+				{
+					"type": "adresse",
+					"id": "15cece59-ff23-49f2-b99d-a98a63cad2b4",
+					"titel": "Toldbodgade 21, 4700 Næstved",
+					"husnummerId": "0a3f5086-43eb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43ec-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 22, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22"
+				},
+				{
+					"type": "adresse",
+					"id": "f3f11952-e91e-4d5d-9c94-70fad467a5fa",
+					"titel": "Toldbodgade 23, 4700 Næstved",
+					"husnummerId": "0a3f5086-43ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-43ee-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 4700 Næstved",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "11796165-e268-4835-b56e-d061e880ab3a",
+					"titel": "Toldbodgade 25, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e497-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-4ed5-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e499-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "59b3f4fd-7ea0-4040-b678-2ad915f071c4",
+					"titel": "Toldbodgade 21, 5000 Odense C",
+					"husnummerId": "0a3f5089-d920-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d1cb63a7-c6d0-444c-a0a6-900f1b54d343",
+					"titel": "Toldbodgade 22, 5000 Odense C",
+					"husnummerId": "0a3f5089-d921-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5088-c973-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 20, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "20"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-564d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c974-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5088-c975-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 22, 5800 Nyborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5655-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c976-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5656-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c977-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5657-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c978-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5658-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 26, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c979-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-5659-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c97a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-565a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 28, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c97b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-565b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29, 5800 Nyborg",
+					"husnummerId": "0a3f5088-c97c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffa-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 20, 5960 Marstal",
+					"husnummerId": "0a3f5088-881d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffb-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 5960 Marstal",
+					"husnummerId": "0a3f5088-881e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffc-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 5960 Marstal",
+					"husnummerId": "0a3f5088-881f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c8c0f149-3d25-4655-8613-366ba2367cf1",
+					"titel": "Toldbodgade 24, 5960 Marstal",
+					"husnummerId": "bc27b795-7da5-4aca-8001-5848cc3567fc"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffd-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 5960 Marstal",
+					"husnummerId": "0a3f5088-8820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0ffe-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 26, 5960 Marstal",
+					"husnummerId": "0a3f5088-8821-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-0fff-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 5960 Marstal",
+					"husnummerId": "0a3f5088-8822-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1000-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 28, 5960 Marstal",
+					"husnummerId": "0a3f5088-8823-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-1001-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29, 5960 Marstal",
+					"husnummerId": "0a3f5088-8824-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-b39a-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2A, 6100 Haderslev",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-b39b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2B, 6100 Haderslev",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3925-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2A, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0587-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bbeeea8e-1983-4dff-92fe-be8dfd20fa37",
+					"titel": "Toldbodgade 2B, 6520 Toftlund",
+					"husnummerId": "e899ce71-de31-440c-b49c-601865b0b9ec"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-3940-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 20, 6520 Toftlund",
+					"husnummerId": "0a3f508c-0599-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a82df97e-9bce-43da-96c3-95b38e420f00",
+					"titel": "Toldbodgade 24, 6960 Hvide Sande",
+					"husnummerId": "fc6cd269-b699-4c9a-9522-e9e5f90889f3"
+				},
+				{
+					"type": "adresse",
+					"id": "c7e528f9-7e00-4a5e-adfa-7f778e6f57b7",
+					"titel": "Toldbodgade 26, 6960 Hvide Sande",
+					"husnummerId": "0c1afbb5-fbf9-4e48-bcb2-e5f2427a18a6"
+				},
+				{
+					"type": "husnummer",
+					"id": "dc689055-c6ba-4b1d-9067-bc8e3fd7f74b",
+					"titel": "Toldbodgade 2B, 7700 Thisted",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-1066-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ee1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee5-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee9-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8eef-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "27"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-1086-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 28, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ef0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3731ea3e-f75e-422e-94ef-033aaee05675",
+					"titel": "Toldbodgade 29, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ef1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "23197646-a4dc-45fa-b185-ca4bf41a8369",
+					"titel": "Toldbodgade 2A, 8900 Randers C",
+					"husnummerId": "9ff95080-8e19-45ae-b26d-f07e2e5527d2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9f0-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "16bed59f-a451-1efc-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9f1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d9f2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "3486f5cb-fb22-4b11-a3bc-b7805c2e43c5",
+					"titel": "Toldbodgade 26, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-d9f3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "13a587f8-3d0b-48a7-b3f2-bb9c23578676",
+					"titel": "Toldbodgade 27, 8930 Randers NØ",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0e7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 21, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0e8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 23, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0e9-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0ea-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 25, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0eb-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 27, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-d0ec-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29, 9000 Aalborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "29"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92ae-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2A, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e877-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7cbcf0e2-1b54-427a-a661-d2b3baf191f1",
+					"titel": "Toldbodgade 2B, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e878-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "48154b07-c2b3-1d3e-e044-0003ba298018",
+					"titel": "Toldbodgade 2C, 9670 Løgstør",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2C"
+				},
+				{
+					"type": "adresse",
+					"id": "bd630ca9-f6f1-4110-8cdc-a039ae5a90c9",
+					"titel": "Toldbodgade 25A, 1253 København K",
+					"husnummerId": "16bed59f-95f7-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "38f26153-4cfa-4898-b27c-b11f6e1b4187",
+					"titel": "Toldbodgade 28A, 1253 København K",
+					"husnummerId": "0a3f507b-1126-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1129-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 29A, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "29A"
+				},
+				{
+					"type": "husnummer",
+					"id": "22729a66-841e-44d0-e044-0003ba298018",
+					"titel": "Toldbodgade 29B, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "29B"
+				},
+				{
+					"type": "husnummer",
+					"id": "22729a66-841f-44d0-e044-0003ba298018",
+					"titel": "Toldbodgade 29C, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "29C"
+				},
+				{
+					"type": "adresse",
+					"id": "5213c5fd-23dd-4b08-93d4-e53bb42ef5cd",
+					"titel": "Toldbodgade 22A, 1., 5000 Odense C",
+					"husnummerId": "1a38339b-3c91-4eab-9d47-8d7cb6011d4c"
+				},
+				{
+					"type": "husnummer",
+					"id": "882d2050-ebe4-4dcb-87b5-f95872aa446b",
+					"titel": "Toldbodgade 22B, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22B"
+				},
+				{
+					"type": "adresse",
+					"id": "0fcb94d2-ea62-4752-ae80-17a166294549",
+					"titel": "Toldbodgade 22C, 1., 5000 Odense C",
+					"husnummerId": "8be50a54-6d3d-4f2f-abfa-2f49b25558e1"
+				},
+				{
+					"type": "husnummer",
+					"id": "90a94f2e-c1ef-4b27-9d87-2b0b05f853c9",
+					"titel": "Toldbodgade 22D, 5000 Odense C",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22D"
+				},
+				{
+					"type": "adresse",
+					"id": "35ebb3f8-6ec6-4501-856b-6ae2f2871b1f",
+					"titel": "Toldbodgade 22E, 1., 5000 Odense C",
+					"husnummerId": "5f8abb29-c14f-4d71-9e76-59f58cb21335"
+				},
+				{
+					"type": "adresse",
+					"id": "0c865156-6008-4e14-8e34-833f6c5e6eb8",
+					"titel": "Toldbodgade 20B, 6960 Hvide Sande",
+					"husnummerId": "46d3d29f-102f-4b5a-b814-29419fc1e0f2"
+				},
+				{
+					"type": "adresse",
+					"id": "4b72a623-fcbc-44d5-a761-6a36f4f52aa5",
+					"titel": "Toldbodgade 20C, 6960 Hvide Sande",
+					"husnummerId": "502e7b75-c6c6-4790-bdec-9d82dc022211"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee3-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 22A, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "22A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-1068-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 22B, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ee4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "b4d82e7c-3d2d-4cb3-93b0-8a12f6bf31e8",
+					"titel": "Toldbodgade 23A, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "23A"
+				},
+				{
+					"type": "adresse",
+					"id": "2825c781-e551-4ec3-832d-df0b14c05124",
+					"titel": "Toldbodgade 23B, 8600 Silkeborg",
+					"husnummerId": "7a2cfea8-b4fc-42c6-94bf-77ba1a1bdf30"
+				},
+				{
+					"type": "adresse",
+					"id": "12851d93-f1b5-40a7-8b48-337bc503700f",
+					"titel": "Toldbodgade 23C, 8600 Silkeborg",
+					"husnummerId": "ba16df85-41af-4c0b-92be-d27113d399dd"
+				},
+				{
+					"type": "adresse",
+					"id": "8a8016c3-9691-4d7b-905b-095e8b65dc9b",
+					"titel": "Toldbodgade 23D, 8600 Silkeborg",
+					"husnummerId": "585da2b2-e81c-4110-ac32-36bfd4731b76"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-106c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24B, 8600 Silkeborg",
+					"husnummerId": "0a3f5095-8ee7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-8ee8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 24C, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "24C"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=toldbodgade 2 2": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1103-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-338b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-af33-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "03a40271-bad9-4d7c-b137-8857d0c088d9",
+					"titel": "Toldbodgade 2, Nexø, 3730 Nexø",
+					"husnummerId": "0a3f5087-af37-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3381-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af29-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-298d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f6b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c2fdf3ac-1a23-4ae1-bb67-421d68b512fe",
+					"titel": "Toldbodgade 2, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e490-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-c1b7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4990 Sakskøbing",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-802e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "1db61642-9d9c-4b65-91a9-6f3331459f65",
+					"titel": "Toldbodgade 2, 6960 Hvide Sande",
+					"husnummerId": "0a3f5091-b34b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5092-477e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Lemvig, 7620 Lemvig",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5097-d1f6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 7900 Nykøbing M",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "362e6b23-54f6-0f9b-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "824a0ebc-b7ef-428f-b3fe-4ef711e01981",
+					"titel": "Toldbodgade 2, 8900 Randers C",
+					"husnummerId": "a6bbdc9f-a903-4331-8613-9533c26da02d"
+				},
+				{
+					"type": "adresse",
+					"id": "ab9f34ce-2a5b-4554-adcf-477aa1ce2dd8",
+					"titel": "Toldbodgade 2, 9670 Løgstør",
+					"husnummerId": "3cae7253-165b-0f90-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 2, 8600 Silkeborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e73-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st. 1, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e72-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st. 2, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e71-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st. 3, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e70-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st. 4, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e6f-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st. 5, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e6e-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st. 6, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e69-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. 1, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e7b-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. 2, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e7c-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. 3, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e7a-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. 4, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e6a-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. 5, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e79-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. 6, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e6b-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2. 1, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e78-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2. 2, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e6c-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2. 3, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e77-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2. 4, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e6d-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2. 5, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e76-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2. 6, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e75-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 3. 1, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e74-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 3. 2, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 2, 4990 Sakskøbing": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-4522-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st., 4990 Sakskøbing",
+					"husnummerId": "0a3f5086-c1b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-4523-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1., 4990 Sakskøbing",
+					"husnummerId": "0a3f5086-c1b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-4524-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2., 4990 Sakskøbing",
+					"husnummerId": "0a3f5086-c1b7-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 2, Lemvig, 7620 Lemvig": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50be-858e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. tv, Lemvig, 7620 Lemvig",
+					"husnummerId": "0a3f5092-477e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-858d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. th, Lemvig, 7620 Lemvig",
+					"husnummerId": "0a3f5092-477e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 2, 6300 Gråsten": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "775fe3b8-6b2e-1a9c-e044-00144f3ead67",
+					"titel": "Toldbodgade 2, st., 6300 Gråsten",
+					"husnummerId": "0a3f508b-802e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "775fe3b8-6b2f-1a9c-e044-00144f3ead67",
+					"titel": "Toldbodgade 2, 1., 6300 Gråsten",
+					"husnummerId": "0a3f508b-802e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 2, 1253 København K": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "b838c0ee-af78-483c-aff8-e392d1fd7f84",
+					"titel": "Toldbodgade 2, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-349d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st. tv, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-349c-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st. th, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-349f-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. tv, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-349e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1. th, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34a1-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2. tv, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34a0-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2. th, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34a3-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 3. tv, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34a2-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 3. th, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34a6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4. tv, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34a4-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4. mf, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34a5-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4. th, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34a7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4. 1, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-34a8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4. 2, 1253 København K",
+					"husnummerId": "0a3f507b-1103-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 2, 7900 Nykøbing M": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-62e7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, st., 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-d1f6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-62e8-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1., 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-d1f6-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=toldbodgade 2 2 2": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-1103-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 1253 København K",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-338b-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-af33-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "03a40271-bad9-4d7c-b137-8857d0c088d9",
+					"titel": "Toldbodgade 2, Nexø, 3730 Nexø",
+					"husnummerId": "0a3f5087-af37-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-3381-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-af29-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-298d-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4000 Roskilde",
+					"husnummerId": "0a3f5082-1f6b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c2fdf3ac-1a23-4ae1-bb67-421d68b512fe",
+					"titel": "Toldbodgade 2, 4800 Nykøbing F",
+					"husnummerId": "0a3f5085-e490-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-c1b7-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 4990 Sakskøbing",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508b-802e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 6300 Gråsten",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "1db61642-9d9c-4b65-91a9-6f3331459f65",
+					"titel": "Toldbodgade 2, 6960 Hvide Sande",
+					"husnummerId": "0a3f5091-b34b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5092-477e-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, Lemvig, 7620 Lemvig",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5097-d1f6-32b8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 7900 Nykøbing M",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "362e6b23-54f6-0f9b-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 8600 Silkeborg",
+					"vejnavn": "Toldbodgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "824a0ebc-b7ef-428f-b3fe-4ef711e01981",
+					"titel": "Toldbodgade 2, 8900 Randers C",
+					"husnummerId": "a6bbdc9f-a903-4331-8613-9533c26da02d"
+				},
+				{
+					"type": "adresse",
+					"id": "ab9f34ce-2a5b-4554-adcf-477aa1ce2dd8",
+					"titel": "Toldbodgade 2, 9670 Løgstør",
+					"husnummerId": "3cae7253-165b-0f90-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Toldbodgade 2, 2. 2, 8600 Silkeborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e78-1eb8-e044-0003ba298018",
+					"titel": "Toldbodgade 2, 2. 2, 8600 Silkeborg",
+					"husnummerId": "362e6b23-54f6-0f9b-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

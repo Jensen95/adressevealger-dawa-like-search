@@ -1,0 +1,733 @@
+{
+	"tekst": "Stensledgaardsvænget 2A, Lundager, 5610 Assens",
+	"dawaId": "0006106f-3cf2-4447-8c07-98cd37ffe3e8",
+	"recordedAt": "2026-07-09T20:38:31.031Z",
+	"stages": [
+		{
+			"stage": "sten",
+			"dawa": [
+				"Stenlillevej 84, Stenlille, 3660 Stenløse",
+				"Stensbyvej 35H, 4773 Stensved",
+				"Stenlillevej 56, 3660 Stenløse",
+				"Stenvej 5, Stenderup, 6630 Rødding",
+				"Stendyssevej 3, Stendis, 7830 Vinderup",
+				"Stenkærvej 6, Stenbjerg, 8752 Østbirk",
+				"Stennevej 44, Stentoft, 6200 Aabenraa",
+				"Stengadevej 21, Stengade, 5953 Tranekær",
+				"Stengadevej 23, Stengade, 5953 Tranekær",
+				"Stengadevej 27, Stengade, 5953 Tranekær"
+			]
+		},
+		{
+			"stage": "stensledgaardsvænget",
+			"dawa": [
+				"Stensledgaardsvænget 3, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 4, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 5, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 6, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 7, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 8, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 9, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 1A, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 1B, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 2A, Lundager, 5610 Assens"
+			]
+		},
+		{
+			"stage": "stensledgaardsvænget 2",
+			"dawa": [
+				"Stensledgaardsvænget 2A, Lundager, 5610 Assens",
+				"Stensledgaardsvænget 2B, Lundager, 5610 Assens"
+			]
+		},
+		{
+			"stage": "stensledgaardsvænget 2a",
+			"dawa": [
+				"Stensledgaardsvænget 2A, Lundager, 5610 Assens"
+			]
+		},
+		{
+			"stage": "Stensledgaardsvænget 2A, Lundager, 5610 Assens",
+			"dawa": [
+				"Stensledgaardsvænget 2A, Lundager, 5610 Assens"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=sten": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Stenager",
+					"vejNavn": "Stenager"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenager Alle",
+					"vejNavn": "Stenager Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenagerbakken",
+					"vejNavn": "Stenagerbakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenageren",
+					"vejNavn": "Stenageren"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenagergårdsvej",
+					"vejNavn": "Stenagergårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenagervej",
+					"vejNavn": "Stenagervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenagervænget",
+					"vejNavn": "Stenagervænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenagre",
+					"vejNavn": "Stenagre"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenakaj",
+					"vejNavn": "Stenakaj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenalderen",
+					"vejNavn": "Stenalderen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenaldervej",
+					"vejNavn": "Stenaldervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenalt Markvej",
+					"vejNavn": "Stenalt Markvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenaltvej",
+					"vejNavn": "Stenaltvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbakken",
+					"vejNavn": "Stenbakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbakkevej",
+					"vejNavn": "Stenbakkevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbanen",
+					"vejNavn": "Stenbanen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbankevej",
+					"vejNavn": "Stenbankevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenberggade",
+					"vejNavn": "Stenberggade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbidervej",
+					"vejNavn": "Stenbidervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbidervænget",
+					"vejNavn": "Stenbidervænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjerg",
+					"vejNavn": "Stenbjerg"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjerg Bakke",
+					"vejNavn": "Stenbjerg Bakke"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjerg Kirke Vej",
+					"vejNavn": "Stenbjerg Kirke Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjerg Landingsplads",
+					"vejNavn": "Stenbjerg Landingsplads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjerg Parken",
+					"vejNavn": "Stenbjerg Parken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjerggård",
+					"vejNavn": "Stenbjerggård"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjerggårds Alle",
+					"vejNavn": "Stenbjerggårds Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjerggårdsvej",
+					"vejNavn": "Stenbjerggårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjergkvarteret",
+					"vejNavn": "Stenbjergkvarteret"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjergparken",
+					"vejNavn": "Stenbjergparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjergvej",
+					"vejNavn": "Stenbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjergvænget",
+					"vejNavn": "Stenbjergvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbjærgvej",
+					"vejNavn": "Stenbjærgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbogade",
+					"vejNavn": "Stenbogade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenborgvej",
+					"vejNavn": "Stenborgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbovej",
+					"vejNavn": "Stenbovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbrinken",
+					"vejNavn": "Stenbrinken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbro",
+					"vejNavn": "Stenbro"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbro Allè",
+					"vejNavn": "Stenbro Allè"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbrobakken",
+					"vejNavn": "Stenbrobakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbrovej",
+					"vejNavn": "Stenbrovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbrudsengen",
+					"vejNavn": "Stenbrudsengen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbrudsvej",
+					"vejNavn": "Stenbrudsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbrydervej",
+					"vejNavn": "Stenbrydervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbuen",
+					"vejNavn": "Stenbuen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbukken",
+					"vejNavn": "Stenbukken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbukkens Vej",
+					"vejNavn": "Stenbukkens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbukvej",
+					"vejNavn": "Stenbukvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbæk",
+					"vejNavn": "Stenbæk"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbækgårdsvej",
+					"vejNavn": "Stenbækgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbækhave",
+					"vejNavn": "Stenbækhave"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbæksvej",
+					"vejNavn": "Stenbæksvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenbækvej",
+					"vejNavn": "Stenbækvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendahlsvej",
+					"vejNavn": "Stendahlsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendal",
+					"vejNavn": "Stendal"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendalen",
+					"vejNavn": "Stendalen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendalsvej",
+					"vejNavn": "Stendalsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendalvej",
+					"vejNavn": "Stendalvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendam",
+					"vejNavn": "Stendam"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendamsgade",
+					"vejNavn": "Stendamsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendamsvej",
+					"vejNavn": "Stendamsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendansvej",
+					"vejNavn": "Stendansvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderup",
+					"vejNavn": "Stenderup"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderup Byvej",
+					"vejNavn": "Stenderup Byvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderup Kirkealle",
+					"vejNavn": "Stenderup Kirkealle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderup Kirkebakke",
+					"vejNavn": "Stenderup Kirkebakke"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderup Knudevej",
+					"vejNavn": "Stenderup Knudevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderup Skolevej",
+					"vejNavn": "Stenderup Skolevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderupgade",
+					"vejNavn": "Stenderupgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderupgård",
+					"vejNavn": "Stenderupgård"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderupgårdvej",
+					"vejNavn": "Stenderupgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderuphagevej",
+					"vejNavn": "Stenderuphagevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenderupvej",
+					"vejNavn": "Stenderupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendetgårdvej",
+					"vejNavn": "Stendetgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendetvej",
+					"vejNavn": "Stendetvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendiget",
+					"vejNavn": "Stendiget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendigevej",
+					"vejNavn": "Stendigevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendisvej",
+					"vejNavn": "Stendisvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendraget",
+					"vejNavn": "Stendraget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendyssen",
+					"vejNavn": "Stendyssen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendyssevej",
+					"vejNavn": "Stendyssevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stendyssevænget",
+					"vejNavn": "Stendyssevænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenene",
+					"vejNavn": "Stenene"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenevadvej",
+					"vejNavn": "Stenevadvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenfeldtsvej",
+					"vejNavn": "Stenfeldtsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stenfrøvej",
+					"vejNavn": "Stenfrøvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengaardsvej",
+					"vejNavn": "Stengaardsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengade",
+					"vejNavn": "Stengade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengade Skovvej",
+					"vejNavn": "Stengade Skovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengade Strandvej",
+					"vejNavn": "Stengade Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengaden",
+					"vejNavn": "Stengaden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengadevej",
+					"vejNavn": "Stengadevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengavl",
+					"vejNavn": "Stengavl"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengelmosevej",
+					"vejNavn": "Stengelmosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengelshøjvej",
+					"vejNavn": "Stengelshøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengeroddevej",
+					"vejNavn": "Stengeroddevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengesvej",
+					"vejNavn": "Stengesvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengiærdebakken",
+					"vejNavn": "Stengiærdebakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengryde",
+					"vejNavn": "Stengryde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Stengården",
+					"vejNavn": "Stengården"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=stensledgaardsvænget": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "4314e136-df17-4baa-a296-1c5efe06f436",
+					"titel": "Stensledgaardsvænget 1A, Lundager, 5610 Assens",
+					"husnummerId": "96d32700-582d-40f8-b59c-647f00dad157"
+				},
+				{
+					"type": "adresse",
+					"id": "1b15ab82-98e1-4dc9-aa53-b8e32bbb2762",
+					"titel": "Stensledgaardsvænget 1B, Lundager, 5610 Assens",
+					"husnummerId": "08c144a4-ceb1-4cba-824d-39ab6e86564d"
+				},
+				{
+					"type": "adresse",
+					"id": "0006106f-3cf2-4447-8c07-98cd37ffe3e8",
+					"titel": "Stensledgaardsvænget 2A, Lundager, 5610 Assens",
+					"husnummerId": "3f37a04d-862a-4226-86fa-4d2edd6d38f7"
+				},
+				{
+					"type": "adresse",
+					"id": "c728c235-7095-4073-87f1-048b8e7134b7",
+					"titel": "Stensledgaardsvænget 2B, Lundager, 5610 Assens",
+					"husnummerId": "523c2b09-fab5-4cf8-add6-b778e315bde6"
+				},
+				{
+					"type": "adresse",
+					"id": "f9bf219f-744f-49a7-a239-c4af0ee4e1e6",
+					"titel": "Stensledgaardsvænget 3, Lundager, 5610 Assens",
+					"husnummerId": "fca97b81-18df-46a9-a583-a9026f2e9d48"
+				},
+				{
+					"type": "adresse",
+					"id": "d141a7c0-ed76-4eee-b58d-2c95b9be0380",
+					"titel": "Stensledgaardsvænget 4, Lundager, 5610 Assens",
+					"husnummerId": "a61bf7b8-c0df-4cf4-bb97-0d5eea110527"
+				},
+				{
+					"type": "adresse",
+					"id": "31309731-8f86-4f09-b020-1e4c360c0e3f",
+					"titel": "Stensledgaardsvænget 5, Lundager, 5610 Assens",
+					"husnummerId": "f5298f77-4f41-4459-b9fa-abfef705a73c"
+				},
+				{
+					"type": "adresse",
+					"id": "062a62ee-f56a-41e5-a654-064519bf3c78",
+					"titel": "Stensledgaardsvænget 6, Lundager, 5610 Assens",
+					"husnummerId": "578a9c82-4223-4540-a2b2-3d91dfac240d"
+				},
+				{
+					"type": "adresse",
+					"id": "51de1938-db97-48a7-bcf9-be7be8b3695a",
+					"titel": "Stensledgaardsvænget 7, Lundager, 5610 Assens",
+					"husnummerId": "18a74fb3-6b90-40c4-b623-e7e210a9f0ed"
+				},
+				{
+					"type": "adresse",
+					"id": "83a0acfc-0b3d-434f-980f-2dd600427761",
+					"titel": "Stensledgaardsvænget 8, Lundager, 5610 Assens",
+					"husnummerId": "e2845aa1-4001-485f-868c-a41d32b4cbdf"
+				},
+				{
+					"type": "adresse",
+					"id": "ad99eef5-ebd9-4933-8dd8-72ed2b5acd31",
+					"titel": "Stensledgaardsvænget 9, Lundager, 5610 Assens",
+					"husnummerId": "3a2a3121-3eb8-4f27-a335-c71c586874da"
+				},
+				{
+					"type": "adresse",
+					"id": "35f20156-1d98-4ede-bf49-39b07690aeb2",
+					"titel": "Stensledgaardsvænget 10, Lundager, 5610 Assens",
+					"husnummerId": "4c1a1f87-f3e1-4fcf-a7bf-cb113065b20d"
+				},
+				{
+					"type": "husnummer",
+					"id": "6f89f6d6-dcc6-4c2f-80bb-17944a3032cf",
+					"titel": "Stensledgaardsvænget 11, Lundager, 5610 Assens",
+					"vejnavn": "Stensledgaardsvænget",
+					"husnummer": "11"
+				},
+				{
+					"type": "adresse",
+					"id": "7257713f-08d3-4fde-85aa-557e39441188",
+					"titel": "Stensledgaardsvænget 12, Lundager, 5610 Assens",
+					"husnummerId": "858a6922-f2e2-4918-8431-a6ef88c30bd5"
+				},
+				{
+					"type": "adresse",
+					"id": "9bb6165b-34e8-46ce-8a74-5433aaef4a3f",
+					"titel": "Stensledgaardsvænget 13, Lundager, 5610 Assens",
+					"husnummerId": "21610d64-7de6-4862-a2bf-9e93f8734e2e"
+				},
+				{
+					"type": "adresse",
+					"id": "c874e658-1e9c-4e4f-b19b-100b552decc2",
+					"titel": "Stensledgaardsvænget 14, Lundager, 5610 Assens",
+					"husnummerId": "7707c30d-1587-407a-908d-db7ad02b60ad"
+				},
+				{
+					"type": "adresse",
+					"id": "232cb072-936d-4cc7-bb4f-f5198c5394e3",
+					"titel": "Stensledgaardsvænget 15, Lundager, 5610 Assens",
+					"husnummerId": "7e1b9818-7bb4-4a77-9f53-3c6ca7ba96fd"
+				},
+				{
+					"type": "adresse",
+					"id": "4b60cd85-3650-4aa3-812a-a3c34b26e3e3",
+					"titel": "Stensledgaardsvænget 16, Lundager, 5610 Assens",
+					"husnummerId": "e5ad2343-821a-4bf7-8170-8cd0590c6f17"
+				},
+				{
+					"type": "adresse",
+					"id": "84cdf18a-71dd-4212-b7f9-4bf64634867c",
+					"titel": "Stensledgaardsvænget 17, Lundager, 5610 Assens",
+					"husnummerId": "f053f01a-fdf5-44f0-b8a4-6c7c88853bb1"
+				},
+				{
+					"type": "adresse",
+					"id": "2768c7ab-818d-4ab2-a4a5-b9159cc2f06b",
+					"titel": "Stensledgaardsvænget 18, Lundager, 5610 Assens",
+					"husnummerId": "23972cf4-b188-4b5c-8ed1-fc9d3918e520"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=stensledgaardsvænget 2": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0006106f-3cf2-4447-8c07-98cd37ffe3e8",
+					"titel": "Stensledgaardsvænget 2A, Lundager, 5610 Assens",
+					"husnummerId": "3f37a04d-862a-4226-86fa-4d2edd6d38f7"
+				},
+				{
+					"type": "adresse",
+					"id": "c728c235-7095-4073-87f1-048b8e7134b7",
+					"titel": "Stensledgaardsvænget 2B, Lundager, 5610 Assens",
+					"husnummerId": "523c2b09-fab5-4cf8-add6-b778e315bde6"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=stensledgaardsvænget 2a": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0006106f-3cf2-4447-8c07-98cd37ffe3e8",
+					"titel": "Stensledgaardsvænget 2A, Lundager, 5610 Assens",
+					"husnummerId": "3f37a04d-862a-4226-86fa-4d2edd6d38f7"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Stensledgaardsvænget 2A, Lundager, 5610 Assens": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0006106f-3cf2-4447-8c07-98cd37ffe3e8",
+					"titel": "Stensledgaardsvænget 2A, Lundager, 5610 Assens",
+					"husnummerId": "3f37a04d-862a-4226-86fa-4d2edd6d38f7"
+				}
+			]
+		}
+	}
+}

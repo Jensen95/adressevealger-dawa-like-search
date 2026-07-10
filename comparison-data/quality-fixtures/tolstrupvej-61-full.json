@@ -1,0 +1,27 @@
+{
+	"query": "Tolstrupvej 61, 9320 Hjallerup",
+	"recordedAt": "2026-07-09T19:51:53.105Z",
+	"dawa": {
+		"texts": [
+			"Tolstrupvej 61, 9320 Hjallerup"
+		],
+		"ids": [
+			"00002ec8-9a05-423c-abf2-3d0f4ccb03e0"
+		],
+		"count": 1
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=Tolstrupvej 61, 9320 Hjallerup": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00002ec8-9a05-423c-abf2-3d0f4ccb03e0",
+					"titel": "Tolstrupvej 61, 9320 Hjallerup",
+					"husnummerId": "d7a85869-28be-4927-8cfa-e05fd73ba2ce"
+				}
+			]
+		}
+	}
+}

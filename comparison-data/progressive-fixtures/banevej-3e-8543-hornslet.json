@@ -1,0 +1,4832 @@
+{
+	"tekst": "Banevej 3E, 8543 Hornslet",
+	"dawaId": "0000c127-ab48-48c7-9770-eda49d39eb5a",
+	"recordedAt": "2026-07-09T20:35:10.945Z",
+	"stages": [
+		{
+			"stage": "bane",
+			"dawa": [
+				"Banevej 35, 4735 Mern",
+				"Banevej 37, 4735 Mern",
+				"Banevej 39, 4735 Mern",
+				"Banevej 41, 4735 Mern",
+				"Banesti 1, 9990 Skagen",
+				"Banevej 7, 4653 Karise",
+				"Banevej 2A, 4682 Tureby",
+				"Banevej 4C, 4750 Lundby",
+				"Banestien 8, 7100 Vejle",
+				"Banehaven 31, 4270 Høng"
+			]
+		},
+		{
+			"stage": "banevej",
+			"dawa": [
+				"Banevej 1, 9300 Sæby",
+				"Banevej 1, 4735 Mern",
+				"Banevej 1, 4180 Sorø",
+				"Banevej 2, 4180 Sorø",
+				"Banevej 2, 4735 Mern",
+				"Banevej 2, 9300 Sæby",
+				"Banevej 3, 4735 Mern",
+				"Banevej 3, 9300 Sæby",
+				"Banevej 3, 4180 Sorø",
+				"Banevej 4, 4735 Mern"
+			]
+		},
+		{
+			"stage": "banevej 3",
+			"dawa": [
+				"Banevej 3, 4735 Mern",
+				"Banevej 3, 9300 Sæby",
+				"Banevej 3, 4180 Sorø",
+				"Banevej 3, 4296 Nyrup",
+				"Banevej 30, 4735 Mern",
+				"Banevej 31, 4180 Sorø",
+				"Banevej 31, 4735 Mern",
+				"Banevej 32, 4735 Mern",
+				"Banevej 33, 4180 Sorø",
+				"Banevej 33, 4735 Mern"
+			]
+		},
+		{
+			"stage": "banevej 3e",
+			"dawa": [
+				"Banevej 3E, 4750 Lundby",
+				"Banevej 3E, 8543 Hornslet"
+			]
+		},
+		{
+			"stage": "Banevej 3E, 8543 Hornslet",
+			"dawa": [
+				"Banevej 3E, 8543 Hornslet"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=bane": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Bane Alle",
+					"vejNavn": "Bane Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banealle",
+					"vejNavn": "Banealle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banebrinken",
+					"vejNavn": "Banebrinken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banebroen",
+					"vejNavn": "Banebroen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banediget",
+					"vejNavn": "Banediget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banedæmningen",
+					"vejNavn": "Banedæmningen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneengen",
+					"vejNavn": "Baneengen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banefløjen",
+					"vejNavn": "Banefløjen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegaardspladsen",
+					"vejNavn": "Banegaardspladsen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegaardsvej",
+					"vejNavn": "Banegaardsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegade",
+					"vejNavn": "Banegade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegraven",
+					"vejNavn": "Banegraven"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegårds Alle",
+					"vejNavn": "Banegårds Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegårdsalleen",
+					"vejNavn": "Banegårdsalleen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegårdsgade",
+					"vejNavn": "Banegårdsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegårdsparken",
+					"vejNavn": "Banegårdsparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegårdsplads",
+					"vejNavn": "Banegårdsplads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegårdspladsen",
+					"vejNavn": "Banegårdspladsen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegårdssti",
+					"vejNavn": "Banegårdssti"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banegårdsvej",
+					"vejNavn": "Banegårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banehaven",
+					"vejNavn": "Banehaven"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banehavestien",
+					"vejNavn": "Banehavestien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banehegnet",
+					"vejNavn": "Banehegnet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banehøjvænget",
+					"vejNavn": "Banehøjvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneleddet",
+					"vejNavn": "Baneleddet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneledet",
+					"vejNavn": "Baneledet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banelunden",
+					"vejNavn": "Banelunden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banely",
+					"vejNavn": "Banely"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneløkken",
+					"vejNavn": "Baneløkken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banemarken",
+					"vejNavn": "Banemarken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banemarksvej",
+					"vejNavn": "Banemarksvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banen",
+					"vejNavn": "Banen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneparken",
+					"vejNavn": "Baneparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banepladsen",
+					"vejNavn": "Banepladsen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneringen",
+					"vejNavn": "Baneringen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneskellet",
+					"vejNavn": "Baneskellet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneskoven",
+					"vejNavn": "Baneskoven"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneskråningen",
+					"vejNavn": "Baneskråningen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Baneskrænten",
+					"vejNavn": "Baneskrænten"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banesporet",
+					"vejNavn": "Banesporet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banesti",
+					"vejNavn": "Banesti"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banestien",
+					"vejNavn": "Banestien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banestokken",
+					"vejNavn": "Banestokken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banestrøget",
+					"vejNavn": "Banestrøget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banesvinget",
+					"vejNavn": "Banesvinget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banetoften",
+					"vejNavn": "Banetoften"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banetorvet",
+					"vejNavn": "Banetorvet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banevang",
+					"vejNavn": "Banevang"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banevangen",
+					"vejNavn": "Banevangen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banevej",
+					"vejNavn": "Banevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banevejen",
+					"vejNavn": "Banevejen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banevingen",
+					"vejNavn": "Banevingen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banevolden",
+					"vejNavn": "Banevolden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Banevænget",
+					"vejNavn": "Banevænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Bannebjergvej",
+					"vejNavn": "Bannebjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Bannerupvej",
+					"vejNavn": "Bannerupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Bannervej",
+					"vejNavn": "Bannervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Bannestrupparken",
+					"vejNavn": "Bannestrupparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Bannestrupvej",
+					"vejNavn": "Bannestrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Barnedysringen",
+					"vejNavn": "Barnedysringen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Barneholmvej",
+					"vejNavn": "Barneholmvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Barnekow Parken",
+					"vejNavn": "Barnekow Parken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Barnekowsvej",
+					"vejNavn": "Barnekowsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Barnekæret",
+					"vejNavn": "Barnekæret"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Barnekærvej",
+					"vejNavn": "Barnekærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Barnes Banke",
+					"vejNavn": "Barnes Banke"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=banevej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "3b82f522-4820-45c7-8d92-69c9ac6ed318",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 2920 Charlottenlund",
+					"vejnavn": "Banevej",
+					"postnr": "2920",
+					"postdistrikt": "Charlottenlund",
+					"antal_husnumre": 16
+				},
+				{
+					"id": "a714e746-2f2a-4040-b656-ac01ea66bbe9",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 3220 Tisvildeleje",
+					"vejnavn": "Banevej",
+					"postnr": "3220",
+					"postdistrikt": "Tisvildeleje",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "a9b6d8e1-92b7-4ee5-898e-a30330201bd6",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4180 Sorø",
+					"vejnavn": "Banevej",
+					"postnr": "4180",
+					"postdistrikt": "Sorø",
+					"antal_husnumre": 52
+				},
+				{
+					"id": "e61d57bb-77d9-444a-bd94-b4557ad4d5b9",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4220 Korsør",
+					"vejnavn": "Banevej",
+					"postnr": "4220",
+					"postdistrikt": "Korsør",
+					"antal_husnumre": 39
+				},
+				{
+					"id": "4862825d-44d6-48d3-9e61-c5d5f3449dea",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4261 Dalmose",
+					"vejnavn": "Banevej",
+					"postnr": "4261",
+					"postdistrikt": "Dalmose",
+					"antal_husnumre": 26
+				},
+				{
+					"id": "f556faa1-c1e9-40e4-b2c9-bbec20905be8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4293 Dianalund",
+					"vejnavn": "Banevej",
+					"postnr": "4293",
+					"postdistrikt": "Dianalund",
+					"antal_husnumre": 20
+				},
+				{
+					"id": "f7d86c50-5de2-4bed-983b-4e018defadf0",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4296 Nyrup",
+					"vejnavn": "Banevej",
+					"postnr": "4296",
+					"postdistrikt": "Nyrup",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "980d33ee-8cae-4656-a553-23755c7ed3e9",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4370 Store Merløse",
+					"vejnavn": "Banevej",
+					"postnr": "4370",
+					"postdistrikt": "Store Merløse",
+					"antal_husnumre": 33
+				},
+				{
+					"id": "b448fb11-c93c-46a3-9024-ce1a4ed6cc45",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4480 Store Fuglede",
+					"vejnavn": "Banevej",
+					"postnr": "4480",
+					"postdistrikt": "Store Fuglede",
+					"antal_husnumre": 23
+				},
+				{
+					"id": "bce86702-a80c-4f9f-936e-5049f363dfba",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4534 Hørve",
+					"vejnavn": "Banevej",
+					"postnr": "4534",
+					"postdistrikt": "Hørve",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "9995a4ae-696a-42e8-9e02-64681a79d24f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4653 Karise",
+					"vejnavn": "Banevej",
+					"postnr": "4653",
+					"postdistrikt": "Karise",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "5c0f246e-00af-41c1-8f31-3112234ae232",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4682 Tureby",
+					"vejnavn": "Banevej",
+					"postnr": "4682",
+					"postdistrikt": "Tureby",
+					"antal_husnumre": 35
+				},
+				{
+					"id": "18a4bcd7-ad1d-4f60-b20b-7e41e70b7c11",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4700 Næstved",
+					"vejnavn": "Banevej",
+					"postnr": "4700",
+					"postdistrikt": "Næstved",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "41d1ee54-59df-47d9-85c2-29859c1125db",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4735 Mern",
+					"vejnavn": "Banevej",
+					"postnr": "4735",
+					"postdistrikt": "Mern",
+					"antal_husnumre": 42
+				},
+				{
+					"id": "9d3a39a1-69cb-475d-957a-aadc0ba5a7b7",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4750 Lundby",
+					"vejnavn": "Banevej",
+					"postnr": "4750",
+					"postdistrikt": "Lundby",
+					"antal_husnumre": 15
+				},
+				{
+					"id": "e70471c7-4f45-498d-8bb1-2d2dc0e0f6e4",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 4930 Maribo",
+					"vejnavn": "Banevej",
+					"postnr": "4930",
+					"postdistrikt": "Maribo",
+					"antal_husnumre": 12
+				},
+				{
+					"id": "cf134c62-6b8f-4968-83c1-fcc5f17b754f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 5471 Søndersø",
+					"vejnavn": "Banevej",
+					"postnr": "5471",
+					"postdistrikt": "Søndersø",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "dcb44ab7-09b1-42e3-9259-5c3be3f4b327",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 5474 Veflinge",
+					"vejnavn": "Banevej",
+					"postnr": "5474",
+					"postdistrikt": "Veflinge",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "47215db2-5381-423c-8d9c-48fe1e08a89f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 5600 Faaborg",
+					"vejnavn": "Banevej",
+					"postnr": "5600",
+					"postdistrikt": "Faaborg",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "b63f8689-19ec-4386-9f44-7360fd04234b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 5792 Årslev",
+					"vejnavn": "Banevej",
+					"postnr": "5792",
+					"postdistrikt": "Årslev",
+					"antal_husnumre": 1
+				},
+				{
+					"id": "eb22b042-717f-41d9-86d5-658791c9a4b0",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 5900 Rudkøbing",
+					"vejnavn": "Banevej",
+					"postnr": "5900",
+					"postdistrikt": "Rudkøbing",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "00e611c2-d287-437b-870b-597ae02ec76c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 6372 Bylderup-Bov",
+					"vejnavn": "Banevej",
+					"postnr": "6372",
+					"postdistrikt": "Bylderup-Bov",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "a91c555d-af7e-4c2e-b021-ff18aeb6f57b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 6430 Nordborg",
+					"vejnavn": "Banevej",
+					"postnr": "6430",
+					"postdistrikt": "Nordborg",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "c53c0e89-e550-41b1-afd5-1b1c8333e455",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 7160 Tørring",
+					"vejnavn": "Banevej",
+					"postnr": "7160",
+					"postdistrikt": "Tørring",
+					"antal_husnumre": 12
+				},
+				{
+					"id": "78e9d94b-e6a3-4d4f-b681-fd6834630864",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 7200 Grindsted",
+					"vejnavn": "Banevej",
+					"postnr": "7200",
+					"postdistrikt": "Grindsted",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "3b4b7f35-44c8-490f-8ebc-7efdbb6b1df9",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 7752 Snedsted",
+					"vejnavn": "Banevej",
+					"postnr": "7752",
+					"postdistrikt": "Snedsted",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "dc22e060-1865-4918-9ba1-30b36a5ed24f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 8320 Mårslet",
+					"vejnavn": "Banevej",
+					"postnr": "8320",
+					"postdistrikt": "Mårslet",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "b92b150d-0c92-42ef-b514-ab2523443b18",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 8543 Hornslet",
+					"vejnavn": "Banevej",
+					"postnr": "8543",
+					"postdistrikt": "Hornslet",
+					"antal_husnumre": 18
+				},
+				{
+					"id": "17ec8f83-0ede-4d6a-8444-46b572171d62",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 8550 Ryomgård",
+					"vejnavn": "Banevej",
+					"postnr": "8550",
+					"postdistrikt": "Ryomgård",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "e0891105-1bcb-41f4-ad9c-0b284c5ef8d9",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 8570 Trustrup",
+					"vejnavn": "Banevej",
+					"postnr": "8570",
+					"postdistrikt": "Trustrup",
+					"antal_husnumre": 1
+				},
+				{
+					"id": "15476065-0e9b-4118-ba0f-439b353ed5b3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 8700 Horsens",
+					"vejnavn": "Banevej",
+					"postnr": "8700",
+					"postdistrikt": "Horsens",
+					"antal_husnumre": 22
+				},
+				{
+					"id": "ffff2cab-e8a7-4960-8de6-e4451e2dc28e",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 8832 Skals",
+					"vejnavn": "Banevej",
+					"postnr": "8832",
+					"postdistrikt": "Skals",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "2bb37c31-dde0-49b5-90d0-0b369231bc39",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 8930 Randers NØ",
+					"vejnavn": "Banevej",
+					"postnr": "8930",
+					"postdistrikt": "Randers NØ",
+					"antal_husnumre": 1
+				},
+				{
+					"id": "b3346fab-b343-43d2-b0d3-78906cc5b7c1",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 9300 Sæby",
+					"vejnavn": "Banevej",
+					"postnr": "9300",
+					"postdistrikt": "Sæby",
+					"antal_husnumre": 28
+				},
+				{
+					"id": "d3a71115-93e6-4fb6-ada6-8268b707327e",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 9400 Nørresundby",
+					"vejnavn": "Banevej",
+					"postnr": "9400",
+					"postdistrikt": "Nørresundby",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "76b21d61-1ec7-431d-9383-6f434d0e5bc1",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 9460 Brovst",
+					"vejnavn": "Banevej",
+					"postnr": "9460",
+					"postdistrikt": "Brovst",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "863adf6c-d2ee-43cb-a7bd-391f13772ce3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 9560 Hadsund",
+					"vejnavn": "Banevej",
+					"postnr": "9560",
+					"postdistrikt": "Hadsund",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "20138de0-2b76-4121-8f65-151e18854427",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 9640 Farsø",
+					"vejnavn": "Banevej",
+					"postnr": "9640",
+					"postdistrikt": "Farsø",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "d81d8450-f45d-4d3a-850c-a1abca0bbf29",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 9670 Løgstør",
+					"vejnavn": "Banevej",
+					"postnr": "9670",
+					"postdistrikt": "Løgstør",
+					"antal_husnumre": 2
+				},
+				{
+					"id": "bcf5cc78-4070-4919-a6b2-f99d87936327",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 9760 Vrå",
+					"vejnavn": "Banevej",
+					"postnr": "9760",
+					"postdistrikt": "Vrå",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "9c1846d9-ca46-4b47-ad23-9b600bd8ce39",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevej 9870 Sindal",
+					"vejnavn": "Banevej",
+					"postnr": "9870",
+					"postdistrikt": "Sindal",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "f67d3ac5-6708-4676-9321-e54cb740579c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Banevejen 8800 Viborg",
+					"vejnavn": "Banevejen",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 4
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 2920": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-cea5-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 2920 Charlottenlund",
+					"vejnavn": "Banevej",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c76-32b8-e044-0003ba298018",
+					"titel": "Banevej 3A, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-cea6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c77-32b8-e044-0003ba298018",
+					"titel": "Banevej 3B, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-cea7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c78-32b8-e044-0003ba298018",
+					"titel": "Banevej 5A, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-cea8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c79-32b8-e044-0003ba298018",
+					"titel": "Banevej 5B, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-cea9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c7a-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceaa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c7b-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c7c-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c7d-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-cead-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c7e-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c7f-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceaf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c80-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceb0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c81-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceb1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c82-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceb2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c83-32b8-e044-0003ba298018",
+					"titel": "Banevej 16, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceb3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c84-32b8-e044-0003ba298018",
+					"titel": "Banevej 18, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-ceb4-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 6372": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "ce8e43af-ae26-45de-9e01-30e115e6e785",
+					"titel": "Banevej 1, 6372 Bylderup-Bov",
+					"husnummerId": "193acafd-d7a4-47ae-b72d-f2b12153b9eb"
+				},
+				{
+					"type": "adresse",
+					"id": "fde09f6d-1519-45af-8782-621ff70758b0",
+					"titel": "Banevej 2, 6372 Bylderup-Bov",
+					"husnummerId": "96d61fb1-1e5f-41cb-b826-e78bafa96ead"
+				},
+				{
+					"type": "adresse",
+					"id": "5cbc8ca5-5bba-4203-b3ca-58a300482769",
+					"titel": "Banevej 3, 6372 Bylderup-Bov",
+					"husnummerId": "40a37f01-ab8d-49ea-a8c8-e10c2207a127"
+				},
+				{
+					"type": "adresse",
+					"id": "12107da5-986d-4a70-8ed9-94a862924259",
+					"titel": "Banevej 5, 6372 Bylderup-Bov",
+					"husnummerId": "c3fba607-531d-4f39-aa96-dc70b3841449"
+				},
+				{
+					"type": "adresse",
+					"id": "6a36208e-91e7-4b02-bbf9-1b1b0481c2ca",
+					"titel": "Banevej 7, 6372 Bylderup-Bov",
+					"husnummerId": "3ad08c26-79dc-460f-9b83-d98e524d4265"
+				},
+				{
+					"type": "adresse",
+					"id": "87bb0962-ce92-4eb3-9094-7fa13e481678",
+					"titel": "Banevej 9, 6372 Bylderup-Bov",
+					"husnummerId": "e45fb1ec-88d8-4ed2-afbc-fad365142f43"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 9400": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-bc2d-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 9400 Nørresundby",
+					"husnummerId": "0a3f509c-18f1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-bc2e-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 9400 Nørresundby",
+					"husnummerId": "0a3f509c-18f2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-bc2f-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 9400 Nørresundby",
+					"husnummerId": "0a3f509c-18f3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-bc30-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 9400 Nørresundby",
+					"husnummerId": "0a3f509c-18f4-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 9460": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-c9e9-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, Halvrimmen, 9460 Brovst",
+					"husnummerId": "0a3f5099-252c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-c9ea-32b8-e044-0003ba298018",
+					"titel": "Banevej 1A, Halvrimmen, 9460 Brovst",
+					"husnummerId": "0a3f5099-252d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-c9eb-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Halvrimmen, 9460 Brovst",
+					"husnummerId": "0a3f5099-252e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-c9ec-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Halvrimmen, 9460 Brovst",
+					"husnummerId": "0a3f5099-252f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-c9ed-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, Halvrimmen, 9460 Brovst",
+					"husnummerId": "0a3f5099-2531-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "12e0be05-d3e5-4083-946b-2c8a2b05a0ec",
+					"titel": "Banevej 7, Halvrimmen, 9460 Brovst",
+					"husnummerId": "0a3f5099-2532-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4293": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9df5-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ecd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9df6-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ece-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9df7-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ecf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9df8-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9df9-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9dfa-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9dfb-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9dfc-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9dfd-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9dfe-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9dff-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9e00-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9e01-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ed9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9e02-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8eda-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9e03-32b8-e044-0003ba298018",
+					"titel": "Banevej 16, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8edb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9e04-32b8-e044-0003ba298018",
+					"titel": "Banevej 17, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8edc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9e05-32b8-e044-0003ba298018",
+					"titel": "Banevej 20, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8edd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9e06-32b8-e044-0003ba298018",
+					"titel": "Banevej 22, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ede-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "51a974db-72df-4f2a-bc57-f3e332454987",
+					"titel": "Banevej 501, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8edf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "55ef3ee4-11ca-40e0-985f-2246741d626e",
+					"titel": "Banevej 622, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ee0-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4682": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5860-32b8-e044-0003ba298018",
+					"titel": "Banevej 1A, 4682 Tureby",
+					"husnummerId": "0a3f5081-8314-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5861-32b8-e044-0003ba298018",
+					"titel": "Banevej 1B, 4682 Tureby",
+					"husnummerId": "0a3f5081-8315-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5862-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 4682 Tureby",
+					"husnummerId": "0a3f5081-8316-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2ef51a73-b07c-4ee7-e044-0003ba298018",
+					"titel": "Banevej 2A, 4682 Tureby",
+					"husnummerId": "0a3f5081-8317-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2ef51a73-b07d-4ee7-e044-0003ba298018",
+					"titel": "Banevej 2B, 4682 Tureby",
+					"husnummerId": "2edda757-93b7-1605-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5863-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4682 Tureby",
+					"husnummerId": "0a3f5081-8318-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5864-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, 4682 Tureby",
+					"husnummerId": "0a3f5081-8319-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5865-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 4682 Tureby",
+					"husnummerId": "0a3f5081-831a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5866-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 4682 Tureby",
+					"husnummerId": "0a3f5081-831b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5867-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 4682 Tureby",
+					"husnummerId": "0a3f5081-831c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5868-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, 4682 Tureby",
+					"husnummerId": "0a3f5081-831d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5869-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 4682 Tureby",
+					"husnummerId": "0a3f5081-831e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-586a-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 4682 Tureby",
+					"husnummerId": "0a3f5081-831f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-586b-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 4682 Tureby",
+					"husnummerId": "0a3f5081-8320-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-586c-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 4682 Tureby",
+					"husnummerId": "0a3f5081-8321-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-586d-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, 4682 Tureby",
+					"husnummerId": "0a3f5081-8322-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-586e-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, 4682 Tureby",
+					"husnummerId": "0a3f5081-8323-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-586f-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, 4682 Tureby",
+					"husnummerId": "0a3f5081-8324-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5870-32b8-e044-0003ba298018",
+					"titel": "Banevej 16, 4682 Tureby",
+					"husnummerId": "0a3f5081-8325-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5871-32b8-e044-0003ba298018",
+					"titel": "Banevej 17, 4682 Tureby",
+					"husnummerId": "0a3f5081-8326-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5872-32b8-e044-0003ba298018",
+					"titel": "Banevej 18, 4682 Tureby",
+					"husnummerId": "0a3f5081-8327-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5873-32b8-e044-0003ba298018",
+					"titel": "Banevej 19, 4682 Tureby",
+					"husnummerId": "0a3f5081-8328-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5874-32b8-e044-0003ba298018",
+					"titel": "Banevej 20, 4682 Tureby",
+					"husnummerId": "0a3f5081-8329-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5875-32b8-e044-0003ba298018",
+					"titel": "Banevej 21, 4682 Tureby",
+					"husnummerId": "0a3f5081-832a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5876-32b8-e044-0003ba298018",
+					"titel": "Banevej 22, 4682 Tureby",
+					"husnummerId": "0a3f5081-832b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5877-32b8-e044-0003ba298018",
+					"titel": "Banevej 23, 4682 Tureby",
+					"husnummerId": "0a3f5081-832c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5878-32b8-e044-0003ba298018",
+					"titel": "Banevej 24, 4682 Tureby",
+					"husnummerId": "0a3f5081-832d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2374c2e5-95fc-3ff2-e044-0003ba298018",
+					"titel": "Banevej 25, 4682 Tureby",
+					"husnummerId": "1b231335-7124-461c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5879-32b8-e044-0003ba298018",
+					"titel": "Banevej 26, 4682 Tureby",
+					"husnummerId": "0a3f5081-832e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2374c2e5-95fd-3ff2-e044-0003ba298018",
+					"titel": "Banevej 27, 4682 Tureby",
+					"husnummerId": "0a3f5081-8753-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-587a-32b8-e044-0003ba298018",
+					"titel": "Banevej 28, 4682 Tureby",
+					"husnummerId": "0a3f5081-832f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-587b-32b8-e044-0003ba298018",
+					"titel": "Banevej 30, 4682 Tureby",
+					"husnummerId": "0a3f5081-8330-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-587c-32b8-e044-0003ba298018",
+					"titel": "Banevej 32, 4682 Tureby",
+					"husnummerId": "0a3f5081-8331-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-587d-32b8-e044-0003ba298018",
+					"titel": "Banevej 34, 4682 Tureby",
+					"husnummerId": "0a3f5081-8332-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-587e-32b8-e044-0003ba298018",
+					"titel": "Banevej 36, 4682 Tureby",
+					"husnummerId": "0a3f5081-8333-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 5471": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-c7d1-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, Farstrup, 5471 Søndersø",
+					"husnummerId": "0a3f508a-a4e6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5e3e3704-51e9-4946-8649-df939d099c12",
+					"titel": "Banevej 34, Farstrup, 5471 Søndersø",
+					"husnummerId": "f5a6def2-aa83-4bca-a4e1-f9fbce1853ef"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 3220": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507f-87eb-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 3220 Tisvildeleje",
+					"vejnavn": "Banevej",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1180-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, 3220 Tisvildeleje",
+					"husnummerId": "0a3f507f-87ec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1181-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 3220 Tisvildeleje",
+					"husnummerId": "0a3f507f-87ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1182-32b8-e044-0003ba298018",
+					"titel": "Banevej 8A, 3220 Tisvildeleje",
+					"husnummerId": "0a3f507f-87ee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d240e350-f5a6-412e-8d0a-761c8f3c2ec4",
+					"titel": "Banevej 8B, 3220 Tisvildeleje",
+					"husnummerId": "8007f34a-0040-47dc-8cc3-df4d7ba7da72"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 7752": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e5f5-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Hørdum, 7752 Snedsted",
+					"husnummerId": "0a3f5098-5116-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e5f6-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Hørdum, 7752 Snedsted",
+					"husnummerId": "0a3f5098-5117-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e5f7-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, Hørdum, 7752 Snedsted",
+					"husnummerId": "0a3f5098-5118-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "95c82731-e591-4324-9d96-bdb12b9fe2fd",
+					"titel": "Banevej 8, Hørdum, 7752 Snedsted",
+					"husnummerId": "0a3f5098-5119-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e5f8-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, Hørdum, 7752 Snedsted",
+					"husnummerId": "0a3f5098-511a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e5f9-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, Hørdum, 7752 Snedsted",
+					"husnummerId": "0a3f5098-511b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e5fa-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, Hørdum, 7752 Snedsted",
+					"husnummerId": "0a3f5098-511c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 7160": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "a65b936d-1bf2-42b6-a7c3-359b9f013775",
+					"titel": "Banevej 2, Ølholm, 7160 Tørring",
+					"husnummerId": "362e6b23-560e-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bd7fb478-ed61-4285-bb8d-c7e1c3e8ed46",
+					"titel": "Banevej 4, Ølholm, 7160 Tørring",
+					"husnummerId": "0a3f5090-85f6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6a599833-3520-470e-b6c2-c8315a31940b",
+					"titel": "Banevej 5, Ølholm, 7160 Tørring",
+					"husnummerId": "0a3f5090-85f7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1eb1d1ba-6405-4a41-8a92-14a6ccad10e0",
+					"titel": "Banevej 5A, Ølholm, 7160 Tørring",
+					"husnummerId": "e42bc372-2a84-476c-9639-b8df4a2f2399"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-7618-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, Ølholm, 7160 Tørring",
+					"husnummerId": "0a3f5090-85f8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "60118920-1ffc-4d24-a07a-cdbb19bd3d0f",
+					"titel": "Banevej 7, Ølholm, 7160 Tørring",
+					"husnummerId": "0a3f5090-85f9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6075e6e1-78b4-48ac-ab80-63adc5e2898b",
+					"titel": "Banevej 8, Ølholm, 7160 Tørring",
+					"husnummerId": "fe79c872-ef0f-44af-acbf-e5b64d1a6f49"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-7619-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, Ølholm, 7160 Tørring",
+					"husnummerId": "0a3f5090-85fa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "739b7e62-1274-464c-846d-8c6b923fd212",
+					"titel": "Banevej 10, Ølholm, 7160 Tørring",
+					"husnummerId": "2edda757-9ea9-1605-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-761a-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, Ølholm, 7160 Tørring",
+					"husnummerId": "0a3f5090-85fb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fad5cb19-6560-4f1f-8d8a-e8b6177fe1c3",
+					"titel": "Banevej 16, Ølholm, 7160 Tørring",
+					"husnummerId": "0a3f5090-85fc-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 7200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-7d14-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Filskov, 7200 Grindsted",
+					"husnummerId": "0a3f508d-ecae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-7d15-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Filskov, 7200 Grindsted",
+					"husnummerId": "0a3f508d-ecaf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9c485840-b848-4810-be47-7fe990090dce",
+					"titel": "Banevej 8, Filskov Mark, 7200 Grindsted",
+					"husnummerId": "0a3f508d-ecb0-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4261": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd84-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd85-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd86-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd87-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd88-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd89-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd8a-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd8b-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3cb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd8c-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd8d-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd8e-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd8f-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd90-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd91-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd92-32b8-e044-0003ba298018",
+					"titel": "Banevej 16, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd93-32b8-e044-0003ba298018",
+					"titel": "Banevej 17, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd94-32b8-e044-0003ba298018",
+					"titel": "Banevej 18, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd95-32b8-e044-0003ba298018",
+					"titel": "Banevej 19, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd96-32b8-e044-0003ba298018",
+					"titel": "Banevej 20, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd97-32b8-e044-0003ba298018",
+					"titel": "Banevej 22, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd98-32b8-e044-0003ba298018",
+					"titel": "Banevej 24, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd99-32b8-e044-0003ba298018",
+					"titel": "Banevej 26A, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3d9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5e924e19-8bf1-4508-b345-b673e004ce55",
+					"titel": "Banevej 26B, Hyllested, 4261 Dalmose",
+					"husnummerId": "16164e6e-d633-4e02-906f-0cba46369dd3"
+				},
+				{
+					"type": "adresse",
+					"id": "cd959f76-bd50-4ee3-9dce-b57e9e1ea021",
+					"titel": "Banevej 26M, Hyllested, 4261 Dalmose",
+					"husnummerId": "9fe9eae5-b6dd-4cde-b32a-cf5ea2c309b1"
+				},
+				{
+					"type": "adresse",
+					"id": "c065555e-d284-40d0-ac7c-e3094ac32a6a",
+					"titel": "Banevej 28, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3da-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd9a-32b8-e044-0003ba298018",
+					"titel": "Banevej 30, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3db-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4534": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ae30-32b8-e044-0003ba298018",
+					"titel": "Banevej 6A, 4534 Hørve",
+					"husnummerId": "0a3f5082-9f3d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ae31-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, 4534 Hørve",
+					"husnummerId": "0a3f5082-9f3f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-ae32-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 4534 Hørve",
+					"husnummerId": "0a3f5082-9f40-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5082-9f41-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, 4534 Hørve",
+					"vejnavn": "Banevej",
+					"husnummer": "14"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevejen 8800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "3398e801-a875-44a2-839d-78d82cbd472e",
+					"titel": "Banevejen 2, 8800 Viborg",
+					"husnummerId": "986aae1c-4974-4565-8964-7a48d076416c"
+				},
+				{
+					"type": "adresse",
+					"id": "d4c2eae1-8a56-44bd-9f1a-3b21c1d5152c",
+					"titel": "Banevejen 5C, 8800 Viborg",
+					"husnummerId": "7a11ca6c-8256-4193-9c97-5afdcba675c8"
+				},
+				{
+					"type": "adresse",
+					"id": "cdf502c3-814b-413f-9220-6681ca435a86",
+					"titel": "Banevejen 7, 8800 Viborg",
+					"husnummerId": "ed52584c-e0c0-40c6-8096-cf28aeee6b99"
+				},
+				{
+					"type": "adresse",
+					"id": "7b0c448b-bb31-45b8-8c73-f6c86dc3c3e9",
+					"titel": "Banevejen 7C, 8800 Viborg",
+					"husnummerId": "7f5fdd76-5883-4ac5-a33f-db37172571a7"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 8550": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-58ea-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, Pindstrup, 8550 Ryomgård",
+					"husnummerId": "0a3f5094-1f4e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-58eb-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Pindstrup, 8550 Ryomgård",
+					"husnummerId": "0a3f5094-1f4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-58ec-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Pindstrup, 8550 Ryomgård",
+					"husnummerId": "0a3f5094-1f51-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-58ed-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, Pindstrup, 8550 Ryomgård",
+					"husnummerId": "0a3f5094-1f52-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-58ee-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, Pindstrup, 8550 Ryomgård",
+					"husnummerId": "0a3f5094-1f54-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-58ef-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, Pindstrup, 8550 Ryomgård",
+					"husnummerId": "0a3f5094-1f55-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 8700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35cb-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a54-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35cc-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "032c07db-73d7-4a35-b27b-a7b36aa4931a",
+					"titel": "Banevej 3, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35cd-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a57-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35ce-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a58-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35cf-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d0-32b8-e044-0003ba298018",
+					"titel": "Banevej 8A, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a5a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "54244192-9da1-47bb-82f9-38059f32b3f7",
+					"titel": "Banevej 8B, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a5b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d1-32b8-e044-0003ba298018",
+					"titel": "Banevej 8C, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a5c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d2-32b8-e044-0003ba298018",
+					"titel": "Banevej 8D, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a5d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d3-32b8-e044-0003ba298018",
+					"titel": "Banevej 8E, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a5e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d4-32b8-e044-0003ba298018",
+					"titel": "Banevej 8F, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a5f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d5-32b8-e044-0003ba298018",
+					"titel": "Banevej 8G, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a60-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d6-32b8-e044-0003ba298018",
+					"titel": "Banevej 8H, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a61-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d7-32b8-e044-0003ba298018",
+					"titel": "Banevej 8I, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a62-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d8-32b8-e044-0003ba298018",
+					"titel": "Banevej 8K, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a63-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35d9-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a64-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35da-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a65-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a54a1621-e901-4e8a-8557-82a608e66eb6",
+					"titel": "Banevej 10A, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a66-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35db-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a67-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35dc-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a68-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-35dd-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a69-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 8832": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "76d11a0f-f08b-6818-e044-00144f3ead67",
+					"titel": "Banevej 1A, 8832 Skals",
+					"husnummerId": "76d11a0f-ef71-6818-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "82edd71c-e4cb-4fb0-b32f-72a1cf6d43b4",
+					"titel": "Banevej 1B, 8832 Skals",
+					"husnummerId": "0a3f5097-d86c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "37d2e66a-f318-4da4-8a0d-221c92a44738",
+					"titel": "Banevej 1C, 8832 Skals",
+					"husnummerId": "34389147-3947-4970-a343-8f3f438e39bd"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4480": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b1-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-574d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b2-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-574e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cd3dda2b-9b57-494f-8bbf-4496741d2b9f",
+					"titel": "Banevej 2B, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-574f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b3-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5750-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b4-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5751-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b5-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5752-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b6-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5753-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b7-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5754-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b8-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5755-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b9-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5756-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76ba-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5757-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76bb-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5758-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76bc-32b8-e044-0003ba298018",
+					"titel": "Banevej 17, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5759-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76bd-32b8-e044-0003ba298018",
+					"titel": "Banevej 19, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-575a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76be-32b8-e044-0003ba298018",
+					"titel": "Banevej 21, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-575b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76bf-32b8-e044-0003ba298018",
+					"titel": "Banevej 23, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-575c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76c0-32b8-e044-0003ba298018",
+					"titel": "Banevej 25, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-575d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76c1-32b8-e044-0003ba298018",
+					"titel": "Banevej 27, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-575e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "14e90af1-245b-4ae1-84c9-2f1ead05967d",
+					"titel": "Banevej 29, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-575f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d65f2f0a-8fde-43df-8918-3ddf230186e6",
+					"titel": "Banevej 31, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5760-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f183806d-47fe-44fa-a002-7d0a21e51c31",
+					"titel": "Banevej 33, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5761-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7d342f0a-9a1f-439f-9159-ff23e3d7feb3",
+					"titel": "Banevej 35, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5762-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76c2-32b8-e044-0003ba298018",
+					"titel": "Banevej 37, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5763-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4370": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0218-32b8-e044-0003ba298018",
+					"titel": "Banevej 1A, 4370 Store Merløse",
+					"vejnavn": "Banevej",
+					"husnummer": "1A"
+				},
+				{
+					"type": "adresse",
+					"id": "6e1e5665-3308-447e-bfc2-c5e629d02215",
+					"titel": "Banevej 1B, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0219-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5bec-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-021a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5bed-32b8-e044-0003ba298018",
+					"titel": "Banevej 4A, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-021b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c8cdba9b-35fa-4cea-83ec-34b2cef3078f",
+					"titel": "Banevej 4B, 4370 Store Merløse",
+					"husnummerId": "1c3fda20-be3f-447e-991f-fb445767fe43"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-021c-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 4370 Store Merløse",
+					"vejnavn": "Banevej",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5bf2-32b8-e044-0003ba298018",
+					"titel": "Banevej 8A, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-021d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1c273f36-6d76-49e2-a2dc-1212b12ae4e0",
+					"titel": "Banevej 8B, 4370 Store Merløse",
+					"husnummerId": "c3c75e5b-98ba-45ac-bad1-18823984c7db"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5bf3-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-021e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-021f-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 4370 Store Merløse",
+					"vejnavn": "Banevej",
+					"husnummer": "12"
+				},
+				{
+					"type": "adresse",
+					"id": "4bc63f3c-92bf-4e7c-a99f-d3a7cd351ddf",
+					"titel": "Banevej 14, 4370 Store Merløse",
+					"husnummerId": "a88c5e55-e944-494d-9bb8-1ee2cd14ce45"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5bf6-32b8-e044-0003ba298018",
+					"titel": "Banevej 14A, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0221-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5bf7-32b8-e044-0003ba298018",
+					"titel": "Banevej 14B, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0222-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5bf8-32b8-e044-0003ba298018",
+					"titel": "Banevej 16, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0223-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5bf9-32b8-e044-0003ba298018",
+					"titel": "Banevej 18, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0224-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5bfa-32b8-e044-0003ba298018",
+					"titel": "Banevej 20, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0225-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0226-32b8-e044-0003ba298018",
+					"titel": "Banevej 22, 4370 Store Merløse",
+					"vejnavn": "Banevej",
+					"husnummer": "22"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0227-32b8-e044-0003ba298018",
+					"titel": "Banevej 24, 4370 Store Merløse",
+					"vejnavn": "Banevej",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0228-32b8-e044-0003ba298018",
+					"titel": "Banevej 26, 4370 Store Merløse",
+					"vejnavn": "Banevej",
+					"husnummer": "26"
+				},
+				{
+					"type": "adresse",
+					"id": "ef830234-f79a-4b9d-b053-bde0e1a24fed",
+					"titel": "Banevej 27, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0229-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-022a-32b8-e044-0003ba298018",
+					"titel": "Banevej 28, 4370 Store Merløse",
+					"vejnavn": "Banevej",
+					"husnummer": "28"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c15-32b8-e044-0003ba298018",
+					"titel": "Banevej 29, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-022b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "53f9d7c5-bc36-4c8b-a426-8ea3e089acd8",
+					"titel": "Banevej 30, 4370 Store Merløse",
+					"husnummerId": "fb0a8167-148a-41b3-bf6c-d05494e1ff36"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c16-32b8-e044-0003ba298018",
+					"titel": "Banevej 31, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-022d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c17-32b8-e044-0003ba298018",
+					"titel": "Banevej 33, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-022e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c18-32b8-e044-0003ba298018",
+					"titel": "Banevej 35, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-022f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c19-32b8-e044-0003ba298018",
+					"titel": "Banevej 37, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0230-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c1a-32b8-e044-0003ba298018",
+					"titel": "Banevej 39, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0231-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c1b-32b8-e044-0003ba298018",
+					"titel": "Banevej 41, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0232-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c1c-32b8-e044-0003ba298018",
+					"titel": "Banevej 43, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0233-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c1d-32b8-e044-0003ba298018",
+					"titel": "Banevej 45, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0234-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c1e-32b8-e044-0003ba298018",
+					"titel": "Banevej 47, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0235-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c1f-32b8-e044-0003ba298018",
+					"titel": "Banevej 49, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0236-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 9640": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "b86c9ca6-a6bd-48b1-b6db-a7de4fba3cad",
+					"titel": "Banevej 2, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f08-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20f3-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f09-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20f4-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f0a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20f5-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f0b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20f6-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f0c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20f7-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f0d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20f8-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f0e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20f9-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f0f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20fa-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f10-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20fb-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f11-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20fc-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f12-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20fd-32b8-e044-0003ba298018",
+					"titel": "Banevej 16, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f13-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "32491c36-731b-443e-a36e-18628c5d08a8",
+					"titel": "Banevej 26, Fandrup, 9640 Farsø",
+					"husnummerId": "b3166ff0-f377-4206-beee-90e98af687a3"
+				},
+				{
+					"type": "adresse",
+					"id": "f91694f7-40aa-4e2a-973a-5f550df49f22",
+					"titel": "Banevej 26A, Fandrup, 9640 Farsø",
+					"husnummerId": "c50047ab-143d-473c-9103-9ab21b51f2e1"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4653": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "5c7d3674-11b1-4ee1-ae73-f12656c6223b",
+					"titel": "Banevej 1, 4653 Karise",
+					"husnummerId": "0a3f5085-1309-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5321248e-dce5-49d6-999a-3123660f1d71",
+					"titel": "Banevej 2, 4653 Karise",
+					"husnummerId": "75d697b0-505c-496f-83f2-1ffc9f5dd8df"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6d4e-32b8-e044-0003ba298018",
+					"titel": "Banevej 2A, 4653 Karise",
+					"husnummerId": "0a3f5085-130b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6d4f-32b8-e044-0003ba298018",
+					"titel": "Banevej 2B, 4653 Karise",
+					"husnummerId": "0a3f5085-130c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6d50-32b8-e044-0003ba298018",
+					"titel": "Banevej 2C, 4653 Karise",
+					"husnummerId": "0a3f5085-130d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97090ea5-23c0-4c51-89ac-db862126a695",
+					"titel": "Banevej 2D, 4653 Karise",
+					"husnummerId": "6f21d5f6-63ff-4190-ae72-fe7733000a35"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6d53-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4653 Karise",
+					"husnummerId": "0a3f5085-130e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6d54-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 4653 Karise",
+					"husnummerId": "0a3f5085-1310-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5072c460-e613-4ddb-a5c8-2a3ccf8a509d",
+					"titel": "Banevej 7, 4653 Karise",
+					"husnummerId": "0a3f5085-1311-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6d55-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 4653 Karise",
+					"husnummerId": "0a3f5085-1312-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6d56-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 4653 Karise",
+					"husnummerId": "0a3f5085-1313-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 5600": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-9a11-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-141c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e99e6697-5097-4c12-9ff6-8d010c209220",
+					"titel": "Banevej 1A, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-141d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-9a12-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-141e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-9a13-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-141f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-9a14-32b8-e044-0003ba298018",
+					"titel": "Banevej 3A, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-1420-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-9a15-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-1421-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-9a16-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-1422-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "60cb15a4-26a7-46c7-93cd-26fb43f4ba34",
+					"titel": "Banevej 7, Håstrup, 5600 Faaborg",
+					"husnummerId": "cd04e510-34bf-4c29-99c3-272def64c6cb"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-9a17-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-1423-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5fb7b7c6-324f-4c3c-80cd-61f3d0795421",
+					"titel": "Banevej 12, Håstrup, 5600 Faaborg",
+					"husnummerId": "727c006a-8a3b-467b-847c-1b6df97394f5"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 9670": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-7f84-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, Bjørumslet, 9670 Løgstør",
+					"husnummerId": "0a3f509a-d4a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-7f85-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, Bjørumslet, 9670 Løgstør",
+					"husnummerId": "0a3f509a-d4aa-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50af-885c-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, Lov, 4700 Næstved",
+					"husnummerId": "0a3f5085-2de0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-885d-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Lov, 4700 Næstved",
+					"husnummerId": "0a3f5085-2de1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-885e-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Lov, 4700 Næstved",
+					"husnummerId": "0a3f5085-2de2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-885f-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Lov, 4700 Næstved",
+					"husnummerId": "0a3f5085-2de3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-8860-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, Lov, 4700 Næstved",
+					"husnummerId": "0a3f5085-2de4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "99b13938-c696-47eb-9dd8-80f5f4011034",
+					"titel": "Banevej 8, Lov, 4700 Næstved",
+					"husnummerId": "2118d6c6-5bfc-493f-ab29-a8b651b1db70"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 5792": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-22a9-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, Årslev, 5792 Årslev",
+					"husnummerId": "0a3f508b-02a6-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4220": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd76-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 4220 Korsør",
+					"husnummerId": "0a3f5083-a65f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd77-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 4220 Korsør",
+					"husnummerId": "0a3f5083-a660-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd78-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, 4220 Korsør",
+					"husnummerId": "0a3f5083-a661-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd79-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 4220 Korsør",
+					"husnummerId": "0a3f5083-a662-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd7a-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 4220 Korsør",
+					"husnummerId": "0a3f5083-a663-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd7b-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 4220 Korsør",
+					"husnummerId": "0a3f5083-a664-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd7c-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, 4220 Korsør",
+					"husnummerId": "0a3f5083-a665-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd7d-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 4220 Korsør",
+					"husnummerId": "0a3f5083-a666-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd7e-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 4220 Korsør",
+					"husnummerId": "0a3f5083-a667-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd7f-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 4220 Korsør",
+					"husnummerId": "0a3f5083-a668-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd80-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 4220 Korsør",
+					"husnummerId": "0a3f5083-a669-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd81-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, 4220 Korsør",
+					"husnummerId": "0a3f5083-a66a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd82-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, 4220 Korsør",
+					"husnummerId": "0a3f5083-a66b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd83-32b8-e044-0003ba298018",
+					"titel": "Banevej 17, 4220 Korsør",
+					"husnummerId": "0a3f5083-a66c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "56f1dbde-9e63-4104-8b4f-c08022de5d47",
+					"titel": "Banevej 19, 4220 Korsør",
+					"husnummerId": "7069101b-ee25-4cf1-b65b-b28c3c5d6d5a"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd84-32b8-e044-0003ba298018",
+					"titel": "Banevej 19A, 4220 Korsør",
+					"husnummerId": "0a3f5083-a66e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd85-32b8-e044-0003ba298018",
+					"titel": "Banevej 19B, 4220 Korsør",
+					"husnummerId": "0a3f5083-a66f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd86-32b8-e044-0003ba298018",
+					"titel": "Banevej 21A, 4220 Korsør",
+					"husnummerId": "0a3f5083-a671-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd87-32b8-e044-0003ba298018",
+					"titel": "Banevej 21B, 4220 Korsør",
+					"husnummerId": "0a3f5083-a672-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd88-32b8-e044-0003ba298018",
+					"titel": "Banevej 23, 4220 Korsør",
+					"husnummerId": "0a3f5083-a673-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd89-32b8-e044-0003ba298018",
+					"titel": "Banevej 24, 4220 Korsør",
+					"husnummerId": "0a3f5083-a674-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8a-32b8-e044-0003ba298018",
+					"titel": "Banevej 26, 4220 Korsør",
+					"husnummerId": "0a3f5083-a675-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8b-32b8-e044-0003ba298018",
+					"titel": "Banevej 28, 4220 Korsør",
+					"husnummerId": "0a3f5083-a676-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8c-32b8-e044-0003ba298018",
+					"titel": "Banevej 30, 4220 Korsør",
+					"husnummerId": "0a3f5083-a677-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8d-32b8-e044-0003ba298018",
+					"titel": "Banevej 32, 4220 Korsør",
+					"husnummerId": "0a3f5083-a678-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8e-32b8-e044-0003ba298018",
+					"titel": "Banevej 34, 4220 Korsør",
+					"husnummerId": "0a3f5083-a679-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8f-32b8-e044-0003ba298018",
+					"titel": "Banevej 36, 4220 Korsør",
+					"husnummerId": "0a3f5083-a67a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd90-32b8-e044-0003ba298018",
+					"titel": "Banevej 38, 4220 Korsør",
+					"husnummerId": "0a3f5083-a67b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd91-32b8-e044-0003ba298018",
+					"titel": "Banevej 40, 4220 Korsør",
+					"husnummerId": "0a3f5083-a67c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd92-32b8-e044-0003ba298018",
+					"titel": "Banevej 42, 4220 Korsør",
+					"husnummerId": "0a3f5083-a67d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd93-32b8-e044-0003ba298018",
+					"titel": "Banevej 44, 4220 Korsør",
+					"husnummerId": "0a3f5083-a67e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd94-32b8-e044-0003ba298018",
+					"titel": "Banevej 46, 4220 Korsør",
+					"husnummerId": "0a3f5083-a67f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd95-32b8-e044-0003ba298018",
+					"titel": "Banevej 48, 4220 Korsør",
+					"husnummerId": "0a3f5083-a680-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd96-32b8-e044-0003ba298018",
+					"titel": "Banevej 50, 4220 Korsør",
+					"husnummerId": "0a3f5083-a681-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd97-32b8-e044-0003ba298018",
+					"titel": "Banevej 52, 4220 Korsør",
+					"husnummerId": "0a3f5083-a682-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd98-32b8-e044-0003ba298018",
+					"titel": "Banevej 54, 4220 Korsør",
+					"husnummerId": "0a3f5083-a683-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd99-32b8-e044-0003ba298018",
+					"titel": "Banevej 56, 4220 Korsør",
+					"husnummerId": "0a3f5083-a684-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd9a-32b8-e044-0003ba298018",
+					"titel": "Banevej 58, 4220 Korsør",
+					"husnummerId": "0a3f5083-a685-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd9b-32b8-e044-0003ba298018",
+					"titel": "Banevej 60, 4220 Korsør",
+					"husnummerId": "0a3f5083-a686-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 5474": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-c7cf-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 5474 Veflinge",
+					"husnummerId": "0a3f508a-a4e0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1c68cb07-5435-4a8f-a0b7-ee67f1ac5e87",
+					"titel": "Banevej 5, 5474 Veflinge",
+					"husnummerId": "0a3f508a-a4e1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "299914d0-4716-49fa-a234-a7c9e47dcb5e",
+					"titel": "Banevej 7, 5474 Veflinge",
+					"husnummerId": "0a3f508a-a4e2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7fdf4903-47af-4235-994f-c77e6ca51b09",
+					"titel": "Banevej 9, Farstrup, 5474 Veflinge",
+					"husnummerId": "0a3f508a-a4e5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "00ebad8f-813e-4773-89c5-b6b2ee886b7a",
+					"titel": "Banevej 11, 5474 Veflinge",
+					"husnummerId": "775fe3b8-6aaf-1a9c-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "f4d447cd-9dc5-486e-b5e5-8c83390dd8dc",
+					"titel": "Banevej 13, 5474 Veflinge",
+					"husnummerId": "775fe3b8-6ab0-1a9c-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "9dadb5d7-aab9-4200-b4e8-6240b01b42f0",
+					"titel": "Banevej 15, 5474 Veflinge",
+					"husnummerId": "f5999976-4abf-4ffd-9b09-fe323fcaa5b5"
+				},
+				{
+					"type": "adresse",
+					"id": "775fe3b8-6b1d-1a9c-e044-00144f3ead67",
+					"titel": "Banevej 19, 5474 Veflinge",
+					"husnummerId": "775fe3b8-6ab1-1a9c-e044-00144f3ead67"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 8570": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-c279-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Hallendrup, 8570 Trustrup",
+					"husnummerId": "0a3f5093-8b24-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4180": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "fc664ff5-ea7c-4187-9639-3c98d546add6",
+					"titel": "Banevej 1, 4180 Sorø",
+					"husnummerId": "0a3f5084-780c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d521-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 4180 Sorø",
+					"husnummerId": "0a3f5084-780d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22d68c3e-0aba-4847-9692-afa0d2d245b2",
+					"titel": "Banevej 3, 4180 Sorø",
+					"husnummerId": "0a3f5084-780e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d522-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 4180 Sorø",
+					"husnummerId": "0a3f5084-780f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d523-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 4180 Sorø",
+					"husnummerId": "0a3f5084-7810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-7811-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 4180 Sorø",
+					"vejnavn": "Banevej",
+					"husnummer": "7"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d526-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, 4180 Sorø",
+					"husnummerId": "0a3f5084-7812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dde3bbcc-2618-4d9d-820b-c616db92ad33",
+					"titel": "Banevej 9, 4180 Sorø",
+					"husnummerId": "afa5c721-4f59-4124-af68-e08f2629c8b4"
+				},
+				{
+					"type": "adresse",
+					"id": "1f7a7527-9228-403c-e044-0003ba298018",
+					"titel": "Banevej 10A, 4180 Sorø",
+					"husnummerId": "1f289f18-8921-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1f7a7527-9229-403c-e044-0003ba298018",
+					"titel": "Banevej 10B, 4180 Sorø",
+					"husnummerId": "1f289f18-8922-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1f7a7527-922a-403c-e044-0003ba298018",
+					"titel": "Banevej 10C, 4180 Sorø",
+					"husnummerId": "1f289f18-8923-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1f7a7527-922b-403c-e044-0003ba298018",
+					"titel": "Banevej 10D, 4180 Sorø",
+					"husnummerId": "1f289f18-8924-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1f7a7527-922c-403c-e044-0003ba298018",
+					"titel": "Banevej 10E, 4180 Sorø",
+					"husnummerId": "1f289f18-8925-372c-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "74393e88-b410-44dc-a27f-78996a55183d",
+					"titel": "Banevej 10F, 4180 Sorø",
+					"husnummerId": "f903e421-ad9e-4e02-8576-da4f6a356c6b"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d52b-32b8-e044-0003ba298018",
+					"titel": "Banevej 11A, 4180 Sorø",
+					"husnummerId": "0a3f5084-7814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d52c-32b8-e044-0003ba298018",
+					"titel": "Banevej 11B, 4180 Sorø",
+					"husnummerId": "0a3f5084-7815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d52d-32b8-e044-0003ba298018",
+					"titel": "Banevej 11C, 4180 Sorø",
+					"husnummerId": "0a3f5084-7816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d52e-32b8-e044-0003ba298018",
+					"titel": "Banevej 11D, 4180 Sorø",
+					"husnummerId": "0a3f5084-7817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d52f-32b8-e044-0003ba298018",
+					"titel": "Banevej 11E, 4180 Sorø",
+					"husnummerId": "0a3f5084-7818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d530-32b8-e044-0003ba298018",
+					"titel": "Banevej 11F, 4180 Sorø",
+					"husnummerId": "0a3f5084-7819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d531-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 4180 Sorø",
+					"husnummerId": "0a3f5084-781a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d71e3e43-f816-4f07-a8ee-02870f3599f9",
+					"titel": "Banevej 13, 4180 Sorø",
+					"husnummerId": "0a3f5084-781b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d532-32b8-e044-0003ba298018",
+					"titel": "Banevej 13A, 4180 Sorø",
+					"husnummerId": "0a3f5084-781c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d533-32b8-e044-0003ba298018",
+					"titel": "Banevej 13B, 4180 Sorø",
+					"husnummerId": "0a3f5084-781d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d534-32b8-e044-0003ba298018",
+					"titel": "Banevej 13C, 4180 Sorø",
+					"husnummerId": "0a3f5084-781e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d535-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, 4180 Sorø",
+					"husnummerId": "0a3f5084-781f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d536-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, 4180 Sorø",
+					"husnummerId": "0a3f5084-7820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d537-32b8-e044-0003ba298018",
+					"titel": "Banevej 16, 4180 Sorø",
+					"husnummerId": "0a3f5084-7821-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d538-32b8-e044-0003ba298018",
+					"titel": "Banevej 17, 4180 Sorø",
+					"husnummerId": "0a3f5084-7822-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d539-32b8-e044-0003ba298018",
+					"titel": "Banevej 18, 4180 Sorø",
+					"husnummerId": "0a3f5084-7823-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d53a-32b8-e044-0003ba298018",
+					"titel": "Banevej 19, 4180 Sorø",
+					"husnummerId": "0a3f5084-7824-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9605e1f7-d981-40a7-9eaf-6a7f1ede733a",
+					"titel": "Banevej 19A, 4180 Sorø",
+					"husnummerId": "40fc1ff5-2972-46fd-aeab-d2abeb4d18e3"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d53b-32b8-e044-0003ba298018",
+					"titel": "Banevej 20, 4180 Sorø",
+					"husnummerId": "0a3f5084-7825-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d53c-32b8-e044-0003ba298018",
+					"titel": "Banevej 21, 4180 Sorø",
+					"husnummerId": "0a3f5084-7826-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d53d-32b8-e044-0003ba298018",
+					"titel": "Banevej 22, 4180 Sorø",
+					"husnummerId": "0a3f5084-7827-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "876cbb20-51dc-471a-a98d-038ef70b4e41",
+					"titel": "Banevej 22A, 4180 Sorø",
+					"husnummerId": "d272835e-f6e9-407c-8c6e-336fcc37a32b"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d53e-32b8-e044-0003ba298018",
+					"titel": "Banevej 23, 4180 Sorø",
+					"husnummerId": "0a3f5084-7828-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d53f-32b8-e044-0003ba298018",
+					"titel": "Banevej 24, 4180 Sorø",
+					"husnummerId": "0a3f5084-7829-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d540-32b8-e044-0003ba298018",
+					"titel": "Banevej 25, 4180 Sorø",
+					"husnummerId": "0a3f5084-782a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d541-32b8-e044-0003ba298018",
+					"titel": "Banevej 26, 4180 Sorø",
+					"husnummerId": "0a3f5084-782b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d542-32b8-e044-0003ba298018",
+					"titel": "Banevej 27, 4180 Sorø",
+					"husnummerId": "0a3f5084-782c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d6168c37-0eda-4e51-bc8d-8853253a4a76",
+					"titel": "Banevej 27A, 4180 Sorø",
+					"husnummerId": "0a3f5084-782d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "629423ec-8eb5-4dc7-9579-3de419c9bc1c",
+					"titel": "Banevej 27B, 4180 Sorø",
+					"husnummerId": "0a3f5084-782e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-782f-32b8-e044-0003ba298018",
+					"titel": "Banevej 28, 4180 Sorø",
+					"vejnavn": "Banevej",
+					"husnummer": "28"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d549-32b8-e044-0003ba298018",
+					"titel": "Banevej 29, 4180 Sorø",
+					"husnummerId": "0a3f5084-7830-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54a-32b8-e044-0003ba298018",
+					"titel": "Banevej 31, 4180 Sorø",
+					"husnummerId": "0a3f5084-7832-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54b-32b8-e044-0003ba298018",
+					"titel": "Banevej 33, 4180 Sorø",
+					"husnummerId": "0a3f5084-7833-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54c-32b8-e044-0003ba298018",
+					"titel": "Banevej 34, 4180 Sorø",
+					"husnummerId": "0a3f5084-7834-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54d-32b8-e044-0003ba298018",
+					"titel": "Banevej 36, 4180 Sorø",
+					"husnummerId": "0a3f5084-7835-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54e-32b8-e044-0003ba298018",
+					"titel": "Banevej 38, 4180 Sorø",
+					"husnummerId": "0a3f5084-7836-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 6430": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-0ca1-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, Oksbøl, 6430 Nordborg",
+					"husnummerId": "0a3f508b-d82f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-0ca2-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Oksbøl, 6430 Nordborg",
+					"husnummerId": "0a3f508b-d830-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-0ca3-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Oksbøl, 6430 Nordborg",
+					"husnummerId": "0a3f508b-d831-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-0ca4-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Oksbøl, 6430 Nordborg",
+					"husnummerId": "0a3f508b-d832-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4930": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-6b11-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, Skelstrup, 4930 Maribo",
+					"vejnavn": "Banevej",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b1-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b12-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b2-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b13-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b3-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b14-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b4-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b15-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b5-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b16-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b6-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b17-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b7-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b18-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b8-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b19-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b9-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b1a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2ba-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b1b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2bb-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b1c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 8320": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-7640-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 8320 Mårslet",
+					"husnummerId": "0a3f5095-e706-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "237a17f0-fe84-4f85-9133-320328e94fb6",
+					"titel": "Banevej 2, 8320 Mårslet",
+					"husnummerId": "0a3f5095-e707-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-7641-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 8320 Mårslet",
+					"husnummerId": "0a3f5095-e708-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-7642-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, 8320 Mårslet",
+					"husnummerId": "0a3f5095-e709-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-7643-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 8320 Mårslet",
+					"husnummerId": "0a3f5095-e70a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-7644-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 8320 Mårslet",
+					"husnummerId": "0a3f5095-e70b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-7645-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, 8320 Mårslet",
+					"husnummerId": "0a3f5095-e70c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-7646-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 8320 Mårslet",
+					"husnummerId": "0a3f5095-e70d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5095-e70e-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 8320 Mårslet",
+					"vejnavn": "Banevej",
+					"husnummer": "12"
+				},
+				{
+					"type": "adresse",
+					"id": "46ed1105-3d93-42ca-afc8-3528402b37ed",
+					"titel": "Banevej 14, 8320 Mårslet",
+					"husnummerId": "f1c04950-d5ce-4742-8719-4e5c8e0b0a39"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 9300": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-742a-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 9300 Sæby",
+					"husnummerId": "0a3f509b-d497-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-742b-32b8-e044-0003ba298018",
+					"titel": "Banevej 1A, 9300 Sæby",
+					"husnummerId": "0a3f509b-d498-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-742c-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 9300 Sæby",
+					"husnummerId": "0a3f509b-d499-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-742d-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 9300 Sæby",
+					"husnummerId": "0a3f509b-d49a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-742e-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, 9300 Sæby",
+					"husnummerId": "0a3f509b-d49b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-742f-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 9300 Sæby",
+					"husnummerId": "0a3f509b-d49c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7430-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 9300 Sæby",
+					"husnummerId": "0a3f509b-d49d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7431-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 9300 Sæby",
+					"husnummerId": "0a3f509b-d49e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7432-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, 9300 Sæby",
+					"husnummerId": "0a3f509b-d49f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7433-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7434-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7435-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7436-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7437-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7438-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7439-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-743a-32b8-e044-0003ba298018",
+					"titel": "Banevej 16, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-743b-32b8-e044-0003ba298018",
+					"titel": "Banevej 17, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-743c-32b8-e044-0003ba298018",
+					"titel": "Banevej 18, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-743d-32b8-e044-0003ba298018",
+					"titel": "Banevej 19, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-743e-32b8-e044-0003ba298018",
+					"titel": "Banevej 20, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-743f-32b8-e044-0003ba298018",
+					"titel": "Banevej 21, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7440-32b8-e044-0003ba298018",
+					"titel": "Banevej 22, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7441-32b8-e044-0003ba298018",
+					"titel": "Banevej 23, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7442-32b8-e044-0003ba298018",
+					"titel": "Banevej 24, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7443-32b8-e044-0003ba298018",
+					"titel": "Banevej 25, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7444-32b8-e044-0003ba298018",
+					"titel": "Banevej 27, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-7445-32b8-e044-0003ba298018",
+					"titel": "Banevej 29, 9300 Sæby",
+					"husnummerId": "0a3f509b-d4b2-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 8930": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-d306-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 8930 Randers NØ",
+					"husnummerId": "0a3f5094-9ac5-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 9870": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-1215-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, Tolne, 9870 Sindal",
+					"husnummerId": "0a3f509b-6e4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-1216-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Tolne, 9870 Sindal",
+					"husnummerId": "0a3f509b-6e4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8f3864f6-17d4-4fb1-9325-1833169e97b3",
+					"titel": "Banevej 3A, Tolne, 9870 Sindal",
+					"husnummerId": "2f0045d5-4b62-495f-aff2-188e275e76fe"
+				},
+				{
+					"type": "adresse",
+					"id": "96200031-e1aa-4d76-b7c3-b34cff7a954f",
+					"titel": "Banevej 5A, Tolne, 9870 Sindal",
+					"husnummerId": "0f431467-f9a8-4530-9076-69b969a40604"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4296": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-f261-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, 4296 Nyrup",
+					"husnummerId": "0a3f5084-9274-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-f262-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4296 Nyrup",
+					"husnummerId": "0a3f5084-9275-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-f263-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 4296 Nyrup",
+					"husnummerId": "0a3f5084-9276-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-f264-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 4296 Nyrup",
+					"husnummerId": "0a3f5084-9277-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-9278-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 4296 Nyrup",
+					"vejnavn": "Banevej",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-9279-32b8-e044-0003ba298018",
+					"titel": "Banevej 9A, 4296 Nyrup",
+					"vejnavn": "Banevej",
+					"husnummer": "9A"
+				},
+				{
+					"type": "husnummer",
+					"id": "1357eb80-9e82-3d79-e044-0003ba298018",
+					"titel": "Banevej 9B, 4296 Nyrup",
+					"vejnavn": "Banevej",
+					"husnummer": "9B"
+				},
+				{
+					"type": "husnummer",
+					"id": "22729a66-891c-44d0-e044-0003ba298018",
+					"titel": "Banevej 9C, 4296 Nyrup",
+					"vejnavn": "Banevej",
+					"husnummer": "9C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-927a-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 4296 Nyrup",
+					"vejnavn": "Banevej",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-f269-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 4296 Nyrup",
+					"husnummerId": "0a3f5084-927b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-f26a-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, 4296 Nyrup",
+					"husnummerId": "0a3f5084-927c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 9760": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-0356-32b8-e044-0003ba298018",
+					"titel": "Banevej 25, Gunderup, 9760 Vrå",
+					"husnummerId": "0a3f509a-5f93-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-0357-32b8-e044-0003ba298018",
+					"titel": "Banevej 41, Gunderup, 9760 Vrå",
+					"husnummerId": "0a3f509a-5f94-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-0358-32b8-e044-0003ba298018",
+					"titel": "Banevej 50, Gunderup, 9760 Vrå",
+					"husnummerId": "0a3f509a-5f95-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-0359-32b8-e044-0003ba298018",
+					"titel": "Banevej 70, Gunderup, 9760 Vrå",
+					"husnummerId": "0a3f509a-5f96-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5f5d1465-dde5-4598-9240-3091b8da6e2d",
+					"titel": "Banevej 74, Gunderup, 9760 Vrå",
+					"husnummerId": "0a3f509a-5f97-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 5900": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b995-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, Illebølle, 5900 Rudkøbing",
+					"husnummerId": "0a3f508a-9505-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b996-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Illebølle, 5900 Rudkøbing",
+					"husnummerId": "0a3f508a-9506-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "14a3b896-b662-43a7-85c7-b6c6c5ea4515",
+					"titel": "Banevej 5, Illebølle, 5900 Rudkøbing",
+					"husnummerId": "387f40f0-c077-4d4c-aff1-200494803c37"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b997-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, Illebølle, 5900 Rudkøbing",
+					"husnummerId": "0a3f508a-9507-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b998-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, Illebølle, 5900 Rudkøbing",
+					"husnummerId": "0a3f508a-9508-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b999-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, Illebølle, 5900 Rudkøbing",
+					"husnummerId": "0a3f508a-9509-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-b99a-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, Illebølle, 5900 Rudkøbing",
+					"husnummerId": "0a3f508a-950a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4735": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "894dc3d4-3806-4e8d-b955-8632fdd9d777",
+					"titel": "Banevej 1, 4735 Mern",
+					"husnummerId": "0a3f5085-5c24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b47f-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 4735 Mern",
+					"husnummerId": "0a3f5085-5c25-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b480-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4735 Mern",
+					"husnummerId": "0a3f5085-5c26-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b481-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, 4735 Mern",
+					"husnummerId": "0a3f5085-5c27-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b482-32b8-e044-0003ba298018",
+					"titel": "Banevej 5, 4735 Mern",
+					"husnummerId": "0a3f5085-5c28-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b483-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, 4735 Mern",
+					"husnummerId": "0a3f5085-5c29-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b484-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 4735 Mern",
+					"husnummerId": "0a3f5085-5c2a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b485-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, 4735 Mern",
+					"husnummerId": "0a3f5085-5c2b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b486-32b8-e044-0003ba298018",
+					"titel": "Banevej 10, 4735 Mern",
+					"husnummerId": "0a3f5085-5c2c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b487-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, 4735 Mern",
+					"husnummerId": "0a3f5085-5c2d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-5c2e-32b8-e044-0003ba298018",
+					"titel": "Banevej 12, 4735 Mern",
+					"vejnavn": "Banevej",
+					"husnummer": "12"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b48a-32b8-e044-0003ba298018",
+					"titel": "Banevej 13, 4735 Mern",
+					"husnummerId": "0a3f5085-5c2f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-5c30-32b8-e044-0003ba298018",
+					"titel": "Banevej 14, 4735 Mern",
+					"vejnavn": "Banevej",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b48d-32b8-e044-0003ba298018",
+					"titel": "Banevej 15, 4735 Mern",
+					"husnummerId": "0a3f5085-5c31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-5c32-32b8-e044-0003ba298018",
+					"titel": "Banevej 16, 4735 Mern",
+					"vejnavn": "Banevej",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b490-32b8-e044-0003ba298018",
+					"titel": "Banevej 17, 4735 Mern",
+					"husnummerId": "0a3f5085-5c33-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b491-32b8-e044-0003ba298018",
+					"titel": "Banevej 18, 4735 Mern",
+					"husnummerId": "0a3f5085-5c34-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b492-32b8-e044-0003ba298018",
+					"titel": "Banevej 19, 4735 Mern",
+					"husnummerId": "0a3f5085-5c35-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b493-32b8-e044-0003ba298018",
+					"titel": "Banevej 20, 4735 Mern",
+					"husnummerId": "0a3f5085-5c36-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b494-32b8-e044-0003ba298018",
+					"titel": "Banevej 21, 4735 Mern",
+					"husnummerId": "0a3f5085-5c37-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b495-32b8-e044-0003ba298018",
+					"titel": "Banevej 22, 4735 Mern",
+					"husnummerId": "0a3f5085-5c38-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b496-32b8-e044-0003ba298018",
+					"titel": "Banevej 23, 4735 Mern",
+					"husnummerId": "0a3f5085-5c39-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b497-32b8-e044-0003ba298018",
+					"titel": "Banevej 24, 4735 Mern",
+					"husnummerId": "0a3f5085-5c3a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b498-32b8-e044-0003ba298018",
+					"titel": "Banevej 25, 4735 Mern",
+					"husnummerId": "0a3f5085-5c3b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b499-32b8-e044-0003ba298018",
+					"titel": "Banevej 26, 4735 Mern",
+					"husnummerId": "0a3f5085-5c3c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b49a-32b8-e044-0003ba298018",
+					"titel": "Banevej 27, 4735 Mern",
+					"husnummerId": "0a3f5085-5c3d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b49b-32b8-e044-0003ba298018",
+					"titel": "Banevej 28, 4735 Mern",
+					"husnummerId": "0a3f5085-5c3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b49c-32b8-e044-0003ba298018",
+					"titel": "Banevej 29, 4735 Mern",
+					"husnummerId": "0a3f5085-5c3f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b49d-32b8-e044-0003ba298018",
+					"titel": "Banevej 30, 4735 Mern",
+					"husnummerId": "0a3f5085-5c40-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b49e-32b8-e044-0003ba298018",
+					"titel": "Banevej 31, 4735 Mern",
+					"husnummerId": "0a3f5085-5c41-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "81f4fb6e-8e3b-442e-8223-06340bbeb763",
+					"titel": "Banevej 32, 4735 Mern",
+					"husnummerId": "0a3f5085-5c42-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b49f-32b8-e044-0003ba298018",
+					"titel": "Banevej 33, 4735 Mern",
+					"husnummerId": "0a3f5085-5c43-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a0-32b8-e044-0003ba298018",
+					"titel": "Banevej 35, 4735 Mern",
+					"husnummerId": "0a3f5085-5c44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a1-32b8-e044-0003ba298018",
+					"titel": "Banevej 37, 4735 Mern",
+					"husnummerId": "0a3f5085-5c45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a2-32b8-e044-0003ba298018",
+					"titel": "Banevej 39, 4735 Mern",
+					"husnummerId": "0a3f5085-5c46-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a3-32b8-e044-0003ba298018",
+					"titel": "Banevej 41, 4735 Mern",
+					"husnummerId": "0a3f5085-5c47-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a4-32b8-e044-0003ba298018",
+					"titel": "Banevej 43, 4735 Mern",
+					"husnummerId": "0a3f5085-5c48-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a5-32b8-e044-0003ba298018",
+					"titel": "Banevej 43A, 4735 Mern",
+					"husnummerId": "0a3f5085-5c49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a6-32b8-e044-0003ba298018",
+					"titel": "Banevej 45, 4735 Mern",
+					"husnummerId": "0a3f5085-5c4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a7-32b8-e044-0003ba298018",
+					"titel": "Banevej 47, 4735 Mern",
+					"husnummerId": "0a3f5085-5c4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a8-32b8-e044-0003ba298018",
+					"titel": "Banevej 49, 4735 Mern",
+					"husnummerId": "0a3f5085-5c4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a9-32b8-e044-0003ba298018",
+					"titel": "Banevej 51, 4735 Mern",
+					"husnummerId": "0a3f5085-5c4d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 4750": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "442d4b61-6388-413f-8bb8-f7f4ee14db3a",
+					"titel": "Banevej 1, 4750 Lundby",
+					"husnummerId": "2d8f3e0d-fa7c-4b14-9172-60bfd97245c9"
+				},
+				{
+					"type": "adresse",
+					"id": "9632d86b-32ac-4b86-8036-f8e1b3c93ece",
+					"titel": "Banevej 1A, 4750 Lundby",
+					"husnummerId": "0a3f5087-26ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c499523a-db26-41ab-8cce-c7b3404c8e69",
+					"titel": "Banevej 1B, 4750 Lundby",
+					"husnummerId": "83bab908-68a8-4ee3-bdb7-a657ebf5dbd1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a5fe-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 4750 Lundby",
+					"husnummerId": "0a3f5087-26bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a5ff-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4750 Lundby",
+					"husnummerId": "0a3f5087-26bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "73c6f9d6-1fec-0b24-e044-00144f3ead67",
+					"titel": "Banevej 3A, 1., 4750 Lundby",
+					"husnummerId": "0a3f5087-26be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a601-32b8-e044-0003ba298018",
+					"titel": "Banevej 3B, 4750 Lundby",
+					"husnummerId": "0a3f5087-26bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5087-26c0-32b8-e044-0003ba298018",
+					"titel": "Banevej 3C, 4750 Lundby",
+					"vejnavn": "Banevej",
+					"husnummer": "3C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a603-32b8-e044-0003ba298018",
+					"titel": "Banevej 3D, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a604-32b8-e044-0003ba298018",
+					"titel": "Banevej 3E, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a605-32b8-e044-0003ba298018",
+					"titel": "Banevej 3F, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5087-26c4-32b8-e044-0003ba298018",
+					"titel": "Banevej 4A, 4750 Lundby",
+					"vejnavn": "Banevej",
+					"husnummer": "4A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a60e-32b8-e044-0003ba298018",
+					"titel": "Banevej 4B, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a60f-32b8-e044-0003ba298018",
+					"titel": "Banevej 4C, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5df30327-3537-4543-aa5b-6f6fb91b6adc",
+					"titel": "Banevej 6, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c7-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 9560": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-9acf-32b8-e044-0003ba298018",
+					"titel": "Banevej 1, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f202-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-9ad0-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f203-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-9ad1-32b8-e044-0003ba298018",
+					"titel": "Banevej 4, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f204-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1369ec0c-fece-5517-e044-0003ba298018",
+					"titel": "Banevej 5, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f205-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-9ad2-32b8-e044-0003ba298018",
+					"titel": "Banevej 6, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f206-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-9ad3-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f207-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-9ad4-32b8-e044-0003ba298018",
+					"titel": "Banevej 8, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f208-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "446eb8c4-0e11-4000-8b5a-19c01720f81b",
+					"titel": "Banevej 8A, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "4c162743-221f-4d58-a54c-70f21edf8f6e"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-9ad5-32b8-e044-0003ba298018",
+					"titel": "Banevej 9, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f209-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-9ad6-32b8-e044-0003ba298018",
+					"titel": "Banevej 11, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f20a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "19f4f55a-5d82-4153-bbe1-be208f11643e",
+					"titel": "Banevej 13, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f20b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 8543": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-5b0a-32b8-e044-0003ba298018",
+					"titel": "Banevej 1A, 8543 Hornslet",
+					"husnummerId": "0a3f5094-e516-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-e517-32b8-e044-0003ba298018",
+					"titel": "Banevej 1B, 8543 Hornslet",
+					"vejnavn": "Banevej",
+					"husnummer": "1B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-e518-32b8-e044-0003ba298018",
+					"titel": "Banevej 2, 8543 Hornslet",
+					"vejnavn": "Banevej",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "7c267687-778b-4958-81b0-e96fe1684e22",
+					"titel": "Banevej 2A, 8543 Hornslet",
+					"husnummerId": "13e94628-50e1-4175-9577-c06656609c28"
+				},
+				{
+					"type": "adresse",
+					"id": "9d197a82-ccfc-4c2a-9f91-42f2c597170a",
+					"titel": "Banevej 2B, 8543 Hornslet",
+					"husnummerId": "4cd11eca-203e-4d0b-90bd-e18a5058fdeb"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-5b0f-32b8-e044-0003ba298018",
+					"titel": "Banevej 3A, 8543 Hornslet",
+					"husnummerId": "0a3f5094-e519-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-e51a-32b8-e044-0003ba298018",
+					"titel": "Banevej 3B, 8543 Hornslet",
+					"vejnavn": "Banevej",
+					"husnummer": "3B"
+				},
+				{
+					"type": "adresse",
+					"id": "d8d2d3c6-13a2-4af0-a636-de4e97b9f154",
+					"titel": "Banevej 3C, 8543 Hornslet",
+					"husnummerId": "e9550b5a-bb87-411d-b85c-1b51a4f05175"
+				},
+				{
+					"type": "adresse",
+					"id": "6da33ef2-b99a-477e-8bd6-e28b91359fe2",
+					"titel": "Banevej 3D, 8543 Hornslet",
+					"husnummerId": "a2f01374-6122-4abc-95d2-01b36d430bad"
+				},
+				{
+					"type": "adresse",
+					"id": "0000c127-ab48-48c7-9770-eda49d39eb5a",
+					"titel": "Banevej 3E, 8543 Hornslet",
+					"husnummerId": "2576d109-bae9-44ea-9a8e-68377f05f2e8"
+				},
+				{
+					"type": "adresse",
+					"id": "d202e963-198b-4d73-a607-7048bb929cb0",
+					"titel": "Banevej 3F, 8543 Hornslet",
+					"husnummerId": "e13afc53-582d-4870-985e-bd5de6343c20"
+				},
+				{
+					"type": "husnummer",
+					"id": "b3cde9cc-517e-48e1-8cf4-cf53d9f4b40b",
+					"titel": "Banevej 3G, 8543 Hornslet",
+					"vejnavn": "Banevej",
+					"husnummer": "3G"
+				},
+				{
+					"type": "adresse",
+					"id": "0f3f177e-256a-4cb9-a7eb-fe358df7cead",
+					"titel": "Banevej 3H, 8543 Hornslet",
+					"husnummerId": "e85c0d2c-d536-4d42-8c24-2eedd7e4d2c0"
+				},
+				{
+					"type": "adresse",
+					"id": "da864e21-ac81-4c2f-b735-625a8be3a73e",
+					"titel": "Banevej 3K, 8543 Hornslet",
+					"husnummerId": "cbca37a3-97bd-4f04-8cfb-57c828a5939f"
+				},
+				{
+					"type": "adresse",
+					"id": "f6e020be-212e-4c2c-b025-5efb567a5744",
+					"titel": "Banevej 4, 8543 Hornslet",
+					"husnummerId": "2c46c919-0ddd-40cc-aec6-587b6f013254"
+				},
+				{
+					"type": "adresse",
+					"id": "4a78ea4c-0dd8-6ee8-e044-0003ba298018",
+					"titel": "Banevej 5, 8543 Hornslet",
+					"husnummerId": "4a614f95-f434-5766-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-5b14-32b8-e044-0003ba298018",
+					"titel": "Banevej 7, 8543 Hornslet",
+					"husnummerId": "0a3f5094-e51e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3d9facb9-766e-4db2-8feb-71c47a5a44e0",
+					"titel": "Banevej 8, 8543 Hornslet",
+					"husnummerId": "ddcf2818-a402-48de-bac6-59d63c880454"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=banevej 3": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "22d68c3e-0aba-4847-9692-afa0d2d245b2",
+					"titel": "Banevej 3, 4180 Sorø",
+					"husnummerId": "0a3f5084-780e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd85-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-9df7-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4293 Dianalund",
+					"husnummerId": "0a3f5082-8ecf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-f262-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4296 Nyrup",
+					"husnummerId": "0a3f5084-9275-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76b3-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5750-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6d53-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4653 Karise",
+					"husnummerId": "0a3f5085-130e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5863-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4682 Tureby",
+					"husnummerId": "0a3f5081-8318-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-885e-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Lov, 4700 Næstved",
+					"husnummerId": "0a3f5085-2de2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b480-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4735 Mern",
+					"husnummerId": "0a3f5085-5c26-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a5ff-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 4750 Lundby",
+					"husnummerId": "0a3f5087-26bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-c2b2-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Skelstrup, 4930 Maribo",
+					"husnummerId": "0a3f5085-6b13-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-9a13-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-141f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5cbc8ca5-5bba-4203-b3ca-58a300482769",
+					"titel": "Banevej 3, 6372 Bylderup-Bov",
+					"husnummerId": "40a37f01-ab8d-49ea-a8c8-e10c2207a127"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-0ca3-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Oksbøl, 6430 Nordborg",
+					"husnummerId": "0a3f508b-d831-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-7641-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 8320 Mårslet",
+					"husnummerId": "0a3f5095-e708-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-58eb-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Pindstrup, 8550 Ryomgård",
+					"husnummerId": "0a3f5094-1f4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "032c07db-73d7-4a35-b27b-a7b36aa4931a",
+					"titel": "Banevej 3, 8700 Horsens",
+					"husnummerId": "0a3f508f-8a56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-742d-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 9300 Sæby",
+					"husnummerId": "0a3f509b-d49a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-bc2f-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, 9400 Nørresundby",
+					"husnummerId": "0a3f509c-18f3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-c9ec-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Halvrimmen, 9460 Brovst",
+					"husnummerId": "0a3f5099-252f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-9ad0-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Hadsund Syd, 9560 Hadsund",
+					"husnummerId": "0a3f5099-f203-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-20f3-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Fandrup, 9640 Farsø",
+					"husnummerId": "0a3f5099-7f09-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c9-1216-32b8-e044-0003ba298018",
+					"titel": "Banevej 3, Tolne, 9870 Sindal",
+					"husnummerId": "0a3f509b-6e4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c76-32b8-e044-0003ba298018",
+					"titel": "Banevej 3A, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-cea6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-9c77-32b8-e044-0003ba298018",
+					"titel": "Banevej 3B, 2920 Charlottenlund",
+					"husnummerId": "0a3f507b-cea7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54a-32b8-e044-0003ba298018",
+					"titel": "Banevej 31, 4180 Sorø",
+					"husnummerId": "0a3f5084-7832-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54b-32b8-e044-0003ba298018",
+					"titel": "Banevej 33, 4180 Sorø",
+					"husnummerId": "0a3f5084-7833-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54c-32b8-e044-0003ba298018",
+					"titel": "Banevej 34, 4180 Sorø",
+					"husnummerId": "0a3f5084-7834-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54d-32b8-e044-0003ba298018",
+					"titel": "Banevej 36, 4180 Sorø",
+					"husnummerId": "0a3f5084-7835-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-d54e-32b8-e044-0003ba298018",
+					"titel": "Banevej 38, 4180 Sorø",
+					"husnummerId": "0a3f5084-7836-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8c-32b8-e044-0003ba298018",
+					"titel": "Banevej 30, 4220 Korsør",
+					"husnummerId": "0a3f5083-a677-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8d-32b8-e044-0003ba298018",
+					"titel": "Banevej 32, 4220 Korsør",
+					"husnummerId": "0a3f5083-a678-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8e-32b8-e044-0003ba298018",
+					"titel": "Banevej 34, 4220 Korsør",
+					"husnummerId": "0a3f5083-a679-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd8f-32b8-e044-0003ba298018",
+					"titel": "Banevej 36, 4220 Korsør",
+					"husnummerId": "0a3f5083-a67a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-cd90-32b8-e044-0003ba298018",
+					"titel": "Banevej 38, 4220 Korsør",
+					"husnummerId": "0a3f5083-a67b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-fd9a-32b8-e044-0003ba298018",
+					"titel": "Banevej 30, Hyllested, 4261 Dalmose",
+					"husnummerId": "0a3f5082-f3db-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "53f9d7c5-bc36-4c8b-a426-8ea3e089acd8",
+					"titel": "Banevej 30, 4370 Store Merløse",
+					"husnummerId": "fb0a8167-148a-41b3-bf6c-d05494e1ff36"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c16-32b8-e044-0003ba298018",
+					"titel": "Banevej 31, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-022d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c17-32b8-e044-0003ba298018",
+					"titel": "Banevej 33, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-022e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c18-32b8-e044-0003ba298018",
+					"titel": "Banevej 35, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-022f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c19-32b8-e044-0003ba298018",
+					"titel": "Banevej 37, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0230-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5c1a-32b8-e044-0003ba298018",
+					"titel": "Banevej 39, 4370 Store Merløse",
+					"husnummerId": "0a3f5085-0231-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d65f2f0a-8fde-43df-8918-3ddf230186e6",
+					"titel": "Banevej 31, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5760-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f183806d-47fe-44fa-a002-7d0a21e51c31",
+					"titel": "Banevej 33, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5761-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7d342f0a-9a1f-439f-9159-ff23e3d7feb3",
+					"titel": "Banevej 35, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5762-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-76c2-32b8-e044-0003ba298018",
+					"titel": "Banevej 37, 4480 Store Fuglede",
+					"husnummerId": "0a3f5083-5763-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-587b-32b8-e044-0003ba298018",
+					"titel": "Banevej 30, 4682 Tureby",
+					"husnummerId": "0a3f5081-8330-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-587c-32b8-e044-0003ba298018",
+					"titel": "Banevej 32, 4682 Tureby",
+					"husnummerId": "0a3f5081-8331-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-587d-32b8-e044-0003ba298018",
+					"titel": "Banevej 34, 4682 Tureby",
+					"husnummerId": "0a3f5081-8332-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-587e-32b8-e044-0003ba298018",
+					"titel": "Banevej 36, 4682 Tureby",
+					"husnummerId": "0a3f5081-8333-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b49d-32b8-e044-0003ba298018",
+					"titel": "Banevej 30, 4735 Mern",
+					"husnummerId": "0a3f5085-5c40-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b49e-32b8-e044-0003ba298018",
+					"titel": "Banevej 31, 4735 Mern",
+					"husnummerId": "0a3f5085-5c41-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "81f4fb6e-8e3b-442e-8223-06340bbeb763",
+					"titel": "Banevej 32, 4735 Mern",
+					"husnummerId": "0a3f5085-5c42-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b49f-32b8-e044-0003ba298018",
+					"titel": "Banevej 33, 4735 Mern",
+					"husnummerId": "0a3f5085-5c43-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a0-32b8-e044-0003ba298018",
+					"titel": "Banevej 35, 4735 Mern",
+					"husnummerId": "0a3f5085-5c44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a1-32b8-e044-0003ba298018",
+					"titel": "Banevej 37, 4735 Mern",
+					"husnummerId": "0a3f5085-5c45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-b4a2-32b8-e044-0003ba298018",
+					"titel": "Banevej 39, 4735 Mern",
+					"husnummerId": "0a3f5085-5c46-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "73c6f9d6-1fec-0b24-e044-00144f3ead67",
+					"titel": "Banevej 3A, 1., 4750 Lundby",
+					"husnummerId": "0a3f5087-26be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a601-32b8-e044-0003ba298018",
+					"titel": "Banevej 3B, 4750 Lundby",
+					"husnummerId": "0a3f5087-26bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5087-26c0-32b8-e044-0003ba298018",
+					"titel": "Banevej 3C, 4750 Lundby",
+					"vejnavn": "Banevej",
+					"husnummer": "3C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a603-32b8-e044-0003ba298018",
+					"titel": "Banevej 3D, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a604-32b8-e044-0003ba298018",
+					"titel": "Banevej 3E, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a605-32b8-e044-0003ba298018",
+					"titel": "Banevej 3F, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5e3e3704-51e9-4946-8649-df939d099c12",
+					"titel": "Banevej 34, Farstrup, 5471 Søndersø",
+					"husnummerId": "f5a6def2-aa83-4bca-a4e1-f9fbce1853ef"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-9a14-32b8-e044-0003ba298018",
+					"titel": "Banevej 3A, Håstrup, 5600 Faaborg",
+					"husnummerId": "0a3f5088-1420-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-5b0f-32b8-e044-0003ba298018",
+					"titel": "Banevej 3A, 8543 Hornslet",
+					"husnummerId": "0a3f5094-e519-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-e51a-32b8-e044-0003ba298018",
+					"titel": "Banevej 3B, 8543 Hornslet",
+					"vejnavn": "Banevej",
+					"husnummer": "3B"
+				},
+				{
+					"type": "adresse",
+					"id": "d8d2d3c6-13a2-4af0-a636-de4e97b9f154",
+					"titel": "Banevej 3C, 8543 Hornslet",
+					"husnummerId": "e9550b5a-bb87-411d-b85c-1b51a4f05175"
+				},
+				{
+					"type": "adresse",
+					"id": "6da33ef2-b99a-477e-8bd6-e28b91359fe2",
+					"titel": "Banevej 3D, 8543 Hornslet",
+					"husnummerId": "a2f01374-6122-4abc-95d2-01b36d430bad"
+				},
+				{
+					"type": "adresse",
+					"id": "0000c127-ab48-48c7-9770-eda49d39eb5a",
+					"titel": "Banevej 3E, 8543 Hornslet",
+					"husnummerId": "2576d109-bae9-44ea-9a8e-68377f05f2e8"
+				},
+				{
+					"type": "adresse",
+					"id": "d202e963-198b-4d73-a607-7048bb929cb0",
+					"titel": "Banevej 3F, 8543 Hornslet",
+					"husnummerId": "e13afc53-582d-4870-985e-bd5de6343c20"
+				},
+				{
+					"type": "husnummer",
+					"id": "b3cde9cc-517e-48e1-8cf4-cf53d9f4b40b",
+					"titel": "Banevej 3G, 8543 Hornslet",
+					"vejnavn": "Banevej",
+					"husnummer": "3G"
+				},
+				{
+					"type": "adresse",
+					"id": "0f3f177e-256a-4cb9-a7eb-fe358df7cead",
+					"titel": "Banevej 3H, 8543 Hornslet",
+					"husnummerId": "e85c0d2c-d536-4d42-8c24-2eedd7e4d2c0"
+				},
+				{
+					"type": "adresse",
+					"id": "da864e21-ac81-4c2f-b735-625a8be3a73e",
+					"titel": "Banevej 3K, 8543 Hornslet",
+					"husnummerId": "cbca37a3-97bd-4f04-8cfb-57c828a5939f"
+				},
+				{
+					"type": "adresse",
+					"id": "8f3864f6-17d4-4fb1-9325-1833169e97b3",
+					"titel": "Banevej 3A, Tolne, 9870 Sindal",
+					"husnummerId": "2f0045d5-4b62-495f-aff2-188e275e76fe"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=banevej 3e": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-a604-32b8-e044-0003ba298018",
+					"titel": "Banevej 3E, 4750 Lundby",
+					"husnummerId": "0a3f5087-26c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0000c127-ab48-48c7-9770-eda49d39eb5a",
+					"titel": "Banevej 3E, 8543 Hornslet",
+					"husnummerId": "2576d109-bae9-44ea-9a8e-68377f05f2e8"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Banevej 3E, 8543 Hornslet": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0000c127-ab48-48c7-9770-eda49d39eb5a",
+					"titel": "Banevej 3E, 8543 Hornslet",
+					"husnummerId": "2576d109-bae9-44ea-9a8e-68377f05f2e8"
+				}
+			]
+		}
+	}
+}

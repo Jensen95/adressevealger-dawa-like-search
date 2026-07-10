@@ -1,0 +1,864 @@
+{
+	"tekst": "Bybuen 12, 3. 3, 2740 Skovlunde",
+	"dawaId": "000153e3-e8bd-4fe8-96e6-593822ba178d",
+	"recordedAt": "2026-07-09T20:35:36.354Z",
+	"stages": [
+		{
+			"stage": "bybu",
+			"dawa": [
+				"Bybuen 4, 2740 Skovlunde",
+				"Bybuen 10, 2740 Skovlunde",
+				"Bybuen 12, 2740 Skovlunde",
+				"Bybuen 28, 2740 Skovlunde",
+				"Bybuen 30, 2740 Skovlunde",
+				"Bybuen 32, 2740 Skovlunde",
+				"Bybuen 34, 2740 Skovlunde",
+				"Bybuen 42, 2740 Skovlunde",
+				"Bybuen 1, 1. 1, 2740 Skovlunde",
+				"Bybuen 2, 2. 2, 2740 Skovlunde"
+			]
+		},
+		{
+			"stage": "bybuen",
+			"dawa": [
+				"Bybuen 4, 2740 Skovlunde",
+				"Bybuen 10, 2740 Skovlunde",
+				"Bybuen 12, 2740 Skovlunde",
+				"Bybuen 28, 2740 Skovlunde",
+				"Bybuen 30, 2740 Skovlunde",
+				"Bybuen 32, 2740 Skovlunde",
+				"Bybuen 34, 2740 Skovlunde",
+				"Bybuen 42, 2740 Skovlunde",
+				"Bybuen 1, 1. 1, 2740 Skovlunde",
+				"Bybuen 2, 2. 2, 2740 Skovlunde"
+			]
+		},
+		{
+			"stage": "bybuen 1",
+			"dawa": [
+				"Bybuen 10, 1. 1, 2740 Skovlunde",
+				"Bybuen 12, 1. 1, 2740 Skovlunde",
+				"Bybuen 14, 1. 1, 2740 Skovlunde",
+				"Bybuen 1, 1. 1, 2740 Skovlunde",
+				"Bybuen 10, 2740 Skovlunde",
+				"Bybuen 12, 2740 Skovlunde",
+				"Bybuen 10, 1. 2, 2740 Skovlunde",
+				"Bybuen 10, 1. 3, 2740 Skovlunde",
+				"Bybuen 10, 1. 4, 2740 Skovlunde",
+				"Bybuen 10, 1. 5, 2740 Skovlunde"
+			]
+		},
+		{
+			"stage": "bybuen 12",
+			"dawa": [
+				"Bybuen 12, 2740 Skovlunde",
+				"Bybuen 12, 1. 1, 2740 Skovlunde",
+				"Bybuen 12, 2. 2, 2740 Skovlunde",
+				"Bybuen 12, 3. 3, 2740 Skovlunde",
+				"Bybuen 12, 4. 4, 2740 Skovlunde",
+				"Bybuen 12, st., 2740 Skovlunde",
+				"Bybuen 12, 1. 2, 2740 Skovlunde",
+				"Bybuen 12, 1. 3, 2740 Skovlunde",
+				"Bybuen 12, 1. 4, 2740 Skovlunde",
+				"Bybuen 12, 1. 5, 2740 Skovlunde"
+			]
+		},
+		{
+			"stage": "bybuen 12 3",
+			"dawa": [
+				"Bybuen 12, 3. 3, 2740 Skovlunde",
+				"Bybuen 12, 1. 3, 2740 Skovlunde",
+				"Bybuen 12, 2. 3, 2740 Skovlunde",
+				"Bybuen 12, 3. 1, 2740 Skovlunde",
+				"Bybuen 12, 3. 2, 2740 Skovlunde",
+				"Bybuen 12, 3. 4, 2740 Skovlunde",
+				"Bybuen 12, 3. 5, 2740 Skovlunde",
+				"Bybuen 12, 3. 6, 2740 Skovlunde",
+				"Bybuen 12, 3. 7, 2740 Skovlunde",
+				"Bybuen 12, 3. 8, 2740 Skovlunde"
+			]
+		},
+		{
+			"stage": "bybuen 12 3 3",
+			"dawa": [
+				"Bybuen 12, 3. 3, 2740 Skovlunde",
+				"Bybuen 12, 1. 3, 2740 Skovlunde",
+				"Bybuen 12, 2. 3, 2740 Skovlunde",
+				"Bybuen 12, 3. 1, 2740 Skovlunde",
+				"Bybuen 12, 3. 2, 2740 Skovlunde",
+				"Bybuen 12, 3. 4, 2740 Skovlunde",
+				"Bybuen 12, 3. 5, 2740 Skovlunde",
+				"Bybuen 12, 3. 6, 2740 Skovlunde",
+				"Bybuen 12, 3. 7, 2740 Skovlunde",
+				"Bybuen 12, 3. 8, 2740 Skovlunde"
+			]
+		},
+		{
+			"stage": "Bybuen 12, 3. 3, 2740 Skovlunde",
+			"dawa": [
+				"Bybuen 12, 3. 3, 2740 Skovlunde",
+				"Bybuen 12, 1. 3, 2740 Skovlunde",
+				"Bybuen 12, 2. 3, 2740 Skovlunde",
+				"Bybuen 12, 3. 1, 2740 Skovlunde",
+				"Bybuen 12, 3. 2, 2740 Skovlunde",
+				"Bybuen 12, 3. 4, 2740 Skovlunde",
+				"Bybuen 12, 3. 5, 2740 Skovlunde",
+				"Bybuen 12, 3. 6, 2740 Skovlunde",
+				"Bybuen 12, 3. 7, 2740 Skovlunde",
+				"Bybuen 12, 3. 8, 2740 Skovlunde"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=bybu": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e7c-32b8-e044-0003ba298018",
+					"titel": "Bybuen 1, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e7d-32b8-e044-0003ba298018",
+					"titel": "Bybuen 2, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e7f-32b8-e044-0003ba298018",
+					"titel": "Bybuen 3, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e80-32b8-e044-0003ba298018",
+					"titel": "Bybuen 4, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e81-32b8-e044-0003ba298018",
+					"titel": "Bybuen 5, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "e58c717a-976f-471e-a8d8-e81ae31676bc",
+					"titel": "Bybuen 6, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e82-32b8-e044-0003ba298018",
+					"titel": "Bybuen 7, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "df331b05-a180-45ba-8a9c-abb14d29e9e1",
+					"titel": "Bybuen 8, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e83-32b8-e044-0003ba298018",
+					"titel": "Bybuen 9, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "7ab0a6d4-de0e-447b-b3d0-474170aa30e8",
+					"titel": "Bybuen 10, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e84-32b8-e044-0003ba298018",
+					"titel": "Bybuen 11, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "ac8549fc-dfa6-4cdc-af32-f86579c999f0",
+					"titel": "Bybuen 12, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e85-32b8-e044-0003ba298018",
+					"titel": "Bybuen 13, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "516f5515-0a94-4ad1-86d8-a2a8cb9d9e17",
+					"titel": "Bybuen 14, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e86-32b8-e044-0003ba298018",
+					"titel": "Bybuen 15, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e87-32b8-e044-0003ba298018",
+					"titel": "Bybuen 17, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "cd7481bb-ebe5-4d98-bed6-f39f6552693c",
+					"titel": "Bybuen 24, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "24"
+				},
+				{
+					"type": "adresse",
+					"id": "83ce7b35-c34f-4000-9dcc-711105f96764",
+					"titel": "Bybuen 26, kl., 2740 Skovlunde",
+					"husnummerId": "129958ee-c305-40ad-8d3d-8565f968e2b4"
+				},
+				{
+					"type": "husnummer",
+					"id": "1a601874-c287-4e00-b30d-024fe3529a9e",
+					"titel": "Bybuen 28, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "28"
+				},
+				{
+					"type": "husnummer",
+					"id": "f7217c99-3574-4906-9bc4-6910624f7c18",
+					"titel": "Bybuen 30, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "30"
+				},
+				{
+					"type": "husnummer",
+					"id": "fc3eed95-1529-4e4e-8158-a4994fad2009",
+					"titel": "Bybuen 32, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "32"
+				},
+				{
+					"type": "adresse",
+					"id": "774b1fb1-c9e8-461c-969b-bae4db154655",
+					"titel": "Bybuen 34, 2740 Skovlunde",
+					"husnummerId": "0e1a3c24-3525-4d18-97b0-5d2ebae1dc09"
+				},
+				{
+					"type": "husnummer",
+					"id": "87a76a75-5c61-4121-be51-a318765099f0",
+					"titel": "Bybuen 36, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "36"
+				},
+				{
+					"type": "husnummer",
+					"id": "2325a93d-d25d-4c00-9a32-2a316b472150",
+					"titel": "Bybuen 38, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "38"
+				},
+				{
+					"type": "husnummer",
+					"id": "791b3169-e622-4fc9-b1d2-9986a6240ddd",
+					"titel": "Bybuen 40, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "40"
+				},
+				{
+					"type": "adresse",
+					"id": "a8b83e00-bd87-431f-ba8c-b1be1fc80587",
+					"titel": "Bybuen 42, 2740 Skovlunde",
+					"husnummerId": "dcfd7a4e-8bf5-45e7-973e-2f5d7e79e0be"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=bybuen": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e7c-32b8-e044-0003ba298018",
+					"titel": "Bybuen 1, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e7d-32b8-e044-0003ba298018",
+					"titel": "Bybuen 2, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e7f-32b8-e044-0003ba298018",
+					"titel": "Bybuen 3, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e80-32b8-e044-0003ba298018",
+					"titel": "Bybuen 4, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e81-32b8-e044-0003ba298018",
+					"titel": "Bybuen 5, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "e58c717a-976f-471e-a8d8-e81ae31676bc",
+					"titel": "Bybuen 6, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e82-32b8-e044-0003ba298018",
+					"titel": "Bybuen 7, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "df331b05-a180-45ba-8a9c-abb14d29e9e1",
+					"titel": "Bybuen 8, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e83-32b8-e044-0003ba298018",
+					"titel": "Bybuen 9, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "7ab0a6d4-de0e-447b-b3d0-474170aa30e8",
+					"titel": "Bybuen 10, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e84-32b8-e044-0003ba298018",
+					"titel": "Bybuen 11, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "ac8549fc-dfa6-4cdc-af32-f86579c999f0",
+					"titel": "Bybuen 12, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e85-32b8-e044-0003ba298018",
+					"titel": "Bybuen 13, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "516f5515-0a94-4ad1-86d8-a2a8cb9d9e17",
+					"titel": "Bybuen 14, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e86-32b8-e044-0003ba298018",
+					"titel": "Bybuen 15, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e87-32b8-e044-0003ba298018",
+					"titel": "Bybuen 17, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "cd7481bb-ebe5-4d98-bed6-f39f6552693c",
+					"titel": "Bybuen 24, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "24"
+				},
+				{
+					"type": "adresse",
+					"id": "83ce7b35-c34f-4000-9dcc-711105f96764",
+					"titel": "Bybuen 26, kl., 2740 Skovlunde",
+					"husnummerId": "129958ee-c305-40ad-8d3d-8565f968e2b4"
+				},
+				{
+					"type": "husnummer",
+					"id": "1a601874-c287-4e00-b30d-024fe3529a9e",
+					"titel": "Bybuen 28, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "28"
+				},
+				{
+					"type": "husnummer",
+					"id": "f7217c99-3574-4906-9bc4-6910624f7c18",
+					"titel": "Bybuen 30, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "30"
+				},
+				{
+					"type": "husnummer",
+					"id": "fc3eed95-1529-4e4e-8158-a4994fad2009",
+					"titel": "Bybuen 32, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "32"
+				},
+				{
+					"type": "adresse",
+					"id": "774b1fb1-c9e8-461c-969b-bae4db154655",
+					"titel": "Bybuen 34, 2740 Skovlunde",
+					"husnummerId": "0e1a3c24-3525-4d18-97b0-5d2ebae1dc09"
+				},
+				{
+					"type": "husnummer",
+					"id": "87a76a75-5c61-4121-be51-a318765099f0",
+					"titel": "Bybuen 36, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "36"
+				},
+				{
+					"type": "husnummer",
+					"id": "2325a93d-d25d-4c00-9a32-2a316b472150",
+					"titel": "Bybuen 38, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "38"
+				},
+				{
+					"type": "husnummer",
+					"id": "791b3169-e622-4fc9-b1d2-9986a6240ddd",
+					"titel": "Bybuen 40, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "40"
+				},
+				{
+					"type": "adresse",
+					"id": "a8b83e00-bd87-431f-ba8c-b1be1fc80587",
+					"titel": "Bybuen 42, 2740 Skovlunde",
+					"husnummerId": "dcfd7a4e-8bf5-45e7-973e-2f5d7e79e0be"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=bybuen 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e7c-32b8-e044-0003ba298018",
+					"titel": "Bybuen 1, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "7ab0a6d4-de0e-447b-b3d0-474170aa30e8",
+					"titel": "Bybuen 10, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e84-32b8-e044-0003ba298018",
+					"titel": "Bybuen 11, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "ac8549fc-dfa6-4cdc-af32-f86579c999f0",
+					"titel": "Bybuen 12, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e85-32b8-e044-0003ba298018",
+					"titel": "Bybuen 13, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "516f5515-0a94-4ad1-86d8-a2a8cb9d9e17",
+					"titel": "Bybuen 14, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e86-32b8-e044-0003ba298018",
+					"titel": "Bybuen 15, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7e87-32b8-e044-0003ba298018",
+					"titel": "Bybuen 17, 2740 Skovlunde",
+					"vejnavn": "Bybuen",
+					"husnummer": "17"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=bybuen 12": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "b37ccc23-1916-415b-b896-b3dcb37aadf0",
+					"titel": "Bybuen 12, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "768b2867-7815-4f78-97ef-554035b5af1f",
+					"titel": "Bybuen 12, st., 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "2f0490ae-3b71-431e-a400-c7a92e6a2fc8",
+					"titel": "Bybuen 12, 1. 1, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "f318aa4f-54c7-4975-a03e-f7639e3530e2",
+					"titel": "Bybuen 12, 1. 2, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "427456bb-4e25-492a-a77a-14505b3eca18",
+					"titel": "Bybuen 12, 1. 3, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "8e28017f-88b3-4316-bc6a-bfe75ab0e764",
+					"titel": "Bybuen 12, 1. 4, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "f107e46c-56e1-4d1a-9b4b-74857b320f58",
+					"titel": "Bybuen 12, 1. 5, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "5170f91c-ee25-43a9-92e9-8a46be1b9ee3",
+					"titel": "Bybuen 12, 1. 6, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "74c393da-c257-426f-a6c0-9033d52f3da1",
+					"titel": "Bybuen 12, 1. 7, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "238e500d-70b3-4db8-be48-56f43b94beaf",
+					"titel": "Bybuen 12, 1. 8, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "e6852d23-5b24-4eb4-bc39-b381d4050a7e",
+					"titel": "Bybuen 12, 1. 9, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "493d5f9c-352c-4e53-9e02-b197fd882eb2",
+					"titel": "Bybuen 12, 2. 1, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "cb98975a-72ca-4450-b27d-7c60be74fb91",
+					"titel": "Bybuen 12, 2. 2, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "429c0f78-dbcc-45d8-a82d-de9173a12a0c",
+					"titel": "Bybuen 12, 2. 3, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "8bf26bdc-9fc6-4f1e-94ec-e5755ed609c3",
+					"titel": "Bybuen 12, 2. 4, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "3f41b74d-9956-4d88-91c2-9918641fe1c4",
+					"titel": "Bybuen 12, 2. 5, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "f866088b-be72-4627-a178-3623f7b100a1",
+					"titel": "Bybuen 12, 2. 6, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "e0c50cca-7c50-4084-828e-27c094b37374",
+					"titel": "Bybuen 12, 2. 7, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "808dc114-2828-47dc-a003-9d215a2ebc7a",
+					"titel": "Bybuen 12, 2. 8, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "7c1f43d9-d558-4cc6-abb1-9279ae7b1108",
+					"titel": "Bybuen 12, 2. 9, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "87114091-b80e-4de9-8b20-7354a2c6ac62",
+					"titel": "Bybuen 12, 3. 1, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "58b704e3-03ca-4dca-a3ca-675a9d78b9ff",
+					"titel": "Bybuen 12, 3. 2, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "000153e3-e8bd-4fe8-96e6-593822ba178d",
+					"titel": "Bybuen 12, 3. 3, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "3204138a-95ca-4465-ba58-27ccca1c2bd9",
+					"titel": "Bybuen 12, 3. 4, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "d18a55e3-2789-4574-b742-86728285dbdd",
+					"titel": "Bybuen 12, 3. 5, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "c15fe7c3-6ccc-4484-aa8a-0f1d4668bc60",
+					"titel": "Bybuen 12, 3. 6, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "8f6a4bc1-55c3-46f4-ad2a-7559127f7d47",
+					"titel": "Bybuen 12, 3. 7, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "5af63942-7f7a-463b-b861-8ddba42443d6",
+					"titel": "Bybuen 12, 3. 8, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "44dce385-f6f9-4aac-8d62-1a3ffe2af86d",
+					"titel": "Bybuen 12, 3. 9, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "75e7910d-ba72-4c96-b7e0-7ce2f2b95d20",
+					"titel": "Bybuen 12, 4. 1, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "66327385-e7a2-4aaf-97a2-e1ac939fbbb3",
+					"titel": "Bybuen 12, 4. 2, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "e7ede15a-1264-488a-9db4-5e4f57836cae",
+					"titel": "Bybuen 12, 4. 3, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "855582fc-01cc-4991-a032-2f9b01f715b2",
+					"titel": "Bybuen 12, 4. 4, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "598dc707-b5a7-4aa7-b7c9-21a1e4626586",
+					"titel": "Bybuen 12, 4. 5, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "cdea0b39-2878-4f62-9cee-43610e0cc154",
+					"titel": "Bybuen 12, 4. 6, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "7721101c-d25d-4b73-8819-7cff2952f0c8",
+					"titel": "Bybuen 12, 4. 7, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "94877f25-654b-4d4f-a82d-93db23659537",
+					"titel": "Bybuen 12, 4. 8, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "3dab40b6-cc04-49f4-aae4-d7e691e1b2ad",
+					"titel": "Bybuen 12, 4. 9, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=bybuen 12 3": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "87114091-b80e-4de9-8b20-7354a2c6ac62",
+					"titel": "Bybuen 12, 3. 1, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "58b704e3-03ca-4dca-a3ca-675a9d78b9ff",
+					"titel": "Bybuen 12, 3. 2, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "000153e3-e8bd-4fe8-96e6-593822ba178d",
+					"titel": "Bybuen 12, 3. 3, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "3204138a-95ca-4465-ba58-27ccca1c2bd9",
+					"titel": "Bybuen 12, 3. 4, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "d18a55e3-2789-4574-b742-86728285dbdd",
+					"titel": "Bybuen 12, 3. 5, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "c15fe7c3-6ccc-4484-aa8a-0f1d4668bc60",
+					"titel": "Bybuen 12, 3. 6, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "8f6a4bc1-55c3-46f4-ad2a-7559127f7d47",
+					"titel": "Bybuen 12, 3. 7, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "5af63942-7f7a-463b-b861-8ddba42443d6",
+					"titel": "Bybuen 12, 3. 8, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				},
+				{
+					"type": "adresse",
+					"id": "44dce385-f6f9-4aac-8d62-1a3ffe2af86d",
+					"titel": "Bybuen 12, 3. 9, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=bybuen 12 3 3": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "000153e3-e8bd-4fe8-96e6-593822ba178d",
+					"titel": "Bybuen 12, 3. 3, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Bybuen 12, 3. 3, 2740 Skovlunde": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "000153e3-e8bd-4fe8-96e6-593822ba178d",
+					"titel": "Bybuen 12, 3. 3, 2740 Skovlunde",
+					"husnummerId": "ac8549fc-dfa6-4cdc-af32-f86579c999f0"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,983 @@
+{
+	"tekst": "Chr. Wærums Gade 20, 5. th, 8000 Aarhus C",
+	"dawaId": "74b6575e-0d14-4891-8254-5734b3379ac5",
+	"recordedAt": "2026-07-09T20:36:58.867Z",
+	"stages": [
+		{
+			"stage": "chr",
+			"dawa": [
+				"Chr Hansensvej 18, 4300 Holbæk",
+				"Chr Hansensvej 20, 4300 Holbæk",
+				"Chr. Jensensvej 1, 6064 Jordrup",
+				"Chr. Jensensvej 3, 6064 Jordrup",
+				"Chr. Jensensvej 7, 6064 Jordrup",
+				"Chr Hansensvej 13A, 4300 Holbæk",
+				"Chr Hansensvej 13B, 4300 Holbæk",
+				"Chr Hansensvej 13C, 4300 Holbæk",
+				"Chr. Jensensvej 14, 6064 Jordrup",
+				"Christian VII Vej 2, 6070 Christiansfeld"
+			]
+		},
+		{
+			"stage": "chr wærums gade",
+			"dawa": [
+				"Chr. Wærums Gade 3, 8000 Aarhus C",
+				"Chr. Wærums Gade 4, 8000 Aarhus C",
+				"Chr. Wærums Gade 8, 8000 Aarhus C",
+				"Chr. Wærums Gade 15, 8000 Aarhus C",
+				"Chr. Wærums Gade 17, 8000 Aarhus C",
+				"Chr. Wærums Gade 3, kl., 8000 Aarhus C",
+				"Chr. Wærums Gade 21, 5., 8000 Aarhus C",
+				"Chr. Wærums Gade 23, 5., 8000 Aarhus C",
+				"Chr. Wærums Gade 26, 5., 8000 Aarhus C",
+				"Chr. Wærums Gade 8A, kl., 8000 Aarhus C"
+			]
+		},
+		{
+			"stage": "chr wærums gade 2",
+			"dawa": [
+				"Chr. Wærums Gade 20, 2. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 2. tv, 8000 Aarhus C",
+				"Chr. Wærums Gade 21, 2. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 21, 2. tv, 8000 Aarhus C",
+				"Chr. Wærums Gade 22, 2. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 22, 2. tv, 8000 Aarhus C",
+				"Chr. Wærums Gade 23, 2. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 23, 2. tv, 8000 Aarhus C",
+				"Chr. Wærums Gade 24, 2. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 24, 2. tv, 8000 Aarhus C"
+			]
+		},
+		{
+			"stage": "chr wærums gade 20",
+			"dawa": [
+				"Chr. Wærums Gade 20, 1. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 1. tv, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 2. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 2. tv, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 3. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 3. tv, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 4. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 4. tv, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 5. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 5. tv, 8000 Aarhus C"
+			]
+		},
+		{
+			"stage": "chr wærums gade 20 5",
+			"dawa": [
+				"Chr. Wærums Gade 20, 5. th, 8000 Aarhus C",
+				"Chr. Wærums Gade 20, 5. tv, 8000 Aarhus C"
+			]
+		},
+		{
+			"stage": "chr wærums gade 20 5 th",
+			"dawa": [
+				"Chr. Wærums Gade 20, 5. th, 8000 Aarhus C"
+			]
+		},
+		{
+			"stage": "Chr. Wærums Gade 20, 5. th, 8000 Aarhus C",
+			"dawa": [
+				"Chr. Wærums Gade 20, 5. th, 8000 Aarhus C"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=chr": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Chr Andersens Vej",
+					"vejNavn": "Chr Andersens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Bachsvej",
+					"vejNavn": "Chr Bachsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Christensens Vej",
+					"vejNavn": "Chr Christensens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Christensensvej",
+					"vejNavn": "Chr Christensensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Dannings Vej",
+					"vejNavn": "Chr Dannings Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Den 2 Vej",
+					"vejNavn": "Chr Den 2 Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Eilersvej",
+					"vejNavn": "Chr Eilersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Eriksensvej",
+					"vejNavn": "Chr Eriksensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr F Jensensvej",
+					"vejNavn": "Chr F Jensensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Gades Vej",
+					"vejNavn": "Chr Gades Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Hansensvej",
+					"vejNavn": "Chr Hansensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Hauchs Alle",
+					"vejNavn": "Chr Hauchs Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Husteds Vej",
+					"vejNavn": "Chr Husteds Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Jacobsens Vej",
+					"vejNavn": "Chr Jacobsens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Jensens Vej",
+					"vejNavn": "Chr Jensens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Jørgensensvej",
+					"vejNavn": "Chr Jørgensensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Kellersvej",
+					"vejNavn": "Chr Kellersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Kiilsgaards Vej",
+					"vejNavn": "Chr Kiilsgaards Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Knudsens Vej",
+					"vejNavn": "Chr Knudsens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Kongsbaks Vej",
+					"vejNavn": "Chr Kongsbaks Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr L Westergårds Alle",
+					"vejNavn": "Chr L Westergårds Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Lindes Vej",
+					"vejNavn": "Chr Lindes Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Ludwigs Vej",
+					"vejNavn": "Chr Ludwigs Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr M Østergaards Vej",
+					"vejNavn": "Chr M Østergaards Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Mathiesensgade",
+					"vejNavn": "Chr Mathiesensgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Mølstedsgade",
+					"vejNavn": "Chr Mølstedsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Nielsens Vej",
+					"vejNavn": "Chr Nielsens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Nielsensvej",
+					"vejNavn": "Chr Nielsensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Pedersvej",
+					"vejNavn": "Chr Pedersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Pelles Vej",
+					"vejNavn": "Chr Pelles Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Petersensvej",
+					"vejNavn": "Chr Petersensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Rasmussens Vej",
+					"vejNavn": "Chr Rasmussens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Richardts Vej",
+					"vejNavn": "Chr Richardts Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Richardtsvej",
+					"vejNavn": "Chr Richardtsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Stampesvej",
+					"vejNavn": "Chr Stampesvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Svendsensvej",
+					"vejNavn": "Chr Svendsensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Sørensensvej",
+					"vejNavn": "Chr Sørensensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Thisteds Vej",
+					"vejNavn": "Chr Thisteds Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr V Jensensvej",
+					"vejNavn": "Chr V Jensensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Winthers Vej",
+					"vejNavn": "Chr Winthers Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Winthersvej",
+					"vejNavn": "Chr Winthersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr Ågårdsvej",
+					"vejNavn": "Chr Ågårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Adams Vej",
+					"vejNavn": "Chr. Adams Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Andersens Vej",
+					"vejNavn": "Chr. Andersens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Bergs Vej",
+					"vejNavn": "Chr. Bergs Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Bruuns Vej",
+					"vejNavn": "Chr. Bruuns Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Dalgas Vej",
+					"vejNavn": "Chr. Dalgas Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Damsgaards Gade",
+					"vejNavn": "Chr. Damsgaards Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. E. Bartholdys Alle",
+					"vejNavn": "Chr. E. Bartholdys Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Erichsøns Vej",
+					"vejNavn": "Chr. Erichsøns Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Fabersvej",
+					"vejNavn": "Chr. Fabersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Filtenborgs Plads",
+					"vejNavn": "Chr. Filtenborgs Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Hansens Vej",
+					"vejNavn": "Chr. Hansens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Hansensvej",
+					"vejNavn": "Chr. Hansensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Hauns Alle",
+					"vejNavn": "Chr. Hauns Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Hyllebergs Vej",
+					"vejNavn": "Chr. Hyllebergs Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Jensens Vej",
+					"vejNavn": "Chr. Jensens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Jensensvej",
+					"vejNavn": "Chr. Jensensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Jydesvej",
+					"vejNavn": "Chr. Jydesvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Kiers Plads",
+					"vejNavn": "Chr. Kiers Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Kornmaalers Vej",
+					"vejNavn": "Chr. Kornmaalers Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Larsens Vej",
+					"vejNavn": "Chr. Larsens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Lehns Vænge",
+					"vejNavn": "Chr. Lehns Vænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Limkildes Vej",
+					"vejNavn": "Chr. Limkildes Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Lunds Allé",
+					"vejNavn": "Chr. Lunds Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Lundsgaards Vej",
+					"vejNavn": "Chr. Lundsgaards Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Lynges Vej",
+					"vejNavn": "Chr. Lynges Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Madsensvej",
+					"vejNavn": "Chr. Madsensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Molbechs Vej",
+					"vejNavn": "Chr. Molbechs Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Møllers Vej",
+					"vejNavn": "Chr. Møllers Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Nielsens Plads",
+					"vejNavn": "Chr. Nielsens Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Ohlsenvænget",
+					"vejNavn": "Chr. Ohlsenvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Palms Vej",
+					"vejNavn": "Chr. Palms Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Pedersensvej",
+					"vejNavn": "Chr. Pedersensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Petersensvej",
+					"vejNavn": "Chr. Petersensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Rhuusvej",
+					"vejNavn": "Chr. Rhuusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Richardts Vej",
+					"vejNavn": "Chr. Richardts Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Richardtsvej",
+					"vejNavn": "Chr. Richardtsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Richtersgade",
+					"vejNavn": "Chr. Richtersgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Schmidtsvej",
+					"vejNavn": "Chr. Schmidtsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Schous Vej",
+					"vejNavn": "Chr. Schous Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Schrøders Gade",
+					"vejNavn": "Chr. Schrøders Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Sonnes Vej",
+					"vejNavn": "Chr. Sonnes Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Sørensens Vej",
+					"vejNavn": "Chr. Sørensens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Winthers Vej",
+					"vejNavn": "Chr. Winthers Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Wærums Gade",
+					"vejNavn": "Chr. Wærums Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. X Vej",
+					"vejNavn": "Chr. X Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Xs Vej",
+					"vejNavn": "Chr. Xs Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. Ydes Vej",
+					"vejNavn": "Chr. Ydes Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr. d. IXs Vej",
+					"vejNavn": "Chr. d. IXs Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr.F. Becksvej",
+					"vejNavn": "Chr.F. Becksvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr.Fischers Gade",
+					"vejNavn": "Chr.Fischers Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr.Kusk Vej",
+					"vejNavn": "Chr.Kusk Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr.VII's Alle",
+					"vejNavn": "Chr.VII's Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chr.Winthers Vej",
+					"vejNavn": "Chr.Winthers Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chresten Jacobsens Vej",
+					"vejNavn": "Chresten Jacobsens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chresten Krommes Vej",
+					"vejNavn": "Chresten Krommes Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Chrestensmindevej",
+					"vejNavn": "Chrestensmindevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Christen Bergs Allé",
+					"vejNavn": "Christen Bergs Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Christen Bergs Vej",
+					"vejNavn": "Christen Bergs Vej"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=chr wærums gade": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0607-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 3, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0608-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 4, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0609-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 5, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-060a-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 6, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-060b-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 7, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-060c-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 8, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "3f5c895d-a53a-4324-9588-84c94be90e57",
+					"titel": "Chr. Wærums Gade 8A, kl., 8000 Aarhus C",
+					"husnummerId": "f8113641-3908-433b-95c7-71ffea31decd"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-060d-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 9, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-060e-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 10, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-060f-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 11, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0610-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 11A, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "11A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0611-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 12, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0612-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 15, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0613-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 16, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0614-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 17, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0615-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 18, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0616-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 19, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0617-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "20"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0618-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 21, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0619-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 22, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "22"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061a-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 23, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061b-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 24, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061c-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 25, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "0ab23a20-cf46-61d9-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 26, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061d-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 27, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061e-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 29, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "29"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061f-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 31, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "31"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=chr wærums gade 2": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0617-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "20"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0618-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 21, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-0619-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 22, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "22"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061a-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 23, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061b-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 24, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061c-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 25, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "0ab23a20-cf46-61d9-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 26, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061d-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 27, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-061e-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 29, 8000 Aarhus C",
+					"vejnavn": "Chr. Wærums Gade",
+					"husnummer": "29"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=chr wærums gade 20": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5ee-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, kl. tv, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5f0-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, st. tv, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5ef-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, st. th, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5f2-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 1. tv, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5f1-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 1. th, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5f4-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 2. tv, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5f3-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 2. th, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5f6-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 3. tv, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5f5-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 3. th, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5f8-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 4. tv, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c2-a5f7-32b8-e044-0003ba298018",
+					"titel": "Chr. Wærums Gade 20, 4. th, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4242584d-d9ed-4d31-942d-9c8a5726086d",
+					"titel": "Chr. Wærums Gade 20, 5. tv, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "74b6575e-0d14-4891-8254-5734b3379ac5",
+					"titel": "Chr. Wærums Gade 20, 5. th, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=chr wærums gade 20 5": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "4242584d-d9ed-4d31-942d-9c8a5726086d",
+					"titel": "Chr. Wærums Gade 20, 5. tv, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "74b6575e-0d14-4891-8254-5734b3379ac5",
+					"titel": "Chr. Wærums Gade 20, 5. th, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=chr wærums gade 20 5 th": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "74b6575e-0d14-4891-8254-5734b3379ac5",
+					"titel": "Chr. Wærums Gade 20, 5. th, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Chr. Wærums Gade 20, 5. th, 8000 Aarhus C": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "74b6575e-0d14-4891-8254-5734b3379ac5",
+					"titel": "Chr. Wærums Gade 20, 5. th, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-0617-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

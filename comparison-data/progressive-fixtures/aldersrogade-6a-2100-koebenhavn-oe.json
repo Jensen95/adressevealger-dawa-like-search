@@ -1,0 +1,804 @@
+{
+	"tekst": "Aldersrogade 6A, 2100 København Ø",
+	"dawaId": "000147c9-4571-422a-97df-5911aefd7fc6",
+	"recordedAt": "2026-07-09T20:35:33.018Z",
+	"stages": [
+		{
+			"stage": "alde",
+			"dawa": [
+				"Aldersro 1, 4681 Herfølge",
+				"Aldersro 3, 4681 Herfølge",
+				"Aldersro 5, 4681 Herfølge",
+				"Aldersro 6, 4681 Herfølge",
+				"Aldersro 7, 4681 Herfølge",
+				"Aldersro 8, 4681 Herfølge",
+				"Aldersro 9, 4681 Herfølge",
+				"Aldersro 2, 5700 Svendborg",
+				"Aldersro 4, 5700 Svendborg",
+				"Aldersro 4A, 4681 Herfølge"
+			]
+		},
+		{
+			"stage": "aldersrogade",
+			"dawa": [
+				"Aldersrogade 1, 2100 København Ø",
+				"Aldersrogade 5, 2100 København Ø",
+				"Aldersrogade 8, 2100 København Ø",
+				"Aldersrogade 1A, 2100 København Ø",
+				"Aldersrogade 1B, 2100 København Ø",
+				"Aldersrogade 1C, 2100 København Ø",
+				"Aldersrogade 6A, 2100 København Ø",
+				"Aldersrogade 6B, 2100 København Ø",
+				"Aldersrogade 6C, 2100 København Ø",
+				"Aldersrogade 6F, 2100 København Ø"
+			]
+		},
+		{
+			"stage": "aldersrogade 6",
+			"dawa": [
+				"Aldersrogade 6A, 2100 København Ø",
+				"Aldersrogade 6B, 2100 København Ø",
+				"Aldersrogade 6C, 2100 København Ø",
+				"Aldersrogade 6F, 2100 København Ø",
+				"Aldersrogade 6G, 2100 København Ø",
+				"Aldersrogade 6H, 2100 København Ø",
+				"Aldersrogade 6K, 2100 København Ø",
+				"Aldersrogade 6A, 1., 2100 København Ø",
+				"Aldersrogade 6A, 2., 2100 København Ø",
+				"Aldersrogade 6B, 1., 2100 København Ø"
+			]
+		},
+		{
+			"stage": "aldersrogade 6a",
+			"dawa": [
+				"Aldersrogade 6A, 2100 København Ø",
+				"Aldersrogade 6A, 1., 2100 København Ø",
+				"Aldersrogade 6A, 2., 2100 København Ø",
+				"Aldersrogade 6A, st., 2100 København Ø"
+			]
+		},
+		{
+			"stage": "Aldersrogade 6A, 2100 København Ø",
+			"dawa": [
+				"Aldersrogade 6A, 2100 København Ø",
+				"Aldersrogade 6A, 1., 2100 København Ø",
+				"Aldersrogade 6A, 2., 2100 København Ø",
+				"Aldersrogade 6A, st., 2100 København Ø"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=alde": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Aldebertsmindevej",
+					"vejNavn": "Aldebertsmindevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aldershvile",
+					"vejNavn": "Aldershvile"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aldershvilevej",
+					"vejNavn": "Aldershvilevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aldershøjvej",
+					"vejNavn": "Aldershøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aldersro",
+					"vejNavn": "Aldersro"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aldersrogade",
+					"vejNavn": "Aldersrogade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aldersrovej",
+					"vejNavn": "Aldersrovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Adelengvej",
+					"vejNavn": "Adelengvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Adelers Alle",
+					"vejNavn": "Adelers Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Adelers Plads",
+					"vejNavn": "Adelers Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Adelevej",
+					"vejNavn": "Adelevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Adler Lunds Gade",
+					"vejNavn": "Adler Lunds Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Adlerhusvej",
+					"vejNavn": "Adlerhusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Adlersvej",
+					"vejNavn": "Adlersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ahlefeldtsgade",
+					"vejNavn": "Ahlefeldtsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ahlefeldtsvej",
+					"vejNavn": "Ahlefeldtsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ahlefeldtvej",
+					"vejNavn": "Ahlefeldtvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ahlefeldvej",
+					"vejNavn": "Ahlefeldvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ahlegårdsvejen",
+					"vejNavn": "Ahlegårdsvejen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ahlervej",
+					"vejNavn": "Ahlervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alehøjvej",
+					"vejNavn": "Alehøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alenvej",
+					"vejNavn": "Alenvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexander Foss Gade",
+					"vejNavn": "Alexander Foss Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexander Foss Vej",
+					"vejNavn": "Alexander Foss Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexander Kiellands Vej",
+					"vejNavn": "Alexander Kiellands Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexander Svedstrups Vej",
+					"vejNavn": "Alexander Svedstrups Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexandersvej",
+					"vejNavn": "Alexandersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexandervej",
+					"vejNavn": "Alexandervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexandragade",
+					"vejNavn": "Alexandragade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexandraparken",
+					"vejNavn": "Alexandraparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexandrasvej",
+					"vejNavn": "Alexandrasvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexandravej",
+					"vejNavn": "Alexandravej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexandriagade",
+					"vejNavn": "Alexandriagade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexandrinevej",
+					"vejNavn": "Alexandrinevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alexiasvej",
+					"vejNavn": "Alexiasvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Algestrup Lyng",
+					"vejNavn": "Algestrup Lyng"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Algestrup Skovvej",
+					"vejNavn": "Algestrup Skovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Algestrupgade",
+					"vejNavn": "Algestrupgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Algestrupvej",
+					"vejNavn": "Algestrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alhedeparken",
+					"vejNavn": "Alhedeparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alle De Fidusia",
+					"vejNavn": "Alle De Fidusia"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alleen",
+					"vejNavn": "Alleen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allegaarden",
+					"vejNavn": "Allegaarden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allegade",
+					"vejNavn": "Allegade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allegrovej",
+					"vejNavn": "Allegrovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allegårdsvej",
+					"vejNavn": "Allegårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allehelgensgade",
+					"vejNavn": "Allehelgensgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allelev Sund",
+					"vejNavn": "Allelev Sund"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allelevvej",
+					"vejNavn": "Allelevvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alleparken",
+					"vejNavn": "Alleparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aller Møllevej",
+					"vejNavn": "Aller Møllevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allersgade",
+					"vejNavn": "Allersgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allershøjvejen",
+					"vejNavn": "Allershøjvejen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allerup Bygade",
+					"vejNavn": "Allerup Bygade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allerup Nord",
+					"vejNavn": "Allerup Nord"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allerup Syd",
+					"vejNavn": "Allerup Syd"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allerupgyden",
+					"vejNavn": "Allerupgyden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allerupvej",
+					"vejNavn": "Allerupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allervej",
+					"vejNavn": "Allervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allerød Have",
+					"vejNavn": "Allerød Have"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allerød Park",
+					"vejNavn": "Allerød Park"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allerød Stationsvej",
+					"vejNavn": "Allerød Stationsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allerødvej",
+					"vejNavn": "Allerødvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alleshavevej",
+					"vejNavn": "Alleshavevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allestedgårdsvej",
+					"vejNavn": "Allestedgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allestedvej",
+					"vejNavn": "Allestedvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allestrupvej",
+					"vejNavn": "Allestrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allestræde",
+					"vejNavn": "Allestræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allesø-Norden",
+					"vejNavn": "Allesø-Norden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allesøvej",
+					"vejNavn": "Allesøvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allevej",
+					"vejNavn": "Allevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allevænget",
+					"vejNavn": "Allevænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alléen",
+					"vejNavn": "Alléen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allégade",
+					"vejNavn": "Allégade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allégården",
+					"vejNavn": "Allégården"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allégårdsvej",
+					"vejNavn": "Allégårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allékredsen",
+					"vejNavn": "Allékredsen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alléparken",
+					"vejNavn": "Alléparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Alléskovvej",
+					"vejNavn": "Alléskovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Allévej",
+					"vejNavn": "Allévej"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=aldersrogade": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3815-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 1, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "99add43d-fcb0-4941-86b9-cefb35db34d6",
+					"titel": "Aldersrogade 1A, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "1A"
+				},
+				{
+					"type": "husnummer",
+					"id": "f7423131-1dad-44e5-bb51-535a81137250",
+					"titel": "Aldersrogade 1B, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "1B"
+				},
+				{
+					"type": "adresse",
+					"id": "411ab8b6-f27b-46fc-8556-0455dc7b77af",
+					"titel": "Aldersrogade 1C, 2100 København Ø",
+					"husnummerId": "c22371a6-7584-4cfa-bd2d-3c4219df1f13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3816-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 2, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3818-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 3A, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "3A"
+				},
+				{
+					"type": "husnummer",
+					"id": "4d072365-248c-49fe-a187-e73f1309bb50",
+					"titel": "Aldersrogade 3B, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "3B"
+				},
+				{
+					"type": "husnummer",
+					"id": "513fcaee-9101-45fc-b15b-dfe8e2586c25",
+					"titel": "Aldersrogade 3C, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "3C"
+				},
+				{
+					"type": "husnummer",
+					"id": "b41b9c23-eca1-45c6-b7bc-bf92580f1917",
+					"titel": "Aldersrogade 3D, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "3D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3819-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 4, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381a-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 5, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381b-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6A, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381c-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6B, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381d-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6C, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381e-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6D, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381f-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6E, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6E"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3820-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6F, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6F"
+				},
+				{
+					"type": "husnummer",
+					"id": "75d4829b-3405-165e-e044-00144f3ead67",
+					"titel": "Aldersrogade 6G, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6G"
+				},
+				{
+					"type": "adresse",
+					"id": "2e07add9-0d94-4a75-8414-837dec5a4ba7",
+					"titel": "Aldersrogade 6H, 2100 København Ø",
+					"husnummerId": "75d4829b-3406-165e-e044-00144f3ead67"
+				},
+				{
+					"type": "husnummer",
+					"id": "75d4829b-3407-165e-e044-00144f3ead67",
+					"titel": "Aldersrogade 6K, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6K"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3824-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 7, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "c932eeba-806f-435a-844a-32325e66e89f",
+					"titel": "Aldersrogade 8, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3825-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 8A, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "8A"
+				},
+				{
+					"type": "adresse",
+					"id": "c28b2c9a-0f8f-4f67-b505-057bfe135ae3",
+					"titel": "Aldersrogade 8B, 2100 København Ø",
+					"husnummerId": "0a3f507a-3826-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3827-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 9, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3828-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 11, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "11"
+				},
+				{
+					"type": "adresse",
+					"id": "4e2227e2-d39a-4a37-873a-c25f8b573718",
+					"titel": "Aldersrogade 15, 2100 København Ø",
+					"husnummerId": "0a3f507a-3829-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "76d11a0f-f3d1-6818-e044-00144f3ead67",
+					"titel": "Aldersrogade 17, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "17"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=aldersrogade 6": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381b-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6A, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381c-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6B, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381d-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6C, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381e-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6D, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-381f-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6E, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6E"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-3820-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6F, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6F"
+				},
+				{
+					"type": "husnummer",
+					"id": "75d4829b-3405-165e-e044-00144f3ead67",
+					"titel": "Aldersrogade 6G, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6G"
+				},
+				{
+					"type": "adresse",
+					"id": "2e07add9-0d94-4a75-8414-837dec5a4ba7",
+					"titel": "Aldersrogade 6H, 2100 København Ø",
+					"husnummerId": "75d4829b-3406-165e-e044-00144f3ead67"
+				},
+				{
+					"type": "husnummer",
+					"id": "75d4829b-3407-165e-e044-00144f3ead67",
+					"titel": "Aldersrogade 6K, 2100 København Ø",
+					"vejnavn": "Aldersrogade",
+					"husnummer": "6K"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=aldersrogade 6a": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "000147c9-4571-422a-97df-5911aefd7fc6",
+					"titel": "Aldersrogade 6A, 2100 København Ø",
+					"husnummerId": "0a3f507a-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-114e-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6A, st., 2100 København Ø",
+					"husnummerId": "0a3f507a-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "217a436f-3fb4-43e3-a275-b85129286a9c",
+					"titel": "Aldersrogade 6A, 1., 2100 København Ø",
+					"husnummerId": "0a3f507a-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a9d73624-753d-49b4-aabf-18caa21eb3c6",
+					"titel": "Aldersrogade 6A, 2., 2100 København Ø",
+					"husnummerId": "0a3f507a-381b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Aldersrogade 6A, 2100 København Ø": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "000147c9-4571-422a-97df-5911aefd7fc6",
+					"titel": "Aldersrogade 6A, 2100 København Ø",
+					"husnummerId": "0a3f507a-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-114e-32b8-e044-0003ba298018",
+					"titel": "Aldersrogade 6A, st., 2100 København Ø",
+					"husnummerId": "0a3f507a-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "217a436f-3fb4-43e3-a275-b85129286a9c",
+					"titel": "Aldersrogade 6A, 1., 2100 København Ø",
+					"husnummerId": "0a3f507a-381b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a9d73624-753d-49b4-aabf-18caa21eb3c6",
+					"titel": "Aldersrogade 6A, 2., 2100 København Ø",
+					"husnummerId": "0a3f507a-381b-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"query": "Spindelvej 11, Guderup, 6430 Nordborg",
+	"recordedAt": "2026-07-09T19:51:52.468Z",
+	"dawa": {
+		"texts": [
+			"Spindelvej 11, Guderup, 6430 Nordborg",
+			"Spindelvej 11, 1., Guderup, 6430 Nordborg",
+			"Spindelvej 11, 2., Guderup, 6430 Nordborg",
+			"Spindelvej 11, kl., Guderup, 6430 Nordborg",
+			"Spindelvej 11, st., Guderup, 6430 Nordborg"
+		],
+		"ids": [
+			"00009b67-504c-4fe0-b1d1-39126722df0f",
+			"e3ddadff-1fd9-443e-b88c-d0510cbe46a0",
+			"1cbbb55b-bbd5-4695-9fe0-45f71975955f",
+			"eb7233bc-c2ba-45c4-90dc-2696f3de0c8b",
+			"509dd22e-584c-40e9-bc62-5dfd5a79dc97"
+		],
+		"count": 5
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=Spindelvej 11, Guderup, 6430 Nordborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00009b67-504c-4fe0-b1d1-39126722df0f",
+					"titel": "Spindelvej 11, Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "eb7233bc-c2ba-45c4-90dc-2696f3de0c8b",
+					"titel": "Spindelvej 11, kl., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "509dd22e-584c-40e9-bc62-5dfd5a79dc97",
+					"titel": "Spindelvej 11, st., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "e3ddadff-1fd9-443e-b88c-d0510cbe46a0",
+					"titel": "Spindelvej 11, 1., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "1cbbb55b-bbd5-4695-9fe0-45f71975955f",
+					"titel": "Spindelvej 11, 2., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				}
+			]
+		}
+	}
+}

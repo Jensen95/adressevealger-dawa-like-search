@@ -1,0 +1,27 @@
+{
+	"query": "Frederik Andersensvej 12D, st. 6, 4400 Kalundborg",
+	"recordedAt": "2026-07-09T19:51:52.166Z",
+	"dawa": {
+		"texts": [
+			"Frederik Andersensvej 12D, st. 6, 4400 Kalundborg"
+		],
+		"ids": [
+			"00014759-7081-4f97-8e1d-c8f13577881a"
+		],
+		"count": 1
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=Frederik Andersensvej 12D, st. 6, 4400 Kalundborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00014759-7081-4f97-8e1d-c8f13577881a",
+					"titel": "Frederik Andersensvej 12D, st. 6, 4400 Kalundborg",
+					"husnummerId": "6514fc24-f370-412c-8a1f-bc9bf652d4d3"
+				}
+			]
+		}
+	}
+}

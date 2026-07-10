@@ -5,13 +5,13 @@
   "type": "module",
   "license": "MIT",
   "author": "Morten Jensen",
-  "homepage": "https://jensen95.github.io/adressevaelger-enhanced/",
+  "homepage": "https://jensen95.github.io/adressevealger-dawa-like-search/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jensen95/adressevaelger-enhanced.git"
+    "url": "git+https://github.com/Jensen95/adressevealger-dawa-like-search.git"
   },
   "bugs": {
-    "url": "https://github.com/Jensen95/adressevaelger-enhanced/issues"
+    "url": "https://github.com/Jensen95/adressevealger-dawa-like-search/issues"
   },
   "keywords": [
     "adressevaelger",

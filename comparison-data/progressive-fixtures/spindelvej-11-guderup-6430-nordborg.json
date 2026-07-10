@@ -1,0 +1,2444 @@
+{
+	"tekst": "Spindelvej 11, Guderup, 6430 Nordborg",
+	"dawaId": "00009b67-504c-4fe0-b1d1-39126722df0f",
+	"recordedAt": "2026-07-09T20:34:38.747Z",
+	"stages": [
+		{
+			"stage": "spin",
+			"dawa": [
+				"Spindestræde 1, 2635 Ishøj",
+				"Spinderigade 1, 2500 Valby",
+				"Spindestræde 2, 2635 Ishøj",
+				"Spinderigade 2, 2500 Valby",
+				"Spindestræde 3, 2635 Ishøj",
+				"Spinderigade 3, 7100 Vejle",
+				"Spinderigade 3, 2500 Valby",
+				"Spindestræde 4, 2635 Ishøj",
+				"Spinderigade 4, 2500 Valby",
+				"Spindestræde 5, 2635 Ishøj"
+			]
+		},
+		{
+			"stage": "spindelvej",
+			"dawa": [
+				"Spindelvej 1, Guderup, 6430 Nordborg",
+				"Spindelvej 2, Guderup, 6430 Nordborg",
+				"Spindelvej 4, Guderup, 6430 Nordborg",
+				"Spindelvej 5, Guderup, 6430 Nordborg",
+				"Spindelvej 7, Guderup, 6430 Nordborg",
+				"Spindelvej 8, Guderup, 6430 Nordborg",
+				"Spindelvej 9, Guderup, 6430 Nordborg",
+				"Spindelvej 4A, Guderup, 6430 Nordborg",
+				"Spindelvej 8A, Guderup, 6430 Nordborg",
+				"Spindelvej 11, Guderup, 6430 Nordborg"
+			]
+		},
+		{
+			"stage": "spindelvej 1",
+			"dawa": [
+				"Spindelvej 11, 1., Guderup, 6430 Nordborg",
+				"Spindelvej 1, Guderup, 6430 Nordborg",
+				"Spindelvej 11, Guderup, 6430 Nordborg",
+				"Spindelvej 11, 2., Guderup, 6430 Nordborg",
+				"Spindelvej 11, kl., Guderup, 6430 Nordborg",
+				"Spindelvej 11, st., Guderup, 6430 Nordborg",
+				"Spindelvej 6, 1., Guderup, 6430 Nordborg",
+				"Spindelvej 8, 1., Guderup, 6430 Nordborg"
+			]
+		},
+		{
+			"stage": "spindelvej 11",
+			"dawa": [
+				"Spindelvej 11, Guderup, 6430 Nordborg",
+				"Spindelvej 11, 1., Guderup, 6430 Nordborg",
+				"Spindelvej 11, 2., Guderup, 6430 Nordborg",
+				"Spindelvej 11, kl., Guderup, 6430 Nordborg",
+				"Spindelvej 11, st., Guderup, 6430 Nordborg"
+			]
+		},
+		{
+			"stage": "Spindelvej 11, Guderup, 6430 Nordborg",
+			"dawa": [
+				"Spindelvej 11, Guderup, 6430 Nordborg",
+				"Spindelvej 11, 1., Guderup, 6430 Nordborg",
+				"Spindelvej 11, 2., Guderup, 6430 Nordborg",
+				"Spindelvej 11, kl., Guderup, 6430 Nordborg",
+				"Spindelvej 11, st., Guderup, 6430 Nordborg"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=spin": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "78ed0b40-ccfb-4e23-be79-4a10b890c664",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinatvej 2860 Søborg",
+					"vejnavn": "Spinatvej",
+					"postnr": "2860",
+					"postdistrikt": "Søborg",
+					"antal_husnumre": 23
+				},
+				{
+					"id": "0edf6173-ce9b-4444-ae6b-947ef6d58586",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinatvej 8660 Skanderborg",
+					"vejnavn": "Spinatvej",
+					"postnr": "8660",
+					"postdistrikt": "Skanderborg",
+					"antal_husnumre": 15
+				},
+				{
+					"id": "777a5815-f6d1-42b8-a861-115ecbe45aed",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spindborg 6261 Bredebro",
+					"vejnavn": "Spindborg",
+					"postnr": "6261",
+					"postdistrikt": "Bredebro",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "4e49f259-1246-4e87-9bc4-518e69933a81",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spindelvej 6430 Nordborg",
+					"vejnavn": "Spindelvej",
+					"postnr": "6430",
+					"postdistrikt": "Nordborg",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "58884fa3-63d7-4410-9721-bd5613552789",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinderensvej 9000 Aalborg",
+					"vejnavn": "Spinderensvej",
+					"postnr": "9000",
+					"postdistrikt": "Aalborg",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "db381588-24f9-4dcc-81ae-48d70417f136",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spindergården 9700 Brønderslev",
+					"vejnavn": "Spindergården",
+					"postnr": "9700",
+					"postdistrikt": "Brønderslev",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "99acd9c3-f94a-4c14-8474-336b9c550816",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinderiet 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"postnr": "5700",
+					"postdistrikt": "Svendborg",
+					"antal_husnumre": 22
+				},
+				{
+					"id": "a2413c19-1c4f-4bac-ba24-72d5914ae9ad",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinderigade 2500 Valby",
+					"vejnavn": "Spinderigade",
+					"postnr": "2500",
+					"postdistrikt": "Valby",
+					"antal_husnumre": 15
+				},
+				{
+					"id": "13272c1c-e9cf-45a3-bb81-7c6587f3b47f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinderigade 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"postnr": "7100",
+					"postdistrikt": "Vejle",
+					"antal_husnumre": 44
+				},
+				{
+					"id": "8c42b2ee-b0fe-47f9-bd56-4531b0bebb25",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinderiparken 4200 Slagelse",
+					"vejnavn": "Spinderiparken",
+					"postnr": "4200",
+					"postdistrikt": "Slagelse",
+					"antal_husnumre": 61
+				},
+				{
+					"id": "dcb48c3c-8e07-4f6c-bd42-b424bfdf853d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spindervej 8900 Randers C",
+					"vejnavn": "Spindervej",
+					"postnr": "8900",
+					"postdistrikt": "Randers C",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "9367fcfa-3315-4b79-a73f-0be56242acff",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spindestræde 2635 Ishøj",
+					"vejnavn": "Spindestræde",
+					"postnr": "2635",
+					"postdistrikt": "Ishøj",
+					"antal_husnumre": 101
+				},
+				{
+					"id": "da95e4ef-29e5-44e1-b9e6-d095d03614eb",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spindevænget 4750 Lundby",
+					"vejnavn": "Spindevænget",
+					"postnr": "4750",
+					"postdistrikt": "Lundby",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "de3a7ffe-725d-4af8-90b9-ab23c0618a24",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinkebjerg 7400 Herning",
+					"vejnavn": "Spinkebjerg",
+					"postnr": "7400",
+					"postdistrikt": "Herning",
+					"antal_husnumre": 83
+				},
+				{
+					"id": "6e2a83c4-d778-43f2-8993-72d3e98eb9d1",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinkebjergparken 7400 Herning",
+					"vejnavn": "Spinkebjergparken",
+					"postnr": "7400",
+					"postdistrikt": "Herning",
+					"antal_husnumre": 16
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spindergården 9700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-5596-32b8-e044-0003ba298018",
+					"titel": "Spindergården 1, 9700 Brønderslev",
+					"vejnavn": "Spindergården",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-f9f8-32b8-e044-0003ba298018",
+					"titel": "Spindergården 2, 1., 9700 Brønderslev",
+					"husnummerId": "0a3f5099-5597-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-5598-32b8-e044-0003ba298018",
+					"titel": "Spindergården 3, 9700 Brønderslev",
+					"vejnavn": "Spindergården",
+					"husnummer": "3"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-f9f9-32b8-e044-0003ba298018",
+					"titel": "Spindergården 3A, st., 9700 Brønderslev",
+					"husnummerId": "0a3f5099-5599-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-f9fa-32b8-e044-0003ba298018",
+					"titel": "Spindergården 3B, st., 9700 Brønderslev",
+					"husnummerId": "0a3f5099-559a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-f9fb-32b8-e044-0003ba298018",
+					"titel": "Spindergården 3C, st., 9700 Brønderslev",
+					"husnummerId": "0a3f5099-559b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-559c-32b8-e044-0003ba298018",
+					"titel": "Spindergården 5, 9700 Brønderslev",
+					"vejnavn": "Spindergården",
+					"husnummer": "5"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spinatvej 2860": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "26cc8e89-1e63-4f7a-bde7-b5af804e5e51",
+					"titel": "Spinatvej 1, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "3c96e0d1-28ba-4756-8665-587ae267644d"
+				},
+				{
+					"type": "adresse",
+					"id": "af8195d7-f7a8-4177-bf4a-69e06d41d5ca",
+					"titel": "Spinatvej 2, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "a6a4ced0-3ed8-45e2-a9d0-8d2894ac29a4"
+				},
+				{
+					"type": "adresse",
+					"id": "b0100c0f-d955-4402-a9e9-a883f38fdaa7",
+					"titel": "Spinatvej 3, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "a392ce16-d67e-4353-a3db-edb8a23b309c"
+				},
+				{
+					"type": "adresse",
+					"id": "61c8f617-44d5-4540-91a4-7fc42a546cec",
+					"titel": "Spinatvej 4, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "a861b80a-d0c2-4ad9-83a6-91777979cb66"
+				},
+				{
+					"type": "adresse",
+					"id": "d22ae3f4-a77d-48c3-9301-e964ed6ca835",
+					"titel": "Spinatvej 5, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "8938d133-43af-4581-9a27-b38b653dfb34"
+				},
+				{
+					"type": "adresse",
+					"id": "a93af126-e0a8-4ffb-861b-927bc4a9c524",
+					"titel": "Spinatvej 6, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "63ad6511-cf80-4da1-834b-c5cd919a8c76"
+				},
+				{
+					"type": "adresse",
+					"id": "7fb15a3c-45fb-4678-a7d5-8d13b276e2d4",
+					"titel": "Spinatvej 7, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "84f028ad-fa88-435f-b7f8-6def0517be0a"
+				},
+				{
+					"type": "adresse",
+					"id": "87e41293-9ca2-4436-bf00-e826e6bcf900",
+					"titel": "Spinatvej 8, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "f7169919-b228-4d51-94a8-b022fa0e5caf"
+				},
+				{
+					"type": "adresse",
+					"id": "a437b021-e5c6-4aa8-a8b2-8d0f92d9637d",
+					"titel": "Spinatvej 9, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "2885941e-97e5-4070-9182-991c8a50c35f"
+				},
+				{
+					"type": "adresse",
+					"id": "391e3455-61b8-4467-a8a7-7790293d6f23",
+					"titel": "Spinatvej 10, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "f8d9e2db-a34f-47f6-a4ff-9a2bcffa34c8"
+				},
+				{
+					"type": "adresse",
+					"id": "96ba2908-c6f3-42a3-b146-256b861f389f",
+					"titel": "Spinatvej 11, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "66dce13b-9067-4d04-b51c-68c100c19f14"
+				},
+				{
+					"type": "adresse",
+					"id": "f55eed56-50df-4f31-b2c8-057fbb3e69bc",
+					"titel": "Spinatvej 12, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "213603c9-d3b5-46ec-8c1c-a26e39817772"
+				},
+				{
+					"type": "adresse",
+					"id": "d3d2df3b-e41f-4485-80f7-b780191fc514",
+					"titel": "Spinatvej 14, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "75074201-baff-47b4-85ec-52058887e329"
+				},
+				{
+					"type": "adresse",
+					"id": "81a1ce94-af68-49bf-8bbf-8fed9031f3ca",
+					"titel": "Spinatvej 16, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "6d8c7982-c1a1-42c2-bcd9-1b60e40897c5"
+				},
+				{
+					"type": "adresse",
+					"id": "98a74018-ee42-47d3-8119-7e9c9514bf55",
+					"titel": "Spinatvej 18, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "e4889073-e095-46b1-a4ef-6f727e7b0404"
+				},
+				{
+					"type": "adresse",
+					"id": "0e76f331-fa42-4b51-8cff-43e0264c7468",
+					"titel": "Spinatvej 20, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "badac579-d407-4d77-b207-395420c09c88"
+				},
+				{
+					"type": "adresse",
+					"id": "6a27e7e0-70e8-4881-9b6b-97d4e4c337d5",
+					"titel": "Spinatvej 22, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "b1e243cf-218c-471f-a028-0562f86d613b"
+				},
+				{
+					"type": "adresse",
+					"id": "2862894d-a1e4-4091-9463-05f2cb491d58",
+					"titel": "Spinatvej 24, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "8d4b06eb-9b58-4fdf-bf89-cd9af869a512"
+				},
+				{
+					"type": "adresse",
+					"id": "901059bb-4299-4b71-a9cc-67e727365f90",
+					"titel": "Spinatvej 26, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "52cbe519-d7a5-48b1-9c21-4e1e16e72cdc"
+				},
+				{
+					"type": "adresse",
+					"id": "8998d28b-21a5-4fbb-9be7-48ddacd5f89a",
+					"titel": "Spinatvej 28, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "2627cd4e-ebb0-45af-9231-e62fe8b856a5"
+				},
+				{
+					"type": "adresse",
+					"id": "4fc5202e-c0b5-433e-a513-b6173a4827b6",
+					"titel": "Spinatvej 30, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "6e46fed4-d07c-48fc-9d39-800ef4006b10"
+				},
+				{
+					"type": "adresse",
+					"id": "fb010868-cacb-4a3d-9018-be77a73c6703",
+					"titel": "Spinatvej 32, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "ca5034a7-8caa-48fd-95e8-5fae6b418099"
+				},
+				{
+					"type": "adresse",
+					"id": "c5d723d6-5bd4-4750-925a-b37e0b231aef",
+					"titel": "Spinatvej 34, Hf. Tornhøj, 2860 Søborg",
+					"husnummerId": "0b634663-6830-4ced-b32b-f9d6a9ab2e05"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spinderigade 2500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "d98633ec-c24a-465a-bbec-de8f9c601f2c",
+					"titel": "Spinderigade 1, 2500 Valby",
+					"husnummerId": "16bed59f-95e8-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "70d98383-0308-1b8b-e044-00144f3ead67",
+					"titel": "Spinderigade 2, 2500 Valby",
+					"husnummerId": "16bed59f-95e9-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8c98d5fb-d254-4ffd-862a-e26b3ac8100b",
+					"titel": "Spinderigade 3, 2500 Valby",
+					"husnummerId": "16bed59f-95ea-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "83fa3c8b-02e2-43b6-98d8-543817f2d861",
+					"titel": "Spinderigade 4, 2500 Valby",
+					"husnummerId": "16bed59f-95eb-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "16bed59f-95ec-1efc-e044-0003ba298018",
+					"titel": "Spinderigade 5, 2500 Valby",
+					"vejnavn": "Spinderigade",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "e55f6ea5-b339-4a4d-9f89-f7616471399e",
+					"titel": "Spinderigade 6, 2500 Valby",
+					"husnummerId": "16bed59f-95ed-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "95eec40a-49c7-48f6-a5e5-d29cdeda96a3",
+					"titel": "Spinderigade 7, 2500 Valby",
+					"husnummerId": "16bed59f-95ee-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2d3a4717-49b4-479a-82ab-755057920140",
+					"titel": "Spinderigade 8, 2500 Valby",
+					"husnummerId": "16bed59f-95ef-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6f273760-ac14-41b6-bf66-11b87bb96b0d",
+					"titel": "Spinderigade 10, 2500 Valby",
+					"husnummerId": "16bed59f-95f0-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "16bed59f-95f1-1efc-e044-0003ba298018",
+					"titel": "Spinderigade 12, 2500 Valby",
+					"vejnavn": "Spinderigade",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "16bed59f-95f2-1efc-e044-0003ba298018",
+					"titel": "Spinderigade 14, 2500 Valby",
+					"vejnavn": "Spinderigade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "16bed59f-95f3-1efc-e044-0003ba298018",
+					"titel": "Spinderigade 16, 2500 Valby",
+					"vejnavn": "Spinderigade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "16bed59f-95f4-1efc-e044-0003ba298018",
+					"titel": "Spinderigade 18, 2500 Valby",
+					"vejnavn": "Spinderigade",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "16bed59f-95f5-1efc-e044-0003ba298018",
+					"titel": "Spinderigade 20, 2500 Valby",
+					"vejnavn": "Spinderigade",
+					"husnummer": "20"
+				},
+				{
+					"type": "adresse",
+					"id": "234c2c53-e08c-4376-b90c-83600b6e8521",
+					"titel": "Spinderigade 22, 2500 Valby",
+					"husnummerId": "16bed59f-95f6-1efc-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spinatvej 8660": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "1a9a821b-c1db-4dde-a8a3-d9d3068abc85",
+					"titel": "Spinatvej 45, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "c4c1e9a7-1846-46d3-ba53-959e6ed93b1a"
+				},
+				{
+					"type": "adresse",
+					"id": "68fd174d-c7cd-4bef-a9ab-097ec0027306",
+					"titel": "Spinatvej 46, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "ccf76a75-630f-4e37-83ae-714018918a5b"
+				},
+				{
+					"type": "adresse",
+					"id": "4f456894-a74c-4d9e-831d-e3dfa4ee3a85",
+					"titel": "Spinatvej 47, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "70f2785e-dbdd-4bb7-ac17-8b7d02b3038c"
+				},
+				{
+					"type": "adresse",
+					"id": "6152e7f4-760e-4095-81e0-ddb507f84a90",
+					"titel": "Spinatvej 48, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "b11e263a-6a2b-401a-ad6a-411791398868"
+				},
+				{
+					"type": "adresse",
+					"id": "bdbd67a5-10d9-4433-9990-c836c6402c80",
+					"titel": "Spinatvej 49, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "6a3fa1ee-f92a-4cb9-8380-efbaafc3d452"
+				},
+				{
+					"type": "adresse",
+					"id": "e6817e5a-519e-451b-b4f7-f8a5ef36ec9d",
+					"titel": "Spinatvej 50, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "cb88feff-c354-4077-af20-cb4b8d8cbbcb"
+				},
+				{
+					"type": "adresse",
+					"id": "e5d5aa7f-e183-4d4a-8b97-08061e0bb6ce",
+					"titel": "Spinatvej 51, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "cd428041-24ef-462c-a992-050b578f845d"
+				},
+				{
+					"type": "adresse",
+					"id": "3cd3ea31-0232-4026-8aa8-0a4744ec68b4",
+					"titel": "Spinatvej 52, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "6f9dfb7f-4a53-4960-bb95-761fb9c3c88a"
+				},
+				{
+					"type": "adresse",
+					"id": "3c35b8d8-f66c-4d9e-97d1-3d7af86379aa",
+					"titel": "Spinatvej 54, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "484db64e-83d5-40a9-a215-0a27b01868c7"
+				},
+				{
+					"type": "adresse",
+					"id": "49fde417-05c3-43b4-88f9-e6a2f93f3c2d",
+					"titel": "Spinatvej 55, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "253ce7f5-afce-4b61-8333-aeb19fb35ce2"
+				},
+				{
+					"type": "adresse",
+					"id": "5721c0f2-d680-4436-a028-1505e37fdc50",
+					"titel": "Spinatvej 56, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "5706c269-c534-4d5c-97c7-7b9ad5eb965c"
+				},
+				{
+					"type": "adresse",
+					"id": "4d7eed7c-3017-4e52-9e71-93676c640610",
+					"titel": "Spinatvej 57, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "6986f1a6-2222-45b7-a781-b8c2339308d4"
+				},
+				{
+					"type": "adresse",
+					"id": "b219c752-52fd-4577-b70a-0a66bef1925e",
+					"titel": "Spinatvej 58, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "d180ef1a-714c-4e95-8de0-02e46d016ae7"
+				},
+				{
+					"type": "adresse",
+					"id": "38c774de-9732-41e7-a77a-83868c495120",
+					"titel": "Spinatvej 59, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "2e546bbf-1840-4055-877a-2ddb434b027e"
+				},
+				{
+					"type": "adresse",
+					"id": "6f7e3951-0717-435a-8a5c-753024916f83",
+					"titel": "Spinatvej 60, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "edb9042e-36b9-4782-9748-7ea50e3e21c0"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spinderensvej 9000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcef-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 1, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb75-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf0-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 2, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb76-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf1-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 3, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb77-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf2-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 4, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb78-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf3-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 5, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb79-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf4-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 6, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb7a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf5-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 7, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb7b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf6-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 8, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb7c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf7-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 9, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb7d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf8-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 10, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb7e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcf9-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 11, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb7f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcfa-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 12, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb80-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-bcfb-32b8-e044-0003ba298018",
+					"titel": "Spinderensvej 14, 9000 Aalborg",
+					"husnummerId": "0a3f509c-bb81-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spinderiet 5700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "c6b33dc8-12ef-4d2e-86b5-547bc68f06f7",
+					"titel": "Spinderiet 2, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "2622bd7a-1dad-4714-b7db-02adb579c1c2",
+					"titel": "Spinderiet 4, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "b3243711-7e98-48e6-b423-14a0e83716aa",
+					"titel": "Spinderiet 6, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "f2c09c48-b86b-41ac-a40a-6c5d7be9b384",
+					"titel": "Spinderiet 8, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "176d66b0-80ba-46d0-9b8c-1e16341196f4",
+					"titel": "Spinderiet 10, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "fa2e0377-9e49-4310-a948-45b5a6aa5b47",
+					"titel": "Spinderiet 10A, 5700 Svendborg",
+					"husnummerId": "70a84960-74bf-44bc-82d4-7bd2df84e1f5"
+				},
+				{
+					"type": "husnummer",
+					"id": "91fa24db-9d11-43aa-a4f8-abc2eba54605",
+					"titel": "Spinderiet 12, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "77d74ccc-0248-4955-9ae9-0092cf7e8487",
+					"titel": "Spinderiet 14, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0c3e98d5-858d-4ea5-a8ba-cb4cb9979a25",
+					"titel": "Spinderiet 16, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "bf95268b-a84a-44ea-b375-f91dd20e4051",
+					"titel": "Spinderiet 18, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0e669c4d-3f19-4b24-bed6-e99a38b626eb",
+					"titel": "Spinderiet 20, 5700 Svendborg",
+					"vejnavn": "Spinderiet",
+					"husnummer": "20"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spinderigade 7100": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "40eb1f85-9e23-4581-e044-0003ba298018",
+					"titel": "Spinderigade 1A, kl., 7100 Vejle",
+					"husnummerId": "362e6b23-5360-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "40eb1f85-9e24-4581-e044-0003ba298018",
+					"titel": "Spinderigade 1B, 7100 Vejle",
+					"husnummerId": "40afd2f6-041c-3373-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "40eb1f85-9e25-4581-e044-0003ba298018",
+					"titel": "Spinderigade 1C, 7100 Vejle",
+					"husnummerId": "40afd2f6-041d-3373-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-fa5c-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 2A, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "2A"
+				},
+				{
+					"type": "adresse",
+					"id": "0616483c-f923-40ab-bb49-efa530d0373d",
+					"titel": "Spinderigade 2B, st., 7100 Vejle",
+					"husnummerId": "bbab107c-d733-49e1-bb9b-68ffcd443008"
+				},
+				{
+					"type": "adresse",
+					"id": "73c859d9-2eaf-4d41-9528-15f9f80c3eef",
+					"titel": "Spinderigade 2C, st., 7100 Vejle",
+					"husnummerId": "868d5602-6025-4880-8054-c4893ebeae17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed59-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 3, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "a94a400d-c94a-4a34-8b23-810cd8e35ce4",
+					"titel": "Spinderigade 4A, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "4A"
+				},
+				{
+					"type": "adresse",
+					"id": "a13c4b7c-690c-4bbe-b19c-a7e22855f87d",
+					"titel": "Spinderigade 4B, 7100 Vejle",
+					"husnummerId": "edaacb7e-a4de-4d30-811b-82ea6dfc19d6"
+				},
+				{
+					"type": "adresse",
+					"id": "fad741f3-245d-44f2-9ace-69a840c48288",
+					"titel": "Spinderigade 4C, 7100 Vejle",
+					"husnummerId": "ef224d10-c699-4fbf-a76b-7ed488de5d75"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed5a-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 5, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed5b-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 7, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed5c-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 8, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed5d-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 9, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "9"
+				},
+				{
+					"type": "adresse",
+					"id": "76f83858-1923-422c-840c-f72dcd0adeec",
+					"titel": "Spinderigade 10, 7100 Vejle",
+					"husnummerId": "0a3f5090-ed5e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "878d33a4-7dc4-4273-9c4a-8b28ba6a72f3",
+					"titel": "Spinderigade 11A, 7100 Vejle",
+					"husnummerId": "0a3f5090-ed60-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4be20f15-9e51-4f4a-8dbd-b61afe39108f",
+					"titel": "Spinderigade 11B, 7100 Vejle",
+					"husnummerId": "0a3f5090-ed61-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed62-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 11C, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "11C"
+				},
+				{
+					"type": "adresse",
+					"id": "380df15e-cc2c-4bed-8b58-b1e90c22ccf8",
+					"titel": "Spinderigade 11D, 7100 Vejle",
+					"husnummerId": "0a3f5090-ed63-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed64-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 11E, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "11E"
+				},
+				{
+					"type": "adresse",
+					"id": "f25b46b2-e156-4aba-b051-c6beb8f51648",
+					"titel": "Spinderigade 11F, 7100 Vejle",
+					"husnummerId": "0a3f5090-ed65-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed66-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 11G, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "11G"
+				},
+				{
+					"type": "adresse",
+					"id": "698b7493-5829-4ea9-a946-e210eacec9a5",
+					"titel": "Spinderigade 11H, 7100 Vejle",
+					"husnummerId": "0a3f5090-ed67-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ec63614f-69f3-4f23-b512-87cc3bc1c93a",
+					"titel": "Spinderigade 11X, 7100 Vejle",
+					"husnummerId": "0a3f5090-ed68-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ba2be6de-3dd5-4e35-8d69-c55f362e74d6",
+					"titel": "Spinderigade 11Y, 7100 Vejle",
+					"husnummerId": "0a3f5090-ed69-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed6a-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 12, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-ed6b-32b8-e044-0003ba298018",
+					"titel": "Spinderigade 14, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "90ebc01c-5818-4aca-b787-19c3fcf0b915",
+					"titel": "Spinderigade 18C, 7100 Vejle",
+					"husnummerId": "ec4ac195-531d-44cf-b5a1-bb192307ac35"
+				},
+				{
+					"type": "adresse",
+					"id": "6f07e489-ef5e-4de7-abc8-30800ed1d75a",
+					"titel": "Spinderigade 18D, 7100 Vejle",
+					"husnummerId": "0089a889-5e73-464f-8adc-cfa96d432cad"
+				},
+				{
+					"type": "adresse",
+					"id": "8b463e4b-de6c-48ca-ba19-ac41dca3cbf1",
+					"titel": "Spinderigade 18E, 7100 Vejle",
+					"husnummerId": "c8e92fbf-bdf0-451f-9de6-7f2c614356de"
+				},
+				{
+					"type": "adresse",
+					"id": "4d1dc2e7-430b-4b9e-ac57-8bc0f4e5b2e6",
+					"titel": "Spinderigade 18F, 7100 Vejle",
+					"husnummerId": "a1a99810-2b51-4440-b45f-c8f8c90fa343"
+				},
+				{
+					"type": "adresse",
+					"id": "c9664908-b8e4-4caf-901b-d70fa8e4eb32",
+					"titel": "Spinderigade 18G, 7100 Vejle",
+					"husnummerId": "bf82fc15-1f63-4e33-9930-e69a9a11f3df"
+				},
+				{
+					"type": "adresse",
+					"id": "77bf1968-2134-409e-bdc3-183d872fe117",
+					"titel": "Spinderigade 18H, 7100 Vejle",
+					"husnummerId": "9ed18daf-d1ae-44cf-beb7-b56b8a2a6fab"
+				},
+				{
+					"type": "adresse",
+					"id": "c7105cf1-1964-4ad4-b2b1-2d881c17b2eb",
+					"titel": "Spinderigade 20, 7100 Vejle",
+					"husnummerId": "2d9b8459-7fad-4cb0-a5d4-1d355c47b229"
+				},
+				{
+					"type": "husnummer",
+					"id": "7f3f5a4c-f3c9-4b28-bed4-d126a8dea400",
+					"titel": "Spinderigade 22A, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "22A"
+				},
+				{
+					"type": "husnummer",
+					"id": "4a7c316b-a7bb-4ed0-9827-a5392cc786c2",
+					"titel": "Spinderigade 22B, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "22B"
+				},
+				{
+					"type": "husnummer",
+					"id": "d0ce7bd7-9012-4eaa-9cde-49fd1d914421",
+					"titel": "Spinderigade 22C, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "22C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0e1d3741-e88f-4325-9470-c4701244282a",
+					"titel": "Spinderigade 24, 7100 Vejle",
+					"vejnavn": "Spinderigade",
+					"husnummer": "24"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spindelvej 6430": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "aef853c0-fe70-4d12-9b6e-189f8308f5ec",
+					"titel": "Spindelvej 1, Guderup, 6430 Nordborg",
+					"husnummerId": "9cfb330a-bb56-4cbe-918a-e5c3878d4cd7"
+				},
+				{
+					"type": "adresse",
+					"id": "573c67a1-d70d-4064-a641-d8b168b6b52a",
+					"titel": "Spindelvej 2, Guderup, 6430 Nordborg",
+					"husnummerId": "eb896178-aa26-42ab-bb3f-41b4fe9ad16a"
+				},
+				{
+					"type": "adresse",
+					"id": "eecc7a71-48c1-47b1-976b-4ec289ec7fcb",
+					"titel": "Spindelvej 4, Guderup, 6430 Nordborg",
+					"husnummerId": "eb2cd573-285d-4407-a335-7494b345fb0f"
+				},
+				{
+					"type": "adresse",
+					"id": "6815e63d-57fb-40ff-9fec-64ce58e3b247",
+					"titel": "Spindelvej 4A, Guderup, 6430 Nordborg",
+					"husnummerId": "e024fdb5-17e5-4dd9-899a-cc8bd46f93fe"
+				},
+				{
+					"type": "adresse",
+					"id": "58094944-225d-4e5b-af8a-857b01818f31",
+					"titel": "Spindelvej 5, Guderup, 6430 Nordborg",
+					"husnummerId": "d38ccc26-d867-4e1a-8007-fa0e7c4bde29"
+				},
+				{
+					"type": "husnummer",
+					"id": "fbac2b5e-b09b-4177-b7e8-28bc302824d4",
+					"titel": "Spindelvej 6, Guderup, 6430 Nordborg",
+					"vejnavn": "Spindelvej",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "b8057647-7e31-4de1-a9b5-6e79e6f96391",
+					"titel": "Spindelvej 7, Guderup, 6430 Nordborg",
+					"husnummerId": "c02caa7b-f85e-48ae-a4ad-7e4a445b6bfc"
+				},
+				{
+					"type": "husnummer",
+					"id": "6a613c5e-8085-4a89-8c0a-622fa14b3f56",
+					"titel": "Spindelvej 8, Guderup, 6430 Nordborg",
+					"vejnavn": "Spindelvej",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "961eaf0d-e07e-4f0a-a8f4-8410888517d7",
+					"titel": "Spindelvej 8A, Guderup, 6430 Nordborg",
+					"husnummerId": "b1939278-d76c-4030-a28d-319f8a4f6f0f"
+				},
+				{
+					"type": "adresse",
+					"id": "d1f27296-54ff-42e7-818d-b144ba3d56fc",
+					"titel": "Spindelvej 9, Guderup, 6430 Nordborg",
+					"husnummerId": "986fa8d5-e3f4-463e-a2e8-839c3e624111"
+				},
+				{
+					"type": "husnummer",
+					"id": "ba5a9150-df2c-48f6-84bd-47092e1b573e",
+					"titel": "Spindelvej 11, Guderup, 6430 Nordborg",
+					"vejnavn": "Spindelvej",
+					"husnummer": "11"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spindborg 6261": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-62fc-32b8-e044-0003ba298018",
+					"titel": "Spindborg 1, Randerup, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4340-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-62fd-32b8-e044-0003ba298018",
+					"titel": "Spindborg 3, Randerup, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4341-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-62fe-32b8-e044-0003ba298018",
+					"titel": "Spindborg 5, Randerup, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4342-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spindervej 8900": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-d476-32b8-e044-0003ba298018",
+					"titel": "Spindervej 4, 8900 Randers C",
+					"vejnavn": "Spindervej",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "2edda757-9d64-1605-e044-0003ba298018",
+					"titel": "Spindervej 6, 8900 Randers C",
+					"vejnavn": "Spindervej",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "48154b07-c09c-1d3e-e044-0003ba298018",
+					"titel": "Spindervej 8, 8900 Randers C",
+					"vejnavn": "Spindervej",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-1df8-32b8-e044-0003ba298018",
+					"titel": "Spindervej 11, 8900 Randers C",
+					"husnummerId": "0a3f5094-c6d0-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spinkebjerg 7400": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "de3a7ffe-725d-4af8-90b9-ab23c0618a24",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinkebjerg 7400 Herning",
+					"vejnavn": "Spinkebjerg",
+					"postnr": "7400",
+					"postdistrikt": "Herning",
+					"antal_husnumre": 83
+				},
+				{
+					"id": "6e2a83c4-d778-43f2-8993-72d3e98eb9d1",
+					"type": "navngivenvejpostnummer",
+					"titel": "Spinkebjergparken 7400 Herning",
+					"vejnavn": "Spinkebjergparken",
+					"postnr": "7400",
+					"postdistrikt": "Herning",
+					"antal_husnumre": 16
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spindevænget 4750": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-c9f1-32b8-e044-0003ba298018",
+					"titel": "Spindevænget 1, 4750 Lundby",
+					"husnummerId": "0a3f5087-4715-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-c9f2-32b8-e044-0003ba298018",
+					"titel": "Spindevænget 2, 4750 Lundby",
+					"husnummerId": "0a3f5087-4716-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-c9f3-32b8-e044-0003ba298018",
+					"titel": "Spindevænget 3, 4750 Lundby",
+					"husnummerId": "0a3f5087-4717-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-c9f4-32b8-e044-0003ba298018",
+					"titel": "Spindevænget 4, 4750 Lundby",
+					"husnummerId": "0a3f5087-4718-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spindestræde 2635": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1610-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 1, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d673-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1611-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 2, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d674-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1612-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 3, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d675-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1613-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 4, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d676-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1614-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 5, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d677-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1615-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 6, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d678-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1616-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 7, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d679-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1617-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 8, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d67a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1618-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 9, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d67b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1619-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 10, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d67c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-d67d-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 11, 2635 Ishøj",
+					"vejnavn": "Spindestræde",
+					"husnummer": "11"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-161e-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 12, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d67e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-161f-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 13, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d67f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1620-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 14, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d680-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1621-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 15, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d681-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1622-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 16, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d682-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1623-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 17, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d683-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1624-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 18, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d684-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1625-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 19, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d685-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1626-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 20, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d686-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1627-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 21, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d687-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1628-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 22, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d688-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507d-d689-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 23, 2635 Ishøj",
+					"vejnavn": "Spindestræde",
+					"husnummer": "23"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-162d-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 24, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d68a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-162e-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 25, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d68b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-162f-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 26, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d68c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1630-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 27, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d68d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1631-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 28, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d68e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1632-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 29, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d68f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1633-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 30, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d690-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1634-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 31, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d691-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1635-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 32, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d692-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1636-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 33, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d693-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1637-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 34, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d694-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1638-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 35, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d695-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1639-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 36, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d696-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-163a-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 37, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d697-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-163b-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 38, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d698-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-163c-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 39, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d699-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4e0cb740-fc43-491f-9003-bb818b93e82f",
+					"titel": "Spindestræde 40, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d69a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f63f5503-60ca-424b-b602-2ddba3f0bc8a",
+					"titel": "Spindestræde 40A, 2635 Ishøj",
+					"husnummerId": "bb82d7e9-aefa-42d6-a23a-be44e8c3d8d6"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-163d-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 41, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d69b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-163e-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 42, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d69c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-163f-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 43, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d69d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1640-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 44, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d69e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1641-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 45, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d69f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1642-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 46, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1643-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 47, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1644-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 48, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1645-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 49, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1646-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 50, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1647-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 51, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1648-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 52, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1649-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 53, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-164a-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 54, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-164b-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 55, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-164c-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 56, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-164d-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 57, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-164f-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 58, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1650-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 59, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1652-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 60, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1653-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 61, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1654-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 62, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1655-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 63, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1656-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 64, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1657-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 65, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1658-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 66, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1659-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 67, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-165a-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 68, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-165b-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 69, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-165c-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 70, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-165d-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 71, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-165e-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 72, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-165f-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 73, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1660-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 74, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1661-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 75, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1662-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 76, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1663-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 77, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1664-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 78, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1665-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 79, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1666-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 80, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1667-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 81, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "329ab50b-e4e0-41f2-b6d5-8abe9f7f7db9",
+					"titel": "Spindestræde 82, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1668-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 83, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "05db5512-48fb-4e8e-850a-d60cad3a7e79",
+					"titel": "Spindestræde 84, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1669-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 85, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d34b46c5-0c2d-4aef-91fc-47dcdb214998",
+					"titel": "Spindestræde 86, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-166a-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 87, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6cb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-166b-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 88, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-166c-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 89, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-166d-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 90, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-166e-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 91, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-166f-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 92, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1670-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 93, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1671-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 94, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6d2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1672-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 96, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6d3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1673-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 98, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6d4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1674-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 100, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6d5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a7-1675-32b8-e044-0003ba298018",
+					"titel": "Spindestræde 102, 2635 Ishøj",
+					"husnummerId": "0a3f507d-d6d6-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spinkebjergparken 7400": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "2284ac3e-e49b-4c77-acf2-0465bdca2d83",
+					"titel": "Spinkebjergparken 1, Gjellerup, 7400 Herning",
+					"husnummerId": "abc78ce0-c1f5-48c0-bd8d-4a4111e22e52"
+				},
+				{
+					"type": "adresse",
+					"id": "84b3e61b-4f64-412f-a860-1829c5389a5b",
+					"titel": "Spinkebjergparken 2, Gjellerup, 7400 Herning",
+					"husnummerId": "3fd4ce82-7f3a-4818-acbb-50972e5c9d0e"
+				},
+				{
+					"type": "adresse",
+					"id": "9c8a2bca-2435-4915-87ab-8331ccc17d5a",
+					"titel": "Spinkebjergparken 3, Gjellerup, 7400 Herning",
+					"husnummerId": "4bb95ca6-4d47-4b22-ac24-6499596e8459"
+				},
+				{
+					"type": "adresse",
+					"id": "ac7c1416-bcb9-44f8-93ab-78a5eb19bf6c",
+					"titel": "Spinkebjergparken 4, Gjellerup, 7400 Herning",
+					"husnummerId": "b7c99dbd-34d2-4574-95c0-55fdf7231647"
+				},
+				{
+					"type": "adresse",
+					"id": "6c694b67-b484-4632-8069-ad84782adcf2",
+					"titel": "Spinkebjergparken 5, Gjellerup, 7400 Herning",
+					"husnummerId": "693dffc7-7bc0-4628-aa8a-cb99d9932be3"
+				},
+				{
+					"type": "adresse",
+					"id": "cf1599fa-0d5f-445a-ac68-e6db4bde8ba9",
+					"titel": "Spinkebjergparken 6, Gjellerup, 7400 Herning",
+					"husnummerId": "3cca94fb-9de1-4317-9c29-268c97297aca"
+				},
+				{
+					"type": "adresse",
+					"id": "9845004a-93af-406a-be37-9693459ee4b9",
+					"titel": "Spinkebjergparken 6A, Gjellerup, 7400 Herning",
+					"husnummerId": "3e85b246-8a1d-4dff-9a49-84a8712363e2"
+				},
+				{
+					"type": "adresse",
+					"id": "60287282-7b20-4755-9450-9d3af7910777",
+					"titel": "Spinkebjergparken 7, Gjellerup, 7400 Herning",
+					"husnummerId": "7578bc5f-8247-4c33-98dd-d4808f4d3514"
+				},
+				{
+					"type": "adresse",
+					"id": "ed2b9f2a-7eb4-42ee-955b-29d079f53d83",
+					"titel": "Spinkebjergparken 8, Gjellerup, 7400 Herning",
+					"husnummerId": "6624b9ce-b11c-4015-8008-3826c71e6016"
+				},
+				{
+					"type": "adresse",
+					"id": "1e4e559f-4a84-4026-8827-ec5bb9af0398",
+					"titel": "Spinkebjergparken 9, Gjellerup, 7400 Herning",
+					"husnummerId": "dc31e23d-2706-4700-9d4e-d9f54a54478f"
+				},
+				{
+					"type": "adresse",
+					"id": "4bec6a51-49a5-4435-b4cd-755186cd4e14",
+					"titel": "Spinkebjergparken 10, Gjellerup, 7400 Herning",
+					"husnummerId": "2a05f3cc-daa7-4979-886c-4efd2bd205dd"
+				},
+				{
+					"type": "adresse",
+					"id": "7a0d6f62-7b48-4272-82bc-7bf758acf490",
+					"titel": "Spinkebjergparken 11, Gjellerup, 7400 Herning",
+					"husnummerId": "6dcee459-d81b-49c5-8111-52eab434fc67"
+				},
+				{
+					"type": "adresse",
+					"id": "be576de8-804d-4882-baee-7165ee7baf60",
+					"titel": "Spinkebjergparken 12, Gjellerup, 7400 Herning",
+					"husnummerId": "44260f16-cec0-4b73-89ac-8d9ed28943af"
+				},
+				{
+					"type": "adresse",
+					"id": "4c55c475-f19a-46aa-91a9-542d64878428",
+					"titel": "Spinkebjergparken 13, Gjellerup, 7400 Herning",
+					"husnummerId": "3d0b7095-4ba5-4c87-89e2-e98ca266a3f7"
+				},
+				{
+					"type": "adresse",
+					"id": "9c684a85-b757-49b8-8497-763437e8ae89",
+					"titel": "Spinkebjergparken 15, Gjellerup, 7400 Herning",
+					"husnummerId": "6a344591-7cc4-42ed-9b88-ba3f9c9878b5"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spinderiparken 4200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "931e8635-202f-431c-a676-356fda644eb1",
+					"titel": "Spinderiparken 1, 4200 Slagelse",
+					"husnummerId": "7c3f0449-6f30-46dd-bef9-d075a551385f"
+				},
+				{
+					"type": "adresse",
+					"id": "604fa3ab-ee4b-4d41-a87f-0e3c690bd9c6",
+					"titel": "Spinderiparken 3, 4200 Slagelse",
+					"husnummerId": "61f285e1-efee-4f9d-a3a6-953eac03f053"
+				},
+				{
+					"type": "adresse",
+					"id": "a2e5f251-5a39-496b-bdf3-87800de2eac1",
+					"titel": "Spinderiparken 5, 4200 Slagelse",
+					"husnummerId": "69728880-9953-4bf7-94df-ac1caaa0d7ee"
+				},
+				{
+					"type": "adresse",
+					"id": "bce1701e-7636-4760-a48d-98705c0c739a",
+					"titel": "Spinderiparken 7, 4200 Slagelse",
+					"husnummerId": "ebef458d-3a49-4595-a5ef-a388bad547c2"
+				},
+				{
+					"type": "adresse",
+					"id": "6a5ef4ca-493e-4a3d-8947-8521e8512236",
+					"titel": "Spinderiparken 9, 4200 Slagelse",
+					"husnummerId": "cd92fa5c-8a4e-4873-8685-20340e88decb"
+				},
+				{
+					"type": "adresse",
+					"id": "d5709db4-8729-446a-8277-9da7dad5ee4f",
+					"titel": "Spinderiparken 11, 4200 Slagelse",
+					"husnummerId": "a08b9f62-69b7-451f-94c5-fd6ab86f3652"
+				},
+				{
+					"type": "adresse",
+					"id": "d70d1cdc-f202-40a8-9716-4bed0c656a40",
+					"titel": "Spinderiparken 13, 4200 Slagelse",
+					"husnummerId": "1b8587d7-149d-4d60-8d36-4ca42e329a7a"
+				},
+				{
+					"type": "adresse",
+					"id": "23284c34-9f37-4e40-88df-3738986cb706",
+					"titel": "Spinderiparken 15, 4200 Slagelse",
+					"husnummerId": "0fa2706e-1c79-42d0-a6ce-4ce6c02806de"
+				},
+				{
+					"type": "adresse",
+					"id": "8d1f59eb-8ff6-402b-9263-335416dedc4d",
+					"titel": "Spinderiparken 17, 4200 Slagelse",
+					"husnummerId": "e87f4dd8-47f7-4412-8c71-9b8e2474e01f"
+				},
+				{
+					"type": "adresse",
+					"id": "7733ebf6-8047-43dc-bc84-bb18052454fa",
+					"titel": "Spinderiparken 19, 4200 Slagelse",
+					"husnummerId": "12575460-3dfa-4410-b9f9-87dbcb86522b"
+				},
+				{
+					"type": "adresse",
+					"id": "7d5745a9-69ed-489e-8586-d6bea895fae5",
+					"titel": "Spinderiparken 21, 4200 Slagelse",
+					"husnummerId": "fac29075-c318-4fe4-84bb-55f156d85086"
+				},
+				{
+					"type": "adresse",
+					"id": "6b12ad5c-06be-4667-ac68-2fed044b7dc6",
+					"titel": "Spinderiparken 23, 4200 Slagelse",
+					"husnummerId": "73680e6e-1b4a-4520-b61c-c1b1df3ff053"
+				},
+				{
+					"type": "adresse",
+					"id": "04d636c5-b538-4be3-b300-8a56de751048",
+					"titel": "Spinderiparken 25, 4200 Slagelse",
+					"husnummerId": "8fde2fe8-5751-40a8-befd-77d24130120a"
+				},
+				{
+					"type": "adresse",
+					"id": "e3f4f621-059d-4f99-b163-b424815bb8eb",
+					"titel": "Spinderiparken 27, 4200 Slagelse",
+					"husnummerId": "1fc6f4ac-77ba-4646-8c35-e7496c883a8f"
+				},
+				{
+					"type": "adresse",
+					"id": "f2d1a3d9-c537-490f-abbe-355c0dfb91f0",
+					"titel": "Spinderiparken 29, 4200 Slagelse",
+					"husnummerId": "7b182e51-c690-4e5d-9209-85485182b64b"
+				},
+				{
+					"type": "adresse",
+					"id": "a213640c-7e6e-4c69-9d6c-c23f93ad1b02",
+					"titel": "Spinderiparken 31, 4200 Slagelse",
+					"husnummerId": "f59e0523-bf07-4d34-8e6f-827cf8be3ca0"
+				},
+				{
+					"type": "adresse",
+					"id": "a89c6ef7-2887-4da4-a9cf-01509f979ded",
+					"titel": "Spinderiparken 33, 4200 Slagelse",
+					"husnummerId": "a0113945-e3ff-41be-9722-e5ba3490132a"
+				},
+				{
+					"type": "adresse",
+					"id": "20aa3008-e543-4e97-a4b7-e0c418bfdb6a",
+					"titel": "Spinderiparken 35, 4200 Slagelse",
+					"husnummerId": "e83f35c5-fc22-42e3-ba0e-d060c0d723f3"
+				},
+				{
+					"type": "adresse",
+					"id": "13cb1c3d-9d43-488a-827b-c43886db9fcd",
+					"titel": "Spinderiparken 37, 4200 Slagelse",
+					"husnummerId": "7ab788f7-af18-4ed2-b463-bbf30efb288b"
+				},
+				{
+					"type": "adresse",
+					"id": "15815b00-e3ef-4e09-8033-a6807cecbb7c",
+					"titel": "Spinderiparken 39, 4200 Slagelse",
+					"husnummerId": "188392ee-b103-4ede-8a60-4db2607345dc"
+				},
+				{
+					"type": "adresse",
+					"id": "1016e812-9eaf-450e-8a25-c71be945a0d6",
+					"titel": "Spinderiparken 41, 4200 Slagelse",
+					"husnummerId": "4fb71152-c63e-45ee-bf9c-47508aed8dd8"
+				},
+				{
+					"type": "adresse",
+					"id": "0af44373-2871-40c4-a58d-c62f0d52bd9f",
+					"titel": "Spinderiparken 43, 4200 Slagelse",
+					"husnummerId": "a99b3cdf-4d07-4a13-9ebc-7adf61bbcb6b"
+				},
+				{
+					"type": "adresse",
+					"id": "c7874213-d7d7-4213-b63a-c486eb42cde4",
+					"titel": "Spinderiparken 45, 4200 Slagelse",
+					"husnummerId": "c3997bc9-dcc8-445f-bc56-347b05c5becf"
+				},
+				{
+					"type": "adresse",
+					"id": "0dcbfc2f-5134-42ec-85d4-3734a355cf29",
+					"titel": "Spinderiparken 47, 4200 Slagelse",
+					"husnummerId": "26689a23-ae5e-41f7-a674-8398f9db67d1"
+				},
+				{
+					"type": "adresse",
+					"id": "7a9ea5bc-030a-4ca5-9303-0c9c11ca0b86",
+					"titel": "Spinderiparken 49, 4200 Slagelse",
+					"husnummerId": "750dcb1f-89f4-4c29-bbff-2a7b0fb23017"
+				},
+				{
+					"type": "adresse",
+					"id": "5d097146-5f5e-4d6c-bacb-24369e840bed",
+					"titel": "Spinderiparken 51, 4200 Slagelse",
+					"husnummerId": "24bf97b9-513a-45e8-ab87-560dfeb72d26"
+				},
+				{
+					"type": "adresse",
+					"id": "7a483ad8-d76a-4b52-9401-2a47366e5323",
+					"titel": "Spinderiparken 53, 4200 Slagelse",
+					"husnummerId": "e74f0cd1-d1d4-4d37-8f40-293b4878e75a"
+				},
+				{
+					"type": "adresse",
+					"id": "282ec16e-6b72-43f1-a1f6-b2adc8b26753",
+					"titel": "Spinderiparken 55, 4200 Slagelse",
+					"husnummerId": "7cf743ba-0392-49ee-b336-db4aafa24a47"
+				},
+				{
+					"type": "adresse",
+					"id": "e9d92542-f208-48c9-9bc8-32183ac9599d",
+					"titel": "Spinderiparken 57, 4200 Slagelse",
+					"husnummerId": "dc454884-3034-433c-8e85-0df77914b2c5"
+				},
+				{
+					"type": "adresse",
+					"id": "7da26fe1-3870-4d18-92b2-c6d8e4f7539a",
+					"titel": "Spinderiparken 59, 4200 Slagelse",
+					"husnummerId": "a1b2b36a-2b85-4b17-8676-2a990cc69d23"
+				},
+				{
+					"type": "adresse",
+					"id": "7e14e8a9-25d3-4a07-b20c-1b8d49c8e040",
+					"titel": "Spinderiparken 61, 4200 Slagelse",
+					"husnummerId": "2878d2f4-3fa7-4120-b854-2fd8598b6eee"
+				},
+				{
+					"type": "adresse",
+					"id": "badd8ce7-17d2-41a0-88a3-6826f4a570e5",
+					"titel": "Spinderiparken 63, 4200 Slagelse",
+					"husnummerId": "33df7994-2922-4652-a7e2-20199d163ec7"
+				},
+				{
+					"type": "adresse",
+					"id": "43c46394-4c47-4a8f-947b-dc9767b0f600",
+					"titel": "Spinderiparken 65, 4200 Slagelse",
+					"husnummerId": "663d03e8-4c1d-4c44-8422-80714c4d4cb7"
+				},
+				{
+					"type": "adresse",
+					"id": "34d930d1-72b5-4e9d-9f2d-21c1aa1e30e9",
+					"titel": "Spinderiparken 67, 4200 Slagelse",
+					"husnummerId": "b3328060-75ad-4cb5-a723-9d81bd6f3309"
+				},
+				{
+					"type": "adresse",
+					"id": "f5e9ea51-6e6e-4ad7-a493-f08799bc318b",
+					"titel": "Spinderiparken 69, 4200 Slagelse",
+					"husnummerId": "e0c3c69c-7f12-4336-8f32-4de8fbb9cced"
+				},
+				{
+					"type": "adresse",
+					"id": "ceccaca6-6bf0-4f24-8f94-a76712513999",
+					"titel": "Spinderiparken 71, 4200 Slagelse",
+					"husnummerId": "51b31a7c-9a4a-40ca-98ab-f65a64108b98"
+				},
+				{
+					"type": "adresse",
+					"id": "b3ad454e-9ba6-49c9-ad8a-2f654c018fc0",
+					"titel": "Spinderiparken 73, 4200 Slagelse",
+					"husnummerId": "467a12aa-65f0-41d9-9e4c-890b03ee11d2"
+				},
+				{
+					"type": "adresse",
+					"id": "c7c80137-4aac-41e0-92ff-004600089ea2",
+					"titel": "Spinderiparken 75, 4200 Slagelse",
+					"husnummerId": "7694d969-2f25-4952-af86-a7ab0b5ec54f"
+				},
+				{
+					"type": "adresse",
+					"id": "c10f79a0-9396-47fc-8991-b3f764dcf947",
+					"titel": "Spinderiparken 77, 4200 Slagelse",
+					"husnummerId": "a640557a-0b18-43da-ab5b-5e656573366d"
+				},
+				{
+					"type": "adresse",
+					"id": "04f54cab-5470-4fbb-b5d1-c4a4078edecc",
+					"titel": "Spinderiparken 79, 4200 Slagelse",
+					"husnummerId": "945a3cd0-ccd0-45fb-a18a-1c458ee05f24"
+				},
+				{
+					"type": "adresse",
+					"id": "219c04c6-7d0f-4489-b6b1-7fb0b07d7cc2",
+					"titel": "Spinderiparken 81, 4200 Slagelse",
+					"husnummerId": "7ada1c84-4a03-44c8-89e4-d6004614a316"
+				},
+				{
+					"type": "adresse",
+					"id": "10c5c8c6-0dea-4fd4-ad3e-2281f8933b40",
+					"titel": "Spinderiparken 83, 4200 Slagelse",
+					"husnummerId": "deb97772-17a8-47ba-9f3d-ddc8618a8922"
+				},
+				{
+					"type": "adresse",
+					"id": "304ad4b5-4a7b-4f80-ac47-605314b047fe",
+					"titel": "Spinderiparken 85, 4200 Slagelse",
+					"husnummerId": "4a227a70-8816-4bcf-8389-cdfbe3ab5a51"
+				},
+				{
+					"type": "adresse",
+					"id": "db2511ee-9958-4036-8450-d38fe61d3971",
+					"titel": "Spinderiparken 87, 4200 Slagelse",
+					"husnummerId": "e18f32db-6407-431a-aeed-11d7d5ad28a2"
+				},
+				{
+					"type": "adresse",
+					"id": "330b4c30-0524-41af-86d8-b3546dc653c0",
+					"titel": "Spinderiparken 89, 4200 Slagelse",
+					"husnummerId": "83cbed9e-d4b3-4e3f-b5d2-794cc65de17c"
+				},
+				{
+					"type": "adresse",
+					"id": "c1dabdc7-99d1-4ba8-9442-b3da1128b82c",
+					"titel": "Spinderiparken 91, 4200 Slagelse",
+					"husnummerId": "21a726a5-4d3e-4ca5-b335-7676dccb886b"
+				},
+				{
+					"type": "adresse",
+					"id": "e0890513-9fa4-4a09-8500-d5ecda8bd291",
+					"titel": "Spinderiparken 93, 4200 Slagelse",
+					"husnummerId": "e69fd938-7389-4a14-8be7-f62c1ce3b342"
+				},
+				{
+					"type": "adresse",
+					"id": "5998a2c4-270d-400a-8e8b-c0cff127d4e7",
+					"titel": "Spinderiparken 95, 4200 Slagelse",
+					"husnummerId": "742030b4-2e4b-4923-aa7d-ac8485a66879"
+				},
+				{
+					"type": "adresse",
+					"id": "7de8f352-4441-4876-bf48-8db95faad8a6",
+					"titel": "Spinderiparken 97, 4200 Slagelse",
+					"husnummerId": "3cc97053-1f5a-415a-b3b6-8d778ae9be3f"
+				},
+				{
+					"type": "adresse",
+					"id": "b1697154-69cc-4f9a-8e0b-1b003678fa6d",
+					"titel": "Spinderiparken 99, 4200 Slagelse",
+					"husnummerId": "cfd17fda-c508-4f41-b427-dde9681c11a3"
+				},
+				{
+					"type": "adresse",
+					"id": "26412f0d-014e-4283-ad9f-2963931b9043",
+					"titel": "Spinderiparken 101, 4200 Slagelse",
+					"husnummerId": "6e210909-d812-4027-a2f6-a925597182d6"
+				},
+				{
+					"type": "adresse",
+					"id": "5e2de954-6020-4c0b-ba95-475303b0a7a5",
+					"titel": "Spinderiparken 103, 4200 Slagelse",
+					"husnummerId": "84d972d9-7ed9-4026-bae9-acf83f375c2b"
+				},
+				{
+					"type": "adresse",
+					"id": "a5997f39-71c0-4d21-aa9e-00e708e40b5a",
+					"titel": "Spinderiparken 105, 4200 Slagelse",
+					"husnummerId": "ed0cf9f1-f51e-4fbd-ad96-00b9ffa06f7b"
+				},
+				{
+					"type": "adresse",
+					"id": "8be6b618-0c3a-46cc-8f6d-69dd69d5d9b4",
+					"titel": "Spinderiparken 107, 4200 Slagelse",
+					"husnummerId": "92e05024-8188-436c-a67b-96b8e5dada1f"
+				},
+				{
+					"type": "adresse",
+					"id": "5d9b9db1-5d20-4cbd-9ba7-263ad1179eb0",
+					"titel": "Spinderiparken 109, 4200 Slagelse",
+					"husnummerId": "83877e33-3623-4b7b-956f-9cdbe59d0bb5"
+				},
+				{
+					"type": "adresse",
+					"id": "5654144b-8207-4f9c-9ed0-23ccc3b2b388",
+					"titel": "Spinderiparken 111, 4200 Slagelse",
+					"husnummerId": "5edc41a6-6df1-44d4-a271-71e809f9af25"
+				},
+				{
+					"type": "adresse",
+					"id": "da21a76e-9d82-420f-bd9f-807ce751c092",
+					"titel": "Spinderiparken 113, 4200 Slagelse",
+					"husnummerId": "3682b03a-47a2-4404-a8dd-876a5f8cfa71"
+				},
+				{
+					"type": "adresse",
+					"id": "83cc334e-f709-4780-a552-dac223859d52",
+					"titel": "Spinderiparken 115, 4200 Slagelse",
+					"husnummerId": "a165ee48-e453-4737-9bb8-795bbdc97507"
+				},
+				{
+					"type": "adresse",
+					"id": "136bf046-0e1b-4eb0-b3cf-ba9271f261b8",
+					"titel": "Spinderiparken 117, 4200 Slagelse",
+					"husnummerId": "85ab217b-bd34-4674-ac1e-8d7b0832bdfb"
+				},
+				{
+					"type": "adresse",
+					"id": "ab208b51-54b9-40d4-9eda-bc0a1dad00ac",
+					"titel": "Spinderiparken 119, 4200 Slagelse",
+					"husnummerId": "f83b1d42-be0b-41cb-89a4-c3e70872fa90"
+				},
+				{
+					"type": "adresse",
+					"id": "f109e2d9-4248-4903-b2e9-20d4826d521b",
+					"titel": "Spinderiparken 121, 4200 Slagelse",
+					"husnummerId": "a68bbe13-e4ec-47c7-9556-307b7b637682"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=spindelvej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "aef853c0-fe70-4d12-9b6e-189f8308f5ec",
+					"titel": "Spindelvej 1, Guderup, 6430 Nordborg",
+					"husnummerId": "9cfb330a-bb56-4cbe-918a-e5c3878d4cd7"
+				},
+				{
+					"type": "adresse",
+					"id": "573c67a1-d70d-4064-a641-d8b168b6b52a",
+					"titel": "Spindelvej 2, Guderup, 6430 Nordborg",
+					"husnummerId": "eb896178-aa26-42ab-bb3f-41b4fe9ad16a"
+				},
+				{
+					"type": "adresse",
+					"id": "eecc7a71-48c1-47b1-976b-4ec289ec7fcb",
+					"titel": "Spindelvej 4, Guderup, 6430 Nordborg",
+					"husnummerId": "eb2cd573-285d-4407-a335-7494b345fb0f"
+				},
+				{
+					"type": "adresse",
+					"id": "6815e63d-57fb-40ff-9fec-64ce58e3b247",
+					"titel": "Spindelvej 4A, Guderup, 6430 Nordborg",
+					"husnummerId": "e024fdb5-17e5-4dd9-899a-cc8bd46f93fe"
+				},
+				{
+					"type": "adresse",
+					"id": "58094944-225d-4e5b-af8a-857b01818f31",
+					"titel": "Spindelvej 5, Guderup, 6430 Nordborg",
+					"husnummerId": "d38ccc26-d867-4e1a-8007-fa0e7c4bde29"
+				},
+				{
+					"type": "husnummer",
+					"id": "fbac2b5e-b09b-4177-b7e8-28bc302824d4",
+					"titel": "Spindelvej 6, Guderup, 6430 Nordborg",
+					"vejnavn": "Spindelvej",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "b8057647-7e31-4de1-a9b5-6e79e6f96391",
+					"titel": "Spindelvej 7, Guderup, 6430 Nordborg",
+					"husnummerId": "c02caa7b-f85e-48ae-a4ad-7e4a445b6bfc"
+				},
+				{
+					"type": "husnummer",
+					"id": "6a613c5e-8085-4a89-8c0a-622fa14b3f56",
+					"titel": "Spindelvej 8, Guderup, 6430 Nordborg",
+					"vejnavn": "Spindelvej",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "961eaf0d-e07e-4f0a-a8f4-8410888517d7",
+					"titel": "Spindelvej 8A, Guderup, 6430 Nordborg",
+					"husnummerId": "b1939278-d76c-4030-a28d-319f8a4f6f0f"
+				},
+				{
+					"type": "adresse",
+					"id": "d1f27296-54ff-42e7-818d-b144ba3d56fc",
+					"titel": "Spindelvej 9, Guderup, 6430 Nordborg",
+					"husnummerId": "986fa8d5-e3f4-463e-a2e8-839c3e624111"
+				},
+				{
+					"type": "husnummer",
+					"id": "ba5a9150-df2c-48f6-84bd-47092e1b573e",
+					"titel": "Spindelvej 11, Guderup, 6430 Nordborg",
+					"vejnavn": "Spindelvej",
+					"husnummer": "11"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=spindelvej 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "aef853c0-fe70-4d12-9b6e-189f8308f5ec",
+					"titel": "Spindelvej 1, Guderup, 6430 Nordborg",
+					"husnummerId": "9cfb330a-bb56-4cbe-918a-e5c3878d4cd7"
+				},
+				{
+					"type": "husnummer",
+					"id": "ba5a9150-df2c-48f6-84bd-47092e1b573e",
+					"titel": "Spindelvej 11, Guderup, 6430 Nordborg",
+					"vejnavn": "Spindelvej",
+					"husnummer": "11"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=spindelvej 11": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00009b67-504c-4fe0-b1d1-39126722df0f",
+					"titel": "Spindelvej 11, Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "eb7233bc-c2ba-45c4-90dc-2696f3de0c8b",
+					"titel": "Spindelvej 11, kl., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "509dd22e-584c-40e9-bc62-5dfd5a79dc97",
+					"titel": "Spindelvej 11, st., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "e3ddadff-1fd9-443e-b88c-d0510cbe46a0",
+					"titel": "Spindelvej 11, 1., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "1cbbb55b-bbd5-4695-9fe0-45f71975955f",
+					"titel": "Spindelvej 11, 2., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Spindelvej 11, Guderup, 6430 Nordborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00009b67-504c-4fe0-b1d1-39126722df0f",
+					"titel": "Spindelvej 11, Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "eb7233bc-c2ba-45c4-90dc-2696f3de0c8b",
+					"titel": "Spindelvej 11, kl., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "509dd22e-584c-40e9-bc62-5dfd5a79dc97",
+					"titel": "Spindelvej 11, st., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "e3ddadff-1fd9-443e-b88c-d0510cbe46a0",
+					"titel": "Spindelvej 11, 1., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				},
+				{
+					"type": "adresse",
+					"id": "1cbbb55b-bbd5-4695-9fe0-45f71975955f",
+					"titel": "Spindelvej 11, 2., Guderup, 6430 Nordborg",
+					"husnummerId": "ba5a9150-df2c-48f6-84bd-47092e1b573e"
+				}
+			]
+		}
+	}
+}

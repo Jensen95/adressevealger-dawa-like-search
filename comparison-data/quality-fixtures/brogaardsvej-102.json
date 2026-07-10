@@ -1,0 +1,85 @@
+{
+	"query": "brogårdsvej 102",
+	"recordedAt": "2026-07-09T19:51:56.641Z",
+	"dawa": {
+		"texts": [
+			"Brogårdsvej 102, 2820 Gentofte",
+			"Brogårdsvej 102, 1. th, 2820 Gentofte",
+			"Brogårdsvej 102, 1. tv, 2820 Gentofte",
+			"Brogårdsvej 102, 2. th, 2820 Gentofte",
+			"Brogårdsvej 102, 2. tv, 2820 Gentofte",
+			"Brogårdsvej 102, 3. tv, 2820 Gentofte",
+			"Brogårdsvej 102, st. th, 2820 Gentofte",
+			"Brogårdsvej 102, st. tv, 2820 Gentofte",
+			"Brogårdsvej 60, 1. 102, 2820 Gentofte"
+		],
+		"ids": [
+			"3fc546c4-84bc-4216-9470-7171bad156d4",
+			"0a3f50a3-a43c-32b8-e044-0003ba298018",
+			"0a3f50a3-a43d-32b8-e044-0003ba298018",
+			"0a3f50a3-a43e-32b8-e044-0003ba298018",
+			"0a3f50a3-a43f-32b8-e044-0003ba298018",
+			"0a3f50a3-a440-32b8-e044-0003ba298018",
+			"0a3f50a3-a43a-32b8-e044-0003ba298018",
+			"0a3f50a3-a43b-32b8-e044-0003ba298018",
+			"0a3f50a3-a3f7-32b8-e044-0003ba298018"
+		],
+		"count": 9
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=brogårdsvej 102": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "3fc546c4-84bc-4216-9470-7171bad156d4",
+					"titel": "Brogårdsvej 102, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d273-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a43b-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, st. tv, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d273-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a43a-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, st. th, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d273-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a43d-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, 1. tv, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d273-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a43c-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, 1. th, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d273-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a43f-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, 2. tv, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d273-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a43e-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, 2. th, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d273-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a440-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, 3. tv, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d273-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

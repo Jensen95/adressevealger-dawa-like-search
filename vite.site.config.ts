@@ -6,7 +6,7 @@ import { defineConfig } from 'vite'
 // the benchmark dashboard and the docs page. Output goes to dist-site/, which
 // the Pages workflow uploads. `base` matches the GitHub Pages project path;
 // override with VITE_BASE=/ for local `vite preview` at the root.
-const base = process.env.VITE_BASE ?? '/adressevaelger-enhanced/'
+const base = process.env.VITE_BASE ?? '/adressevealger-dawa-like-search/'
 
 export default defineConfig({
   root: resolve(import.meta.dirname, 'demo'),

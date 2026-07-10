@@ -1,0 +1,1179 @@
+{
+	"tekst": "Filmtorvet 78, Jonstrup, 3500 Værløse",
+	"dawaId": "00fe399f-7e57-455f-a67d-d4a18fa56297",
+	"recordedAt": "2026-07-09T20:38:04.284Z",
+	"stages": [
+		{
+			"stage": "film",
+			"dawa": [
+				"Filmtorvet 1, 4300 Holbæk",
+				"Filmtorvet 5, 4300 Holbæk",
+				"Filmbyen 6, 2650 Hvidovre",
+				"Filmbyen 7, 2650 Hvidovre",
+				"Filmbyen 2A, 2650 Hvidovre",
+				"Filmbyen 2B, 2650 Hvidovre",
+				"Filmbyen 2C, 2650 Hvidovre",
+				"Filmbyen 2D, 2650 Hvidovre",
+				"Filmbyen 2E, 2650 Hvidovre",
+				"Filmbyen 2F, 2650 Hvidovre"
+			]
+		},
+		{
+			"stage": "filmtorvet",
+			"dawa": [
+				"Filmtorvet 1, 4300 Holbæk",
+				"Filmtorvet 5, 4300 Holbæk",
+				"Filmtorvet 3, Jonstrup, 3500 Værløse",
+				"Filmtorvet 4, Jonstrup, 3500 Værløse",
+				"Filmtorvet 5, Jonstrup, 3500 Værløse",
+				"Filmtorvet 6, Jonstrup, 3500 Værløse",
+				"Filmtorvet 7, Jonstrup, 3500 Værløse",
+				"Filmtorvet 8, Jonstrup, 3500 Værløse",
+				"Filmtorvet 9, Jonstrup, 3500 Værløse",
+				"Filmtorvet 10, Jonstrup, 3500 Værløse"
+			]
+		},
+		{
+			"stage": "filmtorvet 7",
+			"dawa": [
+				"Filmtorvet 7, Jonstrup, 3500 Værløse",
+				"Filmtorvet 70, Jonstrup, 3500 Værløse",
+				"Filmtorvet 72, Jonstrup, 3500 Værløse",
+				"Filmtorvet 74, Jonstrup, 3500 Værløse",
+				"Filmtorvet 76, Jonstrup, 3500 Værløse",
+				"Filmtorvet 78, Jonstrup, 3500 Værløse",
+				"Filmtorvet 70, 1., Jonstrup, 3500 Værløse",
+				"Filmtorvet 70, st., Jonstrup, 3500 Værløse"
+			]
+		},
+		{
+			"stage": "filmtorvet 78",
+			"dawa": [
+				"Filmtorvet 78, Jonstrup, 3500 Værløse"
+			]
+		},
+		{
+			"stage": "Filmtorvet 78, Jonstrup, 3500 Værløse",
+			"dawa": [
+				"Filmtorvet 78, Jonstrup, 3500 Værløse"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=film": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "baac48f2-c8aa-4d32-82a3-cf4fe18c37dd",
+					"type": "navngivenvejpostnummer",
+					"titel": "Filmbyen 2650 Hvidovre",
+					"vejnavn": "Filmbyen",
+					"postnr": "2650",
+					"postdistrikt": "Hvidovre",
+					"antal_husnumre": 78
+				},
+				{
+					"id": "b7a35c08-5d84-420e-99d7-c45ced37e014",
+					"type": "navngivenvejpostnummer",
+					"titel": "Filmbyen 8000 Aarhus C",
+					"vejnavn": "Filmbyen",
+					"postnr": "8000",
+					"postdistrikt": "Aarhus C",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "740c9c3a-0be7-4e40-933b-7f46cdb0de39",
+					"type": "navngivenvejpostnummer",
+					"titel": "Filmtorvet 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"postnr": "3500",
+					"postdistrikt": "Værløse",
+					"antal_husnumre": 63
+				},
+				{
+					"id": "02db5f35-419e-4fb4-bb45-4a06ad31f3f8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Filmtorvet 4300 Holbæk",
+					"vejnavn": "Filmtorvet",
+					"postnr": "4300",
+					"postdistrikt": "Holbæk",
+					"antal_husnumre": 2
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Filmbyen 2650": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "374230b7-13c0-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2A, 2650 Hvidovre",
+					"husnummerId": "19910d8f-fd5c-41c9-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13c1-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2B, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4d3-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13c2-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2C, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4d4-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13c3-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2D, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4d5-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13c4-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2E, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4d6-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13c5-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2F, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4d7-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13c6-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2G, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4d8-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13c7-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2H, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4d9-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13c8-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2J, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4da-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13c9-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 2K, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4db-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13ca-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 4A, 2650 Hvidovre",
+					"husnummerId": "19910d8f-fd5d-41c9-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13cb-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 4B, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4dc-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13cc-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 4C, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4dd-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13cd-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 4D, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4de-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13ce-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 4E, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4df-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13cf-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 4F, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4e0-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-13d0-51c5-e044-0003ba298018",
+					"titel": "Filmbyen 4G, 2650 Hvidovre",
+					"husnummerId": "37351fd3-d4e1-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c54b1535-c82c-4af0-8171-d3228fb59d5e",
+					"titel": "Filmbyen 6, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c159-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "eee346ea-2ee5-4ccc-a78c-2273dd0ea3e8",
+					"titel": "Filmbyen 7, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c15a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "8cb09bde-7c39-4b8c-a575-9271e4cefd3d",
+					"titel": "Filmbyen 8A, 2650 Hvidovre",
+					"vejnavn": "Filmbyen",
+					"husnummer": "8A"
+				},
+				{
+					"type": "adresse",
+					"id": "273c2b77-2ad5-4329-a336-a4f6fdd36eb8",
+					"titel": "Filmbyen 8B, 2650 Hvidovre",
+					"husnummerId": "81f5a70f-2c5e-452c-af49-c0a095731469"
+				},
+				{
+					"type": "adresse",
+					"id": "143fd290-5f2a-4ed2-98a7-7bf34303b8dc",
+					"titel": "Filmbyen 8C, 2650 Hvidovre",
+					"husnummerId": "6e19de9f-f457-4ddb-a567-ee35d555537d"
+				},
+				{
+					"type": "adresse",
+					"id": "60c54094-0316-4835-9389-ca1620f6a997",
+					"titel": "Filmbyen 8D, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c15b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-5649-32b8-e044-0003ba298018",
+					"titel": "Filmbyen 10, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c15c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-564a-32b8-e044-0003ba298018",
+					"titel": "Filmbyen 12, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c15d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c0d35daf-710e-4faa-81d0-e5f9b1e70963",
+					"titel": "Filmbyen 14A, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c15e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cfa86929-86b9-4b15-9f36-62f3747e9332",
+					"titel": "Filmbyen 14C, 2650 Hvidovre",
+					"husnummerId": "82ab9602-ec28-461c-9876-c9965699df37"
+				},
+				{
+					"type": "adresse",
+					"id": "e5e649a8-0026-47b6-9454-811aa4e4e6b8",
+					"titel": "Filmbyen 14D, 2650 Hvidovre",
+					"husnummerId": "2ad8280b-8830-42ca-817c-041ed339abae"
+				},
+				{
+					"type": "adresse",
+					"id": "f2010922-3620-4029-a8d2-91fb9facb660",
+					"titel": "Filmbyen 16, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c15f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4768c30c-96ee-4ac1-9d34-f6174ab6f002",
+					"titel": "Filmbyen 18, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c160-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a39f7c75-98db-4955-864a-c8863b018c19",
+					"titel": "Filmbyen 20, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c161-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4ea79c21-335a-4897-aa43-5830fa0eb0ac",
+					"titel": "Filmbyen 22, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c162-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "eb0eba31-16c8-4a32-b1da-8fa6fb6c645e",
+					"titel": "Filmbyen 24, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c164-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7c9e3dcb-13b1-4578-b08b-0c52cc94a89c",
+					"titel": "Filmbyen 26, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c165-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d93bc45d-7bfb-4ff4-8c46-986b3a872438",
+					"titel": "Filmbyen 26A, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c166-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a5-564b-32b8-e044-0003ba298018",
+					"titel": "Filmbyen 28, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c167-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "42b827e1-a5d6-44a3-be94-ae53798c2d5b",
+					"titel": "Filmbyen 30, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c168-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507c-c169-32b8-e044-0003ba298018",
+					"titel": "Filmbyen 32, 2650 Hvidovre",
+					"vejnavn": "Filmbyen",
+					"husnummer": "32"
+				},
+				{
+					"type": "adresse",
+					"id": "4a151e40-0774-4388-88f3-88ff0cbdb089",
+					"titel": "Filmbyen 34A, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c16a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "90164ece-8e10-48a0-b093-75902961c14d",
+					"titel": "Filmbyen 34B, 2650 Hvidovre",
+					"husnummerId": "0a3f507c-c16b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d812ed38-88d9-4237-9881-3b660b61f1f8",
+					"titel": "Filmbyen 34C, 2650 Hvidovre",
+					"husnummerId": "1008c47f-5150-4bda-8778-4bb7666a1483"
+				},
+				{
+					"type": "husnummer",
+					"id": "e9595e57-2291-4fd1-ac67-7487427b2ea4",
+					"titel": "Filmbyen 36, 2650 Hvidovre",
+					"vejnavn": "Filmbyen",
+					"husnummer": "36"
+				},
+				{
+					"type": "adresse",
+					"id": "21dab7ee-949e-4ac6-87cd-711dae6740b2",
+					"titel": "Filmbyen 38A, 2650 Hvidovre",
+					"husnummerId": "48f90e67-bcd9-4f60-897f-61a818c67afc"
+				},
+				{
+					"type": "adresse",
+					"id": "999ca831-f6b3-4dee-a606-be66c8763915",
+					"titel": "Filmbyen 38B, 2650 Hvidovre",
+					"husnummerId": "c6319264-571b-43cd-8e46-b8ed8fbcb36d"
+				},
+				{
+					"type": "adresse",
+					"id": "f87886be-0a1d-4481-a251-9419ea1c27d7",
+					"titel": "Filmbyen 38C, 2650 Hvidovre",
+					"husnummerId": "8d842232-5c6d-4861-ab77-75e4c4bd43e3"
+				},
+				{
+					"type": "adresse",
+					"id": "ba1c8b11-aabd-4e8c-b193-23d1fd555a95",
+					"titel": "Filmbyen 40A, 2650 Hvidovre",
+					"husnummerId": "0f75883f-4ad9-470b-a802-b043991fb6c0"
+				},
+				{
+					"type": "adresse",
+					"id": "c344a51f-9d3c-4024-b7bc-3ff35ede8e37",
+					"titel": "Filmbyen 40B, 2650 Hvidovre",
+					"husnummerId": "756a6a06-4e52-4a27-8e94-c3097fd3dade"
+				},
+				{
+					"type": "adresse",
+					"id": "72f8e8d2-5e30-4342-84fc-3753d5e18290",
+					"titel": "Filmbyen 40C, 2650 Hvidovre",
+					"husnummerId": "fdf2eeb4-4fa3-4bdf-95b8-933f54ee3295"
+				},
+				{
+					"type": "adresse",
+					"id": "810c54a7-ef83-4dc7-9563-abd05fdc8a47",
+					"titel": "Filmbyen 42A, 2650 Hvidovre",
+					"husnummerId": "e6c11ac8-5f14-4a9c-82a6-44f614f85f7a"
+				},
+				{
+					"type": "adresse",
+					"id": "2c67f52a-5b29-4187-b759-54dccdd36f20",
+					"titel": "Filmbyen 42B, 2650 Hvidovre",
+					"husnummerId": "58a9d1e9-1512-4cdc-9fa9-c0bc94cbd01a"
+				},
+				{
+					"type": "adresse",
+					"id": "f6f281ab-c33a-424d-8bd3-9e8cd4521c6d",
+					"titel": "Filmbyen 42C, 2650 Hvidovre",
+					"husnummerId": "279a3b3d-d3f1-44c8-98ec-e174bc427195"
+				},
+				{
+					"type": "adresse",
+					"id": "52dec2ee-1e6d-44a8-8d1c-be378a24b317",
+					"titel": "Filmbyen 42D, 2650 Hvidovre",
+					"husnummerId": "39fd326b-2dc6-4cf0-b425-b7b91e2758e2"
+				},
+				{
+					"type": "husnummer",
+					"id": "72f9676a-65e2-4e31-8323-4239eac61dfb",
+					"titel": "Filmbyen 44, 2650 Hvidovre",
+					"vejnavn": "Filmbyen",
+					"husnummer": "44"
+				},
+				{
+					"type": "adresse",
+					"id": "c77f79df-c1e9-4f57-a5a4-e4b999013cd6",
+					"titel": "Filmbyen 46A, 2650 Hvidovre",
+					"husnummerId": "1750aa62-e8db-46d1-b374-ea67cd0bed96"
+				},
+				{
+					"type": "adresse",
+					"id": "e390b1ef-da37-4bb4-bc1c-cbab5b1cbb5a",
+					"titel": "Filmbyen 46B, 2650 Hvidovre",
+					"husnummerId": "fe7480cc-98c4-472f-8f67-72b410ddf15f"
+				},
+				{
+					"type": "adresse",
+					"id": "462e5218-0e33-4a8d-8239-374dcaece00c",
+					"titel": "Filmbyen 46C, 2650 Hvidovre",
+					"husnummerId": "f08ac93b-2654-4f01-9866-1d94430db790"
+				},
+				{
+					"type": "adresse",
+					"id": "99ec9264-9f6f-46ee-b009-0b9dc9f2ae22",
+					"titel": "Filmbyen 48A, 2650 Hvidovre",
+					"husnummerId": "c8f8944b-11dc-4881-8d2f-1e2d89057596"
+				},
+				{
+					"type": "adresse",
+					"id": "2828415c-d6e7-4e7e-9448-b124956fb5a5",
+					"titel": "Filmbyen 48B, 2650 Hvidovre",
+					"husnummerId": "3a84e755-0db4-48fa-a325-ec7ebbb5007d"
+				},
+				{
+					"type": "adresse",
+					"id": "5956d752-54c2-4fe8-ba06-e5f468ee742c",
+					"titel": "Filmbyen 48C, 2650 Hvidovre",
+					"husnummerId": "e9c3e198-155e-467f-81bb-b23cf318243b"
+				},
+				{
+					"type": "adresse",
+					"id": "a4a31483-1cfd-4a2d-aa44-640eb89cbd74",
+					"titel": "Filmbyen 50A, 2650 Hvidovre",
+					"husnummerId": "0059d3ae-872c-41db-b742-5901a7f12624"
+				},
+				{
+					"type": "adresse",
+					"id": "45dd7793-dab3-4749-9b19-686854697352",
+					"titel": "Filmbyen 50B, 2650 Hvidovre",
+					"husnummerId": "634f0a17-51be-471f-98bd-3a94cc251285"
+				},
+				{
+					"type": "adresse",
+					"id": "8cf5a44a-9743-41f1-aab2-4ece8c93d412",
+					"titel": "Filmbyen 50C, 2650 Hvidovre",
+					"husnummerId": "8019e3c4-d6c9-4e40-9e99-eb09438baef9"
+				},
+				{
+					"type": "adresse",
+					"id": "b141ac60-67d7-42f4-a6ae-0c8de5596aaf",
+					"titel": "Filmbyen 52A, 2650 Hvidovre",
+					"husnummerId": "d94e8b4f-87e7-485d-bd40-1bab9ad8480a"
+				},
+				{
+					"type": "adresse",
+					"id": "5a404542-d72f-4144-a7f7-16867cde6033",
+					"titel": "Filmbyen 52B, 2650 Hvidovre",
+					"husnummerId": "28b3cab0-8d38-4c66-8a56-c66b08b35f02"
+				},
+				{
+					"type": "adresse",
+					"id": "1444db42-f5e9-4b2d-bf3c-a884299607c7",
+					"titel": "Filmbyen 52C, 2650 Hvidovre",
+					"husnummerId": "12bda894-d096-4543-8bb7-ed094b332f83"
+				},
+				{
+					"type": "adresse",
+					"id": "151bb78f-0c26-4c13-ae0f-fad122ffd065",
+					"titel": "Filmbyen 54A, 2650 Hvidovre",
+					"husnummerId": "fe6ba63b-f96f-403a-ad2d-7288f648130e"
+				},
+				{
+					"type": "adresse",
+					"id": "f8e63e06-df35-4aaf-85da-40f044de2357",
+					"titel": "Filmbyen 54B, 2650 Hvidovre",
+					"husnummerId": "c6d7d549-ef2a-4327-99a3-e6854409b2e5"
+				},
+				{
+					"type": "adresse",
+					"id": "25164c49-f94e-4b5d-9a46-f9b30ee9296e",
+					"titel": "Filmbyen 54C, 2650 Hvidovre",
+					"husnummerId": "79e52845-2947-4a41-b18a-836180cce75c"
+				},
+				{
+					"type": "husnummer",
+					"id": "950285e6-3db4-4541-ab37-2edcd73ecb3e",
+					"titel": "Filmbyen 56, 2650 Hvidovre",
+					"vejnavn": "Filmbyen",
+					"husnummer": "56"
+				},
+				{
+					"type": "adresse",
+					"id": "c5415444-93db-493a-85b2-ec20739963ac",
+					"titel": "Filmbyen 58A, 2650 Hvidovre",
+					"husnummerId": "7517f1ca-1bf0-413b-bc7f-4f117ad6bdf4"
+				},
+				{
+					"type": "adresse",
+					"id": "2b6a3f64-728e-4a80-9431-e3e31047403a",
+					"titel": "Filmbyen 58B, 2650 Hvidovre",
+					"husnummerId": "ffd485f2-c5eb-4bf6-945b-b1f4ff0b4130"
+				},
+				{
+					"type": "adresse",
+					"id": "8740a37b-6aa8-435b-a79a-fb2b40ba00c5",
+					"titel": "Filmbyen 58C, 2650 Hvidovre",
+					"husnummerId": "6822e710-2825-438d-b372-ef4323b0e58e"
+				},
+				{
+					"type": "adresse",
+					"id": "c4b37ad4-5ef9-42a4-9efd-34b8be625a7b",
+					"titel": "Filmbyen 58D, 2650 Hvidovre",
+					"husnummerId": "fa482d7f-45e0-4aac-97f2-75c531b0edf8"
+				},
+				{
+					"type": "husnummer",
+					"id": "eac91ab6-9769-468c-acd1-10dbc5a377d0",
+					"titel": "Filmbyen 60, 2650 Hvidovre",
+					"vejnavn": "Filmbyen",
+					"husnummer": "60"
+				},
+				{
+					"type": "adresse",
+					"id": "f3fcce6c-838c-476d-8119-b41b608e7858",
+					"titel": "Filmbyen 62A, 2650 Hvidovre",
+					"husnummerId": "4974827b-3b32-4841-8b12-3c556d89bdf4"
+				},
+				{
+					"type": "adresse",
+					"id": "5a018da7-e782-416d-b0e1-857cb7485ba9",
+					"titel": "Filmbyen 62B, 2650 Hvidovre",
+					"husnummerId": "78025fb1-f95f-4e6d-8e22-15c3c68097b9"
+				},
+				{
+					"type": "adresse",
+					"id": "6118bd8a-20ed-42e7-a53d-674ee3d23432",
+					"titel": "Filmbyen 62C, 2650 Hvidovre",
+					"husnummerId": "ab8c0bd5-fede-41f8-8b45-f633f155edfa"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Filmtorvet 4300": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "237d876a-0818-4873-8bac-0e79c27b995c",
+					"titel": "Filmtorvet 1, 4300 Holbæk",
+					"husnummerId": "0a3f5083-4018-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b15d2a1d-7e5c-4f13-8734-003d7b33a3ff",
+					"titel": "Filmtorvet 5, 4300 Holbæk",
+					"husnummerId": "22c8dd8b-08bd-4f12-b47b-454c40d41f96"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Filmtorvet 3500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "7bc495ca-d57c-49a7-9d2a-c19f59c8e724",
+					"titel": "Filmtorvet 3, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "eab0682d-18a8-4811-a350-2ea59081d8e0",
+					"titel": "Filmtorvet 4, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "b13ce638-1a6f-45c5-8b0c-a9147ab8ab46",
+					"titel": "Filmtorvet 5, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "f2ce92cc-9d1f-4f2f-b8ba-b257de878627",
+					"titel": "Filmtorvet 6, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "51f416ab-3a05-4802-a2ca-5ab4d830d19a",
+					"titel": "Filmtorvet 7, Jonstrup, 3500 Værløse",
+					"husnummerId": "3f61a4df-795b-42ef-b9e1-a573bb59e6c8"
+				},
+				{
+					"type": "husnummer",
+					"id": "b8ca9e6c-a7cd-43ac-b365-f10e5b3261b6",
+					"titel": "Filmtorvet 8, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "286e9472-e299-4b54-b43e-836045933cef",
+					"titel": "Filmtorvet 9, Jonstrup, 3500 Værløse",
+					"husnummerId": "c7b84e44-2612-4428-a7a5-9ce3409c56af"
+				},
+				{
+					"type": "adresse",
+					"id": "1fdeec4e-bf54-4d4e-9821-bb67df9cba22",
+					"titel": "Filmtorvet 10, Jonstrup, 3500 Værløse",
+					"husnummerId": "2146ccae-d533-465e-ac15-b2df602fdd44"
+				},
+				{
+					"type": "adresse",
+					"id": "135f1539-d470-437f-a56a-e516f6d0e3ae",
+					"titel": "Filmtorvet 12, Jonstrup, 3500 Værløse",
+					"husnummerId": "8844df82-bf68-4bc0-bb1a-158d6aac73f9"
+				},
+				{
+					"type": "adresse",
+					"id": "89f93d90-f9b4-4684-a5f7-a7dbb8abd295",
+					"titel": "Filmtorvet 14, Jonstrup, 3500 Værløse",
+					"husnummerId": "5c59199b-bbd4-4453-aa3a-c1036324a6c3"
+				},
+				{
+					"type": "adresse",
+					"id": "5a73e095-86b7-44d0-9f45-44eda67c055e",
+					"titel": "Filmtorvet 16, Jonstrup, 3500 Værløse",
+					"husnummerId": "10277534-8668-439b-9ebc-ca0ed8f4d19b"
+				},
+				{
+					"type": "adresse",
+					"id": "cbb26c14-7caf-40ae-b259-f01bcc483a75",
+					"titel": "Filmtorvet 18, Jonstrup, 3500 Værløse",
+					"husnummerId": "df33bd5c-cbe1-42ff-a78f-2bbb78ff2c21"
+				},
+				{
+					"type": "adresse",
+					"id": "253cd9e2-2409-43c8-87c4-7973b66bfdc2",
+					"titel": "Filmtorvet 20, Jonstrup, 3500 Værløse",
+					"husnummerId": "31390c7e-7747-4cc9-a930-d89b1848539c"
+				},
+				{
+					"type": "husnummer",
+					"id": "557b37e1-620b-454b-9ad7-779f7b997bc6",
+					"titel": "Filmtorvet 21, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "21"
+				},
+				{
+					"type": "adresse",
+					"id": "51a0ac2c-b0c4-4c22-8421-721b5b435658",
+					"titel": "Filmtorvet 22, Jonstrup, 3500 Værløse",
+					"husnummerId": "10431882-ff38-40fa-b4cc-9f75df7bbced"
+				},
+				{
+					"type": "husnummer",
+					"id": "fc32fdd1-160d-466f-9579-4f8d514d51fd",
+					"titel": "Filmtorvet 23, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "23"
+				},
+				{
+					"type": "adresse",
+					"id": "d0c7e0a3-97c0-4ab7-bed4-64751d9c5e94",
+					"titel": "Filmtorvet 24, Jonstrup, 3500 Værløse",
+					"husnummerId": "2946270e-6c48-41d1-9545-335ec7eb6829"
+				},
+				{
+					"type": "husnummer",
+					"id": "48c2ff20-0944-4882-bbbb-747fd0244ed2",
+					"titel": "Filmtorvet 25, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "199eae74-34a2-45ad-b8a0-5bcb0bc5f9e0",
+					"titel": "Filmtorvet 26, Jonstrup, 3500 Værløse",
+					"husnummerId": "c8939199-adaf-4263-9134-3069b897932c"
+				},
+				{
+					"type": "husnummer",
+					"id": "1abdfbaf-9008-49f5-bb87-b4a2f3e422d6",
+					"titel": "Filmtorvet 27, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "27"
+				},
+				{
+					"type": "adresse",
+					"id": "f75f2433-e1ba-4608-84a7-6c99ec4b5d2f",
+					"titel": "Filmtorvet 28, Jonstrup, 3500 Værløse",
+					"husnummerId": "7e2d579d-144e-4d53-ab0b-ae7ca51aeb05"
+				},
+				{
+					"type": "husnummer",
+					"id": "9e414530-c4ad-4bea-8065-f9aaba2ba5a2",
+					"titel": "Filmtorvet 29, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "29"
+				},
+				{
+					"type": "adresse",
+					"id": "62800c3f-a0d3-4936-a4ba-578029eb7f60",
+					"titel": "Filmtorvet 30, Jonstrup, 3500 Værløse",
+					"husnummerId": "c91038fe-37da-45ee-9eca-033bc635e6e6"
+				},
+				{
+					"type": "adresse",
+					"id": "79fd401c-dc7d-40dd-aea9-88f968538de5",
+					"titel": "Filmtorvet 31, Jonstrup, 3500 Værløse",
+					"husnummerId": "72b0a27d-1da3-4293-b50e-c94dedefbfc7"
+				},
+				{
+					"type": "adresse",
+					"id": "24e0f2d6-a17a-4dbb-b2cb-833cc6354867",
+					"titel": "Filmtorvet 32, Jonstrup, 3500 Værløse",
+					"husnummerId": "72976de5-d965-4d9b-941b-1ae819527362"
+				},
+				{
+					"type": "adresse",
+					"id": "1126d78d-9e8f-4c48-9544-323fb7199bde",
+					"titel": "Filmtorvet 34, Jonstrup, 3500 Værløse",
+					"husnummerId": "49e3088e-c3ce-43c5-8194-cfa6d5de18c2"
+				},
+				{
+					"type": "adresse",
+					"id": "44e3c0ca-9ce7-4172-bac1-d3df0a47b48b",
+					"titel": "Filmtorvet 40, Jonstrup, 3500 Værløse",
+					"husnummerId": "3d1b8c28-bc67-4e1f-916d-57a5154475b0"
+				},
+				{
+					"type": "adresse",
+					"id": "4eb32bbc-4959-4d54-b992-25eb796d89b4",
+					"titel": "Filmtorvet 41, Jonstrup, 3500 Værløse",
+					"husnummerId": "89f651ea-1902-4f4f-8c48-eb365d1c82ec"
+				},
+				{
+					"type": "adresse",
+					"id": "50a9300b-a9a6-4450-b4df-c494d303c79e",
+					"titel": "Filmtorvet 42, Jonstrup, 3500 Værløse",
+					"husnummerId": "4cc5ba91-5e56-44ba-ba4f-398ed6a21214"
+				},
+				{
+					"type": "adresse",
+					"id": "d1b64942-bb71-42ac-9845-1d4255d2eddd",
+					"titel": "Filmtorvet 43, Jonstrup, 3500 Værløse",
+					"husnummerId": "6b3b2166-ec13-4904-a697-46b38e408394"
+				},
+				{
+					"type": "adresse",
+					"id": "3fcdbd4c-ea07-4d89-942d-d3f71443a53d",
+					"titel": "Filmtorvet 44, Jonstrup, 3500 Værløse",
+					"husnummerId": "a67999bd-193f-4752-a390-251dc4e9a890"
+				},
+				{
+					"type": "adresse",
+					"id": "d38ef911-1bb6-449c-8c4b-66b24dff876b",
+					"titel": "Filmtorvet 45, Jonstrup, 3500 Værløse",
+					"husnummerId": "4a728a8b-bcb4-4217-ad09-eac5e31e3951"
+				},
+				{
+					"type": "adresse",
+					"id": "5ce8ba74-35ea-458a-be48-af32acd3b906",
+					"titel": "Filmtorvet 46, Jonstrup, 3500 Værløse",
+					"husnummerId": "78ddacd6-9839-4094-af5d-ceb49ee4b80e"
+				},
+				{
+					"type": "adresse",
+					"id": "b36ed5b1-0864-47e9-829f-6ac39c1e0297",
+					"titel": "Filmtorvet 47, Jonstrup, 3500 Værløse",
+					"husnummerId": "bb2676f1-4408-4f07-87cf-319ed9ae3dd5"
+				},
+				{
+					"type": "adresse",
+					"id": "2ef18df2-b02f-486b-b721-958ef17a60a8",
+					"titel": "Filmtorvet 48, Jonstrup, 3500 Værløse",
+					"husnummerId": "4fa6d501-f93b-4779-9f59-5e891934a281"
+				},
+				{
+					"type": "adresse",
+					"id": "318d92b1-d469-44d2-8dc7-c48c80f8e52f",
+					"titel": "Filmtorvet 49, Jonstrup, 3500 Værløse",
+					"husnummerId": "b17f0b5c-a49e-4604-8d8e-55bb9167299b"
+				},
+				{
+					"type": "adresse",
+					"id": "5634f210-08ae-4451-b02e-7dfdd3e45492",
+					"titel": "Filmtorvet 50, Jonstrup, 3500 Værløse",
+					"husnummerId": "5b2983ad-6ecf-4c52-884b-60e6a8a977a7"
+				},
+				{
+					"type": "adresse",
+					"id": "6086cd8e-b5e2-4183-ad7b-51748046f511",
+					"titel": "Filmtorvet 51, Jonstrup, 3500 Værløse",
+					"husnummerId": "9655ecdd-9f7f-4b21-a8bb-8afcbe150590"
+				},
+				{
+					"type": "adresse",
+					"id": "bae44539-c0f1-4942-bab2-a7413099d252",
+					"titel": "Filmtorvet 52, Jonstrup, 3500 Værløse",
+					"husnummerId": "f0c47cc2-8a06-4c7e-8c43-93d4682b43d4"
+				},
+				{
+					"type": "adresse",
+					"id": "2e60bf2e-fe9c-4b45-91e2-00cf4ea0bf3d",
+					"titel": "Filmtorvet 53, Jonstrup, 3500 Værløse",
+					"husnummerId": "e4b3a1a4-7984-4583-846b-98e7d2aac725"
+				},
+				{
+					"type": "adresse",
+					"id": "4e29348d-743a-4688-80a4-5ff18949b0cc",
+					"titel": "Filmtorvet 54, Jonstrup, 3500 Værløse",
+					"husnummerId": "2755668e-25af-4328-b365-b850cb328a5f"
+				},
+				{
+					"type": "adresse",
+					"id": "b6e01d3a-c3a5-40db-b43e-abc50a28d191",
+					"titel": "Filmtorvet 55, Jonstrup, 3500 Værløse",
+					"husnummerId": "431e9d41-f7a8-43fe-a72b-6719ab9ab3c5"
+				},
+				{
+					"type": "adresse",
+					"id": "e0315ee6-65db-40a8-971a-954c8e379db8",
+					"titel": "Filmtorvet 56, Jonstrup, 3500 Værløse",
+					"husnummerId": "d3b365dd-5fef-4a7a-a995-5d60e939f6c5"
+				},
+				{
+					"type": "adresse",
+					"id": "c46df03c-f521-4adc-8d81-c156ce245bb9",
+					"titel": "Filmtorvet 57, Jonstrup, 3500 Værløse",
+					"husnummerId": "0774b1f3-e124-49a3-ab4e-66de91b70948"
+				},
+				{
+					"type": "adresse",
+					"id": "41196dc8-d81b-408f-a77f-a9e5ebf0a701",
+					"titel": "Filmtorvet 58, Jonstrup, 3500 Værløse",
+					"husnummerId": "9e140149-2e77-47fa-af00-c027ceba78c7"
+				},
+				{
+					"type": "adresse",
+					"id": "8a43a1d1-ff1a-4165-bf25-138e38f9eaa5",
+					"titel": "Filmtorvet 59, Jonstrup, 3500 Værløse",
+					"husnummerId": "fcb7f46a-4c52-4963-9877-aa5c25912bdb"
+				},
+				{
+					"type": "husnummer",
+					"id": "b139aa6f-70bc-4379-8a4e-226ce842f045",
+					"titel": "Filmtorvet 60, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "60"
+				},
+				{
+					"type": "adresse",
+					"id": "529a54d5-3ec7-4306-81c6-f0b5263bfd89",
+					"titel": "Filmtorvet 61, Jonstrup, 3500 Værløse",
+					"husnummerId": "6b0f23dd-4ba7-40ec-be99-f219315333ab"
+				},
+				{
+					"type": "husnummer",
+					"id": "37f166b6-72bf-4618-bec8-88dfa697c364",
+					"titel": "Filmtorvet 62, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "62"
+				},
+				{
+					"type": "adresse",
+					"id": "63dc41c4-9827-44c8-8c0a-062b476774bf",
+					"titel": "Filmtorvet 63, Jonstrup, 3500 Værløse",
+					"husnummerId": "aaa86042-2e06-431d-82f9-08076214ee96"
+				},
+				{
+					"type": "husnummer",
+					"id": "a8d5ade0-0769-4b5d-ad32-35996d8ebc88",
+					"titel": "Filmtorvet 64, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "64"
+				},
+				{
+					"type": "adresse",
+					"id": "64402d70-dfac-4497-bae1-a21f3d4af994",
+					"titel": "Filmtorvet 65, Jonstrup, 3500 Værløse",
+					"husnummerId": "8b0e39c6-bece-47d8-aeb3-ced723061a52"
+				},
+				{
+					"type": "husnummer",
+					"id": "69d9a83d-2a13-46e2-96dd-bd65149f0907",
+					"titel": "Filmtorvet 66, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "66"
+				},
+				{
+					"type": "adresse",
+					"id": "364892b5-2c43-4989-9f13-7ec0fa0d8a2b",
+					"titel": "Filmtorvet 67, Jonstrup, 3500 Værløse",
+					"husnummerId": "137e17fe-c0e4-4797-8f40-4e27e2ca0a98"
+				},
+				{
+					"type": "husnummer",
+					"id": "4b9560fa-e0c6-464d-bf78-fdf23042ec90",
+					"titel": "Filmtorvet 68, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "68"
+				},
+				{
+					"type": "adresse",
+					"id": "b15375bf-9b49-42d2-b50d-003c4baa4013",
+					"titel": "Filmtorvet 69, Jonstrup, 3500 Værløse",
+					"husnummerId": "d3803317-7dfc-46ff-a8ff-53fe13936735"
+				},
+				{
+					"type": "husnummer",
+					"id": "ad7145dc-7fce-45d2-bd7c-48c097cccdca",
+					"titel": "Filmtorvet 70, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "70"
+				},
+				{
+					"type": "adresse",
+					"id": "430ffb73-6159-4dbd-8106-dd023eb66958",
+					"titel": "Filmtorvet 72, Jonstrup, 3500 Værløse",
+					"husnummerId": "47e45e06-285e-43c1-b220-469771bfb98f"
+				},
+				{
+					"type": "adresse",
+					"id": "3faec1d1-8bf6-4e02-897c-87e7c306c480",
+					"titel": "Filmtorvet 74, Jonstrup, 3500 Værløse",
+					"husnummerId": "d9ba62f6-5ae3-444d-865d-3955da146742"
+				},
+				{
+					"type": "adresse",
+					"id": "b70aadea-759a-433f-8f3c-0b98345eee0f",
+					"titel": "Filmtorvet 76, Jonstrup, 3500 Værløse",
+					"husnummerId": "a5af6ea3-abac-4574-8eda-2f1457addec0"
+				},
+				{
+					"type": "adresse",
+					"id": "00fe399f-7e57-455f-a67d-d4a18fa56297",
+					"titel": "Filmtorvet 78, Jonstrup, 3500 Værløse",
+					"husnummerId": "6470ba0e-fed9-4658-8358-871ca09914e8"
+				},
+				{
+					"type": "adresse",
+					"id": "c3b32732-ecba-4c49-83fe-1cd90a4a7dd7",
+					"titel": "Filmtorvet 80, Jonstrup, 3500 Værløse",
+					"husnummerId": "e2b66b5e-c095-4792-8054-efb6ea031484"
+				},
+				{
+					"type": "adresse",
+					"id": "415376ef-ec81-4a4b-9f99-107e27341abf",
+					"titel": "Filmtorvet 82, Jonstrup, 3500 Værløse",
+					"husnummerId": "6c259463-1bfd-489e-bda9-0889fe4a8ac5"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Filmbyen 8000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "c7ed98d6-3e4d-4885-bb45-89b07de9688e",
+					"titel": "Filmbyen 1, 8000 Aarhus C",
+					"husnummerId": "f9f7c65f-f07d-4532-a567-93a6d626598b"
+				},
+				{
+					"type": "husnummer",
+					"id": "65a1a748-19b2-434f-b102-8452cd9af4d7",
+					"titel": "Filmbyen 11A, 8000 Aarhus C",
+					"vejnavn": "Filmbyen",
+					"husnummer": "11A"
+				},
+				{
+					"type": "adresse",
+					"id": "07930249-c5f4-4877-9e76-610c7adb3720",
+					"titel": "Filmbyen 11B, 8000 Aarhus C",
+					"husnummerId": "edf83eeb-f4c8-43d3-8bb9-3f698654775c"
+				},
+				{
+					"type": "adresse",
+					"id": "b94428fe-6896-45a0-952f-e90c221f522c",
+					"titel": "Filmbyen 11C, 8000 Aarhus C",
+					"husnummerId": "8cc52e53-06a3-4301-8565-b683a82ab41e"
+				},
+				{
+					"type": "adresse",
+					"id": "d7acab1a-8031-40d4-a686-f05697843c40",
+					"titel": "Filmbyen 11D, 8000 Aarhus C",
+					"husnummerId": "92d29a86-413c-409b-b0b3-23e5f1d29102"
+				},
+				{
+					"type": "adresse",
+					"id": "bda487ce-9724-4e85-af9f-5ea20dd077f2",
+					"titel": "Filmbyen 11E, 8000 Aarhus C",
+					"husnummerId": "51d7df00-9c2b-4452-8586-ce0989c699bf"
+				},
+				{
+					"type": "adresse",
+					"id": "399a4048-1045-4cfa-8d72-7dc2674964e0",
+					"titel": "Filmbyen 15, 8000 Aarhus C",
+					"husnummerId": "0a3f5096-2244-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2f245788-f2af-4f84-9850-cc0ac903da40",
+					"titel": "Filmbyen 17, 8000 Aarhus C",
+					"husnummerId": "5ddb979d-cacb-40d3-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-2245-32b8-e044-0003ba298018",
+					"titel": "Filmbyen 19, 8000 Aarhus C",
+					"vejnavn": "Filmbyen",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "5ddb979d-cacc-40d3-e044-0003ba298018",
+					"titel": "Filmbyen 21, 8000 Aarhus C",
+					"vejnavn": "Filmbyen",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-2246-32b8-e044-0003ba298018",
+					"titel": "Filmbyen 23, 8000 Aarhus C",
+					"vejnavn": "Filmbyen",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "50610767-b0dc-481e-9c7c-9c2d1dbb9c25",
+					"titel": "Filmbyen 25, 8000 Aarhus C",
+					"vejnavn": "Filmbyen",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-2243-32b8-e044-0003ba298018",
+					"titel": "Filmbyen 27, 8000 Aarhus C",
+					"vejnavn": "Filmbyen",
+					"husnummer": "27"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=filmtorvet": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "740c9c3a-0be7-4e40-933b-7f46cdb0de39",
+					"type": "navngivenvejpostnummer",
+					"titel": "Filmtorvet 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"postnr": "3500",
+					"postdistrikt": "Værløse",
+					"antal_husnumre": 63
+				},
+				{
+					"id": "02db5f35-419e-4fb4-bb45-4a06ad31f3f8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Filmtorvet 4300 Holbæk",
+					"vejnavn": "Filmtorvet",
+					"postnr": "4300",
+					"postdistrikt": "Holbæk",
+					"antal_husnumre": 2
+				}
+			]
+		},
+		"/adresser/soeg?tekst=filmtorvet 7": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "51f416ab-3a05-4802-a2ca-5ab4d830d19a",
+					"titel": "Filmtorvet 7, Jonstrup, 3500 Værløse",
+					"husnummerId": "3f61a4df-795b-42ef-b9e1-a573bb59e6c8"
+				},
+				{
+					"type": "husnummer",
+					"id": "ad7145dc-7fce-45d2-bd7c-48c097cccdca",
+					"titel": "Filmtorvet 70, Jonstrup, 3500 Værløse",
+					"vejnavn": "Filmtorvet",
+					"husnummer": "70"
+				},
+				{
+					"type": "adresse",
+					"id": "430ffb73-6159-4dbd-8106-dd023eb66958",
+					"titel": "Filmtorvet 72, Jonstrup, 3500 Værløse",
+					"husnummerId": "47e45e06-285e-43c1-b220-469771bfb98f"
+				},
+				{
+					"type": "adresse",
+					"id": "3faec1d1-8bf6-4e02-897c-87e7c306c480",
+					"titel": "Filmtorvet 74, Jonstrup, 3500 Værløse",
+					"husnummerId": "d9ba62f6-5ae3-444d-865d-3955da146742"
+				},
+				{
+					"type": "adresse",
+					"id": "b70aadea-759a-433f-8f3c-0b98345eee0f",
+					"titel": "Filmtorvet 76, Jonstrup, 3500 Værløse",
+					"husnummerId": "a5af6ea3-abac-4574-8eda-2f1457addec0"
+				},
+				{
+					"type": "adresse",
+					"id": "00fe399f-7e57-455f-a67d-d4a18fa56297",
+					"titel": "Filmtorvet 78, Jonstrup, 3500 Værløse",
+					"husnummerId": "6470ba0e-fed9-4658-8358-871ca09914e8"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=filmtorvet 78": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00fe399f-7e57-455f-a67d-d4a18fa56297",
+					"titel": "Filmtorvet 78, Jonstrup, 3500 Værløse",
+					"husnummerId": "6470ba0e-fed9-4658-8358-871ca09914e8"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Filmtorvet 78, Jonstrup, 3500 Værløse": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00fe399f-7e57-455f-a67d-d4a18fa56297",
+					"titel": "Filmtorvet 78, Jonstrup, 3500 Værløse",
+					"husnummerId": "6470ba0e-fed9-4658-8358-871ca09914e8"
+				}
+			]
+		}
+	}
+}

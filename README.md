@@ -12,8 +12,8 @@ floor/door expansion (`askevænget 9 2 tv` finds the unit), street + city
 fallback (`askevænget vejle`), Danish-letter typo folding (`aa`↔`å`), request
 caching, and one-request selection resolve.
 
-- **Live demo & docs:** https://jensen95.github.io/adressevaelger-enhanced/
-- **Benchmark dashboard:** https://jensen95.github.io/adressevaelger-enhanced/benchmark.html
+- **Live demo & docs:** https://jensen95.github.io/adressevealger-dawa-like-search/
+- **Benchmark dashboard:** https://jensen95.github.io/adressevealger-dawa-like-search/benchmark.html
 
 > Not affiliated with Klimadatastyrelsen (KDS). This is an independent
 > open-source client for the public service.
@@ -150,6 +150,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 [av]: https://adressevaelger.dk
 [official]: https://github.com/Klimadatastyrelsen/adressevaelger
-[docs]: https://jensen95.github.io/adressevaelger-enhanced/docs.html
-[bench]: https://jensen95.github.io/adressevaelger-enhanced/benchmark.html
+[docs]: https://jensen95.github.io/adressevealger-dawa-like-search/docs.html
+[bench]: https://jensen95.github.io/adressevealger-dawa-like-search/benchmark.html
 [mail]: mailto:support@kds.dk

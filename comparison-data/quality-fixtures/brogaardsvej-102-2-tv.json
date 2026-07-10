@@ -1,0 +1,23 @@
+{
+	"query": "brogårdsvej 102 2 tv",
+	"recordedAt": "2026-07-09T19:51:57.407Z",
+	"dawa": {
+		"texts": ["Brogårdsvej 102, 2. tv, 2820 Gentofte"],
+		"ids": ["0a3f50a3-a43f-32b8-e044-0003ba298018"],
+		"count": 1
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=brogårdsvej 102 2 tv": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a43f-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, 2. tv, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d273-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

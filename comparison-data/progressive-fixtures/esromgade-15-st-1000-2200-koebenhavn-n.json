@@ -1,0 +1,4935 @@
+{
+	"tekst": "Esromgade 15, st. 1000, 2200 København N",
+	"dawaId": "a31650a2-542c-480f-a605-90a79a25f5a4",
+	"recordedAt": "2026-07-09T20:37:06.459Z",
+	"stages": [
+		{
+			"stage": "esro",
+			"dawa": [
+				"Esromgade 8, 2200 København N",
+				"Esromgade 2A, 2200 København N",
+				"Esromgade 4C, 2200 København N",
+				"Esromgade 13, 2200 København N",
+				"Esromgade 15, 2200 København N",
+				"Esromgade 20, 2200 København N",
+				"Esromgade 32, 2200 København N",
+				"Esrohaven 1, Gerlev, 3630 Jægerspris",
+				"Esrohaven 2, Gerlev, 3630 Jægerspris",
+				"Esrohaven 3, Gerlev, 3630 Jægerspris"
+			]
+		},
+		{
+			"stage": "esromgade",
+			"dawa": [
+				"Esromgade 8, 2200 København N",
+				"Esromgade 2A, 2200 København N",
+				"Esromgade 4C, 2200 København N",
+				"Esromgade 13, 2200 København N",
+				"Esromgade 15, 2200 København N",
+				"Esromgade 20, 2200 København N",
+				"Esromgade 32, 2200 København N",
+				"Esromgade 3, kl., 2200 København N",
+				"Esromgade 4B, 1., 2200 København N",
+				"Esromgade 4B, 2., 2200 København N"
+			]
+		},
+		{
+			"stage": "esromgade 1",
+			"dawa": [
+				"Esromgade 15, 1. 10, 2200 København N",
+				"Esromgade 15, 1. 11, 2200 København N",
+				"Esromgade 15, 1. 12, 2200 København N",
+				"Esromgade 15, 1. 13, 2200 København N",
+				"Esromgade 15, 1. 14, 2200 København N",
+				"Esromgade 15, 1. 16, 2200 København N",
+				"Esromgade 15, 1. 17, 2200 København N",
+				"Esromgade 15, 1. 18, 2200 København N",
+				"Esromgade 15, 1. 19, 2200 København N",
+				"Esromgade 15, 1. 1100, 2200 København N"
+			]
+		},
+		{
+			"stage": "esromgade 15",
+			"dawa": [
+				"Esromgade 15, 5. 1501, 2200 København N",
+				"Esromgade 15, 5. 1502, 2200 København N",
+				"Esromgade 15, 5. 1503, 2200 København N",
+				"Esromgade 15, 2200 København N",
+				"Esromgade 15, 1. 15, 2200 København N",
+				"Esromgade 15, 2. 15, 2200 København N",
+				"Esromgade 15, 3. 15, 2200 København N",
+				"Esromgade 15, 4. 15, 2200 København N",
+				"Esromgade 15, 5. 15, 2200 København N",
+				"Esromgade 15, kl. 15, 2200 København N"
+			]
+		},
+		{
+			"stage": "esromgade 15 st",
+			"dawa": [
+				"Esromgade 15, st. 15, 2200 København N",
+				"Esromgade 15, st., 2200 København N",
+				"Esromgade 15, st. 1, 2200 København N",
+				"Esromgade 15, st. 2, 2200 København N",
+				"Esromgade 15, st. 3, 2200 København N",
+				"Esromgade 15, st. 4, 2200 København N",
+				"Esromgade 15, st. 5, 2200 København N",
+				"Esromgade 15, st. 6, 2200 København N",
+				"Esromgade 15, st. 7, 2200 København N",
+				"Esromgade 15, st. 8, 2200 København N"
+			]
+		},
+		{
+			"stage": "esromgade 15 st 1000",
+			"dawa": [
+				"Esromgade 15, st. 1000, 2200 København N"
+			]
+		},
+		{
+			"stage": "Esromgade 15, st. 1000, 2200 København N",
+			"dawa": [
+				"Esromgade 15, st. 1000, 2200 København N"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=esro": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "c930088f-7d3b-49ff-9318-fde0fa420775",
+					"type": "navngivenvejpostnummer",
+					"titel": "Esrogårdparken 3630 Jægerspris",
+					"vejnavn": "Esrogårdparken",
+					"postnr": "3630",
+					"postdistrikt": "Jægerspris",
+					"antal_husnumre": 49
+				},
+				{
+					"id": "fd7e92f5-e1e1-4e9e-8f28-2247f0d66dd9",
+					"type": "navngivenvejpostnummer",
+					"titel": "Esrogårdsvej 3630 Jægerspris",
+					"vejnavn": "Esrogårdsvej",
+					"postnr": "3630",
+					"postdistrikt": "Jægerspris",
+					"antal_husnumre": 45
+				},
+				{
+					"id": "e010e957-e59a-4aef-80af-e5132117fcbc",
+					"type": "navngivenvejpostnummer",
+					"titel": "Esrohaven 3630 Jægerspris",
+					"vejnavn": "Esrohaven",
+					"postnr": "3630",
+					"postdistrikt": "Jægerspris",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "2778f8ec-5dac-44a5-8d43-a5253ef97473",
+					"type": "navngivenvejpostnummer",
+					"titel": "Esromarken 3630 Jægerspris",
+					"vejnavn": "Esromarken",
+					"postnr": "3630",
+					"postdistrikt": "Jægerspris",
+					"antal_husnumre": 53
+				},
+				{
+					"id": "f9c002dd-8c65-447b-bae1-a56dcc84295d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Esromgade 2200 København N",
+					"vejnavn": "Esromgade",
+					"postnr": "2200",
+					"postdistrikt": "København N",
+					"antal_husnumre": 31
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Esromgade 2200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a11-32b8-e044-0003ba298018",
+					"titel": "Esromgade 1, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a12-32b8-e044-0003ba298018",
+					"titel": "Esromgade 2, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-fe95-32b8-e044-0003ba298018",
+					"titel": "Esromgade 2A, 2200 København N",
+					"husnummerId": "0a3f507a-6a13-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a14-32b8-e044-0003ba298018",
+					"titel": "Esromgade 3, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a15-32b8-e044-0003ba298018",
+					"titel": "Esromgade 4A, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "4A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a16-32b8-e044-0003ba298018",
+					"titel": "Esromgade 4B, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "4B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a17-32b8-e044-0003ba298018",
+					"titel": "Esromgade 4C, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "4C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a18-32b8-e044-0003ba298018",
+					"titel": "Esromgade 5, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a19-32b8-e044-0003ba298018",
+					"titel": "Esromgade 6, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1a-32b8-e044-0003ba298018",
+					"titel": "Esromgade 7, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1b-32b8-e044-0003ba298018",
+					"titel": "Esromgade 7A, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "7A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1c-32b8-e044-0003ba298018",
+					"titel": "Esromgade 7B, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "7B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1d-32b8-e044-0003ba298018",
+					"titel": "Esromgade 8, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1e-32b8-e044-0003ba298018",
+					"titel": "Esromgade 9, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1f-32b8-e044-0003ba298018",
+					"titel": "Esromgade 10, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a20-32b8-e044-0003ba298018",
+					"titel": "Esromgade 11, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a21-32b8-e044-0003ba298018",
+					"titel": "Esromgade 12, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a22-32b8-e044-0003ba298018",
+					"titel": "Esromgade 13, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a23-32b8-e044-0003ba298018",
+					"titel": "Esromgade 14, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a24-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a25-32b8-e044-0003ba298018",
+					"titel": "Esromgade 16, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a26-32b8-e044-0003ba298018",
+					"titel": "Esromgade 18, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a27-32b8-e044-0003ba298018",
+					"titel": "Esromgade 20, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "20"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a28-32b8-e044-0003ba298018",
+					"titel": "Esromgade 22, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "22"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a29-32b8-e044-0003ba298018",
+					"titel": "Esromgade 24, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a2a-32b8-e044-0003ba298018",
+					"titel": "Esromgade 26, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a2b-32b8-e044-0003ba298018",
+					"titel": "Esromgade 28, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "28"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a2c-32b8-e044-0003ba298018",
+					"titel": "Esromgade 30, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "30"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a2d-32b8-e044-0003ba298018",
+					"titel": "Esromgade 32, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "32"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Esrohaven 3630": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-345d-32b8-e044-0003ba298018",
+					"titel": "Esrohaven 1, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-676e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-157e-51c5-e044-0003ba298018",
+					"titel": "Esrohaven 2, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-676f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-345e-32b8-e044-0003ba298018",
+					"titel": "Esrohaven 3, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6770-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "16d19f5b-e483-16bd-e044-0003ba298018",
+					"titel": "Esrohaven 4, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6771-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "19910d90-1249-41c9-e044-0003ba298018",
+					"titel": "Esrohaven 5, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6772-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-345f-32b8-e044-0003ba298018",
+					"titel": "Esrohaven 6, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6773-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3460-32b8-e044-0003ba298018",
+					"titel": "Esrohaven 7, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6774-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3461-32b8-e044-0003ba298018",
+					"titel": "Esrohaven 8, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6775-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "19910d90-124a-41c9-e044-0003ba298018",
+					"titel": "Esrohaven 9, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6776-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3462-32b8-e044-0003ba298018",
+					"titel": "Esrohaven 10, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6777-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4a78ea4c-0840-6ee8-e044-0003ba298018",
+					"titel": "Esrohaven 11, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6778-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3463-32b8-e044-0003ba298018",
+					"titel": "Esrohaven 12, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6779-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3464-32b8-e044-0003ba298018",
+					"titel": "Esrohaven 13, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-677a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3465-32b8-e044-0003ba298018",
+					"titel": "Esrohaven 14, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-677b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Esrogårdparken 3630": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "4e42cea9-0c18-4a67-89e6-2db1d5fe6e74",
+					"titel": "Esrogårdparken 1, Gerlev, 3630 Jægerspris",
+					"husnummerId": "e56163bc-a234-4275-9303-9e78647ae6e5"
+				},
+				{
+					"type": "adresse",
+					"id": "03800787-a5b0-44ff-bfb5-1b2143158c98",
+					"titel": "Esrogårdparken 2, Gerlev, 3630 Jægerspris",
+					"husnummerId": "8dd4e201-1cfe-42c0-838e-a557a09852f6"
+				},
+				{
+					"type": "adresse",
+					"id": "f562867d-8ac9-4e9a-a3eb-56962d20b4a2",
+					"titel": "Esrogårdparken 3, Gerlev, 3630 Jægerspris",
+					"husnummerId": "dc265b85-536a-4aad-918c-56f569b78092"
+				},
+				{
+					"type": "adresse",
+					"id": "3d649eb1-09d9-4142-ab2e-3d8f20c2e6cf",
+					"titel": "Esrogårdparken 4, Gerlev, 3630 Jægerspris",
+					"husnummerId": "228b7b1f-d033-431f-ae2d-a562324a282e"
+				},
+				{
+					"type": "adresse",
+					"id": "dcd86862-1467-43d3-bb0a-bd9c7acf843c",
+					"titel": "Esrogårdparken 5, Gerlev, 3630 Jægerspris",
+					"husnummerId": "c106fd1f-3bda-45a8-8387-2bd62464ea77"
+				},
+				{
+					"type": "adresse",
+					"id": "fdcb8c39-8095-460e-aaf1-a1141fc6603e",
+					"titel": "Esrogårdparken 6, Gerlev, 3630 Jægerspris",
+					"husnummerId": "6a17d01a-8252-4b07-861b-29c65a27340b"
+				},
+				{
+					"type": "adresse",
+					"id": "3757c310-e9d8-4049-ba71-c73f61e46b3e",
+					"titel": "Esrogårdparken 7, Gerlev, 3630 Jægerspris",
+					"husnummerId": "ef3935e8-8117-4410-9d71-9abe9a06551c"
+				},
+				{
+					"type": "adresse",
+					"id": "e45cdb9b-181b-4a42-a208-9b880785ab34",
+					"titel": "Esrogårdparken 8, Gerlev, 3630 Jægerspris",
+					"husnummerId": "e1b7079e-fb95-4cba-9fba-2dda4063894c"
+				},
+				{
+					"type": "adresse",
+					"id": "97bc2dda-b951-4148-8648-60f2178707b8",
+					"titel": "Esrogårdparken 9, Gerlev, 3630 Jægerspris",
+					"husnummerId": "aecd915f-9be4-4a30-8f40-fa90e634e3ad"
+				},
+				{
+					"type": "adresse",
+					"id": "04e5375a-d611-4208-8a93-0a8098a226c5",
+					"titel": "Esrogårdparken 10, Gerlev, 3630 Jægerspris",
+					"husnummerId": "a501d254-5246-4b00-b0f3-e9df51878a41"
+				},
+				{
+					"type": "adresse",
+					"id": "bab74be5-941e-4300-87da-708a1ed4ec67",
+					"titel": "Esrogårdparken 11, Gerlev, 3630 Jægerspris",
+					"husnummerId": "8abef752-07ab-4b45-ac21-18c25f8075ce"
+				},
+				{
+					"type": "adresse",
+					"id": "f731f1ce-4ae1-4c97-b595-984fcec1242b",
+					"titel": "Esrogårdparken 12, Gerlev, 3630 Jægerspris",
+					"husnummerId": "93a2d3d5-da47-489c-a0d4-37bc0eb2a996"
+				},
+				{
+					"type": "adresse",
+					"id": "7d3d8437-c30f-47d7-84d7-8dec38efdb22",
+					"titel": "Esrogårdparken 13, Gerlev, 3630 Jægerspris",
+					"husnummerId": "2926066b-c0b0-4116-9505-1ec807a04cf1"
+				},
+				{
+					"type": "adresse",
+					"id": "9ac5aa38-5f12-4bcb-a12a-d0d7d6261255",
+					"titel": "Esrogårdparken 14, Gerlev, 3630 Jægerspris",
+					"husnummerId": "2d028752-d0c1-462c-84c8-9616e3653c07"
+				},
+				{
+					"type": "adresse",
+					"id": "4dc5d68f-6ef5-4a22-aeb4-fae1db109ca2",
+					"titel": "Esrogårdparken 15, Gerlev, 3630 Jægerspris",
+					"husnummerId": "eb8effe3-3d28-4d32-8d56-cdeaaf595f57"
+				},
+				{
+					"type": "adresse",
+					"id": "55af99d0-fb5f-44bb-ab2c-8c42e7947a23",
+					"titel": "Esrogårdparken 16, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0349a910-a15d-4cbc-b0d1-522dc058cad7"
+				},
+				{
+					"type": "adresse",
+					"id": "445a519f-87b3-4160-897d-b677afae745d",
+					"titel": "Esrogårdparken 17, Gerlev, 3630 Jægerspris",
+					"husnummerId": "eacf3702-32a5-45c6-9f06-a0ed6ba06090"
+				},
+				{
+					"type": "adresse",
+					"id": "db709204-1fb9-4ed5-ac37-675887435c70",
+					"titel": "Esrogårdparken 18, Gerlev, 3630 Jægerspris",
+					"husnummerId": "d23ac3f8-8dd5-445b-80c5-3bcb3dee8102"
+				},
+				{
+					"type": "adresse",
+					"id": "cc1441b7-c264-4c17-9336-2cbfe08d3e49",
+					"titel": "Esrogårdparken 19, Gerlev, 3630 Jægerspris",
+					"husnummerId": "6fa5b573-96db-4b2a-a90c-958e5a91690d"
+				},
+				{
+					"type": "adresse",
+					"id": "b9cf421f-fc56-44bc-b44f-b9c4b6f57de3",
+					"titel": "Esrogårdparken 20, Gerlev, 3630 Jægerspris",
+					"husnummerId": "5de5f361-4ace-4b81-92cf-5fb7536354e3"
+				},
+				{
+					"type": "adresse",
+					"id": "bdcde9e1-7671-43ab-9a5e-0785c37da4b7",
+					"titel": "Esrogårdparken 21, Gerlev, 3630 Jægerspris",
+					"husnummerId": "547865d0-77bf-460e-a977-a0029d8c227f"
+				},
+				{
+					"type": "adresse",
+					"id": "7331f174-0612-4157-a7f3-3e9ae5ed2194",
+					"titel": "Esrogårdparken 22, Gerlev, 3630 Jægerspris",
+					"husnummerId": "874da1c6-3321-4344-b545-6971c59aaf4c"
+				},
+				{
+					"type": "adresse",
+					"id": "66c163b2-5528-47f6-9e47-c477cfa42edc",
+					"titel": "Esrogårdparken 23, Gerlev, 3630 Jægerspris",
+					"husnummerId": "3520e7b4-3528-480c-aadb-0072f8ff244e"
+				},
+				{
+					"type": "adresse",
+					"id": "2fbc662e-051e-4a39-9fbe-6129f1f220ca",
+					"titel": "Esrogårdparken 24, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0e9df524-62de-4ca3-981a-ff9510b6713c"
+				},
+				{
+					"type": "adresse",
+					"id": "a792dec7-ce70-4fe6-86a8-b9280fbfb6f8",
+					"titel": "Esrogårdparken 25, Gerlev, 3630 Jægerspris",
+					"husnummerId": "baca1bb3-6202-4500-a8e5-e28458616df5"
+				},
+				{
+					"type": "adresse",
+					"id": "0627f570-9188-48f4-b34d-40fc45d3615a",
+					"titel": "Esrogårdparken 26, Gerlev, 3630 Jægerspris",
+					"husnummerId": "b9dcf304-cea7-46f1-ab38-6d3dfcc88f58"
+				},
+				{
+					"type": "adresse",
+					"id": "aa6dcfeb-0683-4545-90f4-7d0ed8e98b71",
+					"titel": "Esrogårdparken 27, Gerlev, 3630 Jægerspris",
+					"husnummerId": "4edfcae9-03e3-4c74-b9d4-7e8355618e3e"
+				},
+				{
+					"type": "adresse",
+					"id": "fd0ede8c-9bc7-4584-a6da-c407c13ce2ed",
+					"titel": "Esrogårdparken 28, Gerlev, 3630 Jægerspris",
+					"husnummerId": "e84d3ca2-8822-46ad-a3bb-0dec89d97f58"
+				},
+				{
+					"type": "adresse",
+					"id": "0306840a-0302-4c58-9d74-371c77d0bc36",
+					"titel": "Esrogårdparken 29, Gerlev, 3630 Jægerspris",
+					"husnummerId": "dc793a9d-4848-481c-84cd-02fa077af5c3"
+				},
+				{
+					"type": "adresse",
+					"id": "8cb88ebe-c5d4-41ab-8cac-84a28a5f82eb",
+					"titel": "Esrogårdparken 30, Gerlev, 3630 Jægerspris",
+					"husnummerId": "9874b01a-84c8-408a-9741-431f795eb717"
+				},
+				{
+					"type": "adresse",
+					"id": "0c86889f-1d34-43d4-91e3-9e9ae8ba27e5",
+					"titel": "Esrogårdparken 31, Gerlev, 3630 Jægerspris",
+					"husnummerId": "e228d40b-232b-46d7-be1d-a0800e4d9a86"
+				},
+				{
+					"type": "adresse",
+					"id": "a8c7b129-4784-4015-a1b0-bc88976ac6d6",
+					"titel": "Esrogårdparken 32, Gerlev, 3630 Jægerspris",
+					"husnummerId": "4ba6a0fd-cba0-4659-8b64-d87afa2b3e8f"
+				},
+				{
+					"type": "adresse",
+					"id": "de68f563-2d82-4249-ad4d-c57e361c5596",
+					"titel": "Esrogårdparken 33, Gerlev, 3630 Jægerspris",
+					"husnummerId": "945c8c3f-a320-4299-b724-735dff2213d0"
+				},
+				{
+					"type": "adresse",
+					"id": "f519a5d0-06d8-4fc2-8da2-aab87f9ad04b",
+					"titel": "Esrogårdparken 34, Gerlev, 3630 Jægerspris",
+					"husnummerId": "824bffc9-4465-4b0d-8ea5-aff42b75f643"
+				},
+				{
+					"type": "adresse",
+					"id": "0216e764-1953-44fd-8f0c-8b78fb0bb7dd",
+					"titel": "Esrogårdparken 35, Gerlev, 3630 Jægerspris",
+					"husnummerId": "d80af578-c16b-49c9-8026-afc80869f5a0"
+				},
+				{
+					"type": "adresse",
+					"id": "1f3b5f29-4602-427e-a7cd-6730f50aae39",
+					"titel": "Esrogårdparken 36, Gerlev, 3630 Jægerspris",
+					"husnummerId": "39c3f143-ea51-4a0a-a591-14e74b949db5"
+				},
+				{
+					"type": "adresse",
+					"id": "0cd6e057-3e93-411c-b70b-2d43718606d6",
+					"titel": "Esrogårdparken 37, Gerlev, 3630 Jægerspris",
+					"husnummerId": "49562beb-51b2-457f-8ab1-3445f49cf8e3"
+				},
+				{
+					"type": "adresse",
+					"id": "5882913d-e026-4f09-9240-84cb47cdc56b",
+					"titel": "Esrogårdparken 38, Gerlev, 3630 Jægerspris",
+					"husnummerId": "66a9be30-4356-4ec4-a188-9dbb05bab009"
+				},
+				{
+					"type": "adresse",
+					"id": "9899a850-8d09-48ce-b137-95e0181b7af7",
+					"titel": "Esrogårdparken 39, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0b21c0b2-bc26-4fb8-8130-256932d05e00"
+				},
+				{
+					"type": "adresse",
+					"id": "948d6641-f9aa-431d-8e91-bc8fc2f5fd77",
+					"titel": "Esrogårdparken 40, Gerlev, 3630 Jægerspris",
+					"husnummerId": "255ee70b-7c0b-4496-b1bf-0189e1598c3d"
+				},
+				{
+					"type": "adresse",
+					"id": "b7f1dd7e-570f-4c55-88d5-26a634cd929e",
+					"titel": "Esrogårdparken 41, Gerlev, 3630 Jægerspris",
+					"husnummerId": "56daf857-e625-4be7-b51c-d803b1b8887f"
+				},
+				{
+					"type": "adresse",
+					"id": "8ec75459-d0ff-4b0c-ba8d-d7888515917e",
+					"titel": "Esrogårdparken 42, Gerlev, 3630 Jægerspris",
+					"husnummerId": "66ab5f49-32cd-4da1-90bb-ff2542ec5d23"
+				},
+				{
+					"type": "adresse",
+					"id": "c1e33a14-53c5-4e22-8782-562cc99856ef",
+					"titel": "Esrogårdparken 43, Gerlev, 3630 Jægerspris",
+					"husnummerId": "09a17083-5e32-4013-a28f-8bb3489367b2"
+				},
+				{
+					"type": "adresse",
+					"id": "0602f930-0fa9-4bdc-bea7-498dbe3d8de7",
+					"titel": "Esrogårdparken 44, Gerlev, 3630 Jægerspris",
+					"husnummerId": "35c2174c-0b0d-45eb-ada0-288faa16518a"
+				},
+				{
+					"type": "adresse",
+					"id": "4847cab1-bc9e-4b8b-8b1a-3d28a1e67d2f",
+					"titel": "Esrogårdparken 45, Gerlev, 3630 Jægerspris",
+					"husnummerId": "54f1ed72-10d2-4911-bf63-cdbf5ba976d6"
+				},
+				{
+					"type": "adresse",
+					"id": "e6d730d0-3224-4323-8ce7-18ab29bd65c9",
+					"titel": "Esrogårdparken 46, Gerlev, 3630 Jægerspris",
+					"husnummerId": "d271cda7-a9e7-4e59-a2e5-73d0c5a9c102"
+				},
+				{
+					"type": "adresse",
+					"id": "106daf18-db36-4c76-8b31-10ca1a97d477",
+					"titel": "Esrogårdparken 47, Gerlev, 3630 Jægerspris",
+					"husnummerId": "68c86ef0-63fa-4eac-8baf-9bd35cc2a067"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Esrogårdsvej 3630": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "ae9ba4d3-f8ec-4a43-8829-a212348075c5",
+					"titel": "Esrogårdsvej 1, Gerlev, 3630 Jægerspris",
+					"husnummerId": "fe08b872-283a-4e13-bfda-b1d51bb3c126"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3466-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 3, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-677c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3467-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 4, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-677d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3468-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 6, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6783-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3469-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 8, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6785-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-346a-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 10, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6786-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-346b-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 12, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6787-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-346c-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 14, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6788-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-346d-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 16, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6789-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-346e-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 18, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-678a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-346f-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 20, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-678b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3470-32b8-e044-0003ba298018",
+					"titel": "Esrogårdsvej 22, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-678c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3223b70d-89e6-48eb-82e5-41e8850f4de0",
+					"titel": "Esrogårdsvej 24, Gerlev, 3630 Jægerspris",
+					"husnummerId": "22729a66-865f-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "83e3bbb9-4715-4227-906f-7e02fa4015d0",
+					"titel": "Esrogårdsvej 26, Gerlev, 3630 Jægerspris",
+					"husnummerId": "22729a66-8660-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e6f-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 87, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-678d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e70-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 89, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e27-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e71-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 91, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e28-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e72-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 93, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e29-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e73-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 95, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e2a-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e74-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 97, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e2b-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e75-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 99, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e2c-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e76-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 101, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e2d-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e77-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 103, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e2e-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e78-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 105, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e2f-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e79-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 107, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e30-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e7a-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 109, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e31-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e7b-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 111, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e32-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e7c-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 113, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e33-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e7d-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 115, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e34-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e7e-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 117, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e35-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e7f-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 119, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e36-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e80-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 121, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e37-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e81-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 123, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e38-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e82-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 125, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e39-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e83-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 127, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e3a-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e84-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 129, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e3b-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e85-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 131, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e3c-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e86-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 133, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e3d-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e87-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 135, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e3e-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e88-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 137, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e3f-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e89-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 139, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e40-1cba-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0b1f3f-0e8a-73d9-e044-0003ba298018",
+					"titel": "Esrogårdsvej 141, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0ea84e3c-4e41-1cba-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Esromarken 3630": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3471-32b8-e044-0003ba298018",
+					"titel": "Esromarken 1, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-678e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3472-32b8-e044-0003ba298018",
+					"titel": "Esromarken 2, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-678f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3473-32b8-e044-0003ba298018",
+					"titel": "Esromarken 3, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6790-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3474-32b8-e044-0003ba298018",
+					"titel": "Esromarken 4, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6791-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3475-32b8-e044-0003ba298018",
+					"titel": "Esromarken 5, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6792-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3476-32b8-e044-0003ba298018",
+					"titel": "Esromarken 6, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6793-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3479-32b8-e044-0003ba298018",
+					"titel": "Esromarken 9, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6796-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-347a-32b8-e044-0003ba298018",
+					"titel": "Esromarken 10, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6797-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-347b-32b8-e044-0003ba298018",
+					"titel": "Esromarken 11, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6798-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-347c-32b8-e044-0003ba298018",
+					"titel": "Esromarken 12, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-6799-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-347d-32b8-e044-0003ba298018",
+					"titel": "Esromarken 13, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-679a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-347e-32b8-e044-0003ba298018",
+					"titel": "Esromarken 14, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-679b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-347f-32b8-e044-0003ba298018",
+					"titel": "Esromarken 15, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-679c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3480-32b8-e044-0003ba298018",
+					"titel": "Esromarken 16, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-679d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3481-32b8-e044-0003ba298018",
+					"titel": "Esromarken 17, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-679e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3482-32b8-e044-0003ba298018",
+					"titel": "Esromarken 18, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-679f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3483-32b8-e044-0003ba298018",
+					"titel": "Esromarken 19, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3484-32b8-e044-0003ba298018",
+					"titel": "Esromarken 20, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3485-32b8-e044-0003ba298018",
+					"titel": "Esromarken 21, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3486-32b8-e044-0003ba298018",
+					"titel": "Esromarken 22, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3487-32b8-e044-0003ba298018",
+					"titel": "Esromarken 23, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3488-32b8-e044-0003ba298018",
+					"titel": "Esromarken 24, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-348a-32b8-e044-0003ba298018",
+					"titel": "Esromarken 26, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-348b-32b8-e044-0003ba298018",
+					"titel": "Esromarken 27, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-348c-32b8-e044-0003ba298018",
+					"titel": "Esromarken 28, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-348d-32b8-e044-0003ba298018",
+					"titel": "Esromarken 29, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-348e-32b8-e044-0003ba298018",
+					"titel": "Esromarken 30, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-348f-32b8-e044-0003ba298018",
+					"titel": "Esromarken 31, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3491-32b8-e044-0003ba298018",
+					"titel": "Esromarken 33, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3492-32b8-e044-0003ba298018",
+					"titel": "Esromarken 34, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3493-32b8-e044-0003ba298018",
+					"titel": "Esromarken 35, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3494-32b8-e044-0003ba298018",
+					"titel": "Esromarken 36, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3495-32b8-e044-0003ba298018",
+					"titel": "Esromarken 37, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3496-32b8-e044-0003ba298018",
+					"titel": "Esromarken 38, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67b3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3498-32b8-e044-0003ba298018",
+					"titel": "Esromarken 41, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67b5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-3499-32b8-e044-0003ba298018",
+					"titel": "Esromarken 43, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67b6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-349a-32b8-e044-0003ba298018",
+					"titel": "Esromarken 45, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-349b-32b8-e044-0003ba298018",
+					"titel": "Esromarken 47, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67b8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-349c-32b8-e044-0003ba298018",
+					"titel": "Esromarken 49, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-349d-32b8-e044-0003ba298018",
+					"titel": "Esromarken 51, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-349e-32b8-e044-0003ba298018",
+					"titel": "Esromarken 53, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-349f-32b8-e044-0003ba298018",
+					"titel": "Esromarken 55, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-34a0-32b8-e044-0003ba298018",
+					"titel": "Esromarken 57, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-34a1-32b8-e044-0003ba298018",
+					"titel": "Esromarken 59, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "434d4d3b-10d9-0401-e044-0003ba298018",
+					"titel": "Esromarken 63, Gerlev, 3630 Jægerspris",
+					"husnummerId": "434b5797-c40d-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-34a3-32b8-e044-0003ba298018",
+					"titel": "Esromarken 65, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-34a4-32b8-e044-0003ba298018",
+					"titel": "Esromarken 67, Gerlev, 3630 Jægerspris",
+					"husnummerId": "0a3f5080-67c1-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=esromgade": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a11-32b8-e044-0003ba298018",
+					"titel": "Esromgade 1, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a12-32b8-e044-0003ba298018",
+					"titel": "Esromgade 2, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-fe95-32b8-e044-0003ba298018",
+					"titel": "Esromgade 2A, 2200 København N",
+					"husnummerId": "0a3f507a-6a13-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a14-32b8-e044-0003ba298018",
+					"titel": "Esromgade 3, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a15-32b8-e044-0003ba298018",
+					"titel": "Esromgade 4A, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "4A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a16-32b8-e044-0003ba298018",
+					"titel": "Esromgade 4B, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "4B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a17-32b8-e044-0003ba298018",
+					"titel": "Esromgade 4C, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "4C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a18-32b8-e044-0003ba298018",
+					"titel": "Esromgade 5, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a19-32b8-e044-0003ba298018",
+					"titel": "Esromgade 6, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1a-32b8-e044-0003ba298018",
+					"titel": "Esromgade 7, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1b-32b8-e044-0003ba298018",
+					"titel": "Esromgade 7A, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "7A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1c-32b8-e044-0003ba298018",
+					"titel": "Esromgade 7B, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "7B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1d-32b8-e044-0003ba298018",
+					"titel": "Esromgade 8, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1e-32b8-e044-0003ba298018",
+					"titel": "Esromgade 9, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1f-32b8-e044-0003ba298018",
+					"titel": "Esromgade 10, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a20-32b8-e044-0003ba298018",
+					"titel": "Esromgade 11, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a21-32b8-e044-0003ba298018",
+					"titel": "Esromgade 12, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a22-32b8-e044-0003ba298018",
+					"titel": "Esromgade 13, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a23-32b8-e044-0003ba298018",
+					"titel": "Esromgade 14, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a24-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a25-32b8-e044-0003ba298018",
+					"titel": "Esromgade 16, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a26-32b8-e044-0003ba298018",
+					"titel": "Esromgade 18, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a27-32b8-e044-0003ba298018",
+					"titel": "Esromgade 20, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "20"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a28-32b8-e044-0003ba298018",
+					"titel": "Esromgade 22, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "22"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a29-32b8-e044-0003ba298018",
+					"titel": "Esromgade 24, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a2a-32b8-e044-0003ba298018",
+					"titel": "Esromgade 26, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a2b-32b8-e044-0003ba298018",
+					"titel": "Esromgade 28, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "28"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a2c-32b8-e044-0003ba298018",
+					"titel": "Esromgade 30, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "30"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a2d-32b8-e044-0003ba298018",
+					"titel": "Esromgade 32, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "32"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=esromgade 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a11-32b8-e044-0003ba298018",
+					"titel": "Esromgade 1, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a1f-32b8-e044-0003ba298018",
+					"titel": "Esromgade 10, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a20-32b8-e044-0003ba298018",
+					"titel": "Esromgade 11, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a21-32b8-e044-0003ba298018",
+					"titel": "Esromgade 12, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a22-32b8-e044-0003ba298018",
+					"titel": "Esromgade 13, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a23-32b8-e044-0003ba298018",
+					"titel": "Esromgade 14, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a24-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a25-32b8-e044-0003ba298018",
+					"titel": "Esromgade 16, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-6a26-32b8-e044-0003ba298018",
+					"titel": "Esromgade 18, 2200 København N",
+					"vejnavn": "Esromgade",
+					"husnummer": "18"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=esromgade 15": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "a38fe18a-71e4-440a-9944-4f2745ca109e",
+					"titel": "Esromgade 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "112e2930-860c-489b-8198-7c28d72c603d",
+					"titel": "Esromgade 15, kl. 1, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "206bb91b-01e6-40b2-a502-9d9591e2c6e0",
+					"titel": "Esromgade 15, kl. 2, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a8626602-53a0-41c7-a457-c5f31089592f",
+					"titel": "Esromgade 15, kl. 3, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97763544-23bb-4a9e-b68f-39fcf87579dc",
+					"titel": "Esromgade 15, kl. 4, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "65623ca8-d047-4c46-a4cc-d02a3263b9d9",
+					"titel": "Esromgade 15, kl. 5, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "387faab0-aa96-4fb4-b7aa-46a9cf72afa9",
+					"titel": "Esromgade 15, kl. 6, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5db3dbeb-2cc7-4be4-9de2-087899e4b28a",
+					"titel": "Esromgade 15, kl. 7, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8fdaae8f-2a77-41a5-a66e-bdf812cf6537",
+					"titel": "Esromgade 15, kl. 8, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7b92d625-5d3f-4f3a-81e2-2fe1e4355855",
+					"titel": "Esromgade 15, kl. 9, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dd9de8a1-40b9-47c9-ad89-e570e3b54dbb",
+					"titel": "Esromgade 15, kl. 10, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b7d7e1a1-4f0b-49cd-92da-c6893691589d",
+					"titel": "Esromgade 15, kl. 11, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4c47cf81-77d7-41c2-8179-d274ed0d13c4",
+					"titel": "Esromgade 15, kl. 12, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "20927a55-0456-4754-b3f7-4342f817b8c9",
+					"titel": "Esromgade 15, kl. 13, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "af91a4db-3fb8-4311-8dc9-f43d80ad42ad",
+					"titel": "Esromgade 15, kl. 14, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "07be9995-13cb-4cff-8601-dc8f14b4b97b",
+					"titel": "Esromgade 15, kl. 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "836ee684-d22e-4e8b-a830-cd80c10bbce1",
+					"titel": "Esromgade 15, kl. 16, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "45302760-3530-45da-9616-927171e8db18",
+					"titel": "Esromgade 15, kl. 17, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0574ce5b-749f-4031-9afc-80836f386451",
+					"titel": "Esromgade 15, kl. 18, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2f125316-03c4-485c-ae91-a66e06bb06c8",
+					"titel": "Esromgade 15, kl. 19, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dc86c546-7b8d-43f4-8d00-529a83d3a61e",
+					"titel": "Esromgade 15, kl. 20, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "59a56a84-2d53-4e3b-98b0-d993177da801",
+					"titel": "Esromgade 15, kl. 1900, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0d6dd3e9-d1d3-434c-8d4e-3f756bdf3003",
+					"titel": "Esromgade 15, kl. 1901, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2c5d2feb-1c7f-47ea-88a5-8272764e22d2",
+					"titel": "Esromgade 15, kl. 1902, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "478f5873-9898-4323-8ec7-94b2553d8c63",
+					"titel": "Esromgade 15, kl. 1903, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bf3f827b-ca6c-4720-8754-69f44bb873d5",
+					"titel": "Esromgade 15, kl. 1904, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "65b42a69-3d03-44b3-bbeb-2229203befe9",
+					"titel": "Esromgade 15, kl. 1905, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4aa43ba9-1b8a-40b9-a26e-d8e1e3ed19a6",
+					"titel": "Esromgade 15, kl. 1906, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "77e1089d-3988-44c0-9f1c-ba2645ec86fb",
+					"titel": "Esromgade 15, kl. 1907, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5aa6f92c-97be-443f-9b52-2b117734f254",
+					"titel": "Esromgade 15, kl. 1908, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8c9e022e-e879-453c-acb1-5c81c129f527",
+					"titel": "Esromgade 15, kl. 1909, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5a692236-4d2f-4efd-885a-3f2c68af265c",
+					"titel": "Esromgade 15, kl. 1910, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "48396211-7f19-48de-a891-f2eed7317564",
+					"titel": "Esromgade 15, kl. 1911, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "06d914ac-48ee-411c-8fd1-a144630a2fdc",
+					"titel": "Esromgade 15, kl. 1912, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e096273f-addf-4b79-a92c-9aca6fa63311",
+					"titel": "Esromgade 15, kl. 1913, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d976c434-7420-4c9d-97a2-be82006827ca",
+					"titel": "Esromgade 15, kl. 1914, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "57bb6b62-e211-4859-8d27-49357c44d300",
+					"titel": "Esromgade 15, kl. 1915, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "89c51ba5-14ad-4b12-bb00-204983a7283c",
+					"titel": "Esromgade 15, kl. 1916, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2717d82f-b7c3-4f5a-ad86-066d1a9daf98",
+					"titel": "Esromgade 15, kl. 1917, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ca6a5a62-210c-4dc9-b9b6-fcd0af9ceb17",
+					"titel": "Esromgade 15, kl. 1918, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "76ac1ead-a225-450e-bf23-3a3bf58ab458",
+					"titel": "Esromgade 15, kl. 1919, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2e9b634d-fa23-4b5b-a313-c40f95eed95e",
+					"titel": "Esromgade 15, kl. 1920, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "205a12ad-6405-4543-90e8-5ad3e8ef3906",
+					"titel": "Esromgade 15, kl. 2000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c8e02ebf-64fb-4616-9ac8-62a5f1489f95",
+					"titel": "Esromgade 15, kl. 2001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "48382066-1bf6-495f-be14-a2c447333ede",
+					"titel": "Esromgade 15, kl. 2002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ff934263-d98e-4eae-afcf-74db86fb62ae",
+					"titel": "Esromgade 15, kl. 2003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "17c12744-797a-4314-a6da-3a3cc671a04d",
+					"titel": "Esromgade 15, kl. 2004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cd398067-a8ca-4e0e-8518-ac111875ae9a",
+					"titel": "Esromgade 15, kl. 2005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "26b81993-5768-478a-91c4-86d3b0371343",
+					"titel": "Esromgade 15, kl. 2006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5bb57430-87ae-4030-a265-c78192c29349",
+					"titel": "Esromgade 15, kl. 2007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dcf6a510-1206-4999-8e8b-434bac029b6b",
+					"titel": "Esromgade 15, kl. 2008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "34909285-9715-4553-9134-cdf1915198b8",
+					"titel": "Esromgade 15, kl. 2009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cc536ec3-43d9-4c2d-8689-4aa7638ad720",
+					"titel": "Esromgade 15, kl. 2010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "420e5866-2355-4d4a-8d3e-1030abac2bda",
+					"titel": "Esromgade 15, kl. 2011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5c105a9e-e98e-45a4-b5fe-85b77f7b7c87",
+					"titel": "Esromgade 15, kl. 2012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8f4b6f33-e3f8-46a4-ac1b-9e82d74447a1",
+					"titel": "Esromgade 15, kl. 2013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2de048f2-c6db-4865-b32a-4aaec778e5fd",
+					"titel": "Esromgade 15, kl. 2014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "31b13d06-3f2b-474b-99c3-4faac76ec9cb",
+					"titel": "Esromgade 15, kl. 2015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bfab4dfd-6832-4106-9eb1-e676361134f0",
+					"titel": "Esromgade 15, kl. 2016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "11441edf-2b38-4ad2-ae45-a140f0ea66ba",
+					"titel": "Esromgade 15, kl. 2017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4ed5d6dc-1acc-4d0e-84e8-98ec78c99f07",
+					"titel": "Esromgade 15, kl. 2018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "eb69dbac-c613-480b-bc5e-54541c317a2d",
+					"titel": "Esromgade 15, kl. 2019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "61f73549-5e1e-4531-87ad-3c4e3b3e43ae",
+					"titel": "Esromgade 15, kl. 2020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e8f7c84c-cff2-4f03-8f98-c5c4d546eb62",
+					"titel": "Esromgade 15, kl. 2900, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9eaad349-0fb1-42a7-9988-b3293f3225fe",
+					"titel": "Esromgade 15, kl. 2901, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e72e904c-20f8-450c-8a98-fad1ae2ab7fb",
+					"titel": "Esromgade 15, kl. 2902, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cfbd9828-fec7-4693-b904-f10351d51c89",
+					"titel": "Esromgade 15, kl. 2903, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "11eb4c64-8933-4216-ab1f-03167989d26a",
+					"titel": "Esromgade 15, kl. 2904, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c755dccf-a7c3-4257-945f-39bd902737e4",
+					"titel": "Esromgade 15, kl. 2905, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "67557daa-9375-4a5a-86d1-7813a9a4095a",
+					"titel": "Esromgade 15, kl. 2906, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7876ffb7-682b-4a27-b3f8-570158827314",
+					"titel": "Esromgade 15, kl. 2907, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e1c88155-fd5a-4c30-aa26-1529983039e1",
+					"titel": "Esromgade 15, kl. 2908, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1212e6a7-145a-43c0-ab57-396f6ee0bb04",
+					"titel": "Esromgade 15, kl. 2909, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "de11b75c-8792-4e5a-ba7c-4a19857e88e0",
+					"titel": "Esromgade 15, kl. 2910, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6bfea78d-4879-41d8-af2d-933f11c9c545",
+					"titel": "Esromgade 15, kl. 2911, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5eeacc17-2192-4fc3-9353-ff9e357dc906",
+					"titel": "Esromgade 15, kl. 2912, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "39ac8a56-d2d5-4822-8b02-c49d1c211416",
+					"titel": "Esromgade 15, kl. 2913, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9ac791b6-8e74-40c8-b04f-8dd48d73ae2c",
+					"titel": "Esromgade 15, kl. 2914, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6f3e37f4-e586-4a8d-9c2c-4f495344fe76",
+					"titel": "Esromgade 15, kl. 2915, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1ba19109-7304-4210-b3f3-282cd692607b",
+					"titel": "Esromgade 15, kl. 2916, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4191909a-311a-494e-8dbf-3953fc748e5f",
+					"titel": "Esromgade 15, kl. 2917, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d9b864dc-3e66-4d3d-9e53-cabaf55c301c",
+					"titel": "Esromgade 15, kl. 2918, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5aa960d3-db7d-445f-b6a5-56ebc5dd5776",
+					"titel": "Esromgade 15, kl. 2919, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2cce79d6-1916-4029-8918-cf46a99a0e20",
+					"titel": "Esromgade 15, kl. 2920, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a986c627-f99d-4c56-bff2-25dac92e66ea",
+					"titel": "Esromgade 15, kl., 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "830ad100-3c98-4d68-a2b4-918dceda234f",
+					"titel": "Esromgade 15, st. 1, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0d2caaec-6dd0-4b79-a4aa-c15f3709975f",
+					"titel": "Esromgade 15, st. 2, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "659d79bd-54d1-41bb-bad9-95828cf2de86",
+					"titel": "Esromgade 15, st. 3, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "07ae23e1-5176-46c7-9147-a611ab8db203",
+					"titel": "Esromgade 15, st. 4, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ba62c87-d895-48a7-a2bb-375c4701e542",
+					"titel": "Esromgade 15, st. 5, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7297bb1a-92db-4305-86ed-103b9ded8732",
+					"titel": "Esromgade 15, st. 6, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3401ef64-49d3-4c74-b822-a456dfe6890d",
+					"titel": "Esromgade 15, st. 7, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5cb01cee-2de6-45d0-a0db-8ee26017fb4b",
+					"titel": "Esromgade 15, st. 8, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bb316017-4455-4435-9fa0-25ce43f021d3",
+					"titel": "Esromgade 15, st. 9, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fea3b5fd-35de-4842-b6ff-4684666488d6",
+					"titel": "Esromgade 15, st. 10, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e3d64f91-ad23-4b90-9861-93330144eb24",
+					"titel": "Esromgade 15, st. 11, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5366e35c-35e4-486d-a639-70678dff6185",
+					"titel": "Esromgade 15, st. 12, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "45049794-bbb2-40ff-b9e2-7538fe2b0ac0",
+					"titel": "Esromgade 15, st. 13, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f3181daf-d821-42d2-a9ff-d9715ea5a43b",
+					"titel": "Esromgade 15, st. 14, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "72a51957-8c87-44d2-b935-8a44da9681c2",
+					"titel": "Esromgade 15, st. 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1aef224d-83d1-4755-ae0c-f258720a8ded",
+					"titel": "Esromgade 15, st. 16, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d92fc10f-127b-42aa-8847-867e72b6b3e0",
+					"titel": "Esromgade 15, st. 17, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bee4f4fd-834c-44cc-aa22-4275288ef21a",
+					"titel": "Esromgade 15, st. 18, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ae99b30a-7332-4939-a9ea-7db48c5c902a",
+					"titel": "Esromgade 15, st. 19, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d597366b-426e-493b-badd-f6fdea30c8ef",
+					"titel": "Esromgade 15, st. 20, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a31650a2-542c-480f-a605-90a79a25f5a4",
+					"titel": "Esromgade 15, st. 1000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "985bc085-b885-4466-afe1-c6a8a315e7b7",
+					"titel": "Esromgade 15, st. 1001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c24280c7-0a47-4718-b2a5-b65c88decca5",
+					"titel": "Esromgade 15, st. 1002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dfb411bd-d4fc-4aa8-b3ee-24b8bfbae60f",
+					"titel": "Esromgade 15, st. 1003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b6cbc53c-e3b9-445f-b1d9-07b595591229",
+					"titel": "Esromgade 15, st. 1004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a10e97b-0960-46d3-9c41-99e0b66be1c6",
+					"titel": "Esromgade 15, st. 1005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8fc600a0-cb78-4a17-80d0-e8687b7154c0",
+					"titel": "Esromgade 15, st. 1006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a012b392-9842-4dd4-929c-5eb4db620d8f",
+					"titel": "Esromgade 15, st. 1007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e3394aae-f1dc-4fab-b8d8-9ad2404b2fd6",
+					"titel": "Esromgade 15, st. 1008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "03b87bd0-fb90-4bfc-bbcf-926fb83f0147",
+					"titel": "Esromgade 15, st. 1009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6c4cf406-9e5f-4f55-b6e0-d28d3c5f59ab",
+					"titel": "Esromgade 15, st. 1010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5b6e626d-0b64-4f9b-896b-c8c399b5449d",
+					"titel": "Esromgade 15, st. 1011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d1a38d77-7bd1-4256-a8e8-56f3c7bcc31d",
+					"titel": "Esromgade 15, st. 1012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5c5df08f-74ad-4c31-9229-645760956dc3",
+					"titel": "Esromgade 15, st. 1013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c655a707-d514-46db-a16d-fe09d53ab5df",
+					"titel": "Esromgade 15, st. 1014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0fb7049f-e3f5-4637-b846-c3261fc0336a",
+					"titel": "Esromgade 15, st. 1015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bcc5ef67-e0ba-4e3a-ad7f-af527b45e80a",
+					"titel": "Esromgade 15, st. 1016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e40754e9-e8e6-400a-b8d9-e8321ec7f40a",
+					"titel": "Esromgade 15, st. 1017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1fffa2cb-5b08-4bc5-ab3f-84619e180a29",
+					"titel": "Esromgade 15, st. 1018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ca6167b-252b-4965-94f8-19cdf8b62001",
+					"titel": "Esromgade 15, st. 1019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "05aab891-befa-45c8-a2b9-c3787d5d2d6e",
+					"titel": "Esromgade 15, st. 1020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "77ad05c2-f3a8-46f0-820d-81c64d0e9354",
+					"titel": "Esromgade 15, st. 2000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b6c861ad-b2f7-4677-95bc-31ff9ffab4e4",
+					"titel": "Esromgade 15, st. 2001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f852304b-e410-479d-a617-6b4adad91088",
+					"titel": "Esromgade 15, st. 2002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8f793178-8e34-4970-967a-21797fe1cc2c",
+					"titel": "Esromgade 15, st. 2003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dffb57b7-3e3d-4aa9-98df-22524b687923",
+					"titel": "Esromgade 15, st. 2004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4ae48a9e-b243-4916-a830-a3ed8b4761ad",
+					"titel": "Esromgade 15, st. 2005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d9a94971-6e31-4a88-bb86-e165a83e2e88",
+					"titel": "Esromgade 15, st. 2006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30a5a532-95ad-4b0f-96f0-23cc2f88d863",
+					"titel": "Esromgade 15, st. 2007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "de600ba3-92d6-471a-b106-cf2125f7b321",
+					"titel": "Esromgade 15, st. 2008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "942c8774-d1b8-4ba8-b597-cb8ff5f6e875",
+					"titel": "Esromgade 15, st. 2009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ba77eb1-9b23-4b5b-b7e5-3e15108d2b89",
+					"titel": "Esromgade 15, st. 2010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0222200b-95cd-4bd8-b02b-2e90fd8e01bb",
+					"titel": "Esromgade 15, st. 2011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9b1194b3-d782-4ee1-8ae8-04d5f31fd453",
+					"titel": "Esromgade 15, st. 2012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a5e7f66-3494-4da9-9b7c-66bd0f01d16e",
+					"titel": "Esromgade 15, st. 2013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "10f9e309-a3d6-4316-82e4-4afbbf2f5508",
+					"titel": "Esromgade 15, st. 2014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "844491c9-7f50-4410-b16c-0b6534eb9ca6",
+					"titel": "Esromgade 15, st. 2015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c97b6946-d168-4f13-834b-57a7d996a7b7",
+					"titel": "Esromgade 15, st. 2016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2a280b83-8bc5-47be-bb63-56ff42d6a420",
+					"titel": "Esromgade 15, st. 2017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6036ed45-fb06-4b6f-853d-33c64335d3e9",
+					"titel": "Esromgade 15, st. 2018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "478c43d0-991f-4cc2-964b-146445c4cd43",
+					"titel": "Esromgade 15, st. 2019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c09abe0b-6b58-4542-a2c1-eae3810e82a6",
+					"titel": "Esromgade 15, st. 2020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "86e08a18-cad3-4638-a902-1d254a184d66",
+					"titel": "Esromgade 15, st. 3000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97b4ca01-5a6e-476b-8396-fe6a650f6f40",
+					"titel": "Esromgade 15, st. 3001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "daf687d6-e042-4277-8aca-2ae26788f816",
+					"titel": "Esromgade 15, st. 3002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0c396bb6-bbf8-47f9-93f6-a194bc3cc0a7",
+					"titel": "Esromgade 15, st. 3003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7aa1ca3a-0cf8-46ef-a377-d7bd22f19b48",
+					"titel": "Esromgade 15, st. 3004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b53b3289-5807-4f01-bd71-5f0560624e9f",
+					"titel": "Esromgade 15, st. 3005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e73ebefa-94ed-4bde-b065-d6888cd57ad6",
+					"titel": "Esromgade 15, st. 3006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5c9a3028-158f-405d-9137-cb4696e3aae9",
+					"titel": "Esromgade 15, st. 3007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dcf2e5cb-cc83-467d-ae1f-86bbe451348a",
+					"titel": "Esromgade 15, st. 3008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fcf7fe0b-1089-4315-b840-84464458d0f2",
+					"titel": "Esromgade 15, st. 3009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5faf120f-e72c-4901-b036-6386645a6fa1",
+					"titel": "Esromgade 15, st. 3010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f21b16ca-1672-4e43-8e6e-3eb8c798cbb1",
+					"titel": "Esromgade 15, st. 3011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30064a8e-e2d6-461c-abae-08f3ec7fce04",
+					"titel": "Esromgade 15, st. 3012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2c89d9a3-a5ae-403f-8ff6-7b0174194ad1",
+					"titel": "Esromgade 15, st. 3013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e9819b8b-9685-4274-9440-4541fb141121",
+					"titel": "Esromgade 15, st. 3014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "09699d92-c0df-4c93-b72c-232516f824c3",
+					"titel": "Esromgade 15, st. 3015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9fd0e27f-c101-4701-8b4c-d27b064f26c4",
+					"titel": "Esromgade 15, st. 3016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "86b3a28c-6bc1-4f68-8b25-8d15cf5f9371",
+					"titel": "Esromgade 15, st. 3017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "57fa3ce2-b347-48cc-b19c-2714ca859ec9",
+					"titel": "Esromgade 15, st. 3018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e4e8fa3c-3734-4155-9ee6-9527a1a5e5ad",
+					"titel": "Esromgade 15, st. 3019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "073d306d-74f1-4a61-8399-c5e78f4e9ec0",
+					"titel": "Esromgade 15, st. 3020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ead2643a-fe8b-420a-a916-edff73baedd2",
+					"titel": "Esromgade 15, st. 4001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "847e9aae-e68c-4c46-8056-b7da6b8462d5",
+					"titel": "Esromgade 15, st., 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "04f5be14-7eb2-4da5-8cd4-23c175d4bf6e",
+					"titel": "Esromgade 15, 1. 1, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "98727323-19b1-4175-9185-f3e62958fd46",
+					"titel": "Esromgade 15, 1. 2, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "df571116-0723-44b0-bde8-a3b1480342da",
+					"titel": "Esromgade 15, 1. 3, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a0117524-74f9-4248-8612-d45e23fc4e68",
+					"titel": "Esromgade 15, 1. 4, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f8ec53f7-4cf7-4b0d-bdd8-f54890fd502e",
+					"titel": "Esromgade 15, 1. 5, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4dc5f25a-c93c-46f0-85d2-35e5e951e9d0",
+					"titel": "Esromgade 15, 1. 6, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3dfd3aaa-d5be-4a99-9527-7f8c3d5d809a",
+					"titel": "Esromgade 15, 1. 7, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "db299d51-d831-4fd7-96a4-30701353416a",
+					"titel": "Esromgade 15, 1. 8, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d231d0a6-cf13-475b-83b2-8fc3f4b3e407",
+					"titel": "Esromgade 15, 1. 9, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b45e1c41-c66e-43e1-8894-14165c0a346c",
+					"titel": "Esromgade 15, 1. 10, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c4e9b86d-91a2-411a-aa58-64650b2c5752",
+					"titel": "Esromgade 15, 1. 11, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "86e53fb7-56cc-4550-9b39-6efb61f9d5f4",
+					"titel": "Esromgade 15, 1. 12, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "13607397-d0cf-418c-afa9-315bce9cfa45",
+					"titel": "Esromgade 15, 1. 13, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d7126d1d-291d-4da8-a99b-6d9eb76a77f1",
+					"titel": "Esromgade 15, 1. 14, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a78e1aed-7f3e-4edf-8cfd-4daff565fbc6",
+					"titel": "Esromgade 15, 1. 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "be4b1174-0315-437a-a71f-e76a0e0ab557",
+					"titel": "Esromgade 15, 1. 16, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d2de7421-e506-4450-971c-4fecb6a6a321",
+					"titel": "Esromgade 15, 1. 17, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e339ffaf-147f-4422-8de4-cb99bd9e7077",
+					"titel": "Esromgade 15, 1. 18, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "287569cc-f0fe-44a8-87d4-921095627259",
+					"titel": "Esromgade 15, 1. 19, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0767f067-c526-480c-bf21-503b62ec12d3",
+					"titel": "Esromgade 15, 1. 20, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "23ebb670-a4aa-4ecb-9def-9b28b20ea3be",
+					"titel": "Esromgade 15, 1. 1100, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "17340337-68a7-4aa1-81ce-d7688c9df932",
+					"titel": "Esromgade 15, 1. 1101, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8d1c203d-6ce5-4b4a-8688-26b06765ef1d",
+					"titel": "Esromgade 15, 1. 1102, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9494dc78-3c7e-4f81-b880-e64a51479a41",
+					"titel": "Esromgade 15, 1. 1103, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "92b357c9-206c-4e13-9698-aab0cb38c6e6",
+					"titel": "Esromgade 15, 1. 1104, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ba52e716-7c89-4658-855a-3156d1976445",
+					"titel": "Esromgade 15, 1. 1105, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e462e8de-43ad-472a-a23e-8f6900d334c4",
+					"titel": "Esromgade 15, 1. 1106, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fc8527fe-8c6b-4cdc-bf42-616b6b8e02c5",
+					"titel": "Esromgade 15, 1. 1107, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b2e61248-9daa-4611-9183-3b88919828bc",
+					"titel": "Esromgade 15, 1. 1108, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8db8bcee-6d61-424b-aad3-d96f23bd0144",
+					"titel": "Esromgade 15, 1. 1109, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1776b6df-bc4d-4f1d-81c9-351547d38a29",
+					"titel": "Esromgade 15, 1. 1110, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c98a652d-87ce-4d80-a802-70f61a07c291",
+					"titel": "Esromgade 15, 1. 1209, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2ca27bd6-cc0e-4e1f-b336-efd19af5b560",
+					"titel": "Esromgade 15, 1. 1302, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fe9c1dc4-99e8-42b3-a2df-ea4d02dc351d",
+					"titel": "Esromgade 15, 1. 2100, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "31ced1de-9b9f-430d-967c-e6ccfe4f1e41",
+					"titel": "Esromgade 15, 1. 2101, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3f16e32a-bd0d-400d-88bf-2519cc58010c",
+					"titel": "Esromgade 15, 1. 2102, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c634b8b5-c833-4ec2-9b98-beb992df7314",
+					"titel": "Esromgade 15, 1. 2103, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f17115a4-11c0-4d4b-ab6a-84c2882be5c6",
+					"titel": "Esromgade 15, 1. 2104, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6a5348fd-4bd7-4c25-9db1-1333ed0054cf",
+					"titel": "Esromgade 15, 1. 2105, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "32cdce64-7521-4be6-b515-c276b0da4be7",
+					"titel": "Esromgade 15, 1. 2106, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "862243f2-f9ae-4aea-9a20-e44e28580f5b",
+					"titel": "Esromgade 15, 1. 2107, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29ef43bf-615c-4006-9d0e-7fe36e9ed340",
+					"titel": "Esromgade 15, 1. 2108, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dfad6090-2b0e-47c6-9fdb-96abd268ba1e",
+					"titel": "Esromgade 15, 1. 2109, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b9fcb3b3-eeb3-4195-ad04-c5883f39f5e3",
+					"titel": "Esromgade 15, 1. 2110, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "27bcd683-c032-4c38-bd15-8ebdfdbe4f45",
+					"titel": "Esromgade 15, 1., 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4254b88a-b74c-43c7-8562-9c330220ba1c",
+					"titel": "Esromgade 15, 2. 1, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "33534e33-e03c-4ee2-afe1-717dd9163670",
+					"titel": "Esromgade 15, 2. 2, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1ae87c27-6ab9-4383-aa0d-f11c89c5b0ee",
+					"titel": "Esromgade 15, 2. 3, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f81fe6fa-73d1-4e17-a3a0-3f584f1bc1b9",
+					"titel": "Esromgade 15, 2. 4, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "42300a1c-4235-4c5f-ba83-947c9a9a8866",
+					"titel": "Esromgade 15, 2. 5, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "75812f8d-979d-45c7-b926-44e7f9af0f6e",
+					"titel": "Esromgade 15, 2. 6, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d0baed08-9e49-4206-a80d-abf6fc277831",
+					"titel": "Esromgade 15, 2. 7, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9e017c15-4734-4de2-aa74-3cb7c85ce9a5",
+					"titel": "Esromgade 15, 2. 8, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "842ac0ee-0d27-47e4-8e66-04f5076d2287",
+					"titel": "Esromgade 15, 2. 9, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b7a71dd9-53c0-4c4f-ac03-4a31933a62c9",
+					"titel": "Esromgade 15, 2. 10, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "48815379-5449-4916-940d-1c95e96d3842",
+					"titel": "Esromgade 15, 2. 11, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fff3f9b4-410c-4d5b-a2a1-7b2b1c469134",
+					"titel": "Esromgade 15, 2. 12, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d4f96e8c-b97a-49cc-896c-0792349f65b5",
+					"titel": "Esromgade 15, 2. 13, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d4b5333c-e3e8-4759-af18-37e209cebdac",
+					"titel": "Esromgade 15, 2. 14, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "43d2590f-7abc-42e8-b596-027c815c36cd",
+					"titel": "Esromgade 15, 2. 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b355c597-3122-481e-bfb9-d2dc9f411247",
+					"titel": "Esromgade 15, 2. 16, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e2f2b777-b8ba-4987-b67d-9c453e5511fc",
+					"titel": "Esromgade 15, 2. 17, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0ed5592e-f6b8-475e-9167-b9ff2421caf7",
+					"titel": "Esromgade 15, 2. 18, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b88c669d-2b75-43bb-9ad4-6c4424f66d96",
+					"titel": "Esromgade 15, 2. 19, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "685fa977-917d-4cb0-9260-f0c3e68cbd8f",
+					"titel": "Esromgade 15, 2. 20, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "565511e8-186b-4bf1-ada3-419297299f4d",
+					"titel": "Esromgade 15, 2. 1200, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "aa03db6d-2df0-4794-99fb-21686e1fea15",
+					"titel": "Esromgade 15, 2. 1201, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d47e1a0e-ac25-47a6-a9db-9c3428c88d3b",
+					"titel": "Esromgade 15, 2. 1202, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7d75a7c5-fa7b-40a9-9f9b-7a83d967516e",
+					"titel": "Esromgade 15, 2. 1203, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "27d06a48-1429-4197-8879-7173c97b04b1",
+					"titel": "Esromgade 15, 2. 1204, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9ed60e6e-c9a7-4264-a65f-b1ab18d27993",
+					"titel": "Esromgade 15, 2. 1205, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c5d1d7f9-2782-4cc5-84f2-33b14c607fa0",
+					"titel": "Esromgade 15, 2. 1206, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b73baf7e-c1f5-4281-8a0c-14692f5c8fa1",
+					"titel": "Esromgade 15, 2. 1207, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "92639d8c-5971-448a-ad31-21cd60b5094d",
+					"titel": "Esromgade 15, 2. 1208, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "487aace1-ca6e-48e2-b3b9-49cbacef63f1",
+					"titel": "Esromgade 15, 2. 1209, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "85a973b3-d57d-46a6-b34c-3b4dcf58e4fa",
+					"titel": "Esromgade 15, 2. 1210, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97768c4c-45ec-493e-bf2a-e532261e2e44",
+					"titel": "Esromgade 15, 2. 1211, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "56e4b818-c8a0-4d10-9be4-0f4018d282f4",
+					"titel": "Esromgade 15, 2. 2200, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a0984197-289a-4f65-8bbe-24beebfea9a0",
+					"titel": "Esromgade 15, 2. 2201, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cb13cfa9-4b6c-49cf-808e-c57ec7b2b666",
+					"titel": "Esromgade 15, 2. 2202, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e6a23b7e-0680-497c-ab6a-5ff3e3988979",
+					"titel": "Esromgade 15, 2. 2203, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "328f0a47-46bc-411e-9937-2186628ba47d",
+					"titel": "Esromgade 15, 2. 2204, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0e4d8322-c56f-453d-b568-fecae24a09b2",
+					"titel": "Esromgade 15, 2. 2205, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "45a3f441-6a71-4535-9c22-e2c2ad8debac",
+					"titel": "Esromgade 15, 2. 2206, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5d23ea07-1889-4b1b-9ee2-3e0ce54ae4ae",
+					"titel": "Esromgade 15, 2. 2207, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c6f4af20-3171-496f-a16a-e1e62606ebd4",
+					"titel": "Esromgade 15, 2. 2208, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "636ef0b3-cf8d-4ba5-b6e2-be086f887910",
+					"titel": "Esromgade 15, 2. 2209, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "16aa8db7-dfa9-4749-abf7-cbcb6b0c67a2",
+					"titel": "Esromgade 15, 2. 2210, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f0fd73a7-f512-4dd5-a646-da4bfd80ed29",
+					"titel": "Esromgade 15, 2. 2211, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "59261778-c65a-458c-8eb6-b9eef55ed7c0",
+					"titel": "Esromgade 15, 2. 2303, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bae19da0-a14f-416f-8ece-3f898c88bee6",
+					"titel": "Esromgade 15, 2., 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "827a4409-81b4-4e27-9918-6c393669d830",
+					"titel": "Esromgade 15, 3. 1, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8db48066-76ed-46d3-a454-e4057f1c327a",
+					"titel": "Esromgade 15, 3. 2, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "be66bb84-d728-4b5f-966e-441c2a633a62",
+					"titel": "Esromgade 15, 3. 3, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5fa0bd55-bdb7-4cf5-a4f8-311e8083d660",
+					"titel": "Esromgade 15, 3. 4, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e569137f-85f5-4572-932b-d7967b87f4f9",
+					"titel": "Esromgade 15, 3. 5, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7c30faab-fc85-481b-b0a0-404df83fced1",
+					"titel": "Esromgade 15, 3. 6, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a9de8384-0373-4694-a0be-7437c4fea9cb",
+					"titel": "Esromgade 15, 3. 7, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "243e5d10-2374-481f-85b2-de537875e082",
+					"titel": "Esromgade 15, 3. 8, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6bac89ff-2475-41d3-aed9-02ba06fdaf9d",
+					"titel": "Esromgade 15, 3. 9, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e9d0ff6e-d40f-4c1b-ad6c-184abc184bb9",
+					"titel": "Esromgade 15, 3. 10, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e48c30ce-fb7b-4fc2-bf20-2f90a91ae6ba",
+					"titel": "Esromgade 15, 3. 11, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "254df303-1d55-4867-b1c0-878087ce3591",
+					"titel": "Esromgade 15, 3. 12, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a8cb6488-66eb-42ee-a21a-aff5411b99ac",
+					"titel": "Esromgade 15, 3. 13, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "917bd3e9-25ba-4643-a134-b2f47be2a894",
+					"titel": "Esromgade 15, 3. 14, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5e781413-ece5-4637-83d3-aff2e73a495f",
+					"titel": "Esromgade 15, 3. 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d742a20d-b3f2-40d3-98a8-ddf4a0422fd3",
+					"titel": "Esromgade 15, 3. 16, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6d99562a-41f9-4ae7-9b82-18de6c835910",
+					"titel": "Esromgade 15, 3. 17, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "eaa8f96c-ec88-40e9-a8de-2b826962ffa6",
+					"titel": "Esromgade 15, 3. 18, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ba4e89f7-f45c-47ae-9cef-b4404245c24a",
+					"titel": "Esromgade 15, 3. 19, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c8214e73-ff6f-44d8-9007-21f206fa3944",
+					"titel": "Esromgade 15, 3. 20, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "79ecdbc7-a954-4c60-90d7-dc694a39e8ed",
+					"titel": "Esromgade 15, 3. 1300, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e3b9e3fd-f080-4d52-99cf-ee292dce4705",
+					"titel": "Esromgade 15, 3. 1301, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f0c3885f-01ee-4204-951b-ce3baaa071f0",
+					"titel": "Esromgade 15, 3. 1302, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "66db5839-f999-4f94-bea3-49eb5779a928",
+					"titel": "Esromgade 15, 3. 1303, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "eed50251-5497-4691-8777-cf1da9b50c92",
+					"titel": "Esromgade 15, 3. 1304, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "775548af-1b0a-4903-a241-9a19f7a44b49",
+					"titel": "Esromgade 15, 3. 1305, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "63b348f2-701b-40df-abbe-9ba52e906ceb",
+					"titel": "Esromgade 15, 3. 1306, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fcdcd9a4-3626-4bd0-a4cf-c6ed087ae2ae",
+					"titel": "Esromgade 15, 3. 1307, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4c3793d7-d0b9-440b-bb73-41650facb23b",
+					"titel": "Esromgade 15, 3. 1308, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1cf50870-9deb-42c8-bfde-411414ee347c",
+					"titel": "Esromgade 15, 3. 1309, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5ff54762-5fd9-4091-beae-6e0ff3fc32be",
+					"titel": "Esromgade 15, 3. 1310, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c6d95530-e25a-40a3-b636-c066138cefc8",
+					"titel": "Esromgade 15, 3. 1311, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "533c133d-9492-4e74-b013-b93f4736b06d",
+					"titel": "Esromgade 15, 3. 1312, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5814eab3-a39e-4f59-9f79-7df0e2ee11ce",
+					"titel": "Esromgade 15, 3. 1313, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "017dea45-c331-4d0e-891c-24dafbebd7d9",
+					"titel": "Esromgade 15, 3. 1314, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e664b855-bf81-4490-9c3f-aad36d0377f0",
+					"titel": "Esromgade 15, 3. 1315, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2ae12187-b974-4773-9432-201cd25c6efc",
+					"titel": "Esromgade 15, 3. 1316, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0aa4e48b-f68d-4283-ab6a-c8081e1061fe",
+					"titel": "Esromgade 15, 3. 1317, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b8ace0f8-f87c-4d68-875a-8161d63aa481",
+					"titel": "Esromgade 15, 3. 1318, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f9d8b963-7dbc-4ade-a660-fa8484573bbd",
+					"titel": "Esromgade 15, 3. 1319, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c7d9f9a3-db3e-4551-8582-dc9d500c6e83",
+					"titel": "Esromgade 15, 3. 1320, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e2f668a5-5325-4151-9e97-27aa4bd0cc9e",
+					"titel": "Esromgade 15, 3. 2300, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "889ca3b8-7cdb-4360-84fc-f7650bb39ef9",
+					"titel": "Esromgade 15, 3. 2301, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3f1a4dcd-0d94-46e5-80dd-88fc3512c39d",
+					"titel": "Esromgade 15, 3. 2302, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f88d6e05-5d23-4090-b3f5-0847b4c9b766",
+					"titel": "Esromgade 15, 3. 2303, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ee142bac-616b-4ab4-93e2-69b4a5b11770",
+					"titel": "Esromgade 15, 3. 2304, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "84c7638e-1aed-4d15-9e99-ab0f8236ca75",
+					"titel": "Esromgade 15, 3. 2305, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3671d64e-5c83-47f6-920c-dfd979b0652b",
+					"titel": "Esromgade 15, 3. 2306, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d900cff0-517e-4919-b539-3e22bd7a37bc",
+					"titel": "Esromgade 15, 3. 2307, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4d5948ce-3ecf-4cdf-b2f1-a545a817cf26",
+					"titel": "Esromgade 15, 3. 2308, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "114e6bbf-2850-46b9-a2e2-04c1bf966df2",
+					"titel": "Esromgade 15, 3. 2309, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30e1070c-3d4b-4503-b814-8fee89ed0922",
+					"titel": "Esromgade 15, 3. 2310, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "35d9e9c5-9b24-4211-be38-e1face14a2cb",
+					"titel": "Esromgade 15, 3. 2311, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "acd6fe55-3bee-4045-b17e-958241307b48",
+					"titel": "Esromgade 15, 3. 2312, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e53523a7-5271-44fd-b3ee-1e5fcd9b27c9",
+					"titel": "Esromgade 15, 3. 2313, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5711d7d3-5a03-4220-b53a-bab5d49f7184",
+					"titel": "Esromgade 15, 3. 2314, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9d07bca0-3379-42a9-a82a-95e9808401d7",
+					"titel": "Esromgade 15, 3. 2315, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "384c8acc-f2da-4080-b449-7050436e6942",
+					"titel": "Esromgade 15, 3. 2316, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "055a5e9d-684e-432e-ac66-04d2487add29",
+					"titel": "Esromgade 15, 3. 2317, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8e4c780b-acae-4fff-bc89-931998ca4d1b",
+					"titel": "Esromgade 15, 3. 2318, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b668df58-891c-4e8a-a481-c1cea9231e59",
+					"titel": "Esromgade 15, 3. 2319, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fbcce0a4-7620-4492-b64a-f357b4492a74",
+					"titel": "Esromgade 15, 3. 2320, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b90276be-2fff-480d-85e4-2b96fd6cb9ae",
+					"titel": "Esromgade 15, 3., 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "69ba8056-02f5-42ff-ba78-6b70db22361f",
+					"titel": "Esromgade 15, 4. 1, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "875e9432-7dc4-418d-bbd2-5e11e49519f7",
+					"titel": "Esromgade 15, 4. 2, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f1378084-52c4-449f-97b3-4818ced0a7cf",
+					"titel": "Esromgade 15, 4. 3, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8d7b90b1-c9a8-435f-98a1-0f9666af8b1c",
+					"titel": "Esromgade 15, 4. 4, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f83a5ef3-b00f-458b-9c7a-1ae321ba601e",
+					"titel": "Esromgade 15, 4. 5, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "50fc611e-0fe1-448e-9203-24ad85461ee7",
+					"titel": "Esromgade 15, 4. 6, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e4c3c056-49f0-4904-8d0f-8e192b6d5bd3",
+					"titel": "Esromgade 15, 4. 7, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2d974984-3d1c-4fd8-a4a1-02ca4f1d4f2d",
+					"titel": "Esromgade 15, 4. 8, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "eb7c1ac1-05a9-4497-9b3d-aaf8ac1d74cb",
+					"titel": "Esromgade 15, 4. 9, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ca39f092-f6aa-4ac1-bb4e-77eb0c65f3cd",
+					"titel": "Esromgade 15, 4. 10, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "904fa4f0-932a-442e-9415-18879681f3b3",
+					"titel": "Esromgade 15, 4. 11, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6b22fa44-3726-4551-b7d7-6fedfc7e4a62",
+					"titel": "Esromgade 15, 4. 12, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "07ef7b2a-cf13-4fd5-88ea-8ad4cbbceba0",
+					"titel": "Esromgade 15, 4. 13, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b68b17e6-9477-4d49-862e-a0292fbd9864",
+					"titel": "Esromgade 15, 4. 14, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "03c7d2ac-006e-40fc-86ca-99e6b4b4fac4",
+					"titel": "Esromgade 15, 4. 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "541044e7-1396-4afe-9ff6-bb61b66a2993",
+					"titel": "Esromgade 15, 4. 16, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a30264fc-741d-4811-9d4d-8a72367a22e6",
+					"titel": "Esromgade 15, 4. 17, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "834ad7f2-f4ab-4faf-be9a-1e1ce36d385d",
+					"titel": "Esromgade 15, 4. 18, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "71708600-3dfa-4e64-852e-6bada9da75a0",
+					"titel": "Esromgade 15, 4. 19, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "723f3967-af13-462c-948e-8f4bad3b4798",
+					"titel": "Esromgade 15, 4. 20, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff32-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 4. 1401, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5e6492f6-b81c-44d9-8cbc-23e1fd1c6606",
+					"titel": "Esromgade 15, 4. 1402, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff33-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 4. 2401, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff34-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 4. 2402, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff35-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 4. 2403, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff36-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 4. 2404, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff37-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 4. 2405, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff38-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 4. 2406, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff39-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 4. 2407, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff3a-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 4. 2408, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6a39921c-890d-413c-adb0-20d61231905f",
+					"titel": "Esromgade 15, 4., 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1a285964-becd-438a-9059-7d5be4a9e302",
+					"titel": "Esromgade 15, 5. 1, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "54c40dc0-3896-4acc-beb3-49e6b572a196",
+					"titel": "Esromgade 15, 5. 2, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4454058e-ab51-4aab-be5d-b7ca9b423fc7",
+					"titel": "Esromgade 15, 5. 3, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "806e2606-b2f5-4b6d-b67e-e2ce14e8090b",
+					"titel": "Esromgade 15, 5. 4, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0d4b3a7d-a3c3-4be4-ae2d-394055788c9e",
+					"titel": "Esromgade 15, 5. 5, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "965847dc-a1ef-4800-b914-dbf9df6689dc",
+					"titel": "Esromgade 15, 5. 6, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1c3cd1f2-16f2-4103-b437-cb95c1c676f2",
+					"titel": "Esromgade 15, 5. 7, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "91cd4e33-6bbc-40a1-b8e0-9a967624f217",
+					"titel": "Esromgade 15, 5. 8, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0ce38269-d9ed-4aa6-824c-3cfe54b7eb8c",
+					"titel": "Esromgade 15, 5. 9, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "37a1ddee-4b1c-4e01-83f7-a232a954a0d9",
+					"titel": "Esromgade 15, 5. 10, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c87e9c68-ecd1-4073-bab8-4b460c1456aa",
+					"titel": "Esromgade 15, 5. 11, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5bf81d9f-e77f-448f-b9a1-a00354c30082",
+					"titel": "Esromgade 15, 5. 12, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "12e13540-a887-4731-8e6c-aeb1dea2970e",
+					"titel": "Esromgade 15, 5. 13, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "897f30ae-b5f9-4c53-9c1f-7e714df62fdf",
+					"titel": "Esromgade 15, 5. 14, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ed4f937f-2c17-40f1-a841-f416997b8fa6",
+					"titel": "Esromgade 15, 5. 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "695156eb-c338-4797-b858-115ffa4beab6",
+					"titel": "Esromgade 15, 5. 16, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b27a0a9b-c029-41e3-8826-b9e658b6d104",
+					"titel": "Esromgade 15, 5. 17, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7f0dbe63-2fad-475f-8971-fe82aa6062aa",
+					"titel": "Esromgade 15, 5. 18, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9f1de613-3a2e-4cde-9dc9-5f8284b1795a",
+					"titel": "Esromgade 15, 5. 19, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "814ff225-0813-49fa-ba8d-b41fc7e18dea",
+					"titel": "Esromgade 15, 5. 20, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "085f4501-d643-469c-bbe9-c3c808578f21",
+					"titel": "Esromgade 15, 5. 1501, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff3b-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 5. 1502, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "189af776-8cf4-4795-a630-5645439d6b2f",
+					"titel": "Esromgade 15, 5. 1503, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff3c-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 5. 2501, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff3d-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 5. 2502, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff3e-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 5. 2503, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "abf44215-e44c-4161-aa6c-23f24f974388",
+					"titel": "Esromgade 15, 5. 2504, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff3f-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 5. 2505, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff40-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 5. 2506, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509d-ff41-32b8-e044-0003ba298018",
+					"titel": "Esromgade 15, 5. 2507, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a62f88c5-8d81-42c9-a810-e45a60151864",
+					"titel": "Esromgade 15, 5., 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=esromgade 15 st": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "830ad100-3c98-4d68-a2b4-918dceda234f",
+					"titel": "Esromgade 15, st. 1, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0d2caaec-6dd0-4b79-a4aa-c15f3709975f",
+					"titel": "Esromgade 15, st. 2, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "659d79bd-54d1-41bb-bad9-95828cf2de86",
+					"titel": "Esromgade 15, st. 3, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "07ae23e1-5176-46c7-9147-a611ab8db203",
+					"titel": "Esromgade 15, st. 4, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ba62c87-d895-48a7-a2bb-375c4701e542",
+					"titel": "Esromgade 15, st. 5, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7297bb1a-92db-4305-86ed-103b9ded8732",
+					"titel": "Esromgade 15, st. 6, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3401ef64-49d3-4c74-b822-a456dfe6890d",
+					"titel": "Esromgade 15, st. 7, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5cb01cee-2de6-45d0-a0db-8ee26017fb4b",
+					"titel": "Esromgade 15, st. 8, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bb316017-4455-4435-9fa0-25ce43f021d3",
+					"titel": "Esromgade 15, st. 9, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fea3b5fd-35de-4842-b6ff-4684666488d6",
+					"titel": "Esromgade 15, st. 10, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e3d64f91-ad23-4b90-9861-93330144eb24",
+					"titel": "Esromgade 15, st. 11, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5366e35c-35e4-486d-a639-70678dff6185",
+					"titel": "Esromgade 15, st. 12, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "45049794-bbb2-40ff-b9e2-7538fe2b0ac0",
+					"titel": "Esromgade 15, st. 13, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f3181daf-d821-42d2-a9ff-d9715ea5a43b",
+					"titel": "Esromgade 15, st. 14, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "72a51957-8c87-44d2-b935-8a44da9681c2",
+					"titel": "Esromgade 15, st. 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1aef224d-83d1-4755-ae0c-f258720a8ded",
+					"titel": "Esromgade 15, st. 16, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d92fc10f-127b-42aa-8847-867e72b6b3e0",
+					"titel": "Esromgade 15, st. 17, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bee4f4fd-834c-44cc-aa22-4275288ef21a",
+					"titel": "Esromgade 15, st. 18, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ae99b30a-7332-4939-a9ea-7db48c5c902a",
+					"titel": "Esromgade 15, st. 19, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d597366b-426e-493b-badd-f6fdea30c8ef",
+					"titel": "Esromgade 15, st. 20, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a31650a2-542c-480f-a605-90a79a25f5a4",
+					"titel": "Esromgade 15, st. 1000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "985bc085-b885-4466-afe1-c6a8a315e7b7",
+					"titel": "Esromgade 15, st. 1001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c24280c7-0a47-4718-b2a5-b65c88decca5",
+					"titel": "Esromgade 15, st. 1002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dfb411bd-d4fc-4aa8-b3ee-24b8bfbae60f",
+					"titel": "Esromgade 15, st. 1003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b6cbc53c-e3b9-445f-b1d9-07b595591229",
+					"titel": "Esromgade 15, st. 1004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a10e97b-0960-46d3-9c41-99e0b66be1c6",
+					"titel": "Esromgade 15, st. 1005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8fc600a0-cb78-4a17-80d0-e8687b7154c0",
+					"titel": "Esromgade 15, st. 1006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a012b392-9842-4dd4-929c-5eb4db620d8f",
+					"titel": "Esromgade 15, st. 1007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e3394aae-f1dc-4fab-b8d8-9ad2404b2fd6",
+					"titel": "Esromgade 15, st. 1008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "03b87bd0-fb90-4bfc-bbcf-926fb83f0147",
+					"titel": "Esromgade 15, st. 1009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6c4cf406-9e5f-4f55-b6e0-d28d3c5f59ab",
+					"titel": "Esromgade 15, st. 1010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5b6e626d-0b64-4f9b-896b-c8c399b5449d",
+					"titel": "Esromgade 15, st. 1011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d1a38d77-7bd1-4256-a8e8-56f3c7bcc31d",
+					"titel": "Esromgade 15, st. 1012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5c5df08f-74ad-4c31-9229-645760956dc3",
+					"titel": "Esromgade 15, st. 1013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c655a707-d514-46db-a16d-fe09d53ab5df",
+					"titel": "Esromgade 15, st. 1014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0fb7049f-e3f5-4637-b846-c3261fc0336a",
+					"titel": "Esromgade 15, st. 1015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bcc5ef67-e0ba-4e3a-ad7f-af527b45e80a",
+					"titel": "Esromgade 15, st. 1016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e40754e9-e8e6-400a-b8d9-e8321ec7f40a",
+					"titel": "Esromgade 15, st. 1017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1fffa2cb-5b08-4bc5-ab3f-84619e180a29",
+					"titel": "Esromgade 15, st. 1018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ca6167b-252b-4965-94f8-19cdf8b62001",
+					"titel": "Esromgade 15, st. 1019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "05aab891-befa-45c8-a2b9-c3787d5d2d6e",
+					"titel": "Esromgade 15, st. 1020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "77ad05c2-f3a8-46f0-820d-81c64d0e9354",
+					"titel": "Esromgade 15, st. 2000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b6c861ad-b2f7-4677-95bc-31ff9ffab4e4",
+					"titel": "Esromgade 15, st. 2001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f852304b-e410-479d-a617-6b4adad91088",
+					"titel": "Esromgade 15, st. 2002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8f793178-8e34-4970-967a-21797fe1cc2c",
+					"titel": "Esromgade 15, st. 2003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dffb57b7-3e3d-4aa9-98df-22524b687923",
+					"titel": "Esromgade 15, st. 2004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4ae48a9e-b243-4916-a830-a3ed8b4761ad",
+					"titel": "Esromgade 15, st. 2005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d9a94971-6e31-4a88-bb86-e165a83e2e88",
+					"titel": "Esromgade 15, st. 2006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30a5a532-95ad-4b0f-96f0-23cc2f88d863",
+					"titel": "Esromgade 15, st. 2007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "de600ba3-92d6-471a-b106-cf2125f7b321",
+					"titel": "Esromgade 15, st. 2008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "942c8774-d1b8-4ba8-b597-cb8ff5f6e875",
+					"titel": "Esromgade 15, st. 2009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ba77eb1-9b23-4b5b-b7e5-3e15108d2b89",
+					"titel": "Esromgade 15, st. 2010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0222200b-95cd-4bd8-b02b-2e90fd8e01bb",
+					"titel": "Esromgade 15, st. 2011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9b1194b3-d782-4ee1-8ae8-04d5f31fd453",
+					"titel": "Esromgade 15, st. 2012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a5e7f66-3494-4da9-9b7c-66bd0f01d16e",
+					"titel": "Esromgade 15, st. 2013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "10f9e309-a3d6-4316-82e4-4afbbf2f5508",
+					"titel": "Esromgade 15, st. 2014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "844491c9-7f50-4410-b16c-0b6534eb9ca6",
+					"titel": "Esromgade 15, st. 2015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c97b6946-d168-4f13-834b-57a7d996a7b7",
+					"titel": "Esromgade 15, st. 2016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2a280b83-8bc5-47be-bb63-56ff42d6a420",
+					"titel": "Esromgade 15, st. 2017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6036ed45-fb06-4b6f-853d-33c64335d3e9",
+					"titel": "Esromgade 15, st. 2018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "478c43d0-991f-4cc2-964b-146445c4cd43",
+					"titel": "Esromgade 15, st. 2019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c09abe0b-6b58-4542-a2c1-eae3810e82a6",
+					"titel": "Esromgade 15, st. 2020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "86e08a18-cad3-4638-a902-1d254a184d66",
+					"titel": "Esromgade 15, st. 3000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97b4ca01-5a6e-476b-8396-fe6a650f6f40",
+					"titel": "Esromgade 15, st. 3001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "daf687d6-e042-4277-8aca-2ae26788f816",
+					"titel": "Esromgade 15, st. 3002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0c396bb6-bbf8-47f9-93f6-a194bc3cc0a7",
+					"titel": "Esromgade 15, st. 3003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7aa1ca3a-0cf8-46ef-a377-d7bd22f19b48",
+					"titel": "Esromgade 15, st. 3004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b53b3289-5807-4f01-bd71-5f0560624e9f",
+					"titel": "Esromgade 15, st. 3005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e73ebefa-94ed-4bde-b065-d6888cd57ad6",
+					"titel": "Esromgade 15, st. 3006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5c9a3028-158f-405d-9137-cb4696e3aae9",
+					"titel": "Esromgade 15, st. 3007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dcf2e5cb-cc83-467d-ae1f-86bbe451348a",
+					"titel": "Esromgade 15, st. 3008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fcf7fe0b-1089-4315-b840-84464458d0f2",
+					"titel": "Esromgade 15, st. 3009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5faf120f-e72c-4901-b036-6386645a6fa1",
+					"titel": "Esromgade 15, st. 3010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f21b16ca-1672-4e43-8e6e-3eb8c798cbb1",
+					"titel": "Esromgade 15, st. 3011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30064a8e-e2d6-461c-abae-08f3ec7fce04",
+					"titel": "Esromgade 15, st. 3012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2c89d9a3-a5ae-403f-8ff6-7b0174194ad1",
+					"titel": "Esromgade 15, st. 3013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e9819b8b-9685-4274-9440-4541fb141121",
+					"titel": "Esromgade 15, st. 3014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "09699d92-c0df-4c93-b72c-232516f824c3",
+					"titel": "Esromgade 15, st. 3015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9fd0e27f-c101-4701-8b4c-d27b064f26c4",
+					"titel": "Esromgade 15, st. 3016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "86b3a28c-6bc1-4f68-8b25-8d15cf5f9371",
+					"titel": "Esromgade 15, st. 3017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "57fa3ce2-b347-48cc-b19c-2714ca859ec9",
+					"titel": "Esromgade 15, st. 3018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e4e8fa3c-3734-4155-9ee6-9527a1a5e5ad",
+					"titel": "Esromgade 15, st. 3019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "073d306d-74f1-4a61-8399-c5e78f4e9ec0",
+					"titel": "Esromgade 15, st. 3020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ead2643a-fe8b-420a-a916-edff73baedd2",
+					"titel": "Esromgade 15, st. 4001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "847e9aae-e68c-4c46-8056-b7da6b8462d5",
+					"titel": "Esromgade 15, st., 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=esromgade 15 st 1000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": []
+		},
+		"/adresser/soeg?tekst=Esromgade 15, st. 1000, 2200 København N": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": []
+		},
+		"/adresser/soeg?tekst=Esromgade 15, st. 1000, 2200 København": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": []
+		},
+		"/adresser/soeg?tekst=Esromgade 15, st. 1000, 2200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": []
+		},
+		"/adresser/soeg?tekst=Esromgade 15, st": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "830ad100-3c98-4d68-a2b4-918dceda234f",
+					"titel": "Esromgade 15, st. 1, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0d2caaec-6dd0-4b79-a4aa-c15f3709975f",
+					"titel": "Esromgade 15, st. 2, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "659d79bd-54d1-41bb-bad9-95828cf2de86",
+					"titel": "Esromgade 15, st. 3, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "07ae23e1-5176-46c7-9147-a611ab8db203",
+					"titel": "Esromgade 15, st. 4, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ba62c87-d895-48a7-a2bb-375c4701e542",
+					"titel": "Esromgade 15, st. 5, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7297bb1a-92db-4305-86ed-103b9ded8732",
+					"titel": "Esromgade 15, st. 6, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3401ef64-49d3-4c74-b822-a456dfe6890d",
+					"titel": "Esromgade 15, st. 7, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5cb01cee-2de6-45d0-a0db-8ee26017fb4b",
+					"titel": "Esromgade 15, st. 8, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bb316017-4455-4435-9fa0-25ce43f021d3",
+					"titel": "Esromgade 15, st. 9, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fea3b5fd-35de-4842-b6ff-4684666488d6",
+					"titel": "Esromgade 15, st. 10, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e3d64f91-ad23-4b90-9861-93330144eb24",
+					"titel": "Esromgade 15, st. 11, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5366e35c-35e4-486d-a639-70678dff6185",
+					"titel": "Esromgade 15, st. 12, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "45049794-bbb2-40ff-b9e2-7538fe2b0ac0",
+					"titel": "Esromgade 15, st. 13, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f3181daf-d821-42d2-a9ff-d9715ea5a43b",
+					"titel": "Esromgade 15, st. 14, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "72a51957-8c87-44d2-b935-8a44da9681c2",
+					"titel": "Esromgade 15, st. 15, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1aef224d-83d1-4755-ae0c-f258720a8ded",
+					"titel": "Esromgade 15, st. 16, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d92fc10f-127b-42aa-8847-867e72b6b3e0",
+					"titel": "Esromgade 15, st. 17, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bee4f4fd-834c-44cc-aa22-4275288ef21a",
+					"titel": "Esromgade 15, st. 18, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ae99b30a-7332-4939-a9ea-7db48c5c902a",
+					"titel": "Esromgade 15, st. 19, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d597366b-426e-493b-badd-f6fdea30c8ef",
+					"titel": "Esromgade 15, st. 20, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a31650a2-542c-480f-a605-90a79a25f5a4",
+					"titel": "Esromgade 15, st. 1000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "985bc085-b885-4466-afe1-c6a8a315e7b7",
+					"titel": "Esromgade 15, st. 1001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c24280c7-0a47-4718-b2a5-b65c88decca5",
+					"titel": "Esromgade 15, st. 1002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dfb411bd-d4fc-4aa8-b3ee-24b8bfbae60f",
+					"titel": "Esromgade 15, st. 1003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b6cbc53c-e3b9-445f-b1d9-07b595591229",
+					"titel": "Esromgade 15, st. 1004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a10e97b-0960-46d3-9c41-99e0b66be1c6",
+					"titel": "Esromgade 15, st. 1005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8fc600a0-cb78-4a17-80d0-e8687b7154c0",
+					"titel": "Esromgade 15, st. 1006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a012b392-9842-4dd4-929c-5eb4db620d8f",
+					"titel": "Esromgade 15, st. 1007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e3394aae-f1dc-4fab-b8d8-9ad2404b2fd6",
+					"titel": "Esromgade 15, st. 1008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "03b87bd0-fb90-4bfc-bbcf-926fb83f0147",
+					"titel": "Esromgade 15, st. 1009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6c4cf406-9e5f-4f55-b6e0-d28d3c5f59ab",
+					"titel": "Esromgade 15, st. 1010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5b6e626d-0b64-4f9b-896b-c8c399b5449d",
+					"titel": "Esromgade 15, st. 1011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d1a38d77-7bd1-4256-a8e8-56f3c7bcc31d",
+					"titel": "Esromgade 15, st. 1012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5c5df08f-74ad-4c31-9229-645760956dc3",
+					"titel": "Esromgade 15, st. 1013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c655a707-d514-46db-a16d-fe09d53ab5df",
+					"titel": "Esromgade 15, st. 1014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0fb7049f-e3f5-4637-b846-c3261fc0336a",
+					"titel": "Esromgade 15, st. 1015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bcc5ef67-e0ba-4e3a-ad7f-af527b45e80a",
+					"titel": "Esromgade 15, st. 1016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e40754e9-e8e6-400a-b8d9-e8321ec7f40a",
+					"titel": "Esromgade 15, st. 1017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1fffa2cb-5b08-4bc5-ab3f-84619e180a29",
+					"titel": "Esromgade 15, st. 1018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ca6167b-252b-4965-94f8-19cdf8b62001",
+					"titel": "Esromgade 15, st. 1019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "05aab891-befa-45c8-a2b9-c3787d5d2d6e",
+					"titel": "Esromgade 15, st. 1020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "77ad05c2-f3a8-46f0-820d-81c64d0e9354",
+					"titel": "Esromgade 15, st. 2000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b6c861ad-b2f7-4677-95bc-31ff9ffab4e4",
+					"titel": "Esromgade 15, st. 2001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f852304b-e410-479d-a617-6b4adad91088",
+					"titel": "Esromgade 15, st. 2002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8f793178-8e34-4970-967a-21797fe1cc2c",
+					"titel": "Esromgade 15, st. 2003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dffb57b7-3e3d-4aa9-98df-22524b687923",
+					"titel": "Esromgade 15, st. 2004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4ae48a9e-b243-4916-a830-a3ed8b4761ad",
+					"titel": "Esromgade 15, st. 2005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d9a94971-6e31-4a88-bb86-e165a83e2e88",
+					"titel": "Esromgade 15, st. 2006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30a5a532-95ad-4b0f-96f0-23cc2f88d863",
+					"titel": "Esromgade 15, st. 2007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "de600ba3-92d6-471a-b106-cf2125f7b321",
+					"titel": "Esromgade 15, st. 2008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "942c8774-d1b8-4ba8-b597-cb8ff5f6e875",
+					"titel": "Esromgade 15, st. 2009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ba77eb1-9b23-4b5b-b7e5-3e15108d2b89",
+					"titel": "Esromgade 15, st. 2010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0222200b-95cd-4bd8-b02b-2e90fd8e01bb",
+					"titel": "Esromgade 15, st. 2011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9b1194b3-d782-4ee1-8ae8-04d5f31fd453",
+					"titel": "Esromgade 15, st. 2012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a5e7f66-3494-4da9-9b7c-66bd0f01d16e",
+					"titel": "Esromgade 15, st. 2013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "10f9e309-a3d6-4316-82e4-4afbbf2f5508",
+					"titel": "Esromgade 15, st. 2014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "844491c9-7f50-4410-b16c-0b6534eb9ca6",
+					"titel": "Esromgade 15, st. 2015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c97b6946-d168-4f13-834b-57a7d996a7b7",
+					"titel": "Esromgade 15, st. 2016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2a280b83-8bc5-47be-bb63-56ff42d6a420",
+					"titel": "Esromgade 15, st. 2017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6036ed45-fb06-4b6f-853d-33c64335d3e9",
+					"titel": "Esromgade 15, st. 2018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "478c43d0-991f-4cc2-964b-146445c4cd43",
+					"titel": "Esromgade 15, st. 2019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c09abe0b-6b58-4542-a2c1-eae3810e82a6",
+					"titel": "Esromgade 15, st. 2020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "86e08a18-cad3-4638-a902-1d254a184d66",
+					"titel": "Esromgade 15, st. 3000, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97b4ca01-5a6e-476b-8396-fe6a650f6f40",
+					"titel": "Esromgade 15, st. 3001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "daf687d6-e042-4277-8aca-2ae26788f816",
+					"titel": "Esromgade 15, st. 3002, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0c396bb6-bbf8-47f9-93f6-a194bc3cc0a7",
+					"titel": "Esromgade 15, st. 3003, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7aa1ca3a-0cf8-46ef-a377-d7bd22f19b48",
+					"titel": "Esromgade 15, st. 3004, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b53b3289-5807-4f01-bd71-5f0560624e9f",
+					"titel": "Esromgade 15, st. 3005, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e73ebefa-94ed-4bde-b065-d6888cd57ad6",
+					"titel": "Esromgade 15, st. 3006, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5c9a3028-158f-405d-9137-cb4696e3aae9",
+					"titel": "Esromgade 15, st. 3007, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dcf2e5cb-cc83-467d-ae1f-86bbe451348a",
+					"titel": "Esromgade 15, st. 3008, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fcf7fe0b-1089-4315-b840-84464458d0f2",
+					"titel": "Esromgade 15, st. 3009, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5faf120f-e72c-4901-b036-6386645a6fa1",
+					"titel": "Esromgade 15, st. 3010, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f21b16ca-1672-4e43-8e6e-3eb8c798cbb1",
+					"titel": "Esromgade 15, st. 3011, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30064a8e-e2d6-461c-abae-08f3ec7fce04",
+					"titel": "Esromgade 15, st. 3012, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2c89d9a3-a5ae-403f-8ff6-7b0174194ad1",
+					"titel": "Esromgade 15, st. 3013, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e9819b8b-9685-4274-9440-4541fb141121",
+					"titel": "Esromgade 15, st. 3014, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "09699d92-c0df-4c93-b72c-232516f824c3",
+					"titel": "Esromgade 15, st. 3015, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9fd0e27f-c101-4701-8b4c-d27b064f26c4",
+					"titel": "Esromgade 15, st. 3016, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "86b3a28c-6bc1-4f68-8b25-8d15cf5f9371",
+					"titel": "Esromgade 15, st. 3017, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "57fa3ce2-b347-48cc-b19c-2714ca859ec9",
+					"titel": "Esromgade 15, st. 3018, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e4e8fa3c-3734-4155-9ee6-9527a1a5e5ad",
+					"titel": "Esromgade 15, st. 3019, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "073d306d-74f1-4a61-8399-c5e78f4e9ec0",
+					"titel": "Esromgade 15, st. 3020, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ead2643a-fe8b-420a-a916-edff73baedd2",
+					"titel": "Esromgade 15, st. 4001, 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "847e9aae-e68c-4c46-8056-b7da6b8462d5",
+					"titel": "Esromgade 15, st., 2200 København N",
+					"husnummerId": "0a3f507a-6a24-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Esromgade 15, st. 1000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": []
+		}
+	}
+}

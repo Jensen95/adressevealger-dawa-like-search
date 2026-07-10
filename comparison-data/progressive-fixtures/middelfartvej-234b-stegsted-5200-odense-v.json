@@ -1,0 +1,5390 @@
+{
+	"tekst": "Middelfartvej 234B, Stegsted, 5200 Odense V",
+	"dawaId": "0006730d-8677-4af2-82bf-82522077ddcc",
+	"recordedAt": "2026-07-09T20:38:28.382Z",
+	"stages": [
+		{
+			"stage": "midd",
+			"dawa": [
+				"Middelvej 2, 2820 Gentofte",
+				"Middelvej 4, 2820 Gentofte",
+				"Middelvej 6, 2820 Gentofte",
+				"Middelvej 7, 2820 Gentofte",
+				"Middelvej 9, 2820 Gentofte",
+				"Middelvej 10, 2820 Gentofte",
+				"Middelvej 11, 2820 Gentofte",
+				"Middelvej 12, 2820 Gentofte",
+				"Middelvej 13, 2820 Gentofte",
+				"Middelvej 15, 2820 Gentofte"
+			]
+		},
+		{
+			"stage": "middelfartvej",
+			"dawa": [
+				"Middelfartvej 2, 5610 Assens",
+				"Middelfartvej 1, 4200 Slagelse",
+				"Middelfartvej 2, 4200 Slagelse",
+				"Middelfartvej 3, 4200 Slagelse",
+				"Middelfartvej 4, 4200 Slagelse",
+				"Middelfartvej 5, 4200 Slagelse",
+				"Middelfartvej 6, 4200 Slagelse",
+				"Middelfartvej 12, 6000 Kolding",
+				"Middelfartvej 14, 6000 Kolding",
+				"Middelfartvej 18, 6000 Kolding"
+			]
+		},
+		{
+			"stage": "middelfartvej 2",
+			"dawa": [
+				"Middelfartvej 2, 5610 Assens",
+				"Middelfartvej 2, 6000 Kolding",
+				"Middelfartvej 2, 4200 Slagelse",
+				"Middelfartvej 20, 6000 Kolding",
+				"Middelfartvej 21, 6000 Kolding",
+				"Middelfartvej 22, 6000 Kolding",
+				"Middelfartvej 23, 6000 Kolding",
+				"Middelfartvej 24, 6000 Kolding",
+				"Middelfartvej 25, 6000 Kolding",
+				"Middelfartvej 26, 6000 Kolding"
+			]
+		},
+		{
+			"stage": "middelfartvej 23",
+			"dawa": [
+				"Middelfartvej 23, 6000 Kolding",
+				"Middelfartvej 233, Åhøjrup, 5464 Brenderup Fyn",
+				"Middelfartvej 235, Åhøjrup, 5464 Brenderup Fyn",
+				"Middelfartvej 237, Åhøjrup, 5464 Brenderup Fyn",
+				"Middelfartvej 232, Skovshøjrup, 5464 Brenderup Fyn",
+				"Middelfartvej 234, Skovshøjrup, 5464 Brenderup Fyn",
+				"Middelfartvej 236, Skovshøjrup, 5464 Brenderup Fyn",
+				"Middelfartvej 238, Skovshøjrup, 5464 Brenderup Fyn",
+				"Middelfartvej 234, Stegsted, 5200 Odense V",
+				"Middelfartvej 236, Stegsted, 5200 Odense V"
+			]
+		},
+		{
+			"stage": "middelfartvej 234",
+			"dawa": [
+				"Middelfartvej 234, Skovshøjrup, 5464 Brenderup Fyn",
+				"Middelfartvej 234, Stegsted, 5200 Odense V",
+				"Middelfartvej 234B, Stegsted, 5200 Odense V"
+			]
+		},
+		{
+			"stage": "middelfartvej 234b",
+			"dawa": [
+				"Middelfartvej 234B, Stegsted, 5200 Odense V"
+			]
+		},
+		{
+			"stage": "Middelfartvej 234B, Stegsted, 5200 Odense V",
+			"dawa": [
+				"Middelfartvej 234B, Stegsted, 5200 Odense V"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=midd": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Middagshøjvej",
+					"vejNavn": "Middagshøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middagssol",
+					"vejNavn": "Middagssol"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middagsvej",
+					"vejNavn": "Middagsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelaldervej",
+					"vejNavn": "Middelaldervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelbanke",
+					"vejNavn": "Middelbanke"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelbovej",
+					"vejNavn": "Middelbovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelfartgade",
+					"vejNavn": "Middelfartgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelfartvej",
+					"vejNavn": "Middelfartvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelgade",
+					"vejNavn": "Middelgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelgrundsfortet",
+					"vejNavn": "Middelgrundsfortet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelgrundsvej",
+					"vejNavn": "Middelgrundsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelgrundvej",
+					"vejNavn": "Middelgrundvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Middelvej",
+					"vejNavn": "Middelvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "M Iversens Vej",
+					"vejNavn": "M Iversens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Micavej",
+					"vejNavn": "Micavej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Mich. Simonsens Vej",
+					"vejNavn": "Mich. Simonsens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michael Anchers Vej",
+					"vejNavn": "Michael Anchers Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michael Berings Vang",
+					"vejNavn": "Michael Berings Vang"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michael Drewsens Vej",
+					"vejNavn": "Michael Drewsens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michael Gjøes Vej",
+					"vejNavn": "Michael Gjøes Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michael Jebsens Plads",
+					"vejNavn": "Michael Jebsens Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michael Jensens Vej",
+					"vejNavn": "Michael Jensens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michael Nielsensvej",
+					"vejNavn": "Michael Nielsensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michael Strunges Vej",
+					"vejNavn": "Michael Strunges Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michel Broes Vej",
+					"vejNavn": "Michel Broes Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michel Wester",
+					"vejNavn": "Michel Wester"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Michelsensvej",
+					"vejNavn": "Michelsensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Microvej",
+					"vejNavn": "Microvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midasvej",
+					"vejNavn": "Midasvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midgaardsvej",
+					"vejNavn": "Midgaardsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midgård",
+					"vejNavn": "Midgård"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midgården",
+					"vejNavn": "Midgården"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midgårdparken",
+					"vejNavn": "Midgårdparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midgårdsgade",
+					"vejNavn": "Midgårdsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midgårdstræde",
+					"vejNavn": "Midgårdstræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midgårdsvej",
+					"vejNavn": "Midgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midholmvej",
+					"vejNavn": "Midholmvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midlergårdsvej",
+					"vejNavn": "Midlergårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midlerkampsvej",
+					"vejNavn": "Midlerkampsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midnatsvej",
+					"vejNavn": "Midnatsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midskovgårdsvej",
+					"vejNavn": "Midskovgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midskovvej",
+					"vejNavn": "Midskovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midsommervej",
+					"vejNavn": "Midsommervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midstrupvej",
+					"vejNavn": "Midstrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midt i By",
+					"vejNavn": "Midt i By"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtager",
+					"vejNavn": "Midtager"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtagervej",
+					"vejNavn": "Midtagervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtballe",
+					"vejNavn": "Midtballe"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtbanebrinken",
+					"vejNavn": "Midtbanebrinken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtbanevej",
+					"vejNavn": "Midtbanevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtbjergevej",
+					"vejNavn": "Midtbjergevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtborrevej",
+					"vejNavn": "Midtborrevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtby",
+					"vejNavn": "Midtby"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtbyen",
+					"vejNavn": "Midtbyen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtbyvej",
+					"vejNavn": "Midtbyvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtdyssen",
+					"vejNavn": "Midtdyssen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtenborgvej",
+					"vejNavn": "Midtenborgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtengvej",
+					"vejNavn": "Midtengvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midterfolden",
+					"vejNavn": "Midterfolden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtergade",
+					"vejNavn": "Midtergade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtergyden",
+					"vejNavn": "Midtergyden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtermolen",
+					"vejNavn": "Midtermolen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midterpieren",
+					"vejNavn": "Midterpieren"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtersporet",
+					"vejNavn": "Midtersporet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtervang",
+					"vejNavn": "Midtervang"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtervej",
+					"vejNavn": "Midtervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtervejen",
+					"vejNavn": "Midtervejen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtfeldtvej",
+					"vejNavn": "Midtfeldtvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtfenner",
+					"vejNavn": "Midtfenner"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtfløjene",
+					"vejNavn": "Midtfløjene"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtgyden",
+					"vejNavn": "Midtgyden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtgårdsvej",
+					"vejNavn": "Midtgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtgårdvej",
+					"vejNavn": "Midtgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midthave",
+					"vejNavn": "Midthave"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midthaven",
+					"vejNavn": "Midthaven"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtkjærvej",
+					"vejNavn": "Midtkjærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtkobbel",
+					"vejNavn": "Midtkobbel"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtkærvej",
+					"vejNavn": "Midtkærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtlyk",
+					"vejNavn": "Midtlyk"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtløkke",
+					"vejNavn": "Midtløkke"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtmosevej",
+					"vejNavn": "Midtmosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtparken",
+					"vejNavn": "Midtparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtpunkt",
+					"vejNavn": "Midtpunkt"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtskovvejen",
+					"vejNavn": "Midtskovvejen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midttoftevej",
+					"vejNavn": "Midttoftevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtvangen",
+					"vejNavn": "Midtvangen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtvasen",
+					"vejNavn": "Midtvasen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtvej",
+					"vejNavn": "Midtvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtvejen",
+					"vejNavn": "Midtvejen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midtvejs",
+					"vejNavn": "Midtvejs"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Midvintervej",
+					"vejNavn": "Midvintervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Mie Mols Vej",
+					"vejNavn": "Mie Mols Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Miehesgade",
+					"vejNavn": "Miehesgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Mievej",
+					"vejNavn": "Mievej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Mikalsvej",
+					"vejNavn": "Mikalsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Mikkel Bryggers Gade",
+					"vejNavn": "Mikkel Bryggers Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Mikkel Jennes Vej",
+					"vejNavn": "Mikkel Jennes Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Mikkel Nielsens Vej",
+					"vejNavn": "Mikkel Nielsens Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Mikkel Skovs Allé",
+					"vejNavn": "Mikkel Skovs Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Mikkel Snors Vej",
+					"vejNavn": "Mikkel Snors Vej"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=middelfartvej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "b7d516e7-3cc4-4570-a7bc-1b0f7037d9c0",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 4000 Roskilde",
+					"vejnavn": "Middelfartvej",
+					"postnr": "4000",
+					"postdistrikt": "Roskilde",
+					"antal_husnumre": 20
+				},
+				{
+					"id": "340d5e56-fc42-431b-8105-650ba37139a8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 4200 Slagelse",
+					"vejnavn": "Middelfartvej",
+					"postnr": "4200",
+					"postdistrikt": "Slagelse",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "4de85f42-e17a-46b2-b1bc-31432783e6a2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5000",
+					"postdistrikt": "Odense C",
+					"antal_husnumre": 29
+				},
+				{
+					"id": "899d310e-385d-4155-a4e8-88361411a2ac",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5200",
+					"postdistrikt": "Odense V",
+					"antal_husnumre": 202
+				},
+				{
+					"id": "b6e7b358-4605-404a-96ac-3b40041d165f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5400 Bogense",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5400",
+					"postdistrikt": "Bogense",
+					"antal_husnumre": 98
+				},
+				{
+					"id": "0326d379-426e-4dc8-9838-c0af9a50e8e8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5464 Brenderup Fyn",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5464",
+					"postdistrikt": "Brenderup Fyn",
+					"antal_husnumre": 59
+				},
+				{
+					"id": "370a0a5d-5672-49cd-a0ff-b95d04770da6",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5464 Brenderup Fyn",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5464",
+					"postdistrikt": "Brenderup Fyn",
+					"antal_husnumre": 1
+				},
+				{
+					"id": "6e2c09af-ee97-4444-a887-62989a484a96",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5466 Asperup",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5466",
+					"postdistrikt": "Asperup",
+					"antal_husnumre": 110
+				},
+				{
+					"id": "38aeaa8a-69ed-4ac6-89c8-6e2c53091bad",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5491 Blommenslyst",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5491",
+					"postdistrikt": "Blommenslyst",
+					"antal_husnumre": 175
+				},
+				{
+					"id": "d5df90f1-aac4-40f1-99d5-b9434bc446bb",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5492 Vissenbjerg",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5492",
+					"postdistrikt": "Vissenbjerg",
+					"antal_husnumre": 65
+				},
+				{
+					"id": "33881422-2821-4b05-b6fc-07ac76c4a1f3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5560 Aarup",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5560",
+					"postdistrikt": "Aarup",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "1b97d163-05a1-4640-a1e3-606cec0ffd1e",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5610 Assens",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5610",
+					"postdistrikt": "Assens",
+					"antal_husnumre": 48
+				},
+				{
+					"id": "8cfd2b5a-a5fa-45e7-b23d-d13f3f4947a6",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 6000 Kolding",
+					"vejnavn": "Middelfartvej",
+					"postnr": "6000",
+					"postdistrikt": "Kolding",
+					"antal_husnumre": 39
+				},
+				{
+					"id": "b75624df-81d1-47c0-91b8-5189bb8cfdd5",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 8940 Randers SV",
+					"vejnavn": "Middelfartvej",
+					"postnr": "8940",
+					"postdistrikt": "Randers SV",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "b3033090-190b-4e53-9de1-53f8b8a8102e",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 9220 Aalborg Øst",
+					"vejnavn": "Middelfartvej",
+					"postnr": "9220",
+					"postdistrikt": "Aalborg Øst",
+					"antal_husnumre": 16
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 4200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "1df3184c-6efe-61d6-e044-0003ba298018",
+					"titel": "Middelfartvej 1, 4200 Slagelse",
+					"husnummerId": "11db2423-470c-5796-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bcfd6d6c-67b0-4eb5-b949-fe9e9a98d41f",
+					"titel": "Middelfartvej 2, 4200 Slagelse",
+					"husnummerId": "2df18b64-150d-4939-99a6-4232fc8aef88"
+				},
+				{
+					"type": "adresse",
+					"id": "1df3184c-6eff-61d6-e044-0003ba298018",
+					"titel": "Middelfartvej 3, 4200 Slagelse",
+					"husnummerId": "1de21027-9f12-1d9f-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ac758536-14a0-4118-8c22-779cd2692525",
+					"titel": "Middelfartvej 4, 4200 Slagelse",
+					"husnummerId": "5dcd5b54-bd6a-41dc-b55a-dadc19439641"
+				},
+				{
+					"type": "adresse",
+					"id": "790b86b6-d2d3-4135-80c8-1e848b97514b",
+					"titel": "Middelfartvej 5, 4200 Slagelse",
+					"husnummerId": "5d802067-fa95-4f6c-b70b-22bf4185fd10"
+				},
+				{
+					"type": "adresse",
+					"id": "5df31d31-4698-44ca-8f8d-4baa07d8da4b",
+					"titel": "Middelfartvej 6, 4200 Slagelse",
+					"husnummerId": "0a3f5084-5a3c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 5560": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3883-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 136, Stubberup, 5560 Aarup",
+					"husnummerId": "0a3f508b-18e5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3884-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 137, Stubberup, 5560 Aarup",
+					"husnummerId": "0a3f508b-18e6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3885-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 138, Stubberup, 5560 Aarup",
+					"husnummerId": "0a3f508b-18e7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c77-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 140, Stubberup, 5560 Aarup",
+					"husnummerId": "0a3f5087-c662-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c78-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 142, Stubberup, 5560 Aarup",
+					"husnummerId": "0a3f5087-c663-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c79-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 144, Stubberup, 5560 Aarup",
+					"husnummerId": "0a3f5087-c664-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 5000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "e057eaaf-555c-4624-825c-8948a1bd2dfa",
+					"titel": "Middelfartvej 2, 5000 Odense C",
+					"husnummerId": "0a3f5089-7dd6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "18a9c69f-fcc0-4a89-af4b-06c22193a385",
+					"titel": "Middelfartvej 3, 5000 Odense C",
+					"husnummerId": "0a3f5089-7dd7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-53ad-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 4, 5000 Odense C",
+					"husnummerId": "0a3f5089-7dd8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "78593abf-ccee-43ad-b1b5-35701c1c3215",
+					"titel": "Middelfartvej 6, 5000 Odense C",
+					"husnummerId": "0a3f5089-7dd9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ecaf4b43-c3b9-4c89-938d-5b73465be745",
+					"titel": "Middelfartvej 8, 5000 Odense C",
+					"husnummerId": "0a3f5089-7dda-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7ddc-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 9A, 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "9A"
+				},
+				{
+					"type": "adresse",
+					"id": "47127122-a0e2-4ab5-adfe-66268bb93fbe",
+					"titel": "Middelfartvej 9B, 5000 Odense C",
+					"husnummerId": "604ad59e-36ba-7474-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "604ad59e-36bb-7474-e044-0003ba298018",
+					"titel": "Middelfartvej 9C, 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "9C"
+				},
+				{
+					"type": "husnummer",
+					"id": "604ad59e-36bc-7474-e044-0003ba298018",
+					"titel": "Middelfartvej 9D, 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "9D"
+				},
+				{
+					"type": "husnummer",
+					"id": "604ad59e-36bd-7474-e044-0003ba298018",
+					"titel": "Middelfartvej 9E, 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "9E"
+				},
+				{
+					"type": "husnummer",
+					"id": "604ad59e-36be-7474-e044-0003ba298018",
+					"titel": "Middelfartvej 9F, 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "9F"
+				},
+				{
+					"type": "adresse",
+					"id": "9f0f7fd8-b2b2-4370-b793-64dc62e1c3e2",
+					"titel": "Middelfartvej 9G, 5000 Odense C",
+					"husnummerId": "604ad59e-36bf-7474-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fb09f32e-be97-40d0-bbd9-00ccd6019670",
+					"titel": "Middelfartvej 9H, 5000 Odense C",
+					"husnummerId": "604ad59e-36c0-7474-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "eeaa94f1-918b-40a1-83db-668c97251d9e",
+					"titel": "Middelfartvej 9J, 5000 Odense C",
+					"husnummerId": "42bfc47d-8506-4840-a968-ad2b5f48a69c"
+				},
+				{
+					"type": "husnummer",
+					"id": "604ad59e-36c1-7474-e044-0003ba298018",
+					"titel": "Middelfartvej 9K, 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "9K"
+				},
+				{
+					"type": "husnummer",
+					"id": "604ad59e-36c2-7474-e044-0003ba298018",
+					"titel": "Middelfartvej 9L, 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "9L"
+				},
+				{
+					"type": "adresse",
+					"id": "e841cea4-22e9-48f2-a72e-47de5c327039",
+					"titel": "Middelfartvej 9M, 5000 Odense C",
+					"husnummerId": "79c469cc-636f-47f1-8f39-27475bc2189d"
+				},
+				{
+					"type": "husnummer",
+					"id": "72455b0e-5ed4-450f-adbb-c1f351146fc7",
+					"titel": "Middelfartvej 9N, 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "9N"
+				},
+				{
+					"type": "adresse",
+					"id": "3d142b4c-782c-49d0-a428-3460744275fb",
+					"titel": "Middelfartvej 9P, 5000 Odense C",
+					"husnummerId": "77c773c4-44d5-4b55-8a9b-2eee8f5147bb"
+				},
+				{
+					"type": "adresse",
+					"id": "f5d9d984-bd12-4d2d-a439-6b02cc81a6a4",
+					"titel": "Middelfartvej 9R, 5000 Odense C",
+					"husnummerId": "3f6197b9-4a8d-4af7-ac99-c7093c2b9b59"
+				},
+				{
+					"type": "adresse",
+					"id": "75135161-0d6d-4dcf-b6f2-1002dba39e8f",
+					"titel": "Middelfartvej 9S, 5000 Odense C",
+					"husnummerId": "2650c27a-328d-48a0-af55-5a953dd651e4"
+				},
+				{
+					"type": "adresse",
+					"id": "c896522e-4ad1-483a-aace-9c72c13dbec2",
+					"titel": "Middelfartvej 9T, 5000 Odense C",
+					"husnummerId": "2631bcba-3b9f-47c0-baa9-0736220fae05"
+				},
+				{
+					"type": "adresse",
+					"id": "50374e0d-deaf-4821-b738-17c470ce397c",
+					"titel": "Middelfartvej 9X, 5000 Odense C",
+					"husnummerId": "604ad59e-36c3-7474-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7ddd-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 11A, 5000 Odense C",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "11A"
+				},
+				{
+					"type": "adresse",
+					"id": "113718fd-66f4-4334-8e5a-9840e7985614",
+					"titel": "Middelfartvej 11B, 5000 Odense C",
+					"husnummerId": "604ad59e-36c5-7474-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "08a749aa-bef4-4b8d-aa47-0bc8a66f1fd8",
+					"titel": "Middelfartvej 11C, 5000 Odense C",
+					"husnummerId": "604ad59e-36a4-7474-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4310fd03-b95f-48d1-bbe3-7274472d9ca0",
+					"titel": "Middelfartvej 11D, 5000 Odense C",
+					"husnummerId": "604ad59e-36a7-7474-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "40a13086-175c-4c78-916c-a5ee84794098",
+					"titel": "Middelfartvej 11E, 5000 Odense C",
+					"husnummerId": "604ad59e-36a3-7474-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 4000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04ba-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 1, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04bb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04bc-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 3, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04bd-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 4, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04be-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 5, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04bf-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 6, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c0-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 7, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c1-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 8, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 9, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c3-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 10, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 11, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c5-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 12, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c6-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 13, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c7-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 14, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c8-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 15, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04c9-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 16, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04ca-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 17, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04cb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 18, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-d7e4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 20, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5081-ea00-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 5400": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5feb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, Tofte, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5fec-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 3, Tofte, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cdc99734-7252-4713-9bf0-ad160e7d3946",
+					"titel": "Middelfartvej 3B, Tofte, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b434574c-3842-4741-84e7-5812e21d786a",
+					"titel": "Middelfartvej 8A, Tofte, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5fed-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 8B, Tofte, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5fee-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 8C, Tofte, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5fef-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 10, Tofte, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff0-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 12, Tofte, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff1-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 18, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 20, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff3-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 22, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 26, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff5-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 28, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff6-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 31, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8da-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "775fe3b8-6ada-1a9c-e044-00144f3ead67",
+					"titel": "Middelfartvej 32, Kærby, 5400 Bogense",
+					"husnummerId": "775fe3b8-6ab6-1a9c-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff7-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 33, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8db-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2d7dc2ea-896d-49c3-8ded-38b5a9ec80a0",
+					"titel": "Middelfartvej 34, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8dc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "87fc7f94-77d2-419f-aed4-49e95a492ef1",
+					"titel": "Middelfartvej 36, Skovby, 5400 Bogense",
+					"husnummerId": "775fe3b8-6a2e-1a9c-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff8-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 37, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8dd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff9-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 42, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8df-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ffa-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 44, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ffb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 46, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ffc-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 48, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ffd-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 49, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6f3a8fc3-13f1-428d-a299-81302bb60d03",
+					"titel": "Middelfartvej 49A, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ffe-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 50, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5fff-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 52, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "35b4bd8f-b088-4e80-8212-ae6f863891be",
+					"titel": "Middelfartvej 53, Skovby, 5400 Bogense",
+					"husnummerId": "17ef87da-b1ff-496e-8b1b-2b8040fca8a0"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6000-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 54, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6001-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 55, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6002-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 56, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8e9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6003-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 58, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8ea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6004-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 61, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8eb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6005-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 62, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8ec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6006-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6007-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 64, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8ef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6008-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 65, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6009-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 66, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1fa776d5-dbf6-4c33-860d-c25a174fb296",
+					"titel": "Middelfartvej 67, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-600b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 69, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-600c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 71, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-600d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 72, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "39411033-c387-4517-aa29-3a2427a04dc0",
+					"titel": "Middelfartvej 73, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-600e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 73A, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-600f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 73B, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8d999592-d83c-4d89-8312-dd7684d44c76",
+					"titel": "Middelfartvej 75, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8f9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6010-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 77, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8fa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "640a7665-fd24-4465-8f94-ce9666e3e6c4",
+					"titel": "Middelfartvej 77A, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8fb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6011-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 78, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8fc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6012-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 79, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8fd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6013-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 81, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8fe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6014-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 86, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8ff-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6015-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 87, Skovby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d900-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6016-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 88, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d901-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6017-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 90, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d902-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6018-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 92, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d903-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6019-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 94, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d904-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-601a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 98, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d905-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-601b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 100, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d906-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-d202-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 105, Ore, 5400 Bogense",
+					"husnummerId": "0a3f508a-af8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-601c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 106, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d908-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6e01fdd3-7c43-4daf-b68d-6202e6e00082",
+					"titel": "Middelfartvej 106A, Skovby Sand, 5400 Bogense",
+					"husnummerId": "34ee687e-c354-428f-9f1e-439787b148ae"
+				},
+				{
+					"type": "adresse",
+					"id": "15c94d11-194b-49ff-a1a3-6c8ebfb4c119",
+					"titel": "Middelfartvej 107, Ore, 5400 Bogense",
+					"husnummerId": "5aad3918-206b-47ed-b8ae-3ba7799f6c0c"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-601d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 110, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d909-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-d203-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 114, Ore, 5400 Bogense",
+					"husnummerId": "0a3f508a-af8e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-601e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 116, Skovby Sand, 5400 Bogense",
+					"husnummerId": "0a3f5087-d90a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-601f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 120, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d90b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6020-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 121, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d90c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6021-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 122, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d90d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97372399-05fe-44dc-811f-4fe18852833e",
+					"titel": "Middelfartvej 123, Ore, 5400 Bogense",
+					"husnummerId": "833976a1-451a-414b-8100-f369c5512d4c"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6022-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 125, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d90f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6023-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 126, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d910-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6024-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 129, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d911-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6025-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 130, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d912-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6026-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 131, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d913-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6027-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 132, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d914-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6028-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 133, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d915-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6029-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 134, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d916-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-602a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 135, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d917-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-602b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 136, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d918-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "669bb462-a80a-4b0a-b137-5a78aa25342f",
+					"titel": "Middelfartvej 138, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d91c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5087-d91b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 139, Ore, 5400 Bogense",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "139"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6030-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 140, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d91d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6031-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 141, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d91e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6032-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 142, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d91f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6033-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 143, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d920-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6034-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 144, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d921-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6035-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 146, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d922-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6036-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 147, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d923-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6037-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 149, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d924-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6038-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 152, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d925-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-6039-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 154, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d926-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9e3a5f5a-2bd9-4ab2-8a37-6966d0410942",
+					"titel": "Middelfartvej 158, Ore, 5400 Bogense",
+					"husnummerId": "768f14fe-9695-4038-a30e-2e865622e588"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-603a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 159, Ore, 5400 Bogense",
+					"husnummerId": "0a3f5087-d927-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 5464": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "0326d379-426e-4dc8-9838-c0af9a50e8e8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5464 Brenderup Fyn",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5464",
+					"postdistrikt": "Brenderup Fyn",
+					"antal_husnumre": 59
+				},
+				{
+					"id": "370a0a5d-5672-49cd-a0ff-b95d04770da6",
+					"type": "navngivenvejpostnummer",
+					"titel": "Middelfartvej 5464 Brenderup Fyn",
+					"vejnavn": "Middelfartvej",
+					"postnr": "5464",
+					"postdistrikt": "Brenderup Fyn",
+					"antal_husnumre": 1
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 5610": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c56-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, 5610 Assens",
+					"husnummerId": "0a3f5087-c63b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c58-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 33, Ll Lundager, 5610 Assens",
+					"husnummerId": "0a3f5087-c63f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c59-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 37, Ll Lundager, 5610 Assens",
+					"husnummerId": "0a3f5087-c640-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bf908514-05da-42d6-bf3f-78ce1c2e012c",
+					"titel": "Middelfartvej 38, Ll Lundager, 5610 Assens",
+					"husnummerId": "0a3f5087-c641-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c5a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 45, Aborg, 5610 Assens",
+					"husnummerId": "0a3f5087-c642-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c5b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 46, Holevad, 5610 Assens",
+					"husnummerId": "0a3f5087-c643-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c5c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 48, Holevad, 5610 Assens",
+					"husnummerId": "0a3f5087-c645-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c5d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 49, Aborg, 5610 Assens",
+					"husnummerId": "0a3f5087-c646-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c5e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 50, Holevad, 5610 Assens",
+					"husnummerId": "0a3f5087-c647-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c5f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 53, Aborg, 5610 Assens",
+					"husnummerId": "0a3f5087-c648-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c60-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 53A, Aborg, 5610 Assens",
+					"husnummerId": "0a3f5087-c649-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c61-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 54, Holevad, 5610 Assens",
+					"husnummerId": "0a3f5087-c64a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "64792cbc-18bf-4b5b-b309-cdc879e6d8e4",
+					"titel": "Middelfartvej 55, Aborg, 5610 Assens",
+					"husnummerId": "0a3f5087-c64b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c64-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 62, Holevad, 5610 Assens",
+					"husnummerId": "0a3f5087-c64c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c65-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 66, Holevad, 5610 Assens",
+					"husnummerId": "0a3f5087-c64d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c66-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 69, Holevad, 5610 Assens",
+					"husnummerId": "0a3f5087-c64e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c67-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 71, Holevad, 5610 Assens",
+					"husnummerId": "0a3f5087-c64f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c68-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 75, Holevad, 5610 Assens",
+					"husnummerId": "0a3f5087-c650-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c69-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 92, Torup, 5610 Assens",
+					"husnummerId": "0a3f5087-c651-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1f3ad434-38b9-4203-b972-94a3816c48f9",
+					"titel": "Middelfartvej 95, Torup, 5610 Assens",
+					"husnummerId": "0a3f5087-c652-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8dda23e7-3031-406f-86d3-c52f981a1f51",
+					"titel": "Middelfartvej 95A, Torup, 5610 Assens",
+					"husnummerId": "744a6dc7-3676-4352-b03b-3be00e1ac303"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c6a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 98, Torup, 5610 Assens",
+					"husnummerId": "0a3f5087-c653-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c6b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 101, Torup, 5610 Assens",
+					"husnummerId": "0a3f5087-c654-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c35899cc-0739-4c16-877e-ea6a1399d71d",
+					"titel": "Middelfartvej 103, Torup, 5610 Assens",
+					"husnummerId": "9352ae69-93bf-4cf5-b976-1ea247dd4bec"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c6c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 104, Torup, 5610 Assens",
+					"husnummerId": "0a3f5087-c656-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c6d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 105, Torup, 5610 Assens",
+					"husnummerId": "0a3f5087-c657-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b5cf8da8-c8a7-4f03-abbd-f5cc332c263d",
+					"titel": "Middelfartvej 105A, 5610 Assens",
+					"husnummerId": "d362897c-27b1-47e8-8da3-86053246f29b"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c6e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 106, Torup, 5610 Assens",
+					"husnummerId": "0a3f5087-c658-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c6f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 108, Torup, 5610 Assens",
+					"husnummerId": "0a3f5087-c659-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c70-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 109, Stubberup, 5610 Assens",
+					"husnummerId": "0a3f5087-c65a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c71-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 111, Stubberup, 5610 Assens",
+					"husnummerId": "0a3f5087-c65b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5087-c65c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 113, Stubberup, 5610 Assens",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "113"
+				},
+				{
+					"type": "adresse",
+					"id": "3b915062-154b-4336-b82d-5a51a9152d7b",
+					"titel": "Middelfartvej 113A, Stubberup, 5610 Assens",
+					"husnummerId": "3dcd3f05-fbcc-4068-b104-d0302e736aa3"
+				},
+				{
+					"type": "adresse",
+					"id": "63a96be4-dec4-40a2-b89c-b798ca98bba2",
+					"titel": "Middelfartvej 113B, Stubberup, 5610 Assens",
+					"husnummerId": "7490f5cd-ba67-4b4e-aabd-d816512d33da"
+				},
+				{
+					"type": "adresse",
+					"id": "607acb79-6cc1-41ea-81e9-ff0dd4837a40",
+					"titel": "Middelfartvej 113C, Stubberup, 5610 Assens",
+					"husnummerId": "a29fd9ce-8070-49b4-b6d0-81d4299ebf29"
+				},
+				{
+					"type": "adresse",
+					"id": "e804906c-dac0-49df-9750-3a3868746516",
+					"titel": "Middelfartvej 113D, Stubberup, 5610 Assens",
+					"husnummerId": "26389b3a-cb4d-4a64-a27b-567e8e06d892"
+				},
+				{
+					"type": "adresse",
+					"id": "5676e044-01fe-42f1-a896-089949e88f5f",
+					"titel": "Middelfartvej 113E, Stubberup, 5610 Assens",
+					"husnummerId": "de7f9dda-ea8a-46a8-a346-b5f4a27007a6"
+				},
+				{
+					"type": "adresse",
+					"id": "830e6a95-df70-4945-a930-2a7e0a571c2f",
+					"titel": "Middelfartvej 113F, Stubberup, 5610 Assens",
+					"husnummerId": "9c63a252-31a5-4c72-932a-f54026383814"
+				},
+				{
+					"type": "adresse",
+					"id": "c08bf60c-0b7d-4f7a-84f0-fdc8d76f959a",
+					"titel": "Middelfartvej 113G, Stubberup, 5610 Assens",
+					"husnummerId": "d39a3821-87b9-4298-a47b-f40f6e8a8cb4"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c73-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 117, Stubberup, 5610 Assens",
+					"husnummerId": "0a3f5087-c65d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c74-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 119, Stubberup, 5610 Assens",
+					"husnummerId": "0a3f5087-c65e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c75-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 124, Stubberup, 5610 Assens",
+					"husnummerId": "0a3f5087-c65f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c76-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 132, Stubberup, 5610 Assens",
+					"husnummerId": "0a3f5087-c660-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e9881145-0116-465f-8596-494bd411d518",
+					"titel": "Middelfartvej 134, Stubberup, 5610 Assens",
+					"husnummerId": "0a3f5087-c661-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 5492": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-046c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 1, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e367-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-046d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 38, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e369-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-046e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 40, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e36a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-046f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 47, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e36b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0470-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 49, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e36c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0471-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 51, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e36d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0472-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 59, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e36e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0473-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 60, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e36f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7686c94a-1789-07bb-e044-00144f3ead67",
+					"titel": "Middelfartvej 61, 5492 Vissenbjerg",
+					"husnummerId": "75d4829b-381c-165e-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "355682bd-a66c-44e1-aae5-765ea2e8152e",
+					"titel": "Middelfartvej 61A, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e371-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "82acd645-57bb-4534-a836-9c4fd1fb49b4",
+					"titel": "Middelfartvej 63, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e372-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0475-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63A, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e373-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0476-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63B, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e374-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0477-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63C, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e375-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0478-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63D, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e376-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0479-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63E, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e377-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-047a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63F, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e378-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-047b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63G, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e379-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-047c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63H, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e37a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-047d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63I, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e37b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-047e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63J, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e37c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-047f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63K, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e37d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0480-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63L, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e37e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0481-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63M, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e37f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0482-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63N, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e380-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0483-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63O, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e381-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6aaac41b-1275-44b3-951b-01eca828d3ff",
+					"titel": "Middelfartvej 63P, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e382-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0484-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 72, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e383-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0485-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 74, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e384-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0486-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 75, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e385-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "39c4aa06-9b19-42ac-94bd-26b7bb6b4205",
+					"titel": "Middelfartvej 81, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e386-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0487-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 90, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e387-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0488-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 92, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e388-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "86577265-5eb2-42ad-a02a-4e97c098679a",
+					"titel": "Middelfartvej 99, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e389-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0489-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 100, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e38a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6a4dced0-6407-4ac2-a4e6-a4afb72e491c",
+					"titel": "Middelfartvej 101, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e38c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-048a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 103, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e38d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-048b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 105, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e38e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-048c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 107, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e38f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-048d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 109, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e390-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "593d92bd-c047-4624-8c4f-a41fca21e277",
+					"titel": "Middelfartvej 111, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e391-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-048e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 113, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e392-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-048f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 115, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e393-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0490-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 117, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e394-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0491-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 119, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e395-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0492-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 121, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e396-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0493-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 123, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e397-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0494-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 125, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e398-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0495-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 127, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e399-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0496-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 129, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e39a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0497-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 131, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e39b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0498-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 136, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e39c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508a-e39d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 139, Assenbølle, 5492 Vissenbjerg",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "139"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-049a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 141, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e39e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-049b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 145, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-049c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 147, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-049d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 149, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-049e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 156, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-049f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 157, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-04a0-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 167, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-04a1-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 169, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-04a2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 171, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a01673d6-bea1-4b7a-85f9-395903d07281",
+					"titel": "Middelfartvej 173, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-04a3-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 175, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e3a9-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 5466": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14cd-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 2, Roerslev, 5466 Asperup",
+					"husnummerId": "29d58755-bffc-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14ce-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 4, Roerslev, 5466 Asperup",
+					"husnummerId": "29d58755-bffd-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14cf-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 6, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-bffe-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d0-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 8, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-bfff-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d1-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 10, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c000-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d2-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 12, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c001-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d3-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 14, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c002-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d4-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 18, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c003-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d5-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 20, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c004-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d6-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 22, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c005-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d7-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 24, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c006-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d8-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 26, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c007-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d9-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 28, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c008-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14da-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 30, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c009-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14db-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 32, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c00a-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "638836fe-a996-44bc-8f7b-986dde4bb145",
+					"titel": "Middelfartvej 32B, Blanke, 5466 Asperup",
+					"husnummerId": "366b8cfc-5fc9-4006-ac9b-c60e04b73606"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14dc-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 34, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c00b-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14dd-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 36, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c00c-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14de-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 37, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c00d-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14df-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 38, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c00e-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14e0-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 39, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c00f-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14e1-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 40, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c010-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14e2-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 41, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c011-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2b3d6b24-c276-29a6-e044-0003ba298018",
+					"titel": "Middelfartvej 42, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c014-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14e4-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 42B, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c013-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14e5-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 43, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c015-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14e6-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 44, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c016-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "17394845-f2e2-4026-8a13-a843cf3e6271",
+					"titel": "Middelfartvej 45, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c018-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "434d4d3b-13e0-0401-e044-0003ba298018",
+					"titel": "Middelfartvej 45A, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c017-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "434d4d3b-13e1-0401-e044-0003ba298018",
+					"titel": "Middelfartvej 45B, Blanke, 5466 Asperup",
+					"husnummerId": "434b5797-c652-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "434d4d3b-13e2-0401-e044-0003ba298018",
+					"titel": "Middelfartvej 45C, Blanke, 5466 Asperup",
+					"husnummerId": "434b5797-c653-6fdf-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14e9-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 46, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c019-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14ea-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 47, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c01a-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14eb-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 48, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c01b-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14ec-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 49, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c01c-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14ed-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 50, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c01d-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14ee-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 51, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c01e-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14ef-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 52, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c01f-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "095c3788-4ee7-4e71-b79d-366aa30f2ea8",
+					"titel": "Middelfartvej 52B, Baaring, 5466 Asperup",
+					"husnummerId": "55574f0d-73de-4d58-b98d-1244654833e4"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f0-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 53, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c020-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f1-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 54, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c021-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f2-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 55, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c022-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f3-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 56, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c023-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f4-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 57, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c024-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2ef51a73-b3a0-4ee7-e044-0003ba298018",
+					"titel": "Middelfartvej 58, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c025-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f5-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 59, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c026-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f6-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 60, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c027-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f7-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 61, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c028-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f8-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 62, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c029-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14f9-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 63, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c02a-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2ef51a73-b3a1-4ee7-e044-0003ba298018",
+					"titel": "Middelfartvej 64, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c02b-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14fa-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 65, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c02c-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14fb-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 67, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c02d-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14fc-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 68, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c02e-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14fd-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 69, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c02f-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14fe-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 70, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c030-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14ff-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 71, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c031-4983-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "29d58755-c032-4983-e044-0003ba298018",
+					"titel": "Middelfartvej 72, Baaring, 5466 Asperup",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "72"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1504-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 73, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c033-4983-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "29d58755-c034-4983-e044-0003ba298018",
+					"titel": "Middelfartvej 74, Baaring, 5466 Asperup",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "74"
+				},
+				{
+					"type": "adresse",
+					"id": "0608b209-ae03-4e21-8b88-03ddbf0e6c83",
+					"titel": "Middelfartvej 74A, Baaring, 5466 Asperup",
+					"husnummerId": "be1c890d-5696-4ac0-9599-24d893a671e0"
+				},
+				{
+					"type": "adresse",
+					"id": "20b5f726-df0c-49d7-a2cd-243607e71739",
+					"titel": "Middelfartvej 74B, Baaring, 5466 Asperup",
+					"husnummerId": "802b9dab-51ee-4327-9017-99fca0444660"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1506-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 75, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c035-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "628d1b50-96b8-498e-85e2-4fe024f04f9d",
+					"titel": "Middelfartvej 76, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c036-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1508-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 77, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c037-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "334c8839-f4aa-43ee-ae70-ad91431557dc",
+					"titel": "Middelfartvej 77A, Baaring, 5466 Asperup",
+					"husnummerId": "1acd11bd-1dde-4364-afb6-73531ddbc549"
+				},
+				{
+					"type": "adresse",
+					"id": "b62921de-43a4-4738-8cd4-48c0599d792d",
+					"titel": "Middelfartvej 77B, Baaring, 5466 Asperup",
+					"husnummerId": "ddd9e1f2-b31a-452a-97de-c54fe37c142f"
+				},
+				{
+					"type": "adresse",
+					"id": "5a721916-aef0-47fd-9ec6-d3cc196607b6",
+					"titel": "Middelfartvej 77C, Baaring, 5466 Asperup",
+					"husnummerId": "f85f3cf4-455b-4136-b398-74e6e58f0ed1"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1509-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 78, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c038-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-150a-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 79, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c039-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "da1a23bb-b928-4dc8-b594-563ba5fe9bf1",
+					"titel": "Middelfartvej 79A, Baaring, 5466 Asperup",
+					"husnummerId": "7096f618-65a2-5ed1-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-150b-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 80, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c03a-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-150c-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 81, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c03b-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-150d-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 82, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c03c-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-150e-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 83, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c03d-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-150f-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 84, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c03e-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1510-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 85, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c03f-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1511-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 86, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c040-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1512-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 87, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c041-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1513-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 88, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c042-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1514-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 89, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c043-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0e75a42d-3ff8-4c62-bf9b-83276bc8ca17",
+					"titel": "Middelfartvej 90, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c044-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1515-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 91, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c045-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1516-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 92, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c046-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1517-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 93, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c047-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1518-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 94, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c048-4983-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "29d58755-c049-4983-e044-0003ba298018",
+					"titel": "Middelfartvej 95, Baaring, 5466 Asperup",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "95"
+				},
+				{
+					"type": "adresse",
+					"id": "f465850e-8fe2-442e-ab09-e2987a9b4887",
+					"titel": "Middelfartvej 95A, Baaring, 5466 Asperup",
+					"husnummerId": "1799978f-80d5-4255-9cf7-ed097bbac759"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-151a-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 96, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c04a-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5160097d-1d07-4ef3-bce1-f9ae25fd2795",
+					"titel": "Middelfartvej 97, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c04b-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-151b-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 98, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c04c-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-151c-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 99, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c04d-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-151d-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 100, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c04f-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b593b423-969b-4570-9038-050317e2d3b7",
+					"titel": "Middelfartvej 100A, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c04e-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-151e-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 101, Risum, 5466 Asperup",
+					"husnummerId": "29d58755-c050-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8418fc39-6da2-442d-a5ac-94efe231dd12",
+					"titel": "Middelfartvej 101A, Risum, 5466 Asperup",
+					"husnummerId": "d6f893db-1ed4-44ed-9459-f51a3e1758c5"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-151f-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 102, Baaring, 5466 Asperup",
+					"husnummerId": "29d58755-c051-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1520-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 103, Risum, 5466 Asperup",
+					"husnummerId": "29d58755-c052-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e16f29fe-2784-4101-93b5-f8921f099b3d",
+					"titel": "Middelfartvej 103A, Risum, 5466 Asperup",
+					"husnummerId": "169612f8-7c2e-4ed9-a182-35987b6248a2"
+				},
+				{
+					"type": "adresse",
+					"id": "cd37733c-995c-4b90-8161-5972e3c9cf70",
+					"titel": "Middelfartvej 103B, Risum, 5466 Asperup",
+					"husnummerId": "6047cd2f-31e0-46f4-a56a-e2ff63ef25cc"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 9220": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "c94ce852-c49c-4f99-8b44-fddf45b96f40",
+					"titel": "Middelfartvej 2, 9220 Aalborg Øst",
+					"husnummerId": "3e704ca9-b0c1-3598-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8f8971f3-7aa2-4c02-80cc-bb9d7b1d19cc",
+					"titel": "Middelfartvej 2B, 9220 Aalborg Øst",
+					"husnummerId": "734c006f-c2cc-17af-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "c66e9814-205d-490a-aa13-40be30163af7",
+					"titel": "Middelfartvej 3, 9220 Aalborg Øst",
+					"husnummerId": "f0167b55-be39-493f-b1ae-a920576c7fdf"
+				},
+				{
+					"type": "adresse",
+					"id": "36d88968-49ec-4f2b-b325-49c9a4bd3ea1",
+					"titel": "Middelfartvej 5, 9220 Aalborg Øst",
+					"husnummerId": "2cf3cd4e-232e-4e80-ad95-7d62a8d45faa"
+				},
+				{
+					"type": "adresse",
+					"id": "bc09487e-e11f-4313-b623-7ffea0a7d55e",
+					"titel": "Middelfartvej 6, 9220 Aalborg Øst",
+					"husnummerId": "6fec5e2a-2922-4178-a4cb-9ec99dd9602d"
+				},
+				{
+					"type": "adresse",
+					"id": "225c6bc3-a2fd-4764-8c07-44cddd19e78a",
+					"titel": "Middelfartvej 7, 9220 Aalborg Øst",
+					"husnummerId": "275aa1cc-8b98-4662-bd66-49b2a5289f1d"
+				},
+				{
+					"type": "adresse",
+					"id": "5a2a6906-95d6-40f6-beb7-4dce9dbb0678",
+					"titel": "Middelfartvej 9, 9220 Aalborg Øst",
+					"husnummerId": "c550c24a-e727-4a65-a328-6cd6666a4480"
+				},
+				{
+					"type": "adresse",
+					"id": "c94d2bf2-644f-4cbb-afe0-32ad1c659951",
+					"titel": "Middelfartvej 9C, 9220 Aalborg Øst",
+					"husnummerId": "64ebba86-fcbd-46c5-9914-0a884bd2ac16"
+				},
+				{
+					"type": "adresse",
+					"id": "02ee11a4-773b-4973-af36-d53ac6a9d713",
+					"titel": "Middelfartvej 9D, 9220 Aalborg Øst",
+					"husnummerId": "ee15707d-08ea-4450-9bff-b5a5c6a1dfa6"
+				},
+				{
+					"type": "adresse",
+					"id": "1c54da4d-02c1-4614-ad70-db1008fff5d0",
+					"titel": "Middelfartvej 9E, 9220 Aalborg Øst",
+					"husnummerId": "cd2a7672-02c6-476d-bed7-3d51180ab6bb"
+				},
+				{
+					"type": "adresse",
+					"id": "2f16c8b4-1ac7-47c0-b223-9b229a2cc1de",
+					"titel": "Middelfartvej 11, 9220 Aalborg Øst",
+					"husnummerId": "b45efc8f-303c-4e0b-a463-321d38e64335"
+				},
+				{
+					"type": "adresse",
+					"id": "31c8963a-b95b-4883-8a92-11304f2bf02a",
+					"titel": "Middelfartvej 13, 9220 Aalborg Øst",
+					"husnummerId": "59319e8c-f563-450d-8ac1-46e03ee798ff"
+				},
+				{
+					"type": "adresse",
+					"id": "e95b5671-1826-40b4-a14e-9ef0368ec8ac",
+					"titel": "Middelfartvej 15, 9220 Aalborg Øst",
+					"husnummerId": "bb78959f-de16-4627-a289-31a4a4e93ff8"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 5200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "3eb9473c-a7cf-4ac5-bdea-2a36c2a70a39",
+					"titel": "Middelfartvej 50, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7dde-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f7bb72f8-e59f-4889-971f-990adbda2d80",
+					"titel": "Middelfartvej 51, 5200 Odense V",
+					"husnummerId": "b1e9aa0d-1200-4017-bd70-8ea1a7aec2bc"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7ddf-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 52, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "52"
+				},
+				{
+					"type": "adresse",
+					"id": "17a48185-37c6-4bf1-864a-454d30ddf28d",
+					"titel": "Middelfartvej 52A, Bolbro, 5200 Odense V",
+					"husnummerId": "3b7b9234-4c53-4e7b-a1d0-1a6aa84d3a14"
+				},
+				{
+					"type": "adresse",
+					"id": "2612dcba-0a02-4fbb-b851-2a53809752e9",
+					"titel": "Middelfartvej 52B, Bolbro, 5200 Odense V",
+					"husnummerId": "ec227019-3354-4b84-aa3e-558006ee1ea9"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-53ce-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 53, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7de0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7de1-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 54, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "54"
+				},
+				{
+					"type": "adresse",
+					"id": "790f336f-04eb-4664-b897-28f6e8c0dab8",
+					"titel": "Middelfartvej 54A, Bolbro, 5200 Odense V",
+					"husnummerId": "025bb23f-cebc-4b79-8128-8aefcbc9fc0b"
+				},
+				{
+					"type": "adresse",
+					"id": "f9450671-9547-4ca3-a4fb-807b7a6999cb",
+					"titel": "Middelfartvej 54B, Bolbro, 5200 Odense V",
+					"husnummerId": "9c0e58b8-1c2e-4db3-9ee8-954ebc1f25dc"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7de2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 55, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "55"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7de3-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 56, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "56"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7de4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 57, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "57"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7de5-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 58, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "58"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7de6-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 59, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "59"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7de7-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 60, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "60"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7de8-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 61, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "61"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7de9-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 62, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "62"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7dea-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 63, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "63"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7deb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 64, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "64"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7dec-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 65, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "65"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7ded-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 66, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "66"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7dee-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 67, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "67"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7def-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 68, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "68"
+				},
+				{
+					"type": "adresse",
+					"id": "b480bc4b-20e3-4985-a06d-d84c7d0decc7",
+					"titel": "Middelfartvej 68B, Bolbro, 5200 Odense V",
+					"husnummerId": "0f9d4a85-4c20-4f4c-a0aa-5d5197b06be8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df0-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 69, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "69"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df1-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 70, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "70"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 71, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "71"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df3-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 72, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "72"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 73, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "73"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df5-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 74, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "74"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df6-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 75, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "75"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df7-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 76, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "76"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df8-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 77, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "77"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7df9-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 78, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "78"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7dfa-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 79, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "79"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7dfb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 80, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "80"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7dfc-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 81, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "81"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7dfd-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 82, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "82"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7dfe-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 83, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "83"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7dff-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 84, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "84"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e00-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 85, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "85"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e01-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 86, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "86"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e02-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 88, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "88"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e03-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 90, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "90"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e04-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 94, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "94"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e05-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 96, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "96"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e06-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 98, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "98"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-54fd-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 100, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e07-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-54fe-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 102, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e08-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-54ff-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 104, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e09-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e0a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 106, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "106"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e0b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 108, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "108"
+				},
+				{
+					"type": "husnummer",
+					"id": "de36def3-6615-4e57-b4b9-eb6833f3b686",
+					"titel": "Middelfartvej 108B, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "108B"
+				},
+				{
+					"type": "husnummer",
+					"id": "4b1143c8-4cfb-4f7c-8057-950857ae7c43",
+					"titel": "Middelfartvej 108C, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "108C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e0c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 110, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "110"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e0d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 112, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "112"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e0f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 113, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "113"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e10-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 114, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "114"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e11-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 115, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "115"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e12-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 115B, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "115B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e13-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 116, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "116"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e14-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 117, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "117"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-551b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 118, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e15-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-551c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 119A, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e16-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-551d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 119B, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e17-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-1883-51c5-e044-0003ba298018",
+					"titel": "Middelfartvej 119C, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e18-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e19-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 119D, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "119D"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5520-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 120, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e1a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e1b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 121, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "121"
+				},
+				{
+					"type": "adresse",
+					"id": "a0e07eb8-2a02-4063-acbb-ffb3a115421c",
+					"titel": "Middelfartvej 121A, Bolbro, 5200 Odense V",
+					"husnummerId": "1ed6ce55-7c5c-4d7b-80da-f9c0d7310010"
+				},
+				{
+					"type": "adresse",
+					"id": "204231ee-38f8-47d9-8b78-c9965cac9bb3",
+					"titel": "Middelfartvej 121B, Bolbro, 5200 Odense V",
+					"husnummerId": "e73f78ae-ccf5-4e5f-9287-fe6a47521754"
+				},
+				{
+					"type": "adresse",
+					"id": "409cd13e-2ba2-4b87-9872-0c508bc57b04",
+					"titel": "Middelfartvej 121C, Bolbro, 5200 Odense V",
+					"husnummerId": "1736d7d8-268f-4c3a-9c2d-37bdc0fb1a77"
+				},
+				{
+					"type": "adresse",
+					"id": "16a6be94-a452-43fd-8ae4-103ce02030e4",
+					"titel": "Middelfartvej 121D, Bolbro, 5200 Odense V",
+					"husnummerId": "b96bd341-9c66-4ff9-b979-e0837fc1e1f0"
+				},
+				{
+					"type": "adresse",
+					"id": "d912dff2-52d8-4d87-b5dd-b7e254ae7df3",
+					"titel": "Middelfartvej 121F, Bolbro, 5200 Odense V",
+					"husnummerId": "54163068-162e-4784-8cd2-7a2aaba47fa9"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5524-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 122, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e1c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e1d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 123, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "123"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e1e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 124, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "124"
+				},
+				{
+					"type": "adresse",
+					"id": "858a1c82-d0c3-4620-b783-7d3175c67bf6",
+					"titel": "Middelfartvej 124A, Bolbro, 5200 Odense V",
+					"husnummerId": "6c9cdd0c-7793-4458-a72b-c3d88f14ebe2"
+				},
+				{
+					"type": "adresse",
+					"id": "08b75858-4832-4753-9471-adbe18015852",
+					"titel": "Middelfartvej 124B, Bolbro, 5200 Odense V",
+					"husnummerId": "654024f6-8240-47bb-9c86-23186d62eb06"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e1f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 125, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "125"
+				},
+				{
+					"type": "adresse",
+					"id": "b02cfe5b-23fe-4e74-8af7-66ab4aac9d23",
+					"titel": "Middelfartvej 126, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e20-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e22-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 129, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "129"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e23-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 129B, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "129B"
+				},
+				{
+					"type": "adresse",
+					"id": "6bfc0b1d-ad68-49a5-aa85-321155469e5b",
+					"titel": "Middelfartvej 129C, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c745e76e-a1e3-42e2-9573-69b0b4b95b2d",
+					"titel": "Middelfartvej 131, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e25-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "64b34397-2a6f-4afc-91bf-0d68eb880967",
+					"titel": "Middelfartvej 131B, Bolbro, 5200 Odense V",
+					"husnummerId": "a5b59199-e70c-4b9c-9f0a-76ecd85c3140"
+				},
+				{
+					"type": "adresse",
+					"id": "7742e886-345e-430d-a651-d3f99275ab9c",
+					"titel": "Middelfartvej 131C, Bolbro, 5200 Odense V",
+					"husnummerId": "daa36f0a-ae0d-4490-9afe-c1b6df0c1a60"
+				},
+				{
+					"type": "adresse",
+					"id": "5411e791-3d5e-4461-951e-bc887a383ea1",
+					"titel": "Middelfartvej 131D, Bolbro, 5200 Odense V",
+					"husnummerId": "e38c9320-cce7-4bf5-9419-2b0b74f02aa5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e26-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 132A, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "132A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5534-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 132B, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e27-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e28-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 134, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "134"
+				},
+				{
+					"type": "adresse",
+					"id": "50cf283f-af47-4e9e-9af6-3ae7313abca2",
+					"titel": "Middelfartvej 135, Bolbro, 5200 Odense V",
+					"husnummerId": "40149912-960f-4629-9ac8-374893affba9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e29-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 137, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "137"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e2a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 139, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "139"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e2b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 141, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "141"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e2c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 143, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "143"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e2d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 145, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "145"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e2e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 147, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "147"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e2f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 149, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "149"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e30-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 151, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "151"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 6000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22d6-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 1, 6000 Kolding",
+					"husnummerId": "0a3f5090-448c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22d7-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, 6000 Kolding",
+					"husnummerId": "0a3f5090-448d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22d8-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 3, 6000 Kolding",
+					"husnummerId": "0a3f5090-448e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22d9-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 4, 6000 Kolding",
+					"husnummerId": "0a3f5090-448f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22da-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 5, 6000 Kolding",
+					"husnummerId": "0a3f5090-4490-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22db-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 6, 6000 Kolding",
+					"husnummerId": "0a3f5090-4491-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22dc-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 7, 6000 Kolding",
+					"husnummerId": "0a3f5090-4492-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22dd-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 8, 6000 Kolding",
+					"husnummerId": "0a3f5090-4493-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22de-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 9, 6000 Kolding",
+					"husnummerId": "0a3f5090-4494-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22df-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 10, 6000 Kolding",
+					"husnummerId": "0a3f5090-4495-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e0-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 11, 6000 Kolding",
+					"husnummerId": "0a3f5090-4496-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e1-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 12, 6000 Kolding",
+					"husnummerId": "0a3f5090-4497-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 13, 6000 Kolding",
+					"husnummerId": "0a3f5090-4498-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e3-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 14, 6000 Kolding",
+					"husnummerId": "0a3f5090-4499-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 15, 6000 Kolding",
+					"husnummerId": "0a3f5090-449a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e5-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 16, 6000 Kolding",
+					"husnummerId": "0a3f5090-449b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e6-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 17, 6000 Kolding",
+					"husnummerId": "0a3f5090-449c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e7-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 18, 6000 Kolding",
+					"husnummerId": "0a3f5090-449d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e8-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 19, 6000 Kolding",
+					"husnummerId": "0a3f5090-449e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e9-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 20, 6000 Kolding",
+					"husnummerId": "0a3f5090-449f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ea-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 21, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22eb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 22, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ec-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 23, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ed-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 24, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ee-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 25, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ef-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 26, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f0-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 28, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f1-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 30, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 32, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f3-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 34, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 36, 6000 Kolding",
+					"husnummerId": "0a3f5090-44aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f5-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 38, 6000 Kolding",
+					"husnummerId": "0a3f5090-44ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f6-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 40, 6000 Kolding",
+					"husnummerId": "0a3f5090-44ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f7-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 42, 6000 Kolding",
+					"husnummerId": "0a3f5090-44ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f8-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 44, 6000 Kolding",
+					"husnummerId": "0a3f5090-44ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f9-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 46, 6000 Kolding",
+					"husnummerId": "0a3f5090-44af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22fa-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 48, 6000 Kolding",
+					"husnummerId": "0a3f5090-44b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22fb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 50, 6000 Kolding",
+					"husnummerId": "0a3f5090-44b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22fc-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 52, 6000 Kolding",
+					"husnummerId": "0a3f5090-44b2-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 5491": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "ade1f123-43ff-44f3-8b63-d597c92438c8",
+					"titel": "Middelfartvej 302, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "fea49240-623a-4b92-9202-57fe61c78d7c"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5628-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 304, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e85-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-562a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 306, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e87-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-562b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 308, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e88-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-562c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 310, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e89-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-562d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 312, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e8a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-562f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 314, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e8c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5633-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 320, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e93-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5636-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 329, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e97-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5637-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 330, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e98-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5638-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 332, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e99-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5639-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 333, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e9a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-563a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 334, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e9b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-563b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 335, Stegsted, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e9c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-563c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 336, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e9d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-563d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 340, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e9e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-563e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 347, Krogshøj, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7e9f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-563f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 348, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ea0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5640-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 350, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ea1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5641-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 352, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ea2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5642-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 358, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ea3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5643-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 360, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ea4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5644-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 361, Krogshøj, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ea5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5645-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 362, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ea6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5646-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 363, Krogshøj, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ea7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7ea8-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 364, Vejrup, 5491 Blommenslyst",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "364"
+				},
+				{
+					"type": "adresse",
+					"id": "5b11016d-7dec-4946-87a7-7fed79d1d628",
+					"titel": "Middelfartvej 364A, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "ecca5d41-4255-4c55-b240-5b76119e0369"
+				},
+				{
+					"type": "husnummer",
+					"id": "03439bd5-54eb-4849-b92d-67668e4f18cb",
+					"titel": "Middelfartvej 364B, Vejrup, 5491 Blommenslyst",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "364B"
+				},
+				{
+					"type": "adresse",
+					"id": "e1ad20da-1bc7-4d29-9fc8-e825f6e8289c",
+					"titel": "Middelfartvej 364C, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "89e632af-6799-4401-961f-d1e205dd0ab7"
+				},
+				{
+					"type": "husnummer",
+					"id": "34e8b492-bf87-496a-b321-c6eb54675f9b",
+					"titel": "Middelfartvej 364D, Vejrup, 5491 Blommenslyst",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "364D"
+				},
+				{
+					"type": "husnummer",
+					"id": "abc81636-6912-439d-889f-6fb949814aad",
+					"titel": "Middelfartvej 364E, Vejrup, 5491 Blommenslyst",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "364E"
+				},
+				{
+					"type": "adresse",
+					"id": "5410a39f-c221-4fe8-83a3-0476aa6ee478",
+					"titel": "Middelfartvej 367, Krogshøj, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ea9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5649-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 368, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eaa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-564a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 369, Krogshøj, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-564b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 370, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-564c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 372, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ead-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-564d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 375, Krogshøj, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c5a6a74d-ca3a-4a56-918b-87be94b4d8d7",
+					"titel": "Middelfartvej 379, Krogshøj, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eaf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-564e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 381, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eb0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-564f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 385, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eb1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5650-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 389, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eb2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0416b6dd-e557-43b0-a5d9-40472124c550",
+					"titel": "Middelfartvej 393, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eb4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5652-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 396, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eb5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5653-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 398, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eb6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5654-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 399, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eb7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5655-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 401, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eb8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5656-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 402, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eb9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5657-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 403, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5658-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 405, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ebb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5659-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 406, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ebc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "61f6b363-fa9c-4571-8a77-d936124a9aea",
+					"titel": "Middelfartvej 407, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ebd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-565a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 410, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ebe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-565b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 411, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ebf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-565c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 414, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ec0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-565d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 415, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ec1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7ec2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 420, Lille Ubberud, 5491 Blommenslyst",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "420"
+				},
+				{
+					"type": "adresse",
+					"id": "9b57b95b-8e40-4b5c-aead-3cc1e753b4a4",
+					"titel": "Middelfartvej 420B, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ec3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-565f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 421, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ec4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5660-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 423, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ec5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4a1ab3f1-f430-462c-9f1d-c33790895940",
+					"titel": "Middelfartvej 423A, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "bd95a4b1-9257-4946-aaa6-89847342131f"
+				},
+				{
+					"type": "adresse",
+					"id": "f2def24b-88d2-47b0-9715-4ae9f35f6cea",
+					"titel": "Middelfartvej 423B, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "648098a4-2cdd-404b-8e52-26a40d26bc6d"
+				},
+				{
+					"type": "adresse",
+					"id": "9b86e563-b0d6-4644-a303-f438d7a05c22",
+					"titel": "Middelfartvej 423C, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "b6bd71f3-ee08-456a-a0ca-febfa340e676"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5661-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 425, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ec6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5662-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 427, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ec7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5663-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 428, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ec8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5664-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 429, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ec9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5665-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 430, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5666-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 431A, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ecb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0d5c7025-3fcd-45b2-8cc3-5556ef4e832d",
+					"titel": "Middelfartvej 431B, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ecc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "803f4d81-10c4-4c99-85df-cbef14aaf7d0",
+					"titel": "Middelfartvej 433, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ece-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a2e39869-d157-4419-89d6-2d5beb91730d",
+					"titel": "Middelfartvej 435, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ed1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-566a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 439, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ed5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-566b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 441, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ed6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-566c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 443, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ed7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-566d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 444, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ed8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-566e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 445, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ed9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "59a0f0cd-4856-4af2-a7b3-81542c14fe02",
+					"titel": "Middelfartvej 447, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eda-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-566f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 448, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7edb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5670-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 449, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7edc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5671-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 450, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7edd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5672-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 451, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ede-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5673-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 452, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7edf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5674-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 454, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5675-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 455, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5676-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 459, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5677-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 460, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5678-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 463, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3951dbd9-1421-49d3-80cf-3a1a3bf5de33",
+					"titel": "Middelfartvej 465, Vejrup, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5679-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 469, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-567a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 470, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-567b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 474, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-567c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 475, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ee9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-567d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 477, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-567e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 479, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eeb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-567f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 481, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5680-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 483, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5681-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 484, Blommenslyst, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5682-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 485, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7eef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5683-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 487, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "0a3f5089-7ef0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3869d85b-44de-428e-8008-4945f4f17988",
+					"titel": "Middelfartvej 487B, Lille Ubberud, 5491 Blommenslyst",
+					"husnummerId": "4ee0482d-f236-4f66-b5d0-63b2caaba459"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 8940": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-126c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, 8940 Randers SV",
+					"husnummerId": "0a3f5094-c0d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-126d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 3, 8940 Randers SV",
+					"husnummerId": "0a3f5094-c0d8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-126e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 4, 8940 Randers SV",
+					"husnummerId": "0a3f5094-c0d9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-126f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 5, 8940 Randers SV",
+					"husnummerId": "0a3f5094-c0da-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-1270-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 6, 8940 Randers SV",
+					"husnummerId": "0a3f5094-c0db-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-1271-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 7, 8940 Randers SV",
+					"husnummerId": "0a3f5094-c0dc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-1272-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 8, 8940 Randers SV",
+					"husnummerId": "0a3f5094-c0dd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-1273-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 9, 8940 Randers SV",
+					"husnummerId": "0a3f5094-c0de-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=middelfartvej 2": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ac-04bb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5082-09aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bcfd6d6c-67b0-4eb5-b949-fe9e9a98d41f",
+					"titel": "Middelfartvej 2, 4200 Slagelse",
+					"husnummerId": "2df18b64-150d-4939-99a6-4232fc8aef88"
+				},
+				{
+					"type": "adresse",
+					"id": "e057eaaf-555c-4624-825c-8948a1bd2dfa",
+					"titel": "Middelfartvej 2, 5000 Odense C",
+					"husnummerId": "0a3f5089-7dd6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5feb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, Tofte, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14cd-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 2, Roerslev, 5466 Asperup",
+					"husnummerId": "29d58755-bffc-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-4c56-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, 5610 Assens",
+					"husnummerId": "0a3f5087-c63b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22d7-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, 6000 Kolding",
+					"husnummerId": "0a3f5090-448d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c1-126c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 2, 8940 Randers SV",
+					"husnummerId": "0a3f5094-c0d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c94ce852-c49c-4f99-8b44-fddf45b96f40",
+					"titel": "Middelfartvej 2, 9220 Aalborg Øst",
+					"husnummerId": "3e704ca9-b0c1-3598-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-d7e4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 20, Himmelev, 4000 Roskilde",
+					"husnummerId": "0a3f5081-ea00-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 20, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff3-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 22, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 26, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-5ff5-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 28, Kærby, 5400 Bogense",
+					"husnummerId": "0a3f5087-d8d9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d5-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 20, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c004-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d6-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 22, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c005-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d7-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 24, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c006-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d8-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 26, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c007-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-14d9-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 28, Blanke, 5466 Asperup",
+					"husnummerId": "29d58755-c008-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22e9-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 20, 6000 Kolding",
+					"husnummerId": "0a3f5090-449f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ea-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 21, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22eb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 22, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ec-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 23, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ed-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 24, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ee-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 25, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ef-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 26, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22f0-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 28, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8f8971f3-7aa2-4c02-80cc-bb9d7b1d19cc",
+					"titel": "Middelfartvej 2B, 9220 Aalborg Øst",
+					"husnummerId": "734c006f-c2cc-17af-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55eb-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 216, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e53-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4f2e9e08-6d42-4aa6-9b33-d26be59ffebb",
+					"titel": "Middelfartvej 218, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e54-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "33d323a9-ecb2-43d9-b2eb-d2a4a8f4656b",
+					"titel": "Middelfartvej 220, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "76cf5180-a592-4f0e-8388-63e9ce57ea23",
+					"titel": "Middelfartvej 222, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55ee-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 228, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e58-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55ef-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 234, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f0-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 236, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f1-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 238, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f2-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 240, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f3-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 242, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f4-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 246, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e60-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 248, Stegsted, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "248"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f7-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 250, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e61-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f8-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 252, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e62-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f9-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 256, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e63-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55fa-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 258, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e64-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e65-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 259, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "259"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5601-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 260, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e66-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e67-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 261, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "261"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5607-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 262, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e68-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e69-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 263, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "263"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-560e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 264, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e6a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-7e6b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 265, Bolbro, 5200 Odense V",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "265"
+				},
+				{
+					"type": "adresse",
+					"id": "cec735f4-de1d-4744-a02d-5a014ea798b0",
+					"titel": "Middelfartvej 266, Stegsted, 5200 Odense V",
+					"husnummerId": "d3a3ddad-727f-4faa-bf4d-e91fec72554d"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5615-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 267, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e6c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5616-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 269, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e6d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7e456f9c-e2df-46b2-b3b9-ed492a16fa84",
+					"titel": "Middelfartvej 270, Stegsted, 5200 Odense V",
+					"husnummerId": "a1ae22a5-559b-4701-9b40-3f88bfade3b5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5617-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 271, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e6f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5618-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 273, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e71-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5354494b-3231-4f2c-ba56-88e450677562",
+					"titel": "Middelfartvej 275, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e72-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5619-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 276, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e73-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-561a-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 278, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e74-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-561b-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 280, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e75-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-561c-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 282, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e76-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-561d-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 285, Bolbro, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e78-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-561e-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 286, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e79-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-561f-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 288, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e7a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "939284c1-39c9-40fb-991e-44b917637448",
+					"titel": "Middelfartvej 289, Stegsted, 5200 Odense V",
+					"husnummerId": "46a291b1-57c1-45da-bf68-05da51de313f"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5620-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 291, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e7b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5621-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 292, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e7c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5622-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 293, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e7d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5623-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 294, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e7e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5624-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 295, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e7f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5625-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 296, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e80-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-5626-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 297, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e81-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b1b37638-9bf6-4988-b24b-8020db8e9fe4",
+					"titel": "Middelfartvej 298, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e82-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7199ca9d-f6fd-47d0-894d-121193c1f6c6",
+					"titel": "Middelfartvej 299, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e83-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1527-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 200, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c05b-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1528-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 201, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c05c-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d89f4f51-04dc-442b-b97a-5b8bcdc01b56",
+					"titel": "Middelfartvej 202, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c05d-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1529-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 203, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c05e-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-152a-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 204, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c05f-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-152b-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 205, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c060-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-152c-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 208, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c061-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-152d-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 209, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c062-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-152e-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 210, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c063-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c569993b-c0d9-46cd-ac1f-18082248d19f",
+					"titel": "Middelfartvej 211, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c064-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-152f-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 212, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c065-4983-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "29d58755-c067-4983-e044-0003ba298018",
+					"titel": "Middelfartvej 217, Skovshøjrup, 5464 Brenderup Fyn",
+					"vejnavn": "Middelfartvej",
+					"husnummer": "217"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1531-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 218, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c068-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1532-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 219, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c069-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1533-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 222, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c06a-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1534-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 225, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c06b-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1535-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 227, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c06c-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1536-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 229, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c06d-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1537-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 232, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c06e-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1538-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 233, Åhøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c06f-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1539-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 234, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c070-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-153a-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 235, Åhøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c071-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-153b-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 236, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c072-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-153c-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 237, Åhøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c073-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-153d-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 238, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c074-4983-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=middelfartvej 23": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-22ec-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 23, 6000 Kolding",
+					"husnummerId": "0a3f5090-44a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55ef-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 234, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f0-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 236, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55f1-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 238, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1537-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 232, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c06e-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1538-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 233, Åhøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c06f-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1539-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 234, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c070-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-153a-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 235, Åhøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c071-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-153b-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 236, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c072-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-153c-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 237, Åhøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c073-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-153d-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 238, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c074-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0006730d-8677-4af2-82bf-82522077ddcc",
+					"titel": "Middelfartvej 234B, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=middelfartvej 234": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-55ef-32b8-e044-0003ba298018",
+					"titel": "Middelfartvej 234, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1539-680f-e044-0003ba298018",
+					"titel": "Middelfartvej 234, Skovshøjrup, 5464 Brenderup Fyn",
+					"husnummerId": "29d58755-c070-4983-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0006730d-8677-4af2-82bf-82522077ddcc",
+					"titel": "Middelfartvej 234B, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=middelfartvej 234b": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0006730d-8677-4af2-82bf-82522077ddcc",
+					"titel": "Middelfartvej 234B, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Middelfartvej 234B, Stegsted, 5200 Odense V": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0006730d-8677-4af2-82bf-82522077ddcc",
+					"titel": "Middelfartvej 234B, Stegsted, 5200 Odense V",
+					"husnummerId": "0a3f5089-7e5a-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,1417 @@
+{
+	"tekst": "Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C",
+	"dawaId": "037033db-0968-4962-9dc2-fb59cbab2a4e",
+	"recordedAt": "2026-07-09T20:39:01.766Z",
+	"stages": [
+		{
+			"stage": "vodr",
+			"dawa": [
+				"Vodroffsvej 7, 1900 Frederiksberg C",
+				"Vodroffsvej 8, 1900 Frederiksberg C",
+				"Vodroffslund 1, 1914 Frederiksberg C",
+				"Vodroffslund 2, 1914 Frederiksberg C",
+				"Vodroffsvej 2B, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 1900 Frederiksberg C",
+				"Vodroffsvej 4B, 1900 Frederiksberg C",
+				"Vodroffsvej 4D, 1900 Frederiksberg C",
+				"Vodroffsvej 4E, 1900 Frederiksberg C",
+				"Vodroffslund 5, 1914 Frederiksberg C"
+			]
+		},
+		{
+			"stage": "vodroffsvej",
+			"dawa": [
+				"Vodroffsvej 5, 1900 Frederiksberg C",
+				"Vodroffsvej 7, 1900 Frederiksberg C",
+				"Vodroffsvej 8, 1900 Frederiksberg C",
+				"Vodroffsvej 2A, 1900 Frederiksberg C",
+				"Vodroffsvej 2B, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 1900 Frederiksberg C",
+				"Vodroffsvej 4B, 1900 Frederiksberg C",
+				"Vodroffsvej 4D, 1900 Frederiksberg C",
+				"Vodroffsvej 4E, 1900 Frederiksberg C",
+				"Vodroffsvej 6A, 1900 Frederiksberg C"
+			]
+		},
+		{
+			"stage": "vodroffsvej 4",
+			"dawa": [
+				"Vodroffsvej 4A, 4. 1, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 4. 2, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 4. 3, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C",
+				"Vodroffsvej 4C, 2. 4, 1900 Frederiksberg C",
+				"Vodroffsvej 4C, 4. 12, 1900 Frederiksberg C",
+				"Vodroffsvej 4C, 4. 13, 1900 Frederiksberg C",
+				"Vodroffsvej 4C, 4. 14, 1900 Frederiksberg C",
+				"Vodroffsvej 4C, 4. 15, 1900 Frederiksberg C",
+				"Vodroffsvej 41, 4. th, 1900 Frederiksberg C"
+			]
+		},
+		{
+			"stage": "vodroffsvej 4a",
+			"dawa": [
+				"Vodroffsvej 4A, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 1. 1, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 2. 2, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 3. 3, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 1. 2, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 1. 3, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 2. 1, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 2. 3, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 3. 1, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 3. 2, 1900 Frederiksberg C"
+			]
+		},
+		{
+			"stage": "vodroffsvej 4a 5",
+			"dawa": [
+				"Vodroffsvej 4A, 5. 1, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 5. 2, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 5. 3, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C"
+			]
+		},
+		{
+			"stage": "vodroffsvej 4a 5 4",
+			"dawa": [
+				"Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 5. 1, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 5. 2, 1900 Frederiksberg C",
+				"Vodroffsvej 4A, 5. 3, 1900 Frederiksberg C"
+			]
+		},
+		{
+			"stage": "Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C",
+			"dawa": [
+				"Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=vodr": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Vodroffs Tværgade",
+					"vejNavn": "Vodroffs Tværgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vodroffslund",
+					"vejNavn": "Vodroffslund"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vodroffsvej",
+					"vejNavn": "Vodroffsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Hvorup Kirkevej",
+					"vejNavn": "Hvorup Kirkevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Hvorup Kærvej",
+					"vejNavn": "Hvorup Kærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Hvorupgårdvej",
+					"vejNavn": "Hvorupgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Hvorupvej",
+					"vejNavn": "Hvorupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Hvorvarpvej",
+					"vejNavn": "Hvorvarpvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vaarst Banevej",
+					"vejNavn": "Vaarst Banevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vaarst Engvej",
+					"vejNavn": "Vaarst Engvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vaarst Kærvej",
+					"vejNavn": "Vaarst Kærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vaarst Skolevej",
+					"vejNavn": "Vaarst Skolevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vaarst Smedevej",
+					"vejNavn": "Vaarst Smedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vaarstvej",
+					"vejNavn": "Vaarstvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voddergårdvej",
+					"vejNavn": "Voddergårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voddervej",
+					"vejNavn": "Voddervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voderup",
+					"vejNavn": "Voderup"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voer Færgevej",
+					"vejNavn": "Voer Færgevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voer Gade",
+					"vejNavn": "Voer Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voer Hedevej",
+					"vejNavn": "Voer Hedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voerbjerg Kærvej",
+					"vejNavn": "Voerbjerg Kærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voerbjerglund",
+					"vejNavn": "Voerbjerglund"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voerbjergvej",
+					"vejNavn": "Voerbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voergård",
+					"vejNavn": "Voergård"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voergårdsvej",
+					"vejNavn": "Voergårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voergårdvej",
+					"vejNavn": "Voergårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voermøllevej",
+					"vejNavn": "Voermøllevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voersåhedevej",
+					"vejNavn": "Voersåhedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voersåvej",
+					"vejNavn": "Voersåvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Voervej",
+					"vejNavn": "Voervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vor Frue Engvej",
+					"vejNavn": "Vor Frue Engvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vor Frue Hovedgade",
+					"vejNavn": "Vor Frue Hovedgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vor Frue Kirkevej",
+					"vejNavn": "Vor Frue Kirkevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vor Frue Plads",
+					"vejNavn": "Vor Frue Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorbassevej",
+					"vejNavn": "Vorbassevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorbjergbakken",
+					"vejNavn": "Vorbjergbakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorbjergvej",
+					"vejNavn": "Vorbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorbækvej",
+					"vejNavn": "Vorbækvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vordevej",
+					"vejNavn": "Vordevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vordingborg Landevej",
+					"vejNavn": "Vordingborg Landevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vordingborggade",
+					"vejNavn": "Vordingborggade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vordingborgvej",
+					"vejNavn": "Vordingborgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vores Sti",
+					"vejNavn": "Vores Sti"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vores Vej",
+					"vejNavn": "Vores Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorgod Østerbyvej",
+					"vejNavn": "Vorgod Østerbyvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorgodvej",
+					"vejNavn": "Vorgodvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorhøjvej",
+					"vejNavn": "Vorhøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vork Bakker",
+					"vejNavn": "Vork Bakker"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vork Skolevej",
+					"vejNavn": "Vork Skolevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorkvej",
+					"vejNavn": "Vorkvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vormark Alle",
+					"vejNavn": "Vormark Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vormark Bygade",
+					"vejNavn": "Vormark Bygade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vormstrupvej",
+					"vejNavn": "Vormstrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorningvej",
+					"vejNavn": "Vorningvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vornæs Skovvej",
+					"vejNavn": "Vornæs Skovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vornæsvej",
+					"vejNavn": "Vornæsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorregårds Allé",
+					"vejNavn": "Vorregårds Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorregårdsparken",
+					"vejNavn": "Vorregårdsparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorretvej",
+					"vejNavn": "Vorretvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorrevangs Allé",
+					"vejNavn": "Vorrevangs Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorrevej",
+					"vejNavn": "Vorrevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorringvej",
+					"vejNavn": "Vorringvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorslundevej",
+					"vejNavn": "Vorslundevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorsøvej",
+					"vejNavn": "Vorsøvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorsøvænget",
+					"vejNavn": "Vorsøvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorup Boulevard",
+					"vejNavn": "Vorup Boulevard"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorup Kirkevej",
+					"vejNavn": "Vorup Kirkevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorupvænget",
+					"vejNavn": "Vorupvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vorupørvej",
+					"vejNavn": "Vorupørvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vår Skovvej",
+					"vejNavn": "Vår Skovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårager",
+					"vejNavn": "Vårager"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårbuen",
+					"vejNavn": "Vårbuen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårbækvej",
+					"vejNavn": "Vårbækvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårfluen",
+					"vejNavn": "Vårfluen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårfluevej",
+					"vejNavn": "Vårfluevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårgyvelvej",
+					"vejNavn": "Vårgyvelvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårhøj",
+					"vejNavn": "Vårhøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårkjærvej",
+					"vejNavn": "Vårkjærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårlyngen",
+					"vejNavn": "Vårlyngen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårskovvej",
+					"vejNavn": "Vårskovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårsvej",
+					"vejNavn": "Vårsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårsøvej",
+					"vejNavn": "Vårsøvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårvangen",
+					"vejNavn": "Vårvangen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårvej",
+					"vejNavn": "Vårvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårø Isvej",
+					"vejNavn": "Vårø Isvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vårøvej",
+					"vejNavn": "Vårøvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Wormstrupsvej",
+					"vejNavn": "Wormstrupsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Wormsvej",
+					"vejNavn": "Wormsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Worsaaesgade",
+					"vejNavn": "Worsaaesgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Worsaaesvej",
+					"vejNavn": "Worsaaesvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Worsøes Have",
+					"vejNavn": "Worsøes Have"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=vodroffsvej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6005-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 2A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "2A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6006-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 2B, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "2B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6007-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "4A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1c2-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4B, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6008-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6009-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4C, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "4C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1d2-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4D, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-600a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1d3-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4E, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-600b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-600c-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 5, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1df-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 6A, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-600d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1e0-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 6B, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-600e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1e1-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 6C, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-600f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1e2-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 6D, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6010-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6011-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 6E, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "6E"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1f5-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 6F, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6012-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1f6-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 6G, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6013-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6014-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 7, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6015-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 8, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6016-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 9A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "9A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6017-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 9B, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "9B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6018-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 9C, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "9C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6019-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 10, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-601a-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 11, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-601b-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 12, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "5ddb979d-c171-40d3-e044-0003ba298018",
+					"titel": "Vodroffsvej 13, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-601c-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 13A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "13A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e237-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 13B, st., 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-601d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-601e-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 14, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "eca4743e-bdb8-4ac3-93f5-9bad2d2b5266",
+					"titel": "Vodroffsvej 14A, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-601f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6020-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 15, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6021-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 16, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6022-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 18, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6023-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 19, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6024-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 20, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "20"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6025-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 21, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6026-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 21A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "21A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6027-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 22, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "22"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6028-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 22A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "22A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6029-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 23, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-602a-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 24, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-602b-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 24A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "24A"
+				},
+				{
+					"type": "adresse",
+					"id": "dcc326be-79c9-45ef-bc76-2758b2827a8e",
+					"titel": "Vodroffsvej 24B, 1900 Frederiksberg C",
+					"husnummerId": "9c73de7c-b156-4726-bae2-1ce13bab678e"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-602c-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 25, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-602d-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 26, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-602e-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 27, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-602f-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 28, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "28"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6030-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 29, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "29"
+				},
+				{
+					"type": "adresse",
+					"id": "6b747591-95b7-4ed4-a72c-011854fe82af",
+					"titel": "Vodroffsvej 30, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6031-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6032-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 31, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "31"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6033-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 32, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "32"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6034-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 33, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "33"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6035-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 34, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "34"
+				},
+				{
+					"type": "adresse",
+					"id": "4670bed4-3a80-49df-971b-6e9d6cc89038",
+					"titel": "Vodroffsvej 36, 1900 Frederiksberg C",
+					"husnummerId": "f18aed64-b94b-485d-b5bb-13d565743e27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6036-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 37, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "37"
+				},
+				{
+					"type": "husnummer",
+					"id": "9974e050-f357-4858-a880-2b57eb9ad1a2",
+					"titel": "Vodroffsvej 37A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "37A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6037-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 38, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "38"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e32b-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 38B, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6038-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6039-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 39, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "39"
+				},
+				{
+					"type": "adresse",
+					"id": "72ed4a82-ebde-4032-901b-44d16020f5ca",
+					"titel": "Vodroffsvej 40, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-603a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-603b-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 41, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "41"
+				},
+				{
+					"type": "adresse",
+					"id": "a6f8def1-36d0-4903-a59b-ea20d40c10bb",
+					"titel": "Vodroffsvej 42, 1900 Frederiksberg C",
+					"husnummerId": "869bce58-f120-454b-a6c2-a815e3c09b1e"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-603d-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 43, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "43"
+				},
+				{
+					"type": "adresse",
+					"id": "f10fbe9c-d7f2-4eaa-b6f7-f2861bb15c9c",
+					"titel": "Vodroffsvej 44, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-603e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "071f870f-e4a6-42fd-8af6-7a94256543b3",
+					"titel": "Vodroffsvej 46, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-603f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6040-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 47, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "47"
+				},
+				{
+					"type": "adresse",
+					"id": "c0577cd9-acc7-49ba-8387-08efd092d43b",
+					"titel": "Vodroffsvej 48, 1900 Frederiksberg C",
+					"husnummerId": "8df72ed7-0dd0-4be4-b27c-e9777daef57a"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6042-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 49, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "49"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6043-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 50A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "50A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6044-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 50B, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "50B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6045-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 51, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "51"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6046-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 52A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "52A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6047-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 52B, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "52B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6048-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 53A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "53A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6049-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 53B, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "53B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-604a-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 53C, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "53C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-604b-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 54, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "54"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-604c-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 55, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "55"
+				},
+				{
+					"type": "adresse",
+					"id": "5dfde8df-9c4e-4937-bf63-54e8bba968c8",
+					"titel": "Vodroffsvej 55A, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-604d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-604e-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 56A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "56A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-604f-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 56B, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "56B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6050-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 57C, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "57C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6051-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 57D, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "57D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6052-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 57E, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "57E"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6053-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 58, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "58"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6054-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 59, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "59"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6055-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 61, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "61"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6056-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 63, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "63"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=vodroffsvej 4": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6007-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4A, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "4A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1c2-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4B, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6008-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6009-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4C, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "4C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1d2-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4D, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-600a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a2-e1d3-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 4E, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-600b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "72ed4a82-ebde-4032-901b-44d16020f5ca",
+					"titel": "Vodroffsvej 40, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-603a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-603b-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 41, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "41"
+				},
+				{
+					"type": "adresse",
+					"id": "a6f8def1-36d0-4903-a59b-ea20d40c10bb",
+					"titel": "Vodroffsvej 42, 1900 Frederiksberg C",
+					"husnummerId": "869bce58-f120-454b-a6c2-a815e3c09b1e"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-603d-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 43, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "43"
+				},
+				{
+					"type": "adresse",
+					"id": "f10fbe9c-d7f2-4eaa-b6f7-f2861bb15c9c",
+					"titel": "Vodroffsvej 44, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-603e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "071f870f-e4a6-42fd-8af6-7a94256543b3",
+					"titel": "Vodroffsvej 46, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-603f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6040-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 47, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "47"
+				},
+				{
+					"type": "adresse",
+					"id": "c0577cd9-acc7-49ba-8387-08efd092d43b",
+					"titel": "Vodroffsvej 48, 1900 Frederiksberg C",
+					"husnummerId": "8df72ed7-0dd0-4be4-b27c-e9777daef57a"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-6042-32b8-e044-0003ba298018",
+					"titel": "Vodroffsvej 49, 1900 Frederiksberg C",
+					"vejnavn": "Vodroffsvej",
+					"husnummer": "49"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=vodroffsvej 4a": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "a3f16c5f-e1ca-45b3-8ee1-3da9595e3a7d",
+					"titel": "Vodroffsvej 4A, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ed162b2-f06f-4587-9fab-1bdb3beb4e75",
+					"titel": "Vodroffsvej 4A, st. 1, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b484f4b8-11fd-4fd9-b299-df6d29556f5e",
+					"titel": "Vodroffsvej 4A, st. 2, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "50c19ec0-67e9-4bfb-a5c7-a458dccd6424",
+					"titel": "Vodroffsvej 4A, st. 3, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ec41e730-4705-4012-9819-acfe158006a7",
+					"titel": "Vodroffsvej 4A, 1. 1, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5d7a1b7b-d5ac-44e6-b650-54a2b40d24f0",
+					"titel": "Vodroffsvej 4A, 1. 2, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "df4860b5-ddd8-4072-8465-fc156340a05a",
+					"titel": "Vodroffsvej 4A, 1. 3, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1f22bf45-0c2b-421e-96b3-1b6447b782c8",
+					"titel": "Vodroffsvej 4A, 2. 1, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ec21690f-8b5c-4a68-8762-1c81a760be51",
+					"titel": "Vodroffsvej 4A, 2. 2, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c1ac6309-e3c1-4bdb-bb88-3ae9c5485735",
+					"titel": "Vodroffsvej 4A, 2. 3, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a424cae0-ef79-45ea-85bf-208c8d3b0702",
+					"titel": "Vodroffsvej 4A, 3. 1, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8ccdb6c0-aae2-4b47-bbca-09d874e5984f",
+					"titel": "Vodroffsvej 4A, 3. 2, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "61eabd62-3d7d-47f0-9b9e-6f022197af3c",
+					"titel": "Vodroffsvej 4A, 3. 3, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c6f6a668-2656-4d8f-823b-7c55ba197067",
+					"titel": "Vodroffsvej 4A, 4. 1, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "46d774fc-eaca-49e1-bdd3-dd71c023666a",
+					"titel": "Vodroffsvej 4A, 4. 2, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "42e8ac72-0b9b-4d18-9c80-c6c2321657e1",
+					"titel": "Vodroffsvej 4A, 4. 3, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "35cbe695-96cd-4a76-8b43-8b0be8dc5563",
+					"titel": "Vodroffsvej 4A, 5. 1, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4db6404a-ebc3-4aaa-b206-8f19dcfabf10",
+					"titel": "Vodroffsvej 4A, 5. 2, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "44a58305-37bd-43e4-823f-37381fd8d2d6",
+					"titel": "Vodroffsvej 4A, 5. 3, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "037033db-0968-4962-9dc2-fb59cbab2a4e",
+					"titel": "Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=vodroffsvej 4a 5": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "35cbe695-96cd-4a76-8b43-8b0be8dc5563",
+					"titel": "Vodroffsvej 4A, 5. 1, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4db6404a-ebc3-4aaa-b206-8f19dcfabf10",
+					"titel": "Vodroffsvej 4A, 5. 2, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "44a58305-37bd-43e4-823f-37381fd8d2d6",
+					"titel": "Vodroffsvej 4A, 5. 3, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "037033db-0968-4962-9dc2-fb59cbab2a4e",
+					"titel": "Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=vodroffsvej 4a 5 4": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "037033db-0968-4962-9dc2-fb59cbab2a4e",
+					"titel": "Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "037033db-0968-4962-9dc2-fb59cbab2a4e",
+					"titel": "Vodroffsvej 4A, 5. 4, 1900 Frederiksberg C",
+					"husnummerId": "0a3f507b-6007-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

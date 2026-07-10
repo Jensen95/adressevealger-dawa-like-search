@@ -1,0 +1,5987 @@
+{
+	"tekst": "Ågerupvej 26, 3200 Helsinge",
+	"dawaId": "0069e998-c54c-4e4a-b0d7-38320b33727f",
+	"recordedAt": "2026-07-09T20:37:41.606Z",
+	"stages": [
+		{
+			"stage": "åger",
+			"dawa": [
+				"Ågerupvej 87, Ågerup, 4140 Borup",
+				"Ågerupvej 110, Ågerup, 4140 Borup",
+				"Ågerupvej 112, Ågerup, 4140 Borup",
+				"Ågerupvej 120, Ågerup, 4140 Borup",
+				"Ågeruphøj 1, Ågerup, 4000 Roskilde",
+				"Ågeruphøj 2, Ågerup, 4000 Roskilde",
+				"Ågeruphøj 3, Ågerup, 4000 Roskilde",
+				"Ågeruphøj 4, Ågerup, 4000 Roskilde",
+				"Ågeruphøj 5, Ågerup, 4000 Roskilde",
+				"Ågerupvej 5, Ågerup, 4000 Roskilde"
+			]
+		},
+		{
+			"stage": "ågerupvej",
+			"dawa": [
+				"Ågerupvej 147, 4140 Borup",
+				"Ågerupvej 12, 3200 Helsinge",
+				"Ågerupvej 14, 3200 Helsinge",
+				"Ågerupvej 16, 3200 Helsinge",
+				"Ågerupvej 17, 2700 Brønshøj",
+				"Ågerupvej 17, 3200 Helsinge",
+				"Ågerupvej 18, 4390 Vipperød",
+				"Ågerupvej 19, 2700 Brønshøj",
+				"Ågerupvej 20, 3200 Helsinge",
+				"Ågerupvej 20, 2700 Brønshøj"
+			]
+		},
+		{
+			"stage": "ågerupvej 2",
+			"dawa": [
+				"Ågerupvej 25, 2., 2700 Brønshøj",
+				"Ågerupvej 27, 2., 2700 Brønshøj",
+				"Ågerupvej 28, 2., 2700 Brønshøj",
+				"Ågerupvej 29, 2., 2700 Brønshøj",
+				"Ågerupvej 20, 2700 Brønshøj",
+				"Ågerupvej 21, 2700 Brønshøj",
+				"Ågerupvej 22, 2700 Brønshøj",
+				"Ågerupvej 23, 2700 Brønshøj",
+				"Ågerupvej 24, 2700 Brønshøj",
+				"Ågerupvej 26, 2700 Brønshøj"
+			]
+		},
+		{
+			"stage": "ågerupvej 26",
+			"dawa": [
+				"Ågerupvej 26, 3200 Helsinge",
+				"Ågerupvej 26, 2700 Brønshøj",
+				"Ågerupvej 26, 4400 Kalundborg",
+				"Ågerupvej 26, Ågerup, 4000 Roskilde",
+				"Ågerupvej 26, Vigersted, 4100 Ringsted"
+			]
+		},
+		{
+			"stage": "Ågerupvej 26, 3200 Helsinge",
+			"dawa": [
+				"Ågerupvej 26, 3200 Helsinge"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=åger": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Ågerup Molevej",
+					"vejNavn": "Ågerup Molevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ågeruphøj",
+					"vejNavn": "Ågeruphøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ågerupvej",
+					"vejNavn": "Ågerupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ågerupvænge",
+					"vejNavn": "Ågerupvænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aagærdet",
+					"vejNavn": "Aagærdet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarestrupsvej",
+					"vejNavn": "Aarestrupsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarestrupvej",
+					"vejNavn": "Aarestrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarhusvej",
+					"vejNavn": "Aarhusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarrildsøvej",
+					"vejNavn": "Aarrildsøvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aars Ringvej",
+					"vejNavn": "Aars Ringvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarsballe By",
+					"vejNavn": "Aarsballe By"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarsballevej",
+					"vejNavn": "Aarsballevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarsdale Kirkevej",
+					"vejNavn": "Aarsdale Kirkevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarsdalevej",
+					"vejNavn": "Aarsdalevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarsleffsgade",
+					"vejNavn": "Aarsleffsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarslewsgade",
+					"vejNavn": "Aarslewsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarsvej",
+					"vejNavn": "Aarsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aartoftvej",
+					"vejNavn": "Aartoftvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarupvej",
+					"vejNavn": "Aarupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarø",
+					"vejNavn": "Aarø"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarø Strandhøj",
+					"vejNavn": "Aarø Strandhøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarø Strandvænge",
+					"vejNavn": "Aarø Strandvænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarø Sydstrand",
+					"vejNavn": "Aarø Sydstrand"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarøsund Havn",
+					"vejNavn": "Aarøsund Havn"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarøsund Landevej",
+					"vejNavn": "Aarøsund Landevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarøsundvej",
+					"vejNavn": "Aarøsundvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Aarøvænget",
+					"vejNavn": "Aarøvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderbjergvej",
+					"vejNavn": "Odderbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderbækvej",
+					"vejNavn": "Odderbækvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderdamsvej",
+					"vejNavn": "Odderdamsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderen",
+					"vejNavn": "Odderen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderholm",
+					"vejNavn": "Odderholm"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderkærvej",
+					"vejNavn": "Odderkærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oddermarksvej",
+					"vejNavn": "Oddermarksvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oddermose Strandvej",
+					"vejNavn": "Oddermose Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oddermosen",
+					"vejNavn": "Oddermosen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oddermosevej",
+					"vejNavn": "Oddermosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oddershedevej",
+					"vejNavn": "Oddershedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderskærvej",
+					"vejNavn": "Odderskærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderstedvej",
+					"vejNavn": "Odderstedvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderstien",
+					"vejNavn": "Odderstien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oddersvej",
+					"vejNavn": "Oddersvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Odderupvej",
+					"vejNavn": "Odderupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oddervej",
+					"vejNavn": "Oddervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oddervænget",
+					"vejNavn": "Oddervænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oramavej",
+					"vejNavn": "Oramavej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orchidevej",
+					"vejNavn": "Orchidevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrup Gade",
+					"vejNavn": "Ordrup Gade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrup Have",
+					"vejNavn": "Ordrup Have"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrup Jagtvej",
+					"vejNavn": "Ordrup Jagtvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrup Station",
+					"vejNavn": "Ordrup Station"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrup Strandvej",
+					"vejNavn": "Ordrup Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrup Vænge",
+					"vejNavn": "Ordrup Vænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrupdalsvej",
+					"vejNavn": "Ordrupdalsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrupdalvej",
+					"vejNavn": "Ordrupdalvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrupgårdvej",
+					"vejNavn": "Ordrupgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrupholmsvej",
+					"vejNavn": "Ordrupholmsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordruphøjvej",
+					"vejNavn": "Ordruphøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ordrupvej",
+					"vejNavn": "Ordrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ore Skovvej",
+					"vejNavn": "Ore Skovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ore Strand",
+					"vejNavn": "Ore Strand"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ore Strandpark",
+					"vejNavn": "Ore Strandpark"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Ore Strandvej",
+					"vejNavn": "Ore Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orebjerg Alle",
+					"vejNavn": "Orebjerg Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orebjerg Vænge",
+					"vejNavn": "Orebjerg Vænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orebjergvej",
+					"vejNavn": "Orebjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orebovej",
+					"vejNavn": "Orebovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orebygaard",
+					"vejNavn": "Orebygaard"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orebygårdvej",
+					"vejNavn": "Orebygårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orebyvej",
+					"vejNavn": "Orebyvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oregaardsvængevej",
+					"vejNavn": "Oregaardsvængevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oregårdsvej",
+					"vejNavn": "Oregårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oregårdvej",
+					"vejNavn": "Oregårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orehavevej",
+					"vejNavn": "Orehavevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orehoved Langgade",
+					"vejNavn": "Orehoved Langgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orehoved Stationsvej",
+					"vejNavn": "Orehoved Stationsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orehoved Vestergade",
+					"vejNavn": "Orehoved Vestergade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orehoved Vinkelvej",
+					"vejNavn": "Orehoved Vinkelvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orehældvej",
+					"vejNavn": "Orehældvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orehøjvej",
+					"vejNavn": "Orehøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orelundvej",
+					"vejNavn": "Orelundvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oremandsgaard Alle",
+					"vejNavn": "Oremandsgaard Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oremandsvej",
+					"vejNavn": "Oremandsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oremosevej",
+					"vejNavn": "Oremosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Oren",
+					"vejNavn": "Oren"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orenæs Skovvej",
+					"vejNavn": "Orenæs Skovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orenæsvej",
+					"vejNavn": "Orenæsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orevej",
+					"vejNavn": "Orevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orfeus Alle",
+					"vejNavn": "Orfeus Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Organistvænget",
+					"vejNavn": "Organistvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orgelbyggervej",
+					"vejNavn": "Orgelbyggervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orgelvej",
+					"vejNavn": "Orgelvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orholmvej",
+					"vejNavn": "Orholmvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orholt Allé",
+					"vejNavn": "Orholt Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orhøjvej",
+					"vejNavn": "Orhøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orhøjvænget",
+					"vejNavn": "Orhøjvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orient Plads",
+					"vejNavn": "Orient Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orientkaj",
+					"vejNavn": "Orientkaj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orion",
+					"vejNavn": "Orion"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Orions Alle",
+					"vejNavn": "Orions Alle"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=ågerupvej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "68199fea-d013-4317-902d-8b2f16331bc5",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ågerupvej 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"postnr": "2700",
+					"postdistrikt": "Brønshøj",
+					"antal_husnumre": 55
+				},
+				{
+					"id": "12f15481-c93c-4088-be23-eeefc7525019",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ågerupvej 2750 Ballerup",
+					"vejnavn": "Ågerupvej",
+					"postnr": "2750",
+					"postdistrikt": "Ballerup",
+					"antal_husnumre": 70
+				},
+				{
+					"id": "d19efe2c-02e7-48b9-ab88-96e52c009e86",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ågerupvej 3200 Helsinge",
+					"vejnavn": "Ågerupvej",
+					"postnr": "3200",
+					"postdistrikt": "Helsinge",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "7d3f65fc-0484-47d4-95b6-d78fe379d71c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ågerupvej 4000 Roskilde",
+					"vejnavn": "Ågerupvej",
+					"postnr": "4000",
+					"postdistrikt": "Roskilde",
+					"antal_husnumre": 80
+				},
+				{
+					"id": "f0b1b951-59cc-4ae8-9ec3-342bf6926b8d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ågerupvej 4100 Ringsted",
+					"vejnavn": "Ågerupvej",
+					"postnr": "4100",
+					"postdistrikt": "Ringsted",
+					"antal_husnumre": 32
+				},
+				{
+					"id": "6c25e5e9-ce59-47fa-b86a-e7b9129fc514",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ågerupvej 4140 Borup",
+					"vejnavn": "Ågerupvej",
+					"postnr": "4140",
+					"postdistrikt": "Borup",
+					"antal_husnumre": 24
+				},
+				{
+					"id": "84453865-901c-4c2d-8cc6-9ff564d8261f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ågerupvej 4300 Holbæk",
+					"vejnavn": "Ågerupvej",
+					"postnr": "4300",
+					"postdistrikt": "Holbæk",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "fbc76b15-cba2-4a29-936d-679596e7f163",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ågerupvej 4390 Vipperød",
+					"vejnavn": "Ågerupvej",
+					"postnr": "4390",
+					"postdistrikt": "Vipperød",
+					"antal_husnumre": 85
+				},
+				{
+					"id": "ceb1b47a-9137-487c-8a48-165689dccdcc",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ågerupvej 4400 Kalundborg",
+					"vejnavn": "Ågerupvej",
+					"postnr": "4400",
+					"postdistrikt": "Kalundborg",
+					"antal_husnumre": 33
+				},
+				{
+					"id": "39dedf31-4d8c-44c2-8fe1-04e5335a2f08",
+					"type": "navngivenvejpostnummer",
+					"titel": "Aarupvej 5560 Aarup",
+					"vejnavn": "Aarupvej",
+					"postnr": "5560",
+					"postdistrikt": "Aarup",
+					"antal_husnumre": 19
+				},
+				{
+					"id": "39992eda-c50c-4eec-b71a-eeb9c4809946",
+					"type": "navngivenvejpostnummer",
+					"titel": "Aarupvej 9460 Brovst",
+					"vejnavn": "Aarupvej",
+					"postnr": "9460",
+					"postdistrikt": "Brovst",
+					"antal_husnumre": 32
+				},
+				{
+					"id": "716088b3-02be-4a79-88c9-153423077993",
+					"type": "navngivenvejpostnummer",
+					"titel": "Odderupvej 6880 Tarm",
+					"vejnavn": "Odderupvej",
+					"postnr": "6880",
+					"postdistrikt": "Tarm",
+					"antal_husnumre": 27
+				},
+				{
+					"id": "4030d6cd-13b5-4916-b44a-14c84ae3d316",
+					"type": "navngivenvejpostnummer",
+					"titel": "Orupvej 4160 Herlufmagle",
+					"vejnavn": "Orupvej",
+					"postnr": "4160",
+					"postdistrikt": "Herlufmagle",
+					"antal_husnumre": 2
+				},
+				{
+					"id": "7726ae8f-9406-4fe0-9df9-d3170c7e2949",
+					"type": "navngivenvejpostnummer",
+					"titel": "Orupvej 4330 Hvalsø",
+					"vejnavn": "Orupvej",
+					"postnr": "4330",
+					"postdistrikt": "Hvalsø",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "8fa96b44-5c07-4a59-9ed8-8cf11498725a",
+					"type": "navngivenvejpostnummer",
+					"titel": "Åderupvej 4700 Næstved",
+					"vejnavn": "Åderupvej",
+					"postnr": "4700",
+					"postdistrikt": "Næstved",
+					"antal_husnumre": 160
+				},
+				{
+					"id": "f4524617-a196-4c89-abd6-2bf9f4e73bc3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Årupvej 5492 Vissenbjerg",
+					"vejnavn": "Årupvej",
+					"postnr": "5492",
+					"postdistrikt": "Vissenbjerg",
+					"antal_husnumre": 9
+				},
+				{
+					"id": "4eec1043-0d52-4bdb-8435-d0498c7d1e85",
+					"type": "navngivenvejpostnummer",
+					"titel": "Årupvej 6510 Gram",
+					"vejnavn": "Årupvej",
+					"postnr": "6510",
+					"postdistrikt": "Gram",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "3b92bc80-7526-478d-b2f3-2846e4912157",
+					"type": "navngivenvejpostnummer",
+					"titel": "Årupvej 6630 Rødding",
+					"vejnavn": "Årupvej",
+					"postnr": "6630",
+					"postdistrikt": "Rødding",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "35edc733-66da-4bbf-895a-385091898a9c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Årupvej 6900 Skjern",
+					"vejnavn": "Årupvej",
+					"postnr": "6900",
+					"postdistrikt": "Skjern",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "bcf82efc-8d02-4c2d-ac8b-bf424e0aeee2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Årupvej 8722 Hedensted",
+					"vejnavn": "Årupvej",
+					"postnr": "8722",
+					"postdistrikt": "Hedensted",
+					"antal_husnumre": 35
+				},
+				{
+					"id": "5cd10ed8-245b-46a1-9e95-4ee9108879db",
+					"type": "navngivenvejpostnummer",
+					"titel": "Årupvej 8830 Tjele",
+					"vejnavn": "Årupvej",
+					"postnr": "8830",
+					"postdistrikt": "Tjele",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "16cedac4-e2ed-4a42-af6f-95c6aabede74",
+					"type": "navngivenvejpostnummer",
+					"titel": "Årupvej 9600 Aars",
+					"vejnavn": "Årupvej",
+					"postnr": "9600",
+					"postdistrikt": "Aars",
+					"antal_husnumre": 12
+				},
+				{
+					"id": "bcf7fa6c-918e-4950-a986-a25c64226342",
+					"type": "navngivenvejpostnummer",
+					"titel": "Årupvej 9670 Løgstør",
+					"vejnavn": "Årupvej",
+					"postnr": "9670",
+					"postdistrikt": "Løgstør",
+					"antal_husnumre": 23
+				},
+				{
+					"id": "05a61118-6f48-4d86-b0e2-553c0e7aca6d",
+					"type": "navngivenvejpostnummer",
+					"titel": "Årupvej 9760 Vrå",
+					"vejnavn": "Årupvej",
+					"postnr": "9760",
+					"postdistrikt": "Vrå",
+					"antal_husnumre": 6
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 3200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c95-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 12, 3200 Helsinge",
+					"husnummerId": "0a3f507f-936b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c96-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 14, 3200 Helsinge",
+					"husnummerId": "0a3f507f-936c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "223fcba3-2da6-40ad-8891-fa59a7dae809",
+					"titel": "Ågerupvej 15A, 3200 Helsinge",
+					"husnummerId": "4af2a3d7-25e8-4f3f-a3d0-ced4c7e829da"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c97-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 15B, 3200 Helsinge",
+					"husnummerId": "0a3f507f-936d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c98-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 16, 3200 Helsinge",
+					"husnummerId": "0a3f507f-936e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c99-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 17, 3200 Helsinge",
+					"husnummerId": "0a3f507f-936f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c9a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9370-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c9b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 25, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9371-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0069e998-c54c-4e4a-b0d7-38320b33727f",
+					"titel": "Ågerupvej 26, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9372-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c9c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 29, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9373-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c9d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 34, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9374-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c9e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 35, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9375-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c9f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 37, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9376-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1ca0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 39, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9377-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 6630": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-508d-32b8-e044-0003ba298018",
+					"titel": "Årupvej 2, Harreby, 6630 Rødding",
+					"husnummerId": "0a3f508c-1e45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-508e-32b8-e044-0003ba298018",
+					"titel": "Årupvej 4, Harreby, 6630 Rødding",
+					"husnummerId": "0a3f508c-1e46-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-508f-32b8-e044-0003ba298018",
+					"titel": "Årupvej 6, Harreby, 6630 Rødding",
+					"husnummerId": "0a3f508c-1e47-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-5090-32b8-e044-0003ba298018",
+					"titel": "Årupvej 7, Harreby, 6630 Rødding",
+					"husnummerId": "0a3f508c-1e48-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2339b072-f5e8-44a3-ad2a-dac48712881b",
+					"titel": "Årupvej 9, Harreby, 6630 Rødding",
+					"husnummerId": "6a6699e1-6c1d-449f-b1a4-bf4162f73534"
+				},
+				{
+					"type": "adresse",
+					"id": "e9c4869e-598b-4d1f-82b1-90e2479d7be5",
+					"titel": "Årupvej 9A, Harreby, 6630 Rødding",
+					"husnummerId": "e6eb98e5-cf8d-4b2d-8175-51aba87c20d0"
+				},
+				{
+					"type": "adresse",
+					"id": "1ab8f58b-d08d-4b18-bcca-9d2f294b0273",
+					"titel": "Årupvej 9B, Harreby, 6630 Rødding",
+					"husnummerId": "d07d7f51-eece-4f56-ba60-226f79e80d1e"
+				},
+				{
+					"type": "adresse",
+					"id": "f9c07b04-174f-4bf8-815a-987ca22b4eb9",
+					"titel": "Årupvej 9C, Harreby, 6630 Rødding",
+					"husnummerId": "95609308-5d07-4572-be7e-258539ee3e5c"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 9600": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-130a-32b8-e044-0003ba298018",
+					"titel": "Årupvej 1, Vestrup, 9600 Aars",
+					"husnummerId": "0a3f509c-ee89-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-130b-32b8-e044-0003ba298018",
+					"titel": "Årupvej 2, Vestrup, 9600 Aars",
+					"husnummerId": "0a3f509c-ee8a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-130c-32b8-e044-0003ba298018",
+					"titel": "Årupvej 3, Årupgårde, 9600 Aars",
+					"husnummerId": "0a3f509c-ee8b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-130d-32b8-e044-0003ba298018",
+					"titel": "Årupvej 5, Årupgårde, 9600 Aars",
+					"husnummerId": "0a3f509c-ee8c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-130e-32b8-e044-0003ba298018",
+					"titel": "Årupvej 7, Årupgårde, 9600 Aars",
+					"husnummerId": "0a3f509c-ee8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a5f4abd7-2a3a-4362-9626-763038daa3c4",
+					"titel": "Årupvej 9, Årupgårde, 9600 Aars",
+					"husnummerId": "0a3f509c-ee8e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-130f-32b8-e044-0003ba298018",
+					"titel": "Årupvej 9A, Årupgårde, 9600 Aars",
+					"husnummerId": "0a3f509c-ee8f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1310-32b8-e044-0003ba298018",
+					"titel": "Årupvej 9B, Årupgårde, 9600 Aars",
+					"husnummerId": "0a3f509c-ee90-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1311-32b8-e044-0003ba298018",
+					"titel": "Årupvej 10, Årupgårde, 9600 Aars",
+					"husnummerId": "0a3f509c-ee91-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1312-32b8-e044-0003ba298018",
+					"titel": "Årupvej 12, Årupgårde, 9600 Aars",
+					"husnummerId": "0a3f509c-ee92-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-1313-32b8-e044-0003ba298018",
+					"titel": "Årupvej 14, Årupgårde, 9600 Aars",
+					"husnummerId": "0a3f509c-ee93-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 6510": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-92bb-32b8-e044-0003ba298018",
+					"titel": "Årupvej 1, Gelsbro, 6510 Gram",
+					"husnummerId": "0a3f508b-73e2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-92bc-32b8-e044-0003ba298018",
+					"titel": "Årupvej 3, Gelsbro, 6510 Gram",
+					"husnummerId": "0a3f508b-73e3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-92bd-32b8-e044-0003ba298018",
+					"titel": "Årupvej 5, Årup, 6510 Gram",
+					"husnummerId": "0a3f508b-73e4-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 8830": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-4dc7-32b8-e044-0003ba298018",
+					"titel": "Årupvej 1, Kvorning, 8830 Tjele",
+					"husnummerId": "0a3f5098-bc1f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-4dc8-32b8-e044-0003ba298018",
+					"titel": "Årupvej 7, Kvorning, 8830 Tjele",
+					"husnummerId": "0a3f5098-bc20-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-4dc9-32b8-e044-0003ba298018",
+					"titel": "Årupvej 9, Kvorning, 8830 Tjele",
+					"husnummerId": "0a3f5098-bc21-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-4dca-32b8-e044-0003ba298018",
+					"titel": "Årupvej 11, Kvorning, 8830 Tjele",
+					"husnummerId": "0a3f5098-bc22-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-4dcb-32b8-e044-0003ba298018",
+					"titel": "Årupvej 12, Kvorning, 8830 Tjele",
+					"husnummerId": "0a3f5098-bc23-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-4dcc-32b8-e044-0003ba298018",
+					"titel": "Årupvej 16, Kvorning, 8830 Tjele",
+					"husnummerId": "0a3f5098-bc24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-4dcd-32b8-e044-0003ba298018",
+					"titel": "Årupvej 18, Årup, 8830 Tjele",
+					"husnummerId": "0a3f5098-bc25-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-4dce-32b8-e044-0003ba298018",
+					"titel": "Årupvej 19, Kvorning, 8830 Tjele",
+					"husnummerId": "0a3f5098-bc26-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 2700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 1, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c1-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 2, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 3, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c3-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 4, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c4-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 5, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c5-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 6, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 7, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c7-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 8, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c8-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 9, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 10, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35ca-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 11, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35cb-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 12, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35cc-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 13, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35cd-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 14, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35ce-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 16, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "b5687d56-a8b9-49c3-a94c-2eedd70616ee",
+					"titel": "Ågerupvej 16B, 2700 Brønshøj",
+					"husnummerId": "1d6d2fbe-631f-4417-9fe5-a15439a43f11"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f232-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 17, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f233-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 19, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c4fa3386-280e-4ee3-97c9-e0f84dd1798f",
+					"titel": "Ågerupvej 20, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f234-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 21, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f235-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 22, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f236-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 23, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f237-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 24, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35d6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 25, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f23d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 26, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35d8-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 27, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35d9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "28"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35da-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 29, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "29"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35db-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 30, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "30"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35dc-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 31, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "31"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35dd-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 33, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "33"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35de-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 35, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "35"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f261-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 37, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35df-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f262-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 39, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35e0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f263-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 40, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35e1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f264-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 41, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35e2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f265-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 42, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35e3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3cb0a0c6-2be0-0e4a-e044-0003ba298018",
+					"titel": "Ågerupvej 45, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35e4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f509e-f07d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 46, 2700 Brønshøj",
+					"husnummerId": "0a3f507a-9b3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f268-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 47, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35e5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f269-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 48, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35e6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f26a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 49, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35e7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f26b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 50, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35e8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "5bc99e5a-e0f0-4590-b87c-03212d16ebb6",
+					"titel": "Ågerupvej 51A, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "51A"
+				},
+				{
+					"type": "husnummer",
+					"id": "3f45b7ab-8ffd-4f2c-807b-e610323cf7e3",
+					"titel": "Ågerupvej 51B, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "51B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f26d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 52, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35ea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f26e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 53, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35eb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35ec-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 54, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "54"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f270-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 56, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35ee-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 58, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "58"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f272-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 60, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35ef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f273-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 62, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35f0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f274-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 64, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35f1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35f2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 66, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "66"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 5492": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a2b-32b8-e044-0003ba298018",
+					"titel": "Årupvej 14, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e92a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a2c-32b8-e044-0003ba298018",
+					"titel": "Årupvej 15, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e92b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a2d-32b8-e044-0003ba298018",
+					"titel": "Årupvej 25, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e92c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a2e-32b8-e044-0003ba298018",
+					"titel": "Årupvej 27, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e92d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a2f-32b8-e044-0003ba298018",
+					"titel": "Årupvej 29, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e92e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a30-32b8-e044-0003ba298018",
+					"titel": "Årupvej 31, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e930-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a31-32b8-e044-0003ba298018",
+					"titel": "Årupvej 37, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e932-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a32-32b8-e044-0003ba298018",
+					"titel": "Årupvej 41, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e933-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3549ad61-3051-4c21-ab9d-c481a1152f74",
+					"titel": "Årupvej 43, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e934-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 9760": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-545e-32b8-e044-0003ba298018",
+					"titel": "Årupvej 51, 9760 Vrå",
+					"husnummerId": "0a3f509a-aa66-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-545f-32b8-e044-0003ba298018",
+					"titel": "Årupvej 90, 9760 Vrå",
+					"husnummerId": "0a3f509a-aa67-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-5460-32b8-e044-0003ba298018",
+					"titel": "Årupvej 91, 9760 Vrå",
+					"husnummerId": "0a3f509a-aa68-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-5461-32b8-e044-0003ba298018",
+					"titel": "Årupvej 120, 9760 Vrå",
+					"husnummerId": "0a3f509a-aa69-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-5462-32b8-e044-0003ba298018",
+					"titel": "Årupvej 122, 9760 Vrå",
+					"husnummerId": "0a3f509a-aa6a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0f0647d1-6537-4e78-83e2-f6b21854faef",
+					"titel": "Årupvej 130, 9760 Vrå",
+					"husnummerId": "e293a170-e5ce-4a9c-aea1-fc06a98ce558"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Aarupvej 9460": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-37aa-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 1, Skovsgård, 9460 Brovst",
+					"vejnavn": "Aarupvej",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-da9c-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 2, 1., Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "06323e25-e43a-43c6-a255-97f82bfc46f2",
+					"titel": "Aarupvej 2A, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "598b4ca2-7b02-4873-8f26-0b6fe1f41694",
+					"titel": "Aarupvej 2B, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-da9d-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 3, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-da9e-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 4, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-da9f-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 5, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa0-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 6, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa1-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 7, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa2-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 8, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa3-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 9, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa4-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 10, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa5-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 11, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa6-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 13, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "95ab21c9-ef13-4159-85bb-e19474152eab",
+					"titel": "Aarupvej 14, Skovsgård, 9460 Brovst",
+					"husnummerId": "e717937b-d8c9-4eed-92be-884f386ffc01"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa7-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 15, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8d903634-e4c7-4e3e-911d-758e1aabe5bf",
+					"titel": "Aarupvej 17, Skovsgård, 9460 Brovst",
+					"husnummerId": "05b2bbef-b67c-4b5e-adca-ba4c076aaf0d"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa8-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 18, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "329c1431-4afb-4491-b358-76b6491b43f0",
+					"titel": "Aarupvej 19, Skovsgård, 9460 Brovst",
+					"husnummerId": "96370dd7-6241-4d67-bc21-8b1a0b56e434"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa9-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 20, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6243a482-0c5b-573d-e044-0003ba298018",
+					"titel": "Aarupvej 21, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-2e2e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daaa-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 22, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5a7eb555-ee66-4bc9-b4e1-eab2eb88debc",
+					"titel": "Aarupvej 23, Skovsgård, 9460 Brovst",
+					"husnummerId": "e1a8ffc7-69f4-423d-9cad-283bbc0da6c4"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daab-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 24, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c052caa4-db4d-4d2b-9ddb-26b0837509e4",
+					"titel": "Aarupvej 25, Skovsgård, 9460 Brovst",
+					"husnummerId": "d3b87159-7747-43cb-8311-0f44ac27968d"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daac-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 26, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a766963a-fd4b-48c5-9e0a-a9f8ae6d3b0c",
+					"titel": "Aarupvej 27, Skovsgård, 9460 Brovst",
+					"husnummerId": "48796022-a001-4c2c-8e1e-74ab7f7ff8eb"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daad-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 28, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daae-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 30, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daaf-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 36, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-dab0-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 39, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-dab1-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 44, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37c2-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 4000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4819-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 3, Store Valby, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7376-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0d2d58fd-a1b1-4166-859b-7060f8df48dd",
+					"titel": "Ågerupvej 3F, Store Valby, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7377-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5081-7378-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 4, Store Valby, 4000 Roskilde",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "4"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-481b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 5, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7379-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-481c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 6, Store Valby, 4000 Roskilde",
+					"husnummerId": "0a3f5081-737a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-481d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 7, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-737b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-481e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 8, Store Valby, 4000 Roskilde",
+					"husnummerId": "0a3f5081-737c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-481f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 9, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-737d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4820-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 10, Store Valby, 4000 Roskilde",
+					"husnummerId": "0a3f5081-737e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4821-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 11, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7381-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4822-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 12, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7382-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4823-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 13, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7383-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4824-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 14A, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7384-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4825-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 15, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7385-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4826-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 16, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7386-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4827-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 17, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7387-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4828-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 18, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7388-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4829-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 19A, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-738a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 19B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-738b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 19C, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-738c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20A, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-738d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-738e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fada134f-0238-42dd-aa50-4794d06f4bf9",
+					"titel": "Ågerupvej 20C, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-738f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "db13814a-6125-4090-8a2e-1e643b4f379a",
+					"titel": "Ågerupvej 20D, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7390-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20E, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7391-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "32dbebb7-b694-4a3f-87b8-5c01a74d72b6",
+					"titel": "Ågerupvej 20F, Ågerup, 4000 Roskilde",
+					"husnummerId": "4e0009ec-fc87-4b73-838c-583be5f7d959"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 21, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7392-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4830-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 22, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7393-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4831-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 23, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7394-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4832-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 24, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7395-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "17993eef-7e55-437a-bd9e-ab60cfa4bb58",
+					"titel": "Ågerupvej 24B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7396-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4833-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 25, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7397-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8c83c43e-2e39-4fd3-94b1-0cc6496af056",
+					"titel": "Ågerupvej 26, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7398-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4834-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 27, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7399-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4835-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-739a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4836-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 29, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-739b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "173cf37e-4bc2-427f-8213-f0f41731dd5f",
+					"titel": "Ågerupvej 29B, Ågerup, 4000 Roskilde",
+					"husnummerId": "37351fd3-d62d-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4837-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 30, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-739c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4838-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 31A, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-739d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4839-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 31B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-739e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-483a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 31C, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-739f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0e56827d-e4e7-41bb-95d2-853fcb698a06",
+					"titel": "Ågerupvej 31D, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-483b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 32, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-483c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 33, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4d52e4ae-bf95-4428-9953-33e14db0c866",
+					"titel": "Ågerupvej 34A, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30699060-16d5-6521-e044-0003ba298018",
+					"titel": "Ågerupvej 34B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-483e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 35, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-483f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 36, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4840-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 37, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4841-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 38, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4842-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 39, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4843-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 40, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5081-73ae-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 41A, Ågerup, 4000 Roskilde",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "41A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4845-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 41B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4846-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 41C, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4847-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 42, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4848-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 43, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4849-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 44, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73b3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-484a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 45, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73b4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-484b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 46, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73b5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-484c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 47A, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-484d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 47B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73b8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-484e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 47C, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-484f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 48, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4850-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 49, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4851-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 50, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4852-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 51, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4853-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 52, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4854-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 53, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c9ec1df5-b230-40ce-ae7c-6168d10d627f",
+					"titel": "Ågerupvej 55A, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2ef51a73-b0b2-4ee7-e044-0003ba298018",
+					"titel": "Ågerupvej 55B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4856-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 57, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4857-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 59, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4858-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 61, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4859-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 67, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-485a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 69A, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-485b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 69B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-485c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 71, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-485d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 73, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-73ca-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 4140": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da5-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 81, Vigersted, 4140 Borup",
+					"husnummerId": "0a3f5084-1dcd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 87, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da7-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 88, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dcf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da8-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 90, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 94, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5daa-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 98, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5dab-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 100, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5dac-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 102, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5dad-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 104, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5dae-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 106, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5daf-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 110, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 112, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db1-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 119, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dd9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 120, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dda-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db3-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 126, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1ddb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db4-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 128, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1ddc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db5-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 130, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1ddd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 132, Ågerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1dde-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db7-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 135, Snekkerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1ddf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db8-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 141, Snekkerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1de0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5db9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 143, Snekkerup, 4140 Borup",
+					"husnummerId": "0a3f5084-1de1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "69e455c8-e116-4c3a-9a98-97385f352fba",
+					"titel": "Ågerupvej 147, 4140 Borup",
+					"husnummerId": "28971da3-512c-4de2-91ad-2af9a648e5b6"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Aarupvej 5560": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "b8f8e249-3a54-4af6-9cef-008a85b182c4",
+					"titel": "Aarupvej 3, 5560 Aarup",
+					"vejnavn": "Aarupvej",
+					"husnummer": "3"
+				},
+				{
+					"type": "adresse",
+					"id": "6b2ae0dd-742c-4df2-a44d-bc91f8daf5d2",
+					"titel": "Aarupvej 3A, 5560 Aarup",
+					"husnummerId": "a1a80646-4855-4610-95b5-0d1480bc3ff5"
+				},
+				{
+					"type": "adresse",
+					"id": "4bbb25f0-27a3-4c1f-8e4f-42126206c2db",
+					"titel": "Aarupvej 3B, 5560 Aarup",
+					"husnummerId": "73bec33a-1fa9-40b3-9069-ee96a4b1a9c3"
+				},
+				{
+					"type": "adresse",
+					"id": "5e1fbf4a-7f3b-4047-b68b-43d8a1365444",
+					"titel": "Aarupvej 3C, 5560 Aarup",
+					"husnummerId": "e1ef8aeb-cd71-46a0-90f0-8a9a10ce7efe"
+				},
+				{
+					"type": "adresse",
+					"id": "7bee79c4-f65f-43e6-ad55-03e14c7ee852",
+					"titel": "Aarupvej 3D, 5560 Aarup",
+					"husnummerId": "b624ef85-deef-45f9-ba68-c7d57469ca68"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c69-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 10, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1cdb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6a-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 11, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1cdc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6b-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 17, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1cdd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6c-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 20, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1cde-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6d-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 21, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1cdf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6e-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 22, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6f-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 23, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c70-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 24, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c71-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 27, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c72-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 30, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c73-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 31, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c74-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 32, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce6-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Orupvej 4330": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5156-32b8-e044-0003ba298018",
+					"titel": "Orupvej 1, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7cab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5157-32b8-e044-0003ba298018",
+					"titel": "Orupvej 2, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7cad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5158-32b8-e044-0003ba298018",
+					"titel": "Orupvej 4, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7caf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5159-32b8-e044-0003ba298018",
+					"titel": "Orupvej 6, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7cb0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-515a-32b8-e044-0003ba298018",
+					"titel": "Orupvej 6A, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7cb1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-515b-32b8-e044-0003ba298018",
+					"titel": "Orupvej 8, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7cb2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-515c-32b8-e044-0003ba298018",
+					"titel": "Orupvej 10, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7cb3-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 8722": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-123c-32b8-e044-0003ba298018",
+					"titel": "Årupvej 2, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68f2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "89122984-3b73-47a4-a641-df8322a5f2d8",
+					"titel": "Årupvej 2A, 8722 Hedensted",
+					"husnummerId": "f725c4bb-2f15-4c9d-a25d-479489585bb5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-123d-32b8-e044-0003ba298018",
+					"titel": "Årupvej 3A, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68f3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-123e-32b8-e044-0003ba298018",
+					"titel": "Årupvej 3B, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68f4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5003c730-1bf2-4e88-9350-dd2571b10369",
+					"titel": "Årupvej 4, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68f5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-123f-32b8-e044-0003ba298018",
+					"titel": "Årupvej 5, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68f6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "591e9172-cfae-0f16-e044-0003ba298018",
+					"titel": "Årupvej 6, 8722 Hedensted",
+					"husnummerId": "4ca54b0f-345c-0052-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "305254e4-2392-495c-9199-d24b0be0d8c5",
+					"titel": "Årupvej 7, 8722 Hedensted",
+					"husnummerId": "fa653ab3-a868-49b5-a86a-994cfb71b9dd"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1240-32b8-e044-0003ba298018",
+					"titel": "Årupvej 9, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68f8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b7fcafc0-2368-4647-b74f-8763db8904d2",
+					"titel": "Årupvej 10, 8722 Hedensted",
+					"husnummerId": "08ec81d8-5b84-4379-9d8b-cb72f0e17c20"
+				},
+				{
+					"type": "adresse",
+					"id": "36141837-98c8-430c-9361-3cdf55ba9435",
+					"titel": "Årupvej 15, 8722 Hedensted",
+					"husnummerId": "bf1cc467-fb3a-4e6e-a65e-f19c98582a9a"
+				},
+				{
+					"type": "adresse",
+					"id": "7f977184-1d35-4785-8089-5f2a941eff23",
+					"titel": "Årupvej 16, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68f9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1241-32b8-e044-0003ba298018",
+					"titel": "Årupvej 20, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68fb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1242-32b8-e044-0003ba298018",
+					"titel": "Årupvej 24, Gl Sole, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68fc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "144909b8-6441-4b59-becd-dcc43e6ae1a8",
+					"titel": "Årupvej 27C, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68fe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5da0e397-0e84-4d4d-b911-e744a8448265",
+					"titel": "Årupvej 27L, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68fd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508f-68ff-32b8-e044-0003ba298018",
+					"titel": "Årupvej 29, 8722 Hedensted",
+					"vejnavn": "Årupvej",
+					"husnummer": "29"
+				},
+				{
+					"type": "adresse",
+					"id": "18916db7-72f3-4512-9c47-de924a863327",
+					"titel": "Årupvej 29A, 1., 8722 Hedensted",
+					"husnummerId": "931dd7a2-c0ce-4dbc-8f2a-35faee841c61"
+				},
+				{
+					"type": "adresse",
+					"id": "60785193-d99b-2e8d-e044-0003ba298018",
+					"titel": "Årupvej 31, 8722 Hedensted",
+					"husnummerId": "53ba2f34-6575-2505-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1244-32b8-e044-0003ba298018",
+					"titel": "Årupvej 41, Gl Sole, 8722 Hedensted",
+					"husnummerId": "0a3f508f-6901-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1245-32b8-e044-0003ba298018",
+					"titel": "Årupvej 59, Gl Sole, 8722 Hedensted",
+					"husnummerId": "0a3f508f-6902-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1246-32b8-e044-0003ba298018",
+					"titel": "Årupvej 65, Gl Sole, 8722 Hedensted",
+					"husnummerId": "0a3f508f-6903-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1247-32b8-e044-0003ba298018",
+					"titel": "Årupvej 69, Gl Sole, 8722 Hedensted",
+					"husnummerId": "0a3f508f-6904-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1248-32b8-e044-0003ba298018",
+					"titel": "Årupvej 79, Gl Sole, 8722 Hedensted",
+					"husnummerId": "0a3f508f-6905-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1249-32b8-e044-0003ba298018",
+					"titel": "Årupvej 81, Gl Sole, 8722 Hedensted",
+					"husnummerId": "0a3f508f-6906-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-124a-32b8-e044-0003ba298018",
+					"titel": "Årupvej 91, Gl Sole, 8722 Hedensted",
+					"husnummerId": "0a3f508f-6907-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2f14eaf1-f92b-4274-86d5-374729aeb4ba",
+					"titel": "Årupvej 93, Gl Sole, 8722 Hedensted",
+					"husnummerId": "98f54ae0-ae48-4095-baad-6216de88c63e"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 4100": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "1b7b09ef-151b-461d-8f96-96343ab58632",
+					"titel": "Ågerupvej 1, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d86-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 2, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d87-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 4, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1daf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d88-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 6, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d89-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 8, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d8a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 10, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d8b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 11, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d8c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 12, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d8d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 14, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d8e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 16, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d8f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 18, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d90-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d91-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 22, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d92-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 24, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d93-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 26, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dbb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d94-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dbc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d95-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 30, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dbd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d96-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 32, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dbe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d97-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 34, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dbf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d98-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 36, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d99-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 38, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d9a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 40, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d9b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 42, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d9c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 44, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d9d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 46, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d9e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 48, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d9f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 50, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 52, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da1-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 54, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dc9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 56, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da3-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 58, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dcb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5da4-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 60, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dcc-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Åderupvej 4700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d598-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 2, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d599-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 4, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b40-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5410668c-a183-4a3a-be44-7b626e903bd3",
+					"titel": "Åderupvej 4C, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b41-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d59a-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 5, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b42-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d59b-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 6, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b43-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8669b6be-4795-4bd5-b9bf-d1010e907a09",
+					"titel": "Åderupvej 7, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d59c-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 10, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b46-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2456a4d4-74e5-40f6-bfd8-cce768556f26",
+					"titel": "Åderupvej 12, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b47-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d59d-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 15, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b48-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d59e-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 19, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-4b4a-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 22, 4700 Næstved",
+					"vejnavn": "Åderupvej",
+					"husnummer": "22"
+				},
+				{
+					"type": "adresse",
+					"id": "60775072-8107-4964-b96f-29b668e3b1b6",
+					"titel": "Åderupvej 23, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97e14073-fbe1-4cba-9561-1c7fd01c3f3d",
+					"titel": "Åderupvej 27, 4700 Næstved",
+					"husnummerId": "64be3bd2-551a-43bf-ab23-f8b07f40a4fc"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a1-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 29, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7170aa75-da15-48a3-95fb-add555223c6b",
+					"titel": "Åderupvej 32, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b4e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a3-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 34A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a4-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 34B, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b50-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a5-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 37, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b51-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a6-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 38, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b52-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a7-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 39, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b53-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a8-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 40, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b54-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-4b55-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 41, 4700 Næstved",
+					"vejnavn": "Åderupvej",
+					"husnummer": "41"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5aa-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 42, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ab-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 44, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b57-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ac-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 44A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b58-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ad-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 45, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ae-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 47, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b5a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5af-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 49, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b5b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b0-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 50, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b5c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b1-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 51, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b5d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b2-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 52, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b5e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b3-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 53, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b5f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b4-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 54, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b60-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b5-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 55, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b61-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b6-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 57, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b62-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b7-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 59, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b63-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b8-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 64, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b64-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-4b65-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 65, 4700 Næstved",
+					"vejnavn": "Åderupvej",
+					"husnummer": "65"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-4b66-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 65A, 4700 Næstved",
+					"vejnavn": "Åderupvej",
+					"husnummer": "65A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5bb-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 66, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b67-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "6bfcc6ba-247c-4122-977d-ff8363e3a9ad",
+					"titel": "Åderupvej 67, 4700 Næstved",
+					"vejnavn": "Åderupvej",
+					"husnummer": "67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5bc-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 68, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b68-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5bd-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 69, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b69-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5be-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 70, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b6a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5bf-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 71, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b6b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5c1-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 72, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b6d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5c2-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 73, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b6e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5c3-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 74, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b6f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5c4-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 75, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b70-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5c5-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 76, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b71-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5c6-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 77, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b72-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5c7-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 78A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b73-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5c8-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 78B, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b74-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5c9-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 78C, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b75-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ca-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 79, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b76-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5cb-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 80, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b77-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "54e51a23-47f7-4141-ae7c-23e75c4d04f4",
+					"titel": "Åderupvej 81A, 4700 Næstved",
+					"husnummerId": "f6edacb3-be99-479b-9722-02cb18855c53"
+				},
+				{
+					"type": "adresse",
+					"id": "d6ae46fb-4431-4c71-878a-e1012dbb4c23",
+					"titel": "Åderupvej 81B, 4700 Næstved",
+					"husnummerId": "47106c37-b2b5-4a2a-9fd1-021322b10936"
+				},
+				{
+					"type": "husnummer",
+					"id": "1de21027-9f81-1d9f-e044-0003ba298018",
+					"titel": "Åderupvej 81C, 4700 Næstved",
+					"vejnavn": "Åderupvej",
+					"husnummer": "81C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5cf-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 82, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b79-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "26057093-48ce-4fe5-b41a-48c525bbb1af",
+					"titel": "Åderupvej 82A, 4700 Næstved",
+					"husnummerId": "64c604eb-f22d-4a23-b7a7-b92294cca01f"
+				},
+				{
+					"type": "adresse",
+					"id": "518221ed-242e-48cf-b3c4-9c27602f336d",
+					"titel": "Åderupvej 82B, 4700 Næstved",
+					"husnummerId": "bd235af6-8a79-4c26-9d4d-e04e02d844bf"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d0-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 83, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b7a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d1-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 84, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b7b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d2-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 84A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b7c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d3-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 85, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b7d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d4-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 86, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b7e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d5-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 86A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b7f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d6-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 87A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b81-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d7-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 87B, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b82-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d8-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 88, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b83-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5d9-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 89, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b84-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5da-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 91, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b85-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5db-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 93, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b86-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5dc-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 97, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b87-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5dd-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 100, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b88-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5de-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 102, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b89-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5df-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 104, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b8a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5e0-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 106A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b8b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5e1-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 106B, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b8c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5e2-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 108A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5e3-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 108B, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b8e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0344f807-b841-4410-a678-556ddc1447e2",
+					"titel": "Åderupvej 111, 4700 Næstved",
+					"husnummerId": "6520b331-240d-4ec9-83fe-a58dc83a5eca"
+				},
+				{
+					"type": "adresse",
+					"id": "3cb0a0c6-3113-0e4a-e044-0003ba298018",
+					"titel": "Åderupvej 113A, 4700 Næstved",
+					"husnummerId": "3cae7253-0c28-0f90-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3cb0a0c6-3114-0e4a-e044-0003ba298018",
+					"titel": "Åderupvej 113B, 4700 Næstved",
+					"husnummerId": "3cae7253-0c29-0f90-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5e5-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 115, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b90-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5e6-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 120, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b91-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5e7-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 122, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b92-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5e8-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 123, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b93-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5e9-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 124, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b94-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ea-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 125, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b95-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5eb-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 126, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b96-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ec-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 127, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b97-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ed-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 128, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b98-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ee-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 129, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b99-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ef-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 129A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b9a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5f0-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 130, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b9b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5f1-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 131, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b9c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5f2-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 132, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b9d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5f3-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 133, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b9e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 9670": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97de-32b8-e044-0003ba298018",
+					"titel": "Årupvej 5, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed95-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "76f2e4a0-4fda-4e9b-8097-a6d0b684099d",
+					"titel": "Årupvej 6, Vindblæs, 9670 Løgstør",
+					"husnummerId": "1d775f7c-a538-4195-98bc-e8920dc2b9bc"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97df-32b8-e044-0003ba298018",
+					"titel": "Årupvej 11, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed96-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e0-32b8-e044-0003ba298018",
+					"titel": "Årupvej 13, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed97-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e1-32b8-e044-0003ba298018",
+					"titel": "Årupvej 20, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed98-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e2-32b8-e044-0003ba298018",
+					"titel": "Årupvej 25, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed99-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e3-32b8-e044-0003ba298018",
+					"titel": "Årupvej 28, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed9a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e4-32b8-e044-0003ba298018",
+					"titel": "Årupvej 30, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed9b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-ed9c-32b8-e044-0003ba298018",
+					"titel": "Årupvej 32, Vindblæs, 9670 Løgstør",
+					"vejnavn": "Årupvej",
+					"husnummer": "32"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e6-32b8-e044-0003ba298018",
+					"titel": "Årupvej 35, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed9d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e7-32b8-e044-0003ba298018",
+					"titel": "Årupvej 39, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed9e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ea03a78e-be11-4fa9-abcb-1a8147c12df0",
+					"titel": "Årupvej 41, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed9f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e8-32b8-e044-0003ba298018",
+					"titel": "Årupvej 45, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-eda0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e9-32b8-e044-0003ba298018",
+					"titel": "Årupvej 50, 9670 Løgstør",
+					"husnummerId": "0a3f509a-eda1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97ea-32b8-e044-0003ba298018",
+					"titel": "Årupvej 55, 9670 Løgstør",
+					"husnummerId": "0a3f509a-eda2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97eb-32b8-e044-0003ba298018",
+					"titel": "Årupvej 59, 9670 Løgstør",
+					"husnummerId": "0a3f509a-eda3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97ec-32b8-e044-0003ba298018",
+					"titel": "Årupvej 60, 9670 Løgstør",
+					"husnummerId": "0a3f509a-eda4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97ed-32b8-e044-0003ba298018",
+					"titel": "Årupvej 62, 9670 Løgstør",
+					"husnummerId": "0a3f509a-eda5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0ca2b7c0-0f7a-4051-b287-fe802c0e9966",
+					"titel": "Årupvej 64, 9670 Løgstør",
+					"husnummerId": "acc01a09-5306-404e-a729-cedbe2796b98"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97ee-32b8-e044-0003ba298018",
+					"titel": "Årupvej 65, 9670 Løgstør",
+					"husnummerId": "0a3f509a-eda6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97ef-32b8-e044-0003ba298018",
+					"titel": "Årupvej 67, 9670 Løgstør",
+					"husnummerId": "0a3f509a-eda7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97f0-32b8-e044-0003ba298018",
+					"titel": "Årupvej 69, 9670 Løgstør",
+					"husnummerId": "0a3f509a-eda8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "021a52dd-8bb0-4d2c-9ab7-a2488628b7b9",
+					"titel": "Årupvej 71, 9670 Løgstør",
+					"husnummerId": "a5db7491-4df7-4d1a-a8ba-0dc50211b54a"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 4300": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75d1-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 1, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-5658-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75d2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 3, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-5659-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "df2dff82-4bf9-479a-a43e-3d19e43d7757",
+					"titel": "Ågerupvej 4, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-565a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5083-565b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 5, Bredetved, 4300 Holbæk",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75d5-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 6, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-565c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75d6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 8, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-565e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75d7-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 9, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-565f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fa026bd4-4da1-4c13-89aa-42058bdbbf30",
+					"titel": "Ågerupvej 10, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-5660-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75d8-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 11, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-5661-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75d9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 13, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-5662-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "38117aa0-1924-40b2-a1fb-0ec1e32f17f2",
+					"titel": "Ågerupvej 13A, Bredetved, 4300 Holbæk",
+					"husnummerId": "67914829-a77d-4aeb-8207-c4cfccbc136f"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75da-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 15, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-5663-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75dc-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 19, Bredetved, 4300 Holbæk",
+					"husnummerId": "0a3f5083-5665-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 6900": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50be-afff-32b8-e044-0003ba298018",
+					"titel": "Årupvej 1, Hanning, 6900 Skjern",
+					"husnummerId": "0a3f5092-6f9d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-b000-32b8-e044-0003ba298018",
+					"titel": "Årupvej 2, Hanning, 6900 Skjern",
+					"husnummerId": "0a3f5092-6f9f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-b001-32b8-e044-0003ba298018",
+					"titel": "Årupvej 4, Hanning, 6900 Skjern",
+					"husnummerId": "0a3f5092-6fa0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-b002-32b8-e044-0003ba298018",
+					"titel": "Årupvej 6, Hanning, 6900 Skjern",
+					"husnummerId": "0a3f5092-6fa1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-b003-32b8-e044-0003ba298018",
+					"titel": "Årupvej 8, Hanning, 6900 Skjern",
+					"husnummerId": "0a3f5092-6fa2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-b004-32b8-e044-0003ba298018",
+					"titel": "Årupvej 10, Hanning, 6900 Skjern",
+					"husnummerId": "0a3f5092-6fa3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-b005-32b8-e044-0003ba298018",
+					"titel": "Årupvej 12, Hanning, 6900 Skjern",
+					"husnummerId": "0a3f5092-6fa4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-b006-32b8-e044-0003ba298018",
+					"titel": "Årupvej 14, Hanning, 6900 Skjern",
+					"husnummerId": "0a3f5092-6fa5-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Orupvej 4160": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-73d0-32b8-e044-0003ba298018",
+					"titel": "Orupvej 1, Orup, 4160 Herlufmagle",
+					"husnummerId": "0a3f5086-f29f-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 4400": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 1, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a3d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c1-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 1A, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 2, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a3f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c3-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 3, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a40-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c4-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 4, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a41-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c5-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 9, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a42-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 10, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a43-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c7-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 12, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c8-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 13, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 14, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a46-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99ca-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 15, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a47-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99cb-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 16, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a48-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99cc-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 17, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99cd-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 19, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99ce-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99cf-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 21, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 23, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d1-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 24, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 26, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d3-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a50-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d4-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 30, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a51-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d5-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 32, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a52-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 34, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a53-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "258a87d7-ee66-4932-a03b-71750b883e0c",
+					"titel": "Ågerupvej 36, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a54-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d7-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 38, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d8-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 40, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 41, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a57-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99da-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 42, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a58-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99db-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 43, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99dc-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 44, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a5a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99dd-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 45, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a5b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99de-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 50, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a5c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99df-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 51, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a5d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 2750": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b38-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 42, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a50-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b39-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 44, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a51-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "adaed530-e870-4700-b498-70e63fcaa2db",
+					"titel": "Ågerupvej 52, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a52-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b3a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 63, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a53-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7a54-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 66, 2750 Ballerup",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "66"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b3c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 66A, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b3d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 66B, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b3e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 66C, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a57-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7a58-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 66D, 2750 Ballerup",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "66D"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b41-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 68, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b42-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 71, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a5a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b43-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 73, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a5b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ef60d0d5-8251-4a4a-b659-5a0a36d3ffe8",
+					"titel": "Ågerupvej 74, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a5c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a69c30b8-8df0-4bbf-8ec3-dbb8b08f7413",
+					"titel": "Ågerupvej 74A, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a5d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bfced19e-0cb8-450d-983d-4cace27fe19e",
+					"titel": "Ågerupvej 75, 2750 Ballerup",
+					"husnummerId": "5ae833b0-542b-4d81-a632-dc502bd874d0"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-7a5e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 84, 2750 Ballerup",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "84"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b44-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 86, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a5f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a772c678-523c-459b-802a-133dd947f568",
+					"titel": "Ågerupvej 100, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a60-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b45-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 100A, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a61-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b46-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 100B, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a62-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7f2311cd-3398-48d7-b914-65bfeff62251",
+					"titel": "Ågerupvej 110, 2750 Ballerup",
+					"husnummerId": "70f8f976-3220-03b7-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b47-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 138, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a64-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b48-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 140, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a65-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b49-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 142, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a66-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b4a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 144, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a67-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b4b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 146, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a68-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b4c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 148, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a69-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b4d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 150, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a6a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b4e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 156, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a6b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b4f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 158, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a6c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b50-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 160, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a6d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b51-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 162, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a6e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b52-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 164, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a6f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4be44867-f6e9-47fe-9bb6-fc03ece973f9",
+					"titel": "Ågerupvej 165, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a70-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b53-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 166, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a71-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b54-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 167, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a72-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b55-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 168, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a73-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b56-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 169, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a74-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b57-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 170, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a75-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b58-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 171, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a76-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b59-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 172, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a77-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b5a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 173, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a78-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b5b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 174, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a79-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b5c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 176, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a7a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b5d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 177, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a7b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b5e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 178, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a7c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b5f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 179, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a7d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b60-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 180, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a7e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b61-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 181, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a7f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b62-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 182, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a80-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b63-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 184, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a81-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b64-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 185, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a82-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b65-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 186, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a83-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b66-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 187, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a84-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b67-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 188, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a85-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b68-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 189, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a86-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b69-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 190, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a87-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b6a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 191, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a88-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b6b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 192, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a89-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b6c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 194, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a8a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b6d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 196, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a8b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b6e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 197, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a8c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b6f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 197A, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b70-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 198, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a8e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b71-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 200, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a8f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b72-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 202, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a90-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b73-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 205, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a91-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b74-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 207, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a92-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b75-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 209, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a93-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b76-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 211, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a94-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 4390": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75db-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 18, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5664-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ad1a1e86-fe19-41bb-9b42-a22e35108356",
+					"titel": "Ågerupvej 21, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5666-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75dd-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 22, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5667-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75de-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 25, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5668-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "26012c51-c023-4384-9ee0-2b7c61c78314",
+					"titel": "Ågerupvej 27, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5669-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75df-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, 4390 Vipperød",
+					"husnummerId": "0a3f5083-566a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 29, 4390 Vipperød",
+					"husnummerId": "0a3f5083-566b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e1-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 30, 4390 Vipperød",
+					"husnummerId": "0a3f5083-566c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 31, 4390 Vipperød",
+					"husnummerId": "0a3f5083-566d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e3-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 33, 4390 Vipperød",
+					"husnummerId": "0a3f5083-566e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bf7abb48-128a-46f2-8795-839a165dad84",
+					"titel": "Ågerupvej 33A, 4390 Vipperød",
+					"husnummerId": "d7207f7f-4e7a-44ae-bd63-2c442e232b29"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e4-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 34, 4390 Vipperød",
+					"husnummerId": "0a3f5083-566f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e5-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 36, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5670-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 39, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5671-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e7-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 40, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5672-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "036d5b91-e927-493a-b05c-7a484517dd46",
+					"titel": "Ågerupvej 40A, Arnakke, 4390 Vipperød",
+					"husnummerId": "010be6c8-10f3-4a05-9da6-89038337f5b6"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1392-680f-e044-0003ba298018",
+					"titel": "Ågerupvej 42A, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5674-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 42B, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5675-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75ea-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 44, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5676-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75eb-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 46, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5677-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75ec-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 48, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5678-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75ed-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 49, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5679-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75ee-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 50, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-567a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75ef-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 51, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-567b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75f0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 52, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-567c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5083-567d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 53, Arnakke, 4390 Vipperød",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "53"
+				},
+				{
+					"type": "adresse",
+					"id": "1369ec0c-f460-5517-e044-0003ba298018",
+					"titel": "Ågerupvej 53A, Arnakke, 4390 Vipperød",
+					"husnummerId": "1357eb80-9e26-3d79-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1369ec0c-f461-5517-e044-0003ba298018",
+					"titel": "Ågerupvej 53B, Arnakke, 4390 Vipperød",
+					"husnummerId": "1357eb80-9e27-3d79-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1369ec0c-f462-5517-e044-0003ba298018",
+					"titel": "Ågerupvej 53C, Arnakke, 4390 Vipperød",
+					"husnummerId": "1357eb80-9e28-3d79-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75f2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 54, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-567e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75f3-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 55, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-567f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75f4-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 56, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5680-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75f5-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 58, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5681-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75f6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 59, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5682-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "37b8c445-67bc-4134-ae67-8e1fca422f0b",
+					"titel": "Ågerupvej 60, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5683-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "891c62e5-52b7-4f59-829c-dc6425847e77",
+					"titel": "Ågerupvej 60A, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5684-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75f8-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 61, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5685-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75f9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 63, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5686-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75fa-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 64, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5687-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75fb-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 65, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5688-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75fc-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 66, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5689-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75fd-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 68, 4390 Vipperød",
+					"husnummerId": "0a3f5083-568a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75fe-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 71, Arnakke, 4390 Vipperød",
+					"husnummerId": "0a3f5083-568b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75ff-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 72, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-568c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9249f494-e5e2-44d4-bde9-9c11c9f2ee09",
+					"titel": "Ågerupvej 72B, Ågerup, 4390 Vipperød",
+					"husnummerId": "621684f5-0fd5-56c0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5406d067-d73f-446b-8ed3-0a1a006a84f6",
+					"titel": "Ågerupvej 74, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-568d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7600-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 76, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-568e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7601-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 77, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-568f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7602-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 78, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5690-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6d904331-6a80-4f55-ab43-d78e77989da3",
+					"titel": "Ågerupvej 79, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5691-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7603-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 80, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5692-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a86bdcbd-4345-4cba-b953-6661ad5e59bf",
+					"titel": "Ågerupvej 81, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5693-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7604-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 82, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5694-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7605-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 85, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5696-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7606-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 87A, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5697-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7607-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 87B, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5698-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7608-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 88, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5699-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7609-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 89, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-569a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-760a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 90, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-569b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-760b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 91, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-569c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-760c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 92, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-569d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-760d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 94A, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-569e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-760e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 94B, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-569f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-760f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 95, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5a565018-eaee-455a-8155-8d7093cdcc73",
+					"titel": "Ågerupvej 95A, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9af16ef6-82f0-4e41-b5e2-0ebfbdbf2a2b",
+					"titel": "Ågerupvej 95B, Ågerup, 4390 Vipperød",
+					"husnummerId": "6530ffd3-707a-4982-b817-7c472940ab1f"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7610-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 96A, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7611-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 96B, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7612-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 97, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7613-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 98, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7614-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 99, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7615-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 100, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7616-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 100A, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d31bdf27-6475-46ac-a022-74db19631728",
+					"titel": "Ågerupvej 102, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7617-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 103, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cfb0434b-044a-488a-be7a-1aa0a1b9f596",
+					"titel": "Ågerupvej 104, Ågerup, 4390 Vipperød",
+					"husnummerId": "8b439d22-97f0-4199-87af-a7cd83771fac"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-7618-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 104A, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5083-56ad-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 104B, Ågerup, 4390 Vipperød",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "104B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-761c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 105, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-761d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 107, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-761e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 108, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-761f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 109, Ågerup, 4390 Vipperød",
+					"husnummerId": "0a3f5083-56b1-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Odderupvej 6880": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f53-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 1, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2caf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f54-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 2, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f55-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 3, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f56-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 4, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f57-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 5, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f58-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 6, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ce9b86e-90d5-46b2-9fe0-1e91bdc63b80",
+					"titel": "Odderupvej 6A, Ådum, 6880 Tarm",
+					"husnummerId": "b5153c81-e007-4355-8bd0-a3e13b8f9e78"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f59-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 7, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ec6e15bd-d07c-48ca-aa6d-36e0232a7c61",
+					"titel": "Odderupvej 7A, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "70737d30-081c-46e5-994e-4ce68d0b263e",
+					"titel": "Odderupvej 7B, Ådum, 6880 Tarm",
+					"husnummerId": "452270a3-ab6d-4e6a-96f3-bf2fd66a1237"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f5a-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 8, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f5b-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 9, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "004b1af3-534e-446c-9063-729935a3d412",
+					"titel": "Odderupvej 9B, Ådum, 6880 Tarm",
+					"husnummerId": "5397faa2-62c1-4925-a422-f73fbbb52ee1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f5c-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 10, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f5d-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 11, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cbb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f5e-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 12, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cbc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f5f-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 13, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cbd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f60-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 14, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cbe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f61-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 15, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cbf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f62-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 16, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f63-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 18, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f35050a8-e241-46cb-aad5-817d464b7d26",
+					"titel": "Odderupvej 18B, Ådum, 6880 Tarm",
+					"husnummerId": "5f55ec74-89a3-4ad8-89d1-875f6867dffc"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f64-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 20, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f65-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 22, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0d8b2655-2ebc-47da-b7f2-dc008879efc5",
+					"titel": "Odderupvej 22B, Ådum, 6880 Tarm",
+					"husnummerId": "d1f15730-f8cf-4d08-ae20-bde451784746"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f66-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 24, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f67-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 26, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc5-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Åderupvej 81C, 4700 Næstved": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "2374c2e5-9752-3ff2-e044-0003ba298018",
+					"titel": "Åderupvej 81C, st., 4700 Næstved",
+					"husnummerId": "1de21027-9f81-1d9f-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2374c2e5-9751-3ff2-e044-0003ba298018",
+					"titel": "Åderupvej 81C, 1. tv, 4700 Næstved",
+					"husnummerId": "1de21027-9f81-1d9f-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2374c2e5-9750-3ff2-e044-0003ba298018",
+					"titel": "Åderupvej 81C, 1. mf, 4700 Næstved",
+					"husnummerId": "1de21027-9f81-1d9f-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Åderupvej 22, 4700 Næstved": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "089d4054-8cf3-4657-b3b2-2fda60041203",
+					"titel": "Åderupvej 22, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d59f-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 22, st., 4700 Næstved",
+					"husnummerId": "0a3f5086-4b4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a0-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 22, 1., 4700 Næstved",
+					"husnummerId": "0a3f5086-4b4a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Åderupvej 65, 4700 Næstved": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5b9-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 65, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b65-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "919c7979-f4e7-4ae6-b745-343f6b0de4d3",
+					"titel": "Åderupvej 65, st., 4700 Næstved",
+					"husnummerId": "0a3f5086-4b65-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6458991b-433e-438c-8b2c-1a8fbc3660be",
+					"titel": "Åderupvej 65, 1., 4700 Næstved",
+					"husnummerId": "0a3f5086-4b65-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Aarupvej 1, Skovsgård, 9460 Brovst": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "8dcc2aa9-5a59-49a8-94a1-d815097de835",
+					"titel": "Aarupvej 1, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37aa-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Åderupvej 65A, 4700 Næstved": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5ba-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 65A, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b66-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "febc548c-88be-4cb9-a33a-c33d8a08e390",
+					"titel": "Åderupvej 65A, st., 4700 Næstved",
+					"husnummerId": "0a3f5086-4b66-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5fe28fb1-c41f-400c-9d52-a01d7581adab",
+					"titel": "Åderupvej 65A, 1., 4700 Næstved",
+					"husnummerId": "0a3f5086-4b66-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Åderupvej 41, 4700 Næstved": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a9-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 41, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c41b997d-cdc1-44c4-9606-1f747dd164c6",
+					"titel": "Åderupvej 41, st., 4700 Næstved",
+					"husnummerId": "0a3f5086-4b55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d70dc6d5-a582-4cdd-b5c8-4014ae961282",
+					"titel": "Åderupvej 41, 1., 4700 Næstved",
+					"husnummerId": "0a3f5086-4b55-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 32, Vindblæs, 9670 Løgstør": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e5-32b8-e044-0003ba298018",
+					"titel": "Årupvej 32, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed9c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e0a2a8af-d6a8-4fee-8729-e5e3176687be",
+					"titel": "Årupvej 32, st., Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed9c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Årupvej 29, 8722 Hedensted": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1243-32b8-e044-0003ba298018",
+					"titel": "Årupvej 29, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68ff-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "36d43c69-94aa-4df2-b603-57f5c9cacc45",
+					"titel": "Årupvej 29, st., 8722 Hedensted",
+					"husnummerId": "0a3f508f-68ff-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8b6c6469-744f-4074-9868-4198a7f2a970",
+					"titel": "Årupvej 29, 1., 8722 Hedensted",
+					"husnummerId": "0a3f508f-68ff-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Åderupvej 67, 4700 Næstved": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "4076782a-a137-456c-84ad-96d88bb6303f",
+					"titel": "Åderupvej 67, 4700 Næstved",
+					"husnummerId": "6bfcc6ba-247c-4122-977d-ff8363e3a9ad"
+				},
+				{
+					"type": "adresse",
+					"id": "50d92aec-5e6b-44c8-afd4-79f00f0d89f3",
+					"titel": "Åderupvej 67, st., 4700 Næstved",
+					"husnummerId": "6bfcc6ba-247c-4122-977d-ff8363e3a9ad"
+				},
+				{
+					"type": "adresse",
+					"id": "64286e61-3932-463f-bf7d-c69974087db5",
+					"titel": "Åderupvej 67, 1., 4700 Næstved",
+					"husnummerId": "6bfcc6ba-247c-4122-977d-ff8363e3a9ad"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Aarupvej 3, 5560 Aarup": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0ba51d63-ff20-48ee-8130-156fe5bb04b6",
+					"titel": "Aarupvej 3, 5560 Aarup",
+					"husnummerId": "b8f8e249-3a54-4af6-9cef-008a85b182c4"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=ågerupvej 2": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35c1-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 2, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d86-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 2, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99c2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 2, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a3f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c4fa3386-280e-4ee3-97c9-e0f84dd1798f",
+					"titel": "Ågerupvej 20, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f234-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 21, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f235-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 22, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f236-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 23, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f237-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 24, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35d6-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 25, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f23d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 26, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35d8-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 27, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35d9-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "28"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-35da-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 29, 2700 Brønshøj",
+					"vejnavn": "Ågerupvej",
+					"husnummer": "29"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c9a-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9370-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c9b-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 25, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9371-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0069e998-c54c-4e4a-b0d7-38320b33727f",
+					"titel": "Ågerupvej 26, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9372-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-1c9c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 29, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9373-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482f-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 21, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7392-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4830-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 22, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7393-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4831-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 23, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7394-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4832-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 24, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7395-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4833-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 25, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7397-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8c83c43e-2e39-4fd3-94b1-0cc6496af056",
+					"titel": "Ågerupvej 26, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7398-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4834-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 27, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7399-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4835-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-739a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-4836-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 29, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-739b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d90-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d91-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 22, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1db9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d92-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 24, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d93-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 26, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dbb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d94-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dbc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ad1a1e86-fe19-41bb-9b42-a22e35108356",
+					"titel": "Ågerupvej 21, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5666-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75dd-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 22, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5667-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75de-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 25, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5668-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "26012c51-c023-4384-9ee0-2b7c61c78314",
+					"titel": "Ågerupvej 27, 4390 Vipperød",
+					"husnummerId": "0a3f5083-5669-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75df-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, 4390 Vipperød",
+					"husnummerId": "0a3f5083-566a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-75e0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 29, 4390 Vipperød",
+					"husnummerId": "0a3f5083-566b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99ce-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99cf-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 21, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d0-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 23, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d1-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 24, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 26, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d3-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 28, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a50-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b71-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 200, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a8f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b72-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 202, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a90-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b73-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 205, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a91-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b74-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 207, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a92-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b75-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 209, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a93-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1b76-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 211, 2750 Ballerup",
+					"husnummerId": "0a3f507b-7a94-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482c-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20A, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-738d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-738e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fada134f-0238-42dd-aa50-4794d06f4bf9",
+					"titel": "Ågerupvej 20C, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-738f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "db13814a-6125-4090-8a2e-1e643b4f379a",
+					"titel": "Ågerupvej 20D, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7390-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-482e-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 20E, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7391-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "32dbebb7-b694-4a3f-87b8-5c01a74d72b6",
+					"titel": "Ågerupvej 20F, Ågerup, 4000 Roskilde",
+					"husnummerId": "4e0009ec-fc87-4b73-838c-583be5f7d959"
+				},
+				{
+					"type": "adresse",
+					"id": "17993eef-7e55-437a-bd9e-ab60cfa4bb58",
+					"titel": "Ågerupvej 24B, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7396-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "173cf37e-4bc2-427f-8213-f0f41731dd5f",
+					"titel": "Ågerupvej 29B, Ågerup, 4000 Roskilde",
+					"husnummerId": "37351fd3-d62d-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-da9c-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 2, 1., Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f54-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 2, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cb0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5157-32b8-e044-0003ba298018",
+					"titel": "Orupvej 2, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7cad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d598-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 2, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b7-508d-32b8-e044-0003ba298018",
+					"titel": "Årupvej 2, Harreby, 6630 Rødding",
+					"husnummerId": "0a3f508c-1e45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50be-b000-32b8-e044-0003ba298018",
+					"titel": "Årupvej 2, Hanning, 6900 Skjern",
+					"husnummerId": "0a3f5092-6f9f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-123c-32b8-e044-0003ba298018",
+					"titel": "Årupvej 2, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68f2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50cb-130b-32b8-e044-0003ba298018",
+					"titel": "Årupvej 2, Vestrup, 9600 Aars",
+					"husnummerId": "0a3f509c-ee8a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6c-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 20, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1cde-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6d-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 21, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1cdf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6e-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 22, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c6f-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 23, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c70-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 24, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-3c71-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 27, Orte, 5560 Aarup",
+					"husnummerId": "0a3f508b-1ce3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "06323e25-e43a-43c6-a255-97f82bfc46f2",
+					"titel": "Aarupvej 2A, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "598b4ca2-7b02-4873-8f26-0b6fe1f41694",
+					"titel": "Aarupvej 2B, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daa9-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 20, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6243a482-0c5b-573d-e044-0003ba298018",
+					"titel": "Aarupvej 21, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-2e2e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daaa-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 22, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5a7eb555-ee66-4bc9-b4e1-eab2eb88debc",
+					"titel": "Aarupvej 23, Skovsgård, 9460 Brovst",
+					"husnummerId": "e1a8ffc7-69f4-423d-9cad-283bbc0da6c4"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daab-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 24, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c052caa4-db4d-4d2b-9ddb-26b0837509e4",
+					"titel": "Aarupvej 25, Skovsgård, 9460 Brovst",
+					"husnummerId": "d3b87159-7747-43cb-8311-0f44ac27968d"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daac-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 26, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a766963a-fd4b-48c5-9e0a-a9f8ae6d3b0c",
+					"titel": "Aarupvej 27, Skovsgård, 9460 Brovst",
+					"husnummerId": "48796022-a001-4c2c-8e1e-74ab7f7ff8eb"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daad-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 28, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f64-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 20, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f65-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 22, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f66-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 24, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f67-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 26, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-4b4a-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 22, 4700 Næstved",
+					"vejnavn": "Åderupvej",
+					"husnummer": "22"
+				},
+				{
+					"type": "adresse",
+					"id": "60775072-8107-4964-b96f-29b668e3b1b6",
+					"titel": "Åderupvej 23, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "97e14073-fbe1-4cba-9561-1c7fd01c3f3d",
+					"titel": "Åderupvej 27, 4700 Næstved",
+					"husnummerId": "64be3bd2-551a-43bf-ab23-f8b07f40a4fc"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b0-d5a1-32b8-e044-0003ba298018",
+					"titel": "Åderupvej 29, 4700 Næstved",
+					"husnummerId": "0a3f5086-4b4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a2d-32b8-e044-0003ba298018",
+					"titel": "Årupvej 25, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e92c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a2e-32b8-e044-0003ba298018",
+					"titel": "Årupvej 27, Assenbølle, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e92d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-0a2f-32b8-e044-0003ba298018",
+					"titel": "Årupvej 29, 5492 Vissenbjerg",
+					"husnummerId": "0a3f508a-e92e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "89122984-3b73-47a4-a641-df8322a5f2d8",
+					"titel": "Årupvej 2A, 8722 Hedensted",
+					"husnummerId": "f725c4bb-2f15-4c9d-a25d-479489585bb5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1241-32b8-e044-0003ba298018",
+					"titel": "Årupvej 20, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68fb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-1242-32b8-e044-0003ba298018",
+					"titel": "Årupvej 24, Gl Sole, 8722 Hedensted",
+					"husnummerId": "0a3f508f-68fc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508f-68ff-32b8-e044-0003ba298018",
+					"titel": "Årupvej 29, 8722 Hedensted",
+					"vejnavn": "Årupvej",
+					"husnummer": "29"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e1-32b8-e044-0003ba298018",
+					"titel": "Årupvej 20, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed98-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e2-32b8-e044-0003ba298018",
+					"titel": "Årupvej 25, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed99-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-97e3-32b8-e044-0003ba298018",
+					"titel": "Årupvej 28, Vindblæs, 9670 Løgstør",
+					"husnummerId": "0a3f509a-ed9a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=ågerupvej 26": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a1-f23d-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 26, 2700 Brønshøj",
+					"husnummerId": "0a3f507b-35d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0069e998-c54c-4e4a-b0d7-38320b33727f",
+					"titel": "Ågerupvej 26, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9372-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8c83c43e-2e39-4fd3-94b1-0cc6496af056",
+					"titel": "Ågerupvej 26, Ågerup, 4000 Roskilde",
+					"husnummerId": "0a3f5081-7398-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5d93-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 26, Vigersted, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1dbb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-99d2-32b8-e044-0003ba298018",
+					"titel": "Ågerupvej 26, 4400 Kalundborg",
+					"husnummerId": "0a3f5083-7a4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-daac-32b8-e044-0003ba298018",
+					"titel": "Aarupvej 26, Skovsgård, 9460 Brovst",
+					"husnummerId": "0a3f5099-37bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3f67-32b8-e044-0003ba298018",
+					"titel": "Odderupvej 26, Ådum, 6880 Tarm",
+					"husnummerId": "0a3f5091-2cc5-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ågerupvej 26, 3200 Helsinge": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0069e998-c54c-4e4a-b0d7-38320b33727f",
+					"titel": "Ågerupvej 26, 3200 Helsinge",
+					"husnummerId": "0a3f507f-9372-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

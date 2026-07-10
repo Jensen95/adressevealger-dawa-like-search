@@ -1,0 +1,27 @@
+{
+	"query": "strandlodsvej 25m 7 tv",
+	"recordedAt": "2026-07-09T19:51:54.005Z",
+	"dawa": {
+		"texts": [
+			"Strandlodsvej 25M, 7. tv, 2300 København S"
+		],
+		"ids": [
+			"00002732-733c-433a-a5da-a7d428a980cf"
+		],
+		"count": 1
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=strandlodsvej 25m 7 tv": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00002732-733c-433a-a5da-a7d428a980cf",
+					"titel": "Strandlodsvej 25M, 7. tv, 2300 København S",
+					"husnummerId": "18fbd56e-c6b2-4d0f-bb08-80133edb896e"
+				}
+			]
+		}
+	}
+}

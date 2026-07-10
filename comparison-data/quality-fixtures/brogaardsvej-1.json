@@ -1,0 +1,654 @@
+{
+	"query": "brogårdsvej 1",
+	"recordedAt": "2026-07-09T19:51:55.989Z",
+	"dawa": {
+		"texts": [
+			"Brogårdsvej 17, 1., 2820 Gentofte",
+			"Brogårdsvej 19, 1., 2820 Gentofte",
+			"Brogårdsvej 11, 1., 7500 Holstebro",
+			"Brogårdsvej 13, 1., 7500 Holstebro",
+			"Brogårdsvej 15, 1., 7500 Holstebro",
+			"Brogårdsvej 17, 1., 7500 Holstebro",
+			"Brogårdsvej 19, 1., 7500 Holstebro",
+			"Brogårdsvej 105, 1., 2820 Gentofte",
+			"Brogårdsvej 115, 1., 2820 Gentofte",
+			"Brogårdsvej 119, 1., 2820 Gentofte"
+		],
+		"ids": [
+			"0a3f50a3-a3a6-32b8-e044-0003ba298018",
+			"0a3f50a3-a3b2-32b8-e044-0003ba298018",
+			"5ff7252a-b15f-45d4-848d-4edb124443a5",
+			"464fc6fd-b6f4-404a-9e04-cd244bc4097b",
+			"21f29100-92fc-4297-a82a-2e0516f8d2c0",
+			"0a3f50bd-f0bd-32b8-e044-0003ba298018",
+			"0a3f50bd-f0bf-32b8-e044-0003ba298018",
+			"0a3f50a3-a44a-32b8-e044-0003ba298018",
+			"0a3f50a3-a455-32b8-e044-0003ba298018",
+			"0a3f50a3-a457-32b8-e044-0003ba298018"
+		],
+		"count": 10
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=brogårdsvej 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a396-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d22c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4d473c9d-169c-47b3-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, Meløse, 3320 Skævinge",
+					"husnummerId": "4ca54b0f-2d4e-0052-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc06-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, Nyker, 3700 Rønne",
+					"husnummerId": "0a3f5087-5992-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-ac8a-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, 4920 Søllested",
+					"husnummerId": "0a3f5085-53c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-ba51-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, Kædeby, 5932 Humble",
+					"husnummerId": "0a3f508a-95d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dcfbd2c5-d1a4-42d5-b8e6-1aea9f66d1db",
+					"titel": "Brogårdsvej 1, 6880 Tarm",
+					"husnummerId": "0a3f5091-1d91-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5091-c5ce-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, 7500 Holstebro",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0337-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-7163-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e7e4-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, 7755 Bedsted Thy",
+					"husnummerId": "0a3f5098-5307-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "48dc7af1-49ae-473c-bb6f-a538485937de",
+					"titel": "Brogårdsvej 1, Balle, 8370 Hadsten",
+					"husnummerId": "0a3f5093-b1d8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-0946-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, Sæsing, 9830 Tårs",
+					"husnummerId": "0a3f509a-646f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-dfd3-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1, 9881 Bindslev",
+					"husnummerId": "0a3f509a-3c27-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-e369-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, 2670 Greve",
+					"husnummerId": "0a3f5081-165e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-e36a-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 11, 2670 Greve",
+					"husnummerId": "0a3f5081-165f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-e36b-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 13, 2670 Greve",
+					"husnummerId": "0a3f5081-1660-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f15222bb-f4d0-4ea3-8973-a111cb76eb3b",
+					"titel": "Brogårdsvej 10, 2820 Gentofte",
+					"husnummerId": "bb307506-905a-4826-9269-5c472beb5999"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a39e-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 12, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d234-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a39f-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 13, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d235-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d236-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 14, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a3a2-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 15, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d237-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d23b-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 17, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d23c-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 18, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d23d-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 19, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "19"
+				},
+				{
+					"type": "adresse",
+					"id": "562a11fe-6568-448f-bb30-536ddc91d3cf",
+					"titel": "Brogårdsvej 1B, Meløse, 3320 Skævinge",
+					"husnummerId": "1e40ad91-2318-4487-8f1d-e1c048955213"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc0e-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 11, Nyker, 3700 Rønne",
+					"husnummerId": "0a3f5087-599a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc0f-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 12, Nyker, 3700 Rønne",
+					"husnummerId": "0a3f5087-599b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc11-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 13, Nyker, 3700 Rønne",
+					"husnummerId": "0a3f5087-599d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc12-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 14, Nyker, 3700 Rønne",
+					"husnummerId": "0a3f5087-599e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc13-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 15, Nyker, 3700 Rønne",
+					"husnummerId": "0a3f5087-599f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc14-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 16, Nyker, 3700 Rønne",
+					"husnummerId": "0a3f5087-59a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc15-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 17, Nyker, 3700 Rønne",
+					"husnummerId": "0a3f5087-59a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-dc16-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 18, Klemensker, 3782 Klemensker",
+					"husnummerId": "0a3f5087-59a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-ac90-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, 4920 Søllested",
+					"husnummerId": "0a3f5085-53ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-ac91-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 12, 4920 Søllested",
+					"husnummerId": "0a3f5085-53cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-ac92-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 14, 4920 Søllested",
+					"husnummerId": "0a3f5085-53d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-ac93-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 16, 4920 Søllested",
+					"husnummerId": "0a3f5085-53d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "69a02b1e-41b4-4f29-9c62-06bd937ee49c",
+					"titel": "Brogårdsvej 1A, Bellinge, 5250 Odense SV",
+					"husnummerId": "6bfde04f-dc33-4400-a232-d2bbbbe2991a"
+				},
+				{
+					"type": "adresse",
+					"id": "ac122cdc-c80c-4028-b999-821d7dd59f0b",
+					"titel": "Brogårdsvej 1B, Bellinge, 5250 Odense SV",
+					"husnummerId": "22f8387f-7090-4531-b142-c4bc62e7fff4"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-a615-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 1D, Bellinge, 5250 Odense SV",
+					"husnummerId": "0a3f5089-0778-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-a61d-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, Bellinge, 5250 Odense SV",
+					"husnummerId": "0a3f5089-0781-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-a61e-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 12, Bellinge, 5250 Odense SV",
+					"husnummerId": "0a3f5089-0782-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-a629-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 14, Bellinge, 5250 Odense SV",
+					"husnummerId": "0a3f5089-0784-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8e2d4e16-7172-4357-b113-33e73e62cf6c",
+					"titel": "Brogårdsvej 15, Bellinge, 5250 Odense SV",
+					"husnummerId": "0a3f5089-0785-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-a62b-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 16, Bellinge, 5250 Odense SV",
+					"husnummerId": "0a3f5089-0786-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b3-a62c-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 18, Bellinge, 5250 Odense SV",
+					"husnummerId": "0a3f5089-0787-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6626397d-1888-43d5-a151-eafc3bfca3f0",
+					"titel": "Brogårdsvej 10, 6880 Tarm",
+					"husnummerId": "0a3f5091-1d9a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3144-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 11, 6880 Tarm",
+					"husnummerId": "0a3f5091-1d9b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "981fdc87-3387-40fb-873f-93d698fa2cbc",
+					"titel": "Brogårdsvej 12, 6880 Tarm",
+					"husnummerId": "0a3f5091-1d9c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3145-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 13, 6880 Tarm",
+					"husnummerId": "0a3f5091-1d9d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "38d82a04-5343-40be-a951-0b05c84e25ec",
+					"titel": "Brogårdsvej 14, 6880 Tarm",
+					"husnummerId": "0a3f5091-1d9e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3146-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 15, 6880 Tarm",
+					"husnummerId": "0a3f5091-1d9f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e0a15dc9-2032-41d2-9fbe-667f8834d928",
+					"titel": "Brogårdsvej 16, 6880 Tarm",
+					"husnummerId": "0a3f5091-1da0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3147-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 17, 6880 Tarm",
+					"husnummerId": "0a3f5091-1da1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "749bfac3-2e2b-45e7-81f4-1f7968ec281c",
+					"titel": "Brogårdsvej 18, 6880 Tarm",
+					"husnummerId": "0a3f5091-1da2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-3148-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 19, 6880 Tarm",
+					"husnummerId": "0a3f5091-1da3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e29c76b0-9fc8-401e-abc8-2fff7c9102a0",
+					"titel": "Brogårdsvej 10, 6920 Videbæk",
+					"husnummerId": "0a3f5092-ef1f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-3132-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 11, 6920 Videbæk",
+					"husnummerId": "0a3f5092-ef20-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-3133-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 12, 6920 Videbæk",
+					"husnummerId": "0a3f5092-ef21-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "98ef215f-be3e-4430-8261-2fc29d133af7",
+					"titel": "Brogårdsvej 14, 6920 Videbæk",
+					"husnummerId": "0a3f5092-ef22-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bcaa97ec-8edd-4179-9cee-1bfae0a65600",
+					"titel": "Brogårdsvej 16, 6920 Videbæk",
+					"husnummerId": "0a3f5092-ef23-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f87b016e-e16e-433e-b817-0ffb6e44dfb4",
+					"titel": "Brogårdsvej 18, 6920 Videbæk",
+					"husnummerId": "0a3f5092-ef24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5091-c5d5-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 11, 7500 Holstebro",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5091-c5d6-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 13, 7500 Holstebro",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5091-c5d7-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 15, 7500 Holstebro",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5091-c5d8-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 17, 7500 Holstebro",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5091-c5d9-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 19, 7500 Holstebro",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "19"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0342-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-716c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0343-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 11, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-716d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0344-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 12, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-716e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0345-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 13, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-716f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0346-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 14, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-7170-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0347-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 15, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-7171-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0348-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 16, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-7172-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-0349-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 17, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-7173-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-034a-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 18, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-7174-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-034b-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 19, Sjørring, 7700 Thisted",
+					"husnummerId": "0a3f5098-7175-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e7eb-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 11, 7755 Bedsted Thy",
+					"husnummerId": "0a3f5098-530e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e7ec-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 13, 7755 Bedsted Thy",
+					"husnummerId": "0a3f5098-530f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-e7ed-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 15, 7755 Bedsted Thy",
+					"husnummerId": "0a3f5098-5310-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-3c40-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, Centrum, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-aa70-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-3c41-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 11, Centrum, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-aa71-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-3c42-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 13, Centrum, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-aa72-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "12ccf87c-c2c3-4717-a058-f4de78627fc3",
+					"titel": "Brogårdsvej 14, Centrum, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-aa73-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-3c43-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 15, Centrum, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-aa74-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-3c44-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 16, Ljørslev, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-aa75-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "471e51c9-6566-4875-bea5-337782ae89de",
+					"titel": "Brogårdsvej 17, Ljørslev, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-aa76-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-3c45-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 19, Ljørslev, 7900 Nykøbing M",
+					"husnummerId": "0a3f5097-aa77-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-b1de-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 10, Balle, 8370 Hadsten",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "f7e8bafd-568c-46b7-ab3d-7cb5f9f24e01",
+					"titel": "Brogårdsvej 11, Balle, 8370 Hadsten",
+					"husnummerId": "0a3f5093-b1df-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "54161c36-8290-469f-954e-b4c8826a6b18",
+					"titel": "Brogårdsvej 12, Balle, 8370 Hadsten",
+					"husnummerId": "0a3f5093-b1e0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "29e5cd02-1832-680f-e044-0003ba298018",
+					"titel": "Brogårdsvej 14, Balle, 8370 Hadsten",
+					"husnummerId": "0a3f5093-b1e1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b68d6156-f69a-475a-ae9e-94f1ab8cca42",
+					"titel": "Brogårdsvej 15, Balle, 8370 Hadsten",
+					"husnummerId": "37351fd3-dae9-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0d9afe49-256a-4365-b228-74808118995f",
+					"titel": "Brogårdsvej 16, Balle, 8370 Hadsten",
+					"husnummerId": "0a3f5093-b1e2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a3a3-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 16A, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d239-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a3a4-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 16B, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d23a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d272-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 100, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "100"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d273-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 102, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "102"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-a441-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 103, 2820 Gentofte",
+					"husnummerId": "0a3f507b-d274-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d275-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 104, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "104"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507b-d276-32b8-e044-0003ba298018",
+					"titel": "Brogårdsvej 105, 2820 Gentofte",
+					"vejnavn": "Brogårdsvej",
+					"husnummer": "105"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"query": "Vestergade 41A, 2. tv, 4850 Stubbekøbing",
+	"recordedAt": "2026-07-09T19:51:51.859Z",
+	"dawa": {
+		"texts": [
+			"Vestergade 41A, 2. tv, 4850 Stubbekøbing"
+		],
+		"ids": [
+			"000021c5-e9ee-411d-b2d8-ec9161780ccd"
+		],
+		"count": 1
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=Vestergade 41A, 2. tv, 4850 Stubbekøbing": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "000021c5-e9ee-411d-b2d8-ec9161780ccd",
+					"titel": "Vestergade 41A, 2. tv, 4850 Stubbekøbing",
+					"husnummerId": "0a3f5086-e9cd-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

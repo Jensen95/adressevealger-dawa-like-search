@@ -1,0 +1,1972 @@
+{
+	"tekst": "Salatvej 11, Hf Ryhaven, 8660 Skanderborg",
+	"dawaId": "0000ee38-a966-4a72-9c34-19b0a32ad367",
+	"recordedAt": "2026-07-09T20:35:16.901Z",
+	"stages": [
+		{
+			"stage": "sala",
+			"dawa": [
+				"Salamandervej 2, 5750 Ringe",
+				"Salamandervej 6, 5750 Ringe",
+				"Salamandervej 8, 5750 Ringe",
+				"Salamandervej 10, 5750 Ringe",
+				"Salamandervej 11, 5750 Ringe",
+				"Salamandervej 12, 5750 Ringe",
+				"Salamandervej 13, 5750 Ringe",
+				"Salamandervej 15, 5750 Ringe",
+				"Salamandervej 17, 5750 Ringe",
+				"Salamandervej 19, 5750 Ringe"
+			]
+		},
+		{
+			"stage": "salatvej",
+			"dawa": [
+				"Salatvej 1, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 2, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 3, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 4, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 5, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 6, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 7, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 8, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 9, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 10, Hf Ryhaven, 8660 Skanderborg"
+			]
+		},
+		{
+			"stage": "salatvej 1",
+			"dawa": [
+				"Salatvej 1, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 10, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 11, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 12, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 13, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 14, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 15, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 16, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 17, Hf Ryhaven, 8660 Skanderborg",
+				"Salatvej 18, Hf Ryhaven, 8660 Skanderborg"
+			]
+		},
+		{
+			"stage": "salatvej 11",
+			"dawa": [
+				"Salatvej 11, Hf Ryhaven, 8660 Skanderborg"
+			]
+		},
+		{
+			"stage": "Salatvej 11, Hf Ryhaven, 8660 Skanderborg",
+			"dawa": [
+				"Salatvej 11, Hf Ryhaven, 8660 Skanderborg"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=sala": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "ea3ffa1e-8a52-4824-b3b2-40392ab49eae",
+					"type": "navngivenvejpostnummer",
+					"titel": "Salamanderparken 8260 Viby J",
+					"vejnavn": "Salamanderparken",
+					"postnr": "8260",
+					"postdistrikt": "Viby J",
+					"antal_husnumre": 179
+				},
+				{
+					"id": "bd2cd453-18f9-4835-85d1-5e11cf9b1f69",
+					"type": "navngivenvejpostnummer",
+					"titel": "Salamandervej 2880 Bagsværd",
+					"vejnavn": "Salamandervej",
+					"postnr": "2880",
+					"postdistrikt": "Bagsværd",
+					"antal_husnumre": 42
+				},
+				{
+					"id": "65e61aaa-0686-40c8-a4f1-107837be6898",
+					"type": "navngivenvejpostnummer",
+					"titel": "Salamandervej 2990 Nivå",
+					"vejnavn": "Salamandervej",
+					"postnr": "2990",
+					"postdistrikt": "Nivå",
+					"antal_husnumre": 35
+				},
+				{
+					"id": "3bd87c61-aa20-4608-99d2-80b0759188e3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Salamandervej 5750 Ringe",
+					"vejnavn": "Salamandervej",
+					"postnr": "5750",
+					"postdistrikt": "Ringe",
+					"antal_husnumre": 16
+				},
+				{
+					"id": "05781021-8a70-4e37-a566-e965ea335b22",
+					"type": "navngivenvejpostnummer",
+					"titel": "Salamandervænget 8260 Viby J",
+					"vejnavn": "Salamandervænget",
+					"postnr": "8260",
+					"postdistrikt": "Viby J",
+					"antal_husnumre": 47
+				},
+				{
+					"id": "0a915a06-7479-4c98-af2b-7be411410dc6",
+					"type": "navngivenvejpostnummer",
+					"titel": "Salatvej 8660 Skanderborg",
+					"vejnavn": "Salatvej",
+					"postnr": "8660",
+					"postdistrikt": "Skanderborg",
+					"antal_husnumre": 22
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Salamandervej 5750": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "c2d1baa4-1c69-40f7-a7b0-91d2c1464ffc",
+					"titel": "Salamandervej 2, 5750 Ringe",
+					"husnummerId": "00d81f06-ff34-4231-9210-f74df0125a07"
+				},
+				{
+					"type": "adresse",
+					"id": "79c21208-a7c5-4588-8b6a-b14e7c273c74",
+					"titel": "Salamandervej 3, Bolteskov, 5750 Ringe",
+					"husnummerId": "e698f5f9-bb19-4c7b-8adb-0066532ad0e9"
+				},
+				{
+					"type": "adresse",
+					"id": "a65f7ae6-166a-4620-b022-45bb4a4302c9",
+					"titel": "Salamandervej 4, Bolteskov, 5750 Ringe",
+					"husnummerId": "f9cdb8d0-8a4e-422b-888f-72c09e4d7444"
+				},
+				{
+					"type": "adresse",
+					"id": "cfe16af8-1c0e-4a19-b6a7-cb286e136cb6",
+					"titel": "Salamandervej 5, Bolteskov, 5750 Ringe",
+					"husnummerId": "101e5af0-f25c-4711-88de-95a09007c339"
+				},
+				{
+					"type": "adresse",
+					"id": "72f3ef39-b217-41c8-8b98-98b3eb2ebfbc",
+					"titel": "Salamandervej 6, 5750 Ringe",
+					"husnummerId": "99412182-0594-408f-a442-3fa7a4e4fa0c"
+				},
+				{
+					"type": "adresse",
+					"id": "408633c9-c566-404c-ac4f-ec95eeba5b86",
+					"titel": "Salamandervej 7, Bolteskov, 5750 Ringe",
+					"husnummerId": "e2b612dd-42ba-499f-8b20-0441528961f0"
+				},
+				{
+					"type": "adresse",
+					"id": "48adb27b-cb0d-4c33-b17e-afdbc99a8576",
+					"titel": "Salamandervej 8, 5750 Ringe",
+					"husnummerId": "f375980c-1e7f-4a40-830d-4740b8c2623b"
+				},
+				{
+					"type": "adresse",
+					"id": "64c8a6cd-737c-4449-9681-176ae60c8876",
+					"titel": "Salamandervej 9, Bolteskov, 5750 Ringe",
+					"husnummerId": "71e7be60-1667-4928-bd12-01c203c93706"
+				},
+				{
+					"type": "adresse",
+					"id": "5de94e16-acaa-4fe0-9a5b-12330c286593",
+					"titel": "Salamandervej 10, 5750 Ringe",
+					"husnummerId": "5077d38d-9b4e-4e69-82e6-cf5a55284353"
+				},
+				{
+					"type": "adresse",
+					"id": "46ea8972-4807-4eb5-9615-9c6fd1c83424",
+					"titel": "Salamandervej 11, 5750 Ringe",
+					"husnummerId": "d9d16b1d-8dee-4461-bff2-2a34e4f9d257"
+				},
+				{
+					"type": "adresse",
+					"id": "ab844004-7cf7-4660-aaa7-d55d982aa231",
+					"titel": "Salamandervej 12, 5750 Ringe",
+					"husnummerId": "78b42f5e-861a-46f6-acb2-f5daede83a17"
+				},
+				{
+					"type": "adresse",
+					"id": "91aa8a61-27bc-4eb1-9016-9e06d2c74356",
+					"titel": "Salamandervej 13, 5750 Ringe",
+					"husnummerId": "8992bfa1-f719-4675-b01c-b2b402d0e5fd"
+				},
+				{
+					"type": "adresse",
+					"id": "10c17e62-4f83-47f9-ac79-79a203bb9f6b",
+					"titel": "Salamandervej 15, 5750 Ringe",
+					"husnummerId": "0048a074-e158-454b-97a8-731f4f1ff92a"
+				},
+				{
+					"type": "adresse",
+					"id": "69003ac3-1f17-480f-ad6a-6ea185daa40e",
+					"titel": "Salamandervej 17, 5750 Ringe",
+					"husnummerId": "de4c064d-b2f1-4acd-8a0c-a3674e85af74"
+				},
+				{
+					"type": "adresse",
+					"id": "ba734324-4b00-4b07-8652-6df7815c4ae9",
+					"titel": "Salamandervej 19, 5750 Ringe",
+					"husnummerId": "5a08ee06-0e21-491a-84cc-d19b8e9ae46a"
+				},
+				{
+					"type": "adresse",
+					"id": "f340de9a-b125-4e49-9037-d630cb82db92",
+					"titel": "Salamandervej 21, 5750 Ringe",
+					"husnummerId": "56984e9b-a561-4c19-999b-14dd6269174a"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Salamandervænget 8260": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "b67d4af3-c61f-4acd-8671-994af5b8ad28",
+					"titel": "Salamandervænget 1, Stavtrup, 8260 Viby J",
+					"husnummerId": "eb98c23e-9195-424c-a89d-a64af3b479f5"
+				},
+				{
+					"type": "adresse",
+					"id": "a536a008-f227-4be9-8b32-5ae488f454fe",
+					"titel": "Salamandervænget 2, Stavtrup, 8260 Viby J",
+					"husnummerId": "87788756-c6ed-49af-94e2-0f41c1a5b673"
+				},
+				{
+					"type": "adresse",
+					"id": "060a9ac7-594b-4adf-9fd4-f1f08195a629",
+					"titel": "Salamandervænget 2A, Stavtrup, 8260 Viby J",
+					"husnummerId": "bb5ab6c8-aa24-44e0-813d-106c9a76b57a"
+				},
+				{
+					"type": "adresse",
+					"id": "08a055ab-826a-4103-89a0-861dba3bea7f",
+					"titel": "Salamandervænget 3, Stavtrup, 8260 Viby J",
+					"husnummerId": "75ddceeb-44d9-4689-a7ac-adcb2badeff1"
+				},
+				{
+					"type": "adresse",
+					"id": "ccd78d8b-1458-470b-9e7f-0bd974d7fb7a",
+					"titel": "Salamandervænget 4, Stavtrup, 8260 Viby J",
+					"husnummerId": "3d859616-e15a-40f0-b139-76dad13813ec"
+				},
+				{
+					"type": "adresse",
+					"id": "ed152318-fe70-4d8b-a588-a0ecc0c0e5dc",
+					"titel": "Salamandervænget 5, Stavtrup, 8260 Viby J",
+					"husnummerId": "901a48ea-7177-4754-925a-6435a497266c"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-adc7-32b8-e044-0003ba298018",
+					"titel": "Salamandervænget 6, Stavtrup, 8260 Viby J",
+					"vejnavn": "Salamandervænget",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-d329-32b8-e044-0003ba298018",
+					"titel": "Salamandervænget 7, Stavtrup, 8260 Viby J",
+					"husnummerId": "0a3f5096-adc5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f884c74b-3a5c-4566-84dd-88bcc361d03b",
+					"titel": "Salamandervænget 8, Stavtrup, 8260 Viby J",
+					"husnummerId": "46eeac1b-b140-48a5-8adf-10d7358d5576"
+				},
+				{
+					"type": "adresse",
+					"id": "e2cd6345-8d59-4692-ba70-cf3b8cf82281",
+					"titel": "Salamandervænget 9, Stavtrup, 8260 Viby J",
+					"husnummerId": "9ed0426c-8f10-4c67-8122-12d998d27725"
+				},
+				{
+					"type": "adresse",
+					"id": "5e0d0fb4-0e02-4bab-821f-15f666619ec0",
+					"titel": "Salamandervænget 9A, Stavtrup, 8260 Viby J",
+					"husnummerId": "0d78d521-abef-4fe7-b429-02640b462e6a"
+				},
+				{
+					"type": "adresse",
+					"id": "152e8c57-aa93-4f91-a1d2-79ac1fd97660",
+					"titel": "Salamandervænget 10, Stavtrup, 8260 Viby J",
+					"husnummerId": "cc9a4c99-59d3-45e6-b393-60c4bbe12c2c"
+				},
+				{
+					"type": "husnummer",
+					"id": "cfc9f258-70e8-41cc-b8d6-abf0a2c13314",
+					"titel": "Salamandervænget 11, Stavtrup, 8260 Viby J",
+					"vejnavn": "Salamandervænget",
+					"husnummer": "11"
+				},
+				{
+					"type": "adresse",
+					"id": "c1c341f7-be45-4aae-8326-ecf390cea62f",
+					"titel": "Salamandervænget 12, Stavtrup, 8260 Viby J",
+					"husnummerId": "e481d895-3567-4d2e-8f87-f159012c4166"
+				},
+				{
+					"type": "adresse",
+					"id": "290e4ecb-2a67-4f48-985f-bc4adb4f2701",
+					"titel": "Salamandervænget 13, Stavtrup, 8260 Viby J",
+					"husnummerId": "4bd62bfa-a6c9-4e20-8617-0bf7768bf6ef"
+				},
+				{
+					"type": "adresse",
+					"id": "1f2cdfe6-1ab8-4281-8cef-a1f2ca9c5042",
+					"titel": "Salamandervænget 14, Stavtrup, 8260 Viby J",
+					"husnummerId": "42fb8709-b4be-4460-830f-f09618fc48c7"
+				},
+				{
+					"type": "adresse",
+					"id": "87df9838-9dc5-41b0-9963-e7d3af8682a7",
+					"titel": "Salamandervænget 15, Stavtrup, 8260 Viby J",
+					"husnummerId": "be903eac-9e66-4d95-93a9-38d98d92662c"
+				},
+				{
+					"type": "adresse",
+					"id": "f4203277-6813-4084-961d-e1ca1cfd47eb",
+					"titel": "Salamandervænget 16, Stavtrup, 8260 Viby J",
+					"husnummerId": "473354c6-1648-4414-bac3-8c51df2e4bd3"
+				},
+				{
+					"type": "adresse",
+					"id": "8659f318-1513-4b4b-aa6a-460a334c554e",
+					"titel": "Salamandervænget 17, Stavtrup, 8260 Viby J",
+					"husnummerId": "0a3f5096-adc3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bb20f9fc-c262-4d47-a9ab-f78172c4216d",
+					"titel": "Salamandervænget 18, Stavtrup, 8260 Viby J",
+					"husnummerId": "ee3d98bc-9aef-4b28-bd92-3218f77c36eb"
+				},
+				{
+					"type": "adresse",
+					"id": "7050b7af-adcc-4e31-a67a-593c7e92abfa",
+					"titel": "Salamandervænget 19, Stavtrup, 8260 Viby J",
+					"husnummerId": "5b7fac9d-588e-4213-bba3-58b83c987368"
+				},
+				{
+					"type": "adresse",
+					"id": "ae4a2f6e-b33b-4fa3-bc1a-b081ccdeb4d1",
+					"titel": "Salamandervænget 20, Stavtrup, 8260 Viby J",
+					"husnummerId": "8bb7f5bf-5cde-4aae-aa8d-6114c60772bf"
+				},
+				{
+					"type": "adresse",
+					"id": "d74aa53b-0316-44ad-b856-caef435961a0",
+					"titel": "Salamandervænget 22, Stavtrup, 8260 Viby J",
+					"husnummerId": "745935cf-d01d-4e8a-b4ee-c7000f8fc936"
+				},
+				{
+					"type": "adresse",
+					"id": "cd21f9af-81c3-4136-a2df-ab7e33591a58",
+					"titel": "Salamandervænget 42, Stavtrup, 8260 Viby J",
+					"husnummerId": "5a64d2d0-72b0-4444-b956-8eb720b0dfb0"
+				},
+				{
+					"type": "adresse",
+					"id": "9c092066-5f97-41e5-bafa-6e3b446aa1b7",
+					"titel": "Salamandervænget 44, Stavtrup, 8260 Viby J",
+					"husnummerId": "1b17325e-ca02-4db4-bf73-ce58d02afc71"
+				},
+				{
+					"type": "adresse",
+					"id": "b77acbb4-f19d-4bec-980d-338bbd67da85",
+					"titel": "Salamandervænget 46, Stavtrup, 8260 Viby J",
+					"husnummerId": "235adb58-83c5-4bc6-8c45-dba9c4a368ff"
+				},
+				{
+					"type": "adresse",
+					"id": "9ceaa673-2738-456a-87b5-f8862c16b090",
+					"titel": "Salamandervænget 48, Stavtrup, 8260 Viby J",
+					"husnummerId": "d9f09238-cd28-4ca4-af68-0a8dc3562302"
+				},
+				{
+					"type": "adresse",
+					"id": "c188e910-07a7-4456-956b-739cd1132196",
+					"titel": "Salamandervænget 50, Stavtrup, 8260 Viby J",
+					"husnummerId": "17124aa9-65ec-472c-be68-497ef1de9ae1"
+				},
+				{
+					"type": "adresse",
+					"id": "389e7e88-e213-4aa3-b0cb-ded523b6aed7",
+					"titel": "Salamandervænget 52, Stavtrup, 8260 Viby J",
+					"husnummerId": "57b32246-2f61-4937-83ff-a6ea4f7c9640"
+				},
+				{
+					"type": "adresse",
+					"id": "302a3c9b-f63b-4253-ae11-72e4981a9300",
+					"titel": "Salamandervænget 54, Stavtrup, 8260 Viby J",
+					"husnummerId": "e544496b-3e48-49ca-8cbd-31e6c79ee6d5"
+				},
+				{
+					"type": "adresse",
+					"id": "a99b0e26-d4b6-4496-ac07-d1526dfa2cfd",
+					"titel": "Salamandervænget 56, Stavtrup, 8260 Viby J",
+					"husnummerId": "2b017791-1d82-4633-8262-c81070017bfb"
+				},
+				{
+					"type": "adresse",
+					"id": "f8d187be-5bd0-43ba-b7c6-281ed4049069",
+					"titel": "Salamandervænget 58, Stavtrup, 8260 Viby J",
+					"husnummerId": "732c238f-5f06-4fad-bf8d-a08700bdef50"
+				},
+				{
+					"type": "adresse",
+					"id": "82671036-17a1-40cd-93fe-508c3f521f0c",
+					"titel": "Salamandervænget 60, Stavtrup, 8260 Viby J",
+					"husnummerId": "c9b5eef9-ff1c-498c-b402-1cb373a53ba0"
+				},
+				{
+					"type": "adresse",
+					"id": "53c5a2ec-d21f-4991-b2c0-925f2accd739",
+					"titel": "Salamandervænget 62, Stavtrup, 8260 Viby J",
+					"husnummerId": "715510fa-a535-4b1a-91ef-15cefd05f353"
+				},
+				{
+					"type": "adresse",
+					"id": "fc468f0c-8ce9-4f31-9e3f-8409d11186b7",
+					"titel": "Salamandervænget 64, Stavtrup, 8260 Viby J",
+					"husnummerId": "b266f3d1-61b5-4e69-95c6-901cc05721cf"
+				},
+				{
+					"type": "adresse",
+					"id": "e42ae4e4-d6a4-4e48-bbcc-c408c0fcdcb0",
+					"titel": "Salamandervænget 66, Stavtrup, 8260 Viby J",
+					"husnummerId": "6048614f-b058-4d8b-adc0-fbae5d37f02e"
+				},
+				{
+					"type": "adresse",
+					"id": "35975108-1719-46fc-b7d4-444a50b7f6c7",
+					"titel": "Salamandervænget 68, Stavtrup, 8260 Viby J",
+					"husnummerId": "f725df60-1447-4020-bffd-b4cf833958fa"
+				},
+				{
+					"type": "adresse",
+					"id": "f3dae7fa-0c2b-45f9-8aad-84164a62a5ac",
+					"titel": "Salamandervænget 70, Stavtrup, 8260 Viby J",
+					"husnummerId": "d2c7cca9-b012-4fbe-aa9a-2d4bce6b49d4"
+				},
+				{
+					"type": "adresse",
+					"id": "9b33bfe9-8cf3-4cef-83ba-c57459488100",
+					"titel": "Salamandervænget 72, Stavtrup, 8260 Viby J",
+					"husnummerId": "6b24d171-b272-4f0b-bbfd-7d3054332042"
+				},
+				{
+					"type": "adresse",
+					"id": "10b80d6d-6ed4-4d86-92af-dcde39222e72",
+					"titel": "Salamandervænget 74, Stavtrup, 8260 Viby J",
+					"husnummerId": "a75d4907-5b05-4128-ad88-3b3b128b3527"
+				},
+				{
+					"type": "adresse",
+					"id": "60da732e-8b97-4921-bf5f-5aa445128f33",
+					"titel": "Salamandervænget 76, Stavtrup, 8260 Viby J",
+					"husnummerId": "e059ae36-5b68-471d-b701-dcf4e66db39b"
+				},
+				{
+					"type": "adresse",
+					"id": "6091c037-242e-4cdc-a084-9e4345d1ef7e",
+					"titel": "Salamandervænget 78, Stavtrup, 8260 Viby J",
+					"husnummerId": "0b8227d1-1e0e-4259-8280-a56c3fe6a682"
+				},
+				{
+					"type": "adresse",
+					"id": "f7df0670-a510-4f66-89b8-dc7693f97ecc",
+					"titel": "Salamandervænget 80, Stavtrup, 8260 Viby J",
+					"husnummerId": "ef52ca79-aa97-4fc6-91b8-9213b0423831"
+				},
+				{
+					"type": "adresse",
+					"id": "3f466814-e2a3-485d-85ff-110569651327",
+					"titel": "Salamandervænget 82, Stavtrup, 8260 Viby J",
+					"husnummerId": "01bf95b4-2750-466a-a823-bc5cfa4f01de"
+				},
+				{
+					"type": "adresse",
+					"id": "1567cebd-874b-4fba-8fef-d81937110d80",
+					"titel": "Salamandervænget 84, Stavtrup, 8260 Viby J",
+					"husnummerId": "f12a96a3-d8af-4079-a10c-f66e118251d5"
+				},
+				{
+					"type": "adresse",
+					"id": "f86ab463-2a95-4734-ac52-673382667bad",
+					"titel": "Salamandervænget 86, Stavtrup, 8260 Viby J",
+					"husnummerId": "dc343630-bf52-48d3-957b-d8b68537bfae"
+				},
+				{
+					"type": "adresse",
+					"id": "c407e34b-8777-49fb-9711-bd33c7b86566",
+					"titel": "Salamandervænget 88, Stavtrup, 8260 Viby J",
+					"husnummerId": "6c401320-0e3a-4719-8bf9-f4da9bdfa265"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Salatvej 8660": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "2986269f-9061-4d5c-a543-2eaa245561ad",
+					"titel": "Salatvej 1, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "82bae99d-f729-4ddb-8ff2-5e341d86aca7"
+				},
+				{
+					"type": "adresse",
+					"id": "d1164347-bfb0-4834-a3a9-554ca2b510de",
+					"titel": "Salatvej 2, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "40ebad94-9ace-4cf8-b32e-4cab7a5ab7f3"
+				},
+				{
+					"type": "adresse",
+					"id": "2420b9e3-601e-45c2-a213-30406271885e",
+					"titel": "Salatvej 3, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "e2c68b98-333e-432e-8ed5-40463331556f"
+				},
+				{
+					"type": "adresse",
+					"id": "4743f790-cdda-426e-8439-a6ce816d2aa6",
+					"titel": "Salatvej 4, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "4a76a0aa-75e4-4c77-a970-2c60baae4364"
+				},
+				{
+					"type": "adresse",
+					"id": "0b061dd8-4f01-40c7-b553-43ca1bfb096d",
+					"titel": "Salatvej 5, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "60313a2b-3f8a-4137-92f8-029994ad929b"
+				},
+				{
+					"type": "adresse",
+					"id": "b23051c9-484b-4951-9112-9bf5b44c123e",
+					"titel": "Salatvej 6, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "231746fc-550e-4435-8b0a-e68c759a832f"
+				},
+				{
+					"type": "adresse",
+					"id": "bab5f898-9b79-4ec1-b609-5f18ae7e6000",
+					"titel": "Salatvej 7, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "11712e15-1988-477e-8cf8-f6e6c3b0605b"
+				},
+				{
+					"type": "adresse",
+					"id": "1932769a-7b03-42f4-a31a-7391204d24eb",
+					"titel": "Salatvej 8, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "5d4774cc-7668-4262-9fef-3752269cf25c"
+				},
+				{
+					"type": "adresse",
+					"id": "80beb768-9d59-4943-9d3a-e1aadd4d1f66",
+					"titel": "Salatvej 9, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "712936a6-dc1e-4813-82a8-4e0d15f78ae3"
+				},
+				{
+					"type": "adresse",
+					"id": "0d7037da-4b09-431a-bce8-c985dcdadceb",
+					"titel": "Salatvej 10, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "29c7dcf0-c88b-4eb9-94e7-59449de3fd87"
+				},
+				{
+					"type": "adresse",
+					"id": "0000ee38-a966-4a72-9c34-19b0a32ad367",
+					"titel": "Salatvej 11, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "0f154efc-7c4e-4fa6-9bdb-efd6f1367034"
+				},
+				{
+					"type": "adresse",
+					"id": "14b0cccd-0952-4ab3-98a3-099a33aa1512",
+					"titel": "Salatvej 12, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "02bf400d-643a-478a-ad9f-555eb620768a"
+				},
+				{
+					"type": "adresse",
+					"id": "864eca7f-a2f2-4475-acbd-92bbdb7588fe",
+					"titel": "Salatvej 13, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "3cacc28a-4664-458d-932f-ab6dc36c4dfc"
+				},
+				{
+					"type": "adresse",
+					"id": "125366b3-b1c0-4cd1-94b7-e031bf26feba",
+					"titel": "Salatvej 14, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "a0ebc04c-16ca-4bc8-a23b-8bc25a5dbd73"
+				},
+				{
+					"type": "adresse",
+					"id": "057983c5-cfac-4f40-a6df-5a81f4f58842",
+					"titel": "Salatvej 15, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "8041ad07-9695-47b4-8d3e-bffc9dbe0a52"
+				},
+				{
+					"type": "adresse",
+					"id": "c038b48b-8e36-4553-b951-50d1da8aace0",
+					"titel": "Salatvej 16, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "d3078a88-fa3f-44e7-b221-f3346c96b19e"
+				},
+				{
+					"type": "adresse",
+					"id": "d180bdf1-f560-4312-aeeb-7d32bee89ba1",
+					"titel": "Salatvej 17, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "e4a2b15e-28fc-4304-a757-e272e3d79a8f"
+				},
+				{
+					"type": "adresse",
+					"id": "e0cfdb35-2ecb-428e-95ad-83fd17f37658",
+					"titel": "Salatvej 18, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "d4577969-bdb0-4265-90cb-a3c7a2271759"
+				},
+				{
+					"type": "adresse",
+					"id": "4440b4db-b141-43f8-aeb6-469cd98871ec",
+					"titel": "Salatvej 19, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "063f03d2-86cf-4d5b-96f9-52036741ce53"
+				},
+				{
+					"type": "adresse",
+					"id": "22e992f4-6b68-481f-bebd-0194ad441b5a",
+					"titel": "Salatvej 20, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "7e6964ed-a3c4-4cf2-8a07-8c2159951ea1"
+				},
+				{
+					"type": "adresse",
+					"id": "d9372f62-1e34-412c-a640-1f1e48bbc26e",
+					"titel": "Salatvej 21, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "fd32cffd-2a6a-4f80-a809-364b482dfb55"
+				},
+				{
+					"type": "adresse",
+					"id": "ea167b3b-bdc8-42b3-8265-f31b993f98be",
+					"titel": "Salatvej 22, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "24591925-84d7-41a1-9343-77b308219c56"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Salamandervej 2880": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80a5-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 4, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-449a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80a6-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 5, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-449b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80a7-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 6, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-449c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80a8-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 7, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-449d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80a9-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 8, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-449e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80aa-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 9, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-449f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80ab-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 10, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80ac-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 11, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80ad-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 12, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80ae-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 13, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80af-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 14, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b0-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 15, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b1-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 16, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b2-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 18, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b3-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 20, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b4-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 22, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b5-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 24, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b6-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 26, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b7-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 28, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b8-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 30, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80b9-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 32, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80ba-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 34, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80bb-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 36, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80bc-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 38, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80bd-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 40, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80be-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 42, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80bf-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 44, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c0-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 46, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c1-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 48, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c2-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 50, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c3-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 52, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c4-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 54, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c5-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 56, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c6-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 58, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c7-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 60, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c8-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 62, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80c9-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 64, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80ca-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 66, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80cb-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 68, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80cc-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 70, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80cd-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 72, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a4-80ce-32b8-e044-0003ba298018",
+					"titel": "Salamandervej 74, 2880 Bagsværd",
+					"husnummerId": "0a3f507c-44c3-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Salamandervej 2990": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "c9a74ace-f33f-4da8-a34a-671a88a60b37",
+					"titel": "Salamandervej 1, Niverød, 2990 Nivå",
+					"husnummerId": "8a79a76a-87b1-4bdd-8519-f1ac2a538f65"
+				},
+				{
+					"type": "adresse",
+					"id": "5c2af3d8-a3fa-4d21-9d3d-feb5ac0b0bfe",
+					"titel": "Salamandervej 2, Niverød, 2990 Nivå",
+					"husnummerId": "f518a35d-b0b8-4600-bbca-3d2de496e46d"
+				},
+				{
+					"type": "husnummer",
+					"id": "ec4b44e5-c997-4a8a-9eac-2a09583e1b3c",
+					"titel": "Salamandervej 3, Niverød, 2990 Nivå",
+					"vejnavn": "Salamandervej",
+					"husnummer": "3"
+				},
+				{
+					"type": "adresse",
+					"id": "df94a0be-389c-40a3-9ddb-f943bad98ea9",
+					"titel": "Salamandervej 4, Niverød, 2990 Nivå",
+					"husnummerId": "98f55ef7-d342-432c-979e-e1d58db81b53"
+				},
+				{
+					"type": "adresse",
+					"id": "b07a0eae-1be7-4928-a5bd-630558f2d712",
+					"titel": "Salamandervej 5, Niverød, 2990 Nivå",
+					"husnummerId": "77b9d791-5e33-4d2f-93f6-a17243849799"
+				},
+				{
+					"type": "adresse",
+					"id": "28085a5b-2e42-494e-a25c-31c5b8a59ab6",
+					"titel": "Salamandervej 6, Niverød, 2990 Nivå",
+					"husnummerId": "0f25625b-a012-4361-b639-df71152ad79f"
+				},
+				{
+					"type": "adresse",
+					"id": "f75afcb8-6d39-417f-b628-f2174430aa99",
+					"titel": "Salamandervej 7, Niverød, 2990 Nivå",
+					"husnummerId": "80b3b024-a6ca-4434-ab5a-5938c5878b1e"
+				},
+				{
+					"type": "adresse",
+					"id": "95e3177c-f84b-4aeb-860a-3030b2c3741b",
+					"titel": "Salamandervej 8, Niverød, 2990 Nivå",
+					"husnummerId": "b2bdbd8d-449a-4889-ae1f-4523264d2fcc"
+				},
+				{
+					"type": "adresse",
+					"id": "34c5add4-e230-4f52-b5d3-b382957075ca",
+					"titel": "Salamandervej 9, Niverød, 2990 Nivå",
+					"husnummerId": "20b18583-18ae-4cb9-a5cd-bd9443cf2a1b"
+				},
+				{
+					"type": "adresse",
+					"id": "f26648a0-00a8-4433-8779-db35799113c9",
+					"titel": "Salamandervej 10, Niverød, 2990 Nivå",
+					"husnummerId": "625418f3-8c11-42b8-ab00-d9f763d73c7c"
+				},
+				{
+					"type": "adresse",
+					"id": "a27aee31-1cd2-4e63-879e-dfde1a71d0bd",
+					"titel": "Salamandervej 11, Niverød, 2990 Nivå",
+					"husnummerId": "788ec747-9d26-45dc-b35e-8bc3ab51847d"
+				},
+				{
+					"type": "adresse",
+					"id": "09262922-1470-41f1-976a-6d5f75869674",
+					"titel": "Salamandervej 12, Niverød, 2990 Nivå",
+					"husnummerId": "e390eb9e-176b-4967-8d9e-f578e26945e7"
+				},
+				{
+					"type": "adresse",
+					"id": "84ab02d6-49c7-4fde-ba5a-6c22b4c47872",
+					"titel": "Salamandervej 13, Niverød, 2990 Nivå",
+					"husnummerId": "1e9353db-b246-4ef8-85d0-3405396b8fc5"
+				},
+				{
+					"type": "adresse",
+					"id": "8a56435b-c4dd-4901-890c-1fff5a804aa9",
+					"titel": "Salamandervej 14, Niverød, 2990 Nivå",
+					"husnummerId": "7bc1528a-c69b-43e7-a115-f7f7def73057"
+				},
+				{
+					"type": "adresse",
+					"id": "8d8c9827-30cf-4fad-9aaa-1692594cb57f",
+					"titel": "Salamandervej 15, Niverød, 2990 Nivå",
+					"husnummerId": "b60c69b9-b5f2-4bb4-8dd3-dcc09550dbec"
+				},
+				{
+					"type": "adresse",
+					"id": "8c1e07fd-ed30-4334-b3d2-165c4eaa12d3",
+					"titel": "Salamandervej 16, Niverød, 2990 Nivå",
+					"husnummerId": "765df421-6bb2-40c6-afe1-ede5f7ffe4b9"
+				},
+				{
+					"type": "adresse",
+					"id": "0ebc4b75-4653-4a1b-899e-5497976104bb",
+					"titel": "Salamandervej 17, Niverød, 2990 Nivå",
+					"husnummerId": "ab41aa48-7a9b-4e50-8997-3dfb3fc81473"
+				},
+				{
+					"type": "adresse",
+					"id": "4dea5f30-3290-45cb-930c-9f7b52ce8b77",
+					"titel": "Salamandervej 18, Niverød, 2990 Nivå",
+					"husnummerId": "940d528c-ee4f-43ed-a65c-f5c753dc402c"
+				},
+				{
+					"type": "adresse",
+					"id": "c5e8b9d2-ec38-48cf-8914-8bcb845d7555",
+					"titel": "Salamandervej 19, Niverød, 2990 Nivå",
+					"husnummerId": "cf988e7b-3022-45fe-9658-1cd4213e14d9"
+				},
+				{
+					"type": "adresse",
+					"id": "940c3886-fd96-4b0e-8a7d-4aee1b4e0a72",
+					"titel": "Salamandervej 20, Niverød, 2990 Nivå",
+					"husnummerId": "9159433b-1ecd-441e-b524-71a20c857fc5"
+				},
+				{
+					"type": "adresse",
+					"id": "d3a7a86c-54af-4b7b-970c-197281cbcf50",
+					"titel": "Salamandervej 21, Niverød, 2990 Nivå",
+					"husnummerId": "3d5ecb13-59fe-4e25-8536-583481e5aa9f"
+				},
+				{
+					"type": "adresse",
+					"id": "da4638c1-362d-44d5-9805-8dd052fec4f8",
+					"titel": "Salamandervej 22, Niverød, 2990 Nivå",
+					"husnummerId": "cf03dc7f-0de8-48e5-adcd-47f710d14e89"
+				},
+				{
+					"type": "adresse",
+					"id": "dfc2918c-51ca-410d-9618-4194e8ef0326",
+					"titel": "Salamandervej 23, Niverød, 2990 Nivå",
+					"husnummerId": "c7ca7fac-497b-422d-8423-97e671ad91aa"
+				},
+				{
+					"type": "adresse",
+					"id": "f5c5f916-48fb-43b7-9671-7b0833910eba",
+					"titel": "Salamandervej 24, Niverød, 2990 Nivå",
+					"husnummerId": "c08a8bec-6e17-4057-a632-96a7326d40c5"
+				},
+				{
+					"type": "adresse",
+					"id": "09b690c6-1863-4a4c-af8a-9b5b730a17d3",
+					"titel": "Salamandervej 25, Niverød, 2990 Nivå",
+					"husnummerId": "d83af404-c4bf-4484-85e4-57ada7aa5260"
+				},
+				{
+					"type": "adresse",
+					"id": "cb20630c-093d-4d35-a8ed-53c7b3f9d6ac",
+					"titel": "Salamandervej 26, Niverød, 2990 Nivå",
+					"husnummerId": "2652d337-f78f-44ad-9091-0e11612d58d0"
+				},
+				{
+					"type": "adresse",
+					"id": "4f241df5-6ca1-499f-8545-281b24e45c62",
+					"titel": "Salamandervej 27, Niverød, 2990 Nivå",
+					"husnummerId": "979a0c27-66ed-48c2-b5d6-92e88e9d1be3"
+				},
+				{
+					"type": "adresse",
+					"id": "358f4aed-18a9-4e5f-adc4-46e8c92ae26a",
+					"titel": "Salamandervej 28, Niverød, 2990 Nivå",
+					"husnummerId": "f093f3ca-55ca-479a-88c8-72dc643847e1"
+				},
+				{
+					"type": "adresse",
+					"id": "aff1d568-e334-4d00-b79d-096ab84917f9",
+					"titel": "Salamandervej 30, Niverød, 2990 Nivå",
+					"husnummerId": "bf9a1927-b164-456b-a2bc-6240ef90a924"
+				},
+				{
+					"type": "adresse",
+					"id": "6e0cc476-905e-4054-ad84-631ca878ddb4",
+					"titel": "Salamandervej 32, Niverød, 2990 Nivå",
+					"husnummerId": "991ded26-2780-4348-8e87-a1f3be6866d1"
+				},
+				{
+					"type": "adresse",
+					"id": "6a4c4728-ef1e-4438-9f0a-329ae4833812",
+					"titel": "Salamandervej 34, Niverød, 2990 Nivå",
+					"husnummerId": "9764c756-989f-4c6e-b761-79396d71fef3"
+				},
+				{
+					"type": "adresse",
+					"id": "89b8e509-fc32-45b3-a989-87ac68c9fa97",
+					"titel": "Salamandervej 36, Niverød, 2990 Nivå",
+					"husnummerId": "92b9ffec-f279-4c0d-8970-51a22b2e3d6b"
+				},
+				{
+					"type": "adresse",
+					"id": "bd94c61d-c7fd-45f0-a28a-baf39637cffc",
+					"titel": "Salamandervej 38, Niverød, 2990 Nivå",
+					"husnummerId": "4b3a9aaa-ada1-46d4-9c81-b0b7f40ad9d9"
+				},
+				{
+					"type": "husnummer",
+					"id": "f5e36de5-77c8-4b32-9052-218b75f95e43",
+					"titel": "Salamandervej 40, Niverød, 2990 Nivå",
+					"vejnavn": "Salamandervej",
+					"husnummer": "40"
+				},
+				{
+					"type": "adresse",
+					"id": "56a6f27d-b1b7-41a1-b503-151059d08642",
+					"titel": "Salamandervej 99X, Niverød, 2990 Nivå",
+					"husnummerId": "509d60cf-cc82-4c0a-bc96-68a07dbb52d3"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Salamanderparken 8260": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "f5f1248c-1f97-4b9f-83d5-046a98dbcb03",
+					"titel": "Salamanderparken 2, Stavtrup, 8260 Viby J",
+					"husnummerId": "f76708a7-3343-47a2-8def-43a54ff924f4"
+				},
+				{
+					"type": "adresse",
+					"id": "2ae4d068-5421-4504-bd6a-18247e607756",
+					"titel": "Salamanderparken 4, Stavtrup, 8260 Viby J",
+					"husnummerId": "f16e8038-d7b0-48a3-b5d8-7404d3be88e2"
+				},
+				{
+					"type": "adresse",
+					"id": "f92e289d-7137-4788-b757-2fcfbdfd3621",
+					"titel": "Salamanderparken 6, Stavtrup, 8260 Viby J",
+					"husnummerId": "c9f6d733-0414-4228-9263-3e565a32ca49"
+				},
+				{
+					"type": "adresse",
+					"id": "4e455b8c-783e-4bf2-b72f-7f095379a8a5",
+					"titel": "Salamanderparken 8, Stavtrup, 8260 Viby J",
+					"husnummerId": "04b51363-b117-4e60-aff7-a95ca6e9f56e"
+				},
+				{
+					"type": "adresse",
+					"id": "9c70a71d-c1f6-4b4a-8923-7910043da32c",
+					"titel": "Salamanderparken 10, Stavtrup, 8260 Viby J",
+					"husnummerId": "3ab973e4-f030-48d9-aa41-ad63315c0e5f"
+				},
+				{
+					"type": "adresse",
+					"id": "4e4a9e59-5e60-4d74-a282-f39014e91a80",
+					"titel": "Salamanderparken 12, Stavtrup, 8260 Viby J",
+					"husnummerId": "24aa0690-4d70-4d38-b0a5-e73b9c461c04"
+				},
+				{
+					"type": "adresse",
+					"id": "db092c77-7064-41b2-be82-b0fd1e48566a",
+					"titel": "Salamanderparken 14, Stavtrup, 8260 Viby J",
+					"husnummerId": "709b84e2-8ec8-4a28-bcec-62f1ce336392"
+				},
+				{
+					"type": "adresse",
+					"id": "aaeb44e7-f167-4574-9a40-e342f4362b4d",
+					"titel": "Salamanderparken 16, Stavtrup, 8260 Viby J",
+					"husnummerId": "963db292-e704-47d2-827d-7226691edee5"
+				},
+				{
+					"type": "adresse",
+					"id": "f6c819e0-52dc-409f-bf9c-9585bf59e939",
+					"titel": "Salamanderparken 18, Stavtrup, 8260 Viby J",
+					"husnummerId": "226be27e-1664-4a77-81a6-22ba0d115cfb"
+				},
+				{
+					"type": "adresse",
+					"id": "875d4db2-499b-4f6b-9c62-f111f8a84227",
+					"titel": "Salamanderparken 20, Stavtrup, 8260 Viby J",
+					"husnummerId": "89ded632-bdb8-495b-b71f-6ea22432a7b9"
+				},
+				{
+					"type": "adresse",
+					"id": "baecb3e2-ef4a-4ae1-8224-9b764cd6b542",
+					"titel": "Salamanderparken 22, Stavtrup, 8260 Viby J",
+					"husnummerId": "dd87b6fa-b4a3-4656-b503-75de236c3c1f"
+				},
+				{
+					"type": "adresse",
+					"id": "4bc4a16d-f0d5-4973-b724-1c7fed41387e",
+					"titel": "Salamanderparken 24, Stavtrup, 8260 Viby J",
+					"husnummerId": "7029977e-0027-44cb-8311-141857dc579f"
+				},
+				{
+					"type": "adresse",
+					"id": "eaef968e-2e15-4293-ae6b-14588373096e",
+					"titel": "Salamanderparken 26, Stavtrup, 8260 Viby J",
+					"husnummerId": "0f2da15f-4241-4558-9926-1f5f20cac31c"
+				},
+				{
+					"type": "adresse",
+					"id": "a4c3a230-8e5b-49fb-93d7-82f598ee674b",
+					"titel": "Salamanderparken 28, Stavtrup, 8260 Viby J",
+					"husnummerId": "d924d138-3b2b-47be-8a18-7d9630bd2791"
+				},
+				{
+					"type": "adresse",
+					"id": "59269ea2-0605-4ce7-95a4-2c1417b8ee22",
+					"titel": "Salamanderparken 30, Stavtrup, 8260 Viby J",
+					"husnummerId": "02f45168-17fa-4194-bdbd-bee96da34012"
+				},
+				{
+					"type": "adresse",
+					"id": "776d49b7-c443-4d67-b174-9accb57201e9",
+					"titel": "Salamanderparken 32, Stavtrup, 8260 Viby J",
+					"husnummerId": "6f297b76-0670-49f5-aa45-4c37ff3b73ca"
+				},
+				{
+					"type": "adresse",
+					"id": "0647e1e3-522e-4dc7-9fd6-34bb1ccb8b2a",
+					"titel": "Salamanderparken 34, Stavtrup, 8260 Viby J",
+					"husnummerId": "1c9725b9-f826-400d-b3af-6d29bfe889b9"
+				},
+				{
+					"type": "adresse",
+					"id": "3a5f93ff-aef4-45d8-8d14-06f5ef03c37f",
+					"titel": "Salamanderparken 36, Stavtrup, 8260 Viby J",
+					"husnummerId": "24147365-2100-4d9c-affb-fad593723720"
+				},
+				{
+					"type": "adresse",
+					"id": "f66c3b1c-8626-4d2f-bc83-0d87c9c2e4f0",
+					"titel": "Salamanderparken 38, Stavtrup, 8260 Viby J",
+					"husnummerId": "339c8700-f806-4208-8c27-41233d969058"
+				},
+				{
+					"type": "adresse",
+					"id": "0bbe9039-1d98-472d-a1bd-b24b68f4360c",
+					"titel": "Salamanderparken 40, Stavtrup, 8260 Viby J",
+					"husnummerId": "d8040282-0d37-41e0-955b-b62ffae3820f"
+				},
+				{
+					"type": "adresse",
+					"id": "10ac4a92-aeec-4e30-a4c8-fee543a6c2fa",
+					"titel": "Salamanderparken 42, Stavtrup, 8260 Viby J",
+					"husnummerId": "43bf0dad-2de1-49e7-b0b3-85c5084b2ccd"
+				},
+				{
+					"type": "adresse",
+					"id": "3ce9e614-d805-49ff-b03b-dfb8b700fb59",
+					"titel": "Salamanderparken 44, Stavtrup, 8260 Viby J",
+					"husnummerId": "674fe5db-5ea8-4ddf-a338-36977a51aa88"
+				},
+				{
+					"type": "adresse",
+					"id": "e1a025e5-c2f0-45c3-bf80-52b82b1975f1",
+					"titel": "Salamanderparken 46, Stavtrup, 8260 Viby J",
+					"husnummerId": "24a8e978-7d47-4c64-b335-1657950bb139"
+				},
+				{
+					"type": "adresse",
+					"id": "accef1dc-6936-4ace-b707-a4fa6ba0b4b9",
+					"titel": "Salamanderparken 48, Stavtrup, 8260 Viby J",
+					"husnummerId": "de1957e5-1889-4935-8273-0a920e948b05"
+				},
+				{
+					"type": "adresse",
+					"id": "59937319-028c-49c4-9444-fef523428541",
+					"titel": "Salamanderparken 50, Stavtrup, 8260 Viby J",
+					"husnummerId": "3ce4a056-a621-41b6-8680-a2b09df47bd1"
+				},
+				{
+					"type": "adresse",
+					"id": "ece1908f-1076-441b-bad2-5edea3435835",
+					"titel": "Salamanderparken 52, Stavtrup, 8260 Viby J",
+					"husnummerId": "b371dc9e-bb36-49b0-b26d-a70565cadb15"
+				},
+				{
+					"type": "adresse",
+					"id": "39112735-bef9-492f-b26f-763bfee12d5f",
+					"titel": "Salamanderparken 54, Stavtrup, 8260 Viby J",
+					"husnummerId": "975c3388-03ec-4692-9562-65febe667d61"
+				},
+				{
+					"type": "adresse",
+					"id": "848703d3-cbc7-4dd4-8df9-5a5200fb07a6",
+					"titel": "Salamanderparken 56, Stavtrup, 8260 Viby J",
+					"husnummerId": "612e2083-3d90-4147-adb0-3247f85d00ff"
+				},
+				{
+					"type": "adresse",
+					"id": "48c75d77-6e65-4376-a0f4-a41a039f27fc",
+					"titel": "Salamanderparken 58, Stavtrup, 8260 Viby J",
+					"husnummerId": "3b796a55-5812-40ba-afc3-d9a19de97d7a"
+				},
+				{
+					"type": "adresse",
+					"id": "21ad4853-00df-4f55-bf71-7d441486c80a",
+					"titel": "Salamanderparken 60, Stavtrup, 8260 Viby J",
+					"husnummerId": "dccd9c0c-a573-46e5-80f5-c42c1a261984"
+				},
+				{
+					"type": "adresse",
+					"id": "f6e01666-a367-4b85-a601-35e6134bb3ba",
+					"titel": "Salamanderparken 62, Stavtrup, 8260 Viby J",
+					"husnummerId": "fd098713-4d1d-4f10-a371-7faa509ed2b4"
+				},
+				{
+					"type": "adresse",
+					"id": "9bce2924-75bc-4cd6-86ca-932774e72ad7",
+					"titel": "Salamanderparken 64, Stavtrup, 8260 Viby J",
+					"husnummerId": "11dc5f6f-a4e0-41cf-ac31-7a8b8228beb1"
+				},
+				{
+					"type": "adresse",
+					"id": "30181874-da5a-4af7-a185-88266861da2a",
+					"titel": "Salamanderparken 66, Stavtrup, 8260 Viby J",
+					"husnummerId": "78bb820d-ed40-47b1-87d8-9154b74d513b"
+				},
+				{
+					"type": "adresse",
+					"id": "3231a38c-3a01-456f-a026-0205f26d95f2",
+					"titel": "Salamanderparken 68, Stavtrup, 8260 Viby J",
+					"husnummerId": "991c169b-0ad0-4665-b3db-adff2dfb87e9"
+				},
+				{
+					"type": "adresse",
+					"id": "72fa6819-ab00-4e01-8a92-49d30fd83336",
+					"titel": "Salamanderparken 70, Stavtrup, 8260 Viby J",
+					"husnummerId": "9d528748-03c9-4205-bae0-38218576c617"
+				},
+				{
+					"type": "adresse",
+					"id": "4234a956-f0b0-4737-9d0b-57c956f1ff5f",
+					"titel": "Salamanderparken 72, Stavtrup, 8260 Viby J",
+					"husnummerId": "cba5589d-b4c8-4fbc-9d70-bf13cb9cf4c2"
+				},
+				{
+					"type": "adresse",
+					"id": "341ad631-e59d-47c0-a883-a99b0aab91f5",
+					"titel": "Salamanderparken 74, Stavtrup, 8260 Viby J",
+					"husnummerId": "00253827-2696-47d9-b8f8-18fe4e9c3dc1"
+				},
+				{
+					"type": "adresse",
+					"id": "6b880ebd-d866-44c3-b897-3cb49366af67",
+					"titel": "Salamanderparken 76, Stavtrup, 8260 Viby J",
+					"husnummerId": "8c8d0e91-1308-4956-ae38-194f1823051b"
+				},
+				{
+					"type": "adresse",
+					"id": "6896b5f0-0f19-4909-affa-9f1576775bc5",
+					"titel": "Salamanderparken 78, Stavtrup, 8260 Viby J",
+					"husnummerId": "69bd39b9-e993-40f0-9b0c-2973d8f1e37a"
+				},
+				{
+					"type": "adresse",
+					"id": "26c7a9d8-4658-40b6-b6b4-5082b6ce4fa9",
+					"titel": "Salamanderparken 80, Stavtrup, 8260 Viby J",
+					"husnummerId": "aa697f8b-1e24-486a-85c0-5ef1f2873129"
+				},
+				{
+					"type": "adresse",
+					"id": "ec5d309a-c508-4715-847a-345808b29bb5",
+					"titel": "Salamanderparken 82, Stavtrup, 8260 Viby J",
+					"husnummerId": "4aa93f37-731d-41a2-be1d-a0f4fc718120"
+				},
+				{
+					"type": "adresse",
+					"id": "8f4cb1ae-c807-4208-8e5a-42b99ce75545",
+					"titel": "Salamanderparken 84, Stavtrup, 8260 Viby J",
+					"husnummerId": "f24d48b9-7bf7-466f-b9e5-1a81bfd71839"
+				},
+				{
+					"type": "adresse",
+					"id": "6ffb927e-0b9e-44ea-b4e2-ab4837b51ee9",
+					"titel": "Salamanderparken 86, Stavtrup, 8260 Viby J",
+					"husnummerId": "85d78530-6a46-4697-9095-ad63907278d4"
+				},
+				{
+					"type": "adresse",
+					"id": "b648c4da-4b3b-49d6-a841-5d12df695dfc",
+					"titel": "Salamanderparken 88, Stavtrup, 8260 Viby J",
+					"husnummerId": "702973f2-ac0e-49a6-a065-3b1cb8a3bb4d"
+				},
+				{
+					"type": "adresse",
+					"id": "4956a242-3277-41c8-bd00-f61641e1dd11",
+					"titel": "Salamanderparken 90, Stavtrup, 8260 Viby J",
+					"husnummerId": "ebe23444-a95c-4908-b8ab-fa29ff36d1ba"
+				},
+				{
+					"type": "adresse",
+					"id": "af74c982-ea81-4e38-908a-d13c0283a51c",
+					"titel": "Salamanderparken 92, Stavtrup, 8260 Viby J",
+					"husnummerId": "25ba95d0-0814-4c65-a69b-3106bcfb2a1b"
+				},
+				{
+					"type": "adresse",
+					"id": "b0b6034c-37fc-4bfb-9991-547a14e2d5e0",
+					"titel": "Salamanderparken 94, Stavtrup, 8260 Viby J",
+					"husnummerId": "02cf856a-8ee7-447a-854d-b0c6b7a724c6"
+				},
+				{
+					"type": "adresse",
+					"id": "ec05c2a6-efae-45fe-864a-305afce0d69c",
+					"titel": "Salamanderparken 100A, Stavtrup, 8260 Viby J",
+					"husnummerId": "140b57ab-fb4d-4d82-b7b0-8f4f0e346bf1"
+				},
+				{
+					"type": "adresse",
+					"id": "c512200d-c84c-467a-b3b8-83085a701092",
+					"titel": "Salamanderparken 100B, Stavtrup, 8260 Viby J",
+					"husnummerId": "f4801f4b-6562-401b-ba58-3da1742e7f3e"
+				},
+				{
+					"type": "adresse",
+					"id": "a30bfd8e-21d4-46b5-8226-fbc903585f1f",
+					"titel": "Salamanderparken 100C, Stavtrup, 8260 Viby J",
+					"husnummerId": "63842736-a6b3-4c8d-9657-aaa14be10277"
+				},
+				{
+					"type": "adresse",
+					"id": "e1e72213-f293-402b-b17f-91ce3437ea59",
+					"titel": "Salamanderparken 100D, Stavtrup, 8260 Viby J",
+					"husnummerId": "845c44a3-644d-46b0-8fbc-baab9e02abb9"
+				},
+				{
+					"type": "adresse",
+					"id": "e44e2b79-e652-41c2-8f90-0e4c0a58dc73",
+					"titel": "Salamanderparken 100E, Stavtrup, 8260 Viby J",
+					"husnummerId": "c7e8d008-0927-4258-878c-4c9eb0d1aa33"
+				},
+				{
+					"type": "adresse",
+					"id": "9d20a96c-ee93-497c-be84-f352aa227c59",
+					"titel": "Salamanderparken 102, Stavtrup, 8260 Viby J",
+					"husnummerId": "7b69066c-ec64-4c19-82d6-562bdee41669"
+				},
+				{
+					"type": "adresse",
+					"id": "9916c414-1576-4029-840e-957fbf5d8949",
+					"titel": "Salamanderparken 103, Stavtrup, 8260 Viby J",
+					"husnummerId": "f7568e25-1db8-4ff8-88d9-dc1322fc1f32"
+				},
+				{
+					"type": "adresse",
+					"id": "c90157cd-021f-447c-9705-b273e70f6d68",
+					"titel": "Salamanderparken 104, Stavtrup, 8260 Viby J",
+					"husnummerId": "a1c00bb7-b463-4135-8f10-1ee768848b21"
+				},
+				{
+					"type": "adresse",
+					"id": "efd93a95-29bb-453b-b11b-f6aa1708c5da",
+					"titel": "Salamanderparken 105, Stavtrup, 8260 Viby J",
+					"husnummerId": "e565a644-5827-43c9-b691-4cdfe074153e"
+				},
+				{
+					"type": "adresse",
+					"id": "53e07250-f08b-43ce-be83-a1d9d23b813e",
+					"titel": "Salamanderparken 106, Stavtrup, 8260 Viby J",
+					"husnummerId": "4e5bb292-9e83-4089-8f87-2447326bb596"
+				},
+				{
+					"type": "adresse",
+					"id": "f84818e3-d541-4c39-9e83-9caefb11665d",
+					"titel": "Salamanderparken 107, Stavtrup, 8260 Viby J",
+					"husnummerId": "dd003ab4-cb75-4809-9a7d-0ed26ff5c22a"
+				},
+				{
+					"type": "adresse",
+					"id": "a02139aa-984d-44cb-ba56-ef9088c90395",
+					"titel": "Salamanderparken 108, Stavtrup, 8260 Viby J",
+					"husnummerId": "9ce99aa0-2106-488c-9ce6-fdce4be14903"
+				},
+				{
+					"type": "adresse",
+					"id": "0affb3f2-c9ef-446b-bd70-d0f456822fc4",
+					"titel": "Salamanderparken 109, Stavtrup, 8260 Viby J",
+					"husnummerId": "6fe01033-06b9-4bfc-861a-0dbafd1e63c4"
+				},
+				{
+					"type": "adresse",
+					"id": "af8156d3-e08c-4155-83ed-21f97d905051",
+					"titel": "Salamanderparken 110, Stavtrup, 8260 Viby J",
+					"husnummerId": "428b472f-82bd-4a0c-b270-eb34cac09544"
+				},
+				{
+					"type": "adresse",
+					"id": "2953c292-7a2a-4016-96ad-0de00e4f0220",
+					"titel": "Salamanderparken 111, Stavtrup, 8260 Viby J",
+					"husnummerId": "596abf7a-a961-437a-a7a5-44d544fb6cbe"
+				},
+				{
+					"type": "adresse",
+					"id": "74459835-ccbd-4cd4-994e-f14612f1c8cb",
+					"titel": "Salamanderparken 112, Stavtrup, 8260 Viby J",
+					"husnummerId": "fceed768-4008-4954-9509-85792537496b"
+				},
+				{
+					"type": "adresse",
+					"id": "3283fe0a-2c3a-4721-9572-3bb5ee0e9316",
+					"titel": "Salamanderparken 113, Stavtrup, 8260 Viby J",
+					"husnummerId": "20f6a1e9-1300-4bf1-b098-fd079c352906"
+				},
+				{
+					"type": "adresse",
+					"id": "7c08d406-e0b9-4811-99cf-eb91d98dfc82",
+					"titel": "Salamanderparken 114, Stavtrup, 8260 Viby J",
+					"husnummerId": "ed2ebf9e-da94-4f6d-a556-ff312288cd8d"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-d328-32b8-e044-0003ba298018",
+					"titel": "Salamanderparken 115, Stavtrup, 8260 Viby J",
+					"husnummerId": "0a3f5096-adc2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "65f49c2d-7910-40db-b92b-bc760691a2b4",
+					"titel": "Salamanderparken 116, Stavtrup, 8260 Viby J",
+					"husnummerId": "3179e646-e2c7-45dc-890d-b6f4e08205d5"
+				},
+				{
+					"type": "adresse",
+					"id": "61c16597-0da9-4e48-b776-581b0b482935",
+					"titel": "Salamanderparken 117, Stavtrup, 8260 Viby J",
+					"husnummerId": "a12bdca5-8d7c-4608-8d16-e2c39fee1f5b"
+				},
+				{
+					"type": "adresse",
+					"id": "b0f57dce-22c7-4ebf-bdc9-c884810da4f5",
+					"titel": "Salamanderparken 118, Stavtrup, 8260 Viby J",
+					"husnummerId": "1c01d2d0-12c5-479b-a3cc-7e6af36ba6ad"
+				},
+				{
+					"type": "adresse",
+					"id": "5c5e0d6d-471b-4976-9461-eec95156d899",
+					"titel": "Salamanderparken 119, Stavtrup, 8260 Viby J",
+					"husnummerId": "86f9ee83-c219-4b56-9de1-6fd7fd278501"
+				},
+				{
+					"type": "adresse",
+					"id": "c9cf6ee8-bfbf-4dcd-b386-92bf049979e3",
+					"titel": "Salamanderparken 120, Stavtrup, 8260 Viby J",
+					"husnummerId": "886af2f0-ef47-4fe2-b74a-a55f6eaebb30"
+				},
+				{
+					"type": "adresse",
+					"id": "c3a55410-ea97-43a7-9a85-02a8bf9c128f",
+					"titel": "Salamanderparken 121, Stavtrup, 8260 Viby J",
+					"husnummerId": "f093183f-bed5-44cd-bbac-940f9cec8406"
+				},
+				{
+					"type": "adresse",
+					"id": "79691860-a168-472f-86ed-147cfecd0b0b",
+					"titel": "Salamanderparken 122, Stavtrup, 8260 Viby J",
+					"husnummerId": "00aea4b0-35a3-4f5c-b676-2c5c00f265b5"
+				},
+				{
+					"type": "adresse",
+					"id": "347f0a23-ec6f-413f-975e-43f6d36145f7",
+					"titel": "Salamanderparken 123, Stavtrup, 8260 Viby J",
+					"husnummerId": "43b3aab3-bb91-4052-93b6-5ec9ceba86fc"
+				},
+				{
+					"type": "adresse",
+					"id": "6ef52c01-6448-4856-b765-a5d055897c29",
+					"titel": "Salamanderparken 124, Stavtrup, 8260 Viby J",
+					"husnummerId": "97339946-cd58-411f-b4ef-b0b5561f9685"
+				},
+				{
+					"type": "adresse",
+					"id": "d9a5fa45-e41d-4f3d-8d72-e61c6ab49237",
+					"titel": "Salamanderparken 125, Stavtrup, 8260 Viby J",
+					"husnummerId": "1fccfd90-b6d4-4e8b-aafd-e5c9b9e8966d"
+				},
+				{
+					"type": "adresse",
+					"id": "023e0474-dab8-4963-96a8-0140b948b092",
+					"titel": "Salamanderparken 126, Stavtrup, 8260 Viby J",
+					"husnummerId": "27013f38-163c-4747-bc3d-0fe1db0734d6"
+				},
+				{
+					"type": "adresse",
+					"id": "17158436-bb4b-4231-a74f-ce7e8358ef6f",
+					"titel": "Salamanderparken 127, Stavtrup, 8260 Viby J",
+					"husnummerId": "327fb530-18a4-45a0-9542-304dd4679ba2"
+				},
+				{
+					"type": "adresse",
+					"id": "0b02b6cc-0a4a-43b1-ad5f-25a46f887fc1",
+					"titel": "Salamanderparken 128, Stavtrup, 8260 Viby J",
+					"husnummerId": "f1776589-8d9f-4504-9910-8028fa839519"
+				},
+				{
+					"type": "adresse",
+					"id": "a659ff61-4082-4a8a-a483-f64e698c33f5",
+					"titel": "Salamanderparken 129, Stavtrup, 8260 Viby J",
+					"husnummerId": "72c2d524-a7f0-46cd-aba5-0b6e7c990462"
+				},
+				{
+					"type": "adresse",
+					"id": "03a21e40-7782-4112-9192-2b6e528e5420",
+					"titel": "Salamanderparken 130, Stavtrup, 8260 Viby J",
+					"husnummerId": "f1dcd2cf-9d28-425b-a252-78dc27b5f45e"
+				},
+				{
+					"type": "adresse",
+					"id": "20b291cd-d139-4cf7-8c6a-3625711074bf",
+					"titel": "Salamanderparken 131, Stavtrup, 8260 Viby J",
+					"husnummerId": "bb478820-394e-4fda-9bee-c941b80c1416"
+				},
+				{
+					"type": "adresse",
+					"id": "2f2ef445-bdff-48fd-934a-7e0f21b89afe",
+					"titel": "Salamanderparken 132, Stavtrup, 8260 Viby J",
+					"husnummerId": "b385faaf-30d1-429e-8e29-8c1789b1a42c"
+				},
+				{
+					"type": "adresse",
+					"id": "e498985a-f606-4228-b9b5-1420e188cfd8",
+					"titel": "Salamanderparken 133, Stavtrup, 8260 Viby J",
+					"husnummerId": "516c9971-3ed4-4e7f-9d02-00a48a116316"
+				},
+				{
+					"type": "adresse",
+					"id": "befdd8a8-2fc6-45f4-86be-10d75fca204b",
+					"titel": "Salamanderparken 134, Stavtrup, 8260 Viby J",
+					"husnummerId": "61935738-8da6-42fb-8b7f-26f33fcc4d55"
+				},
+				{
+					"type": "adresse",
+					"id": "1362d5bc-4e1e-46e5-a81d-049290b02f38",
+					"titel": "Salamanderparken 135, Stavtrup, 8260 Viby J",
+					"husnummerId": "e05d2cbe-879a-486b-b610-1a635a28cdbb"
+				},
+				{
+					"type": "adresse",
+					"id": "4f25b623-bd7e-406a-899d-2868d6d581bb",
+					"titel": "Salamanderparken 136, Stavtrup, 8260 Viby J",
+					"husnummerId": "f7839bf1-a98a-4cff-82f1-d30fc754121f"
+				},
+				{
+					"type": "adresse",
+					"id": "c6fb7c5a-5ce3-45bc-aca4-a52e8b416c47",
+					"titel": "Salamanderparken 137, Stavtrup, 8260 Viby J",
+					"husnummerId": "83ca2ba9-77ee-4a9c-a81a-f38425bc3e3d"
+				},
+				{
+					"type": "adresse",
+					"id": "644f4087-6832-4945-91c5-afbf602f8b51",
+					"titel": "Salamanderparken 138, Stavtrup, 8260 Viby J",
+					"husnummerId": "b3493c15-539b-46f5-a848-647067aeee1a"
+				},
+				{
+					"type": "adresse",
+					"id": "a8923025-2ba8-40b2-9a1f-f921d4c53a3f",
+					"titel": "Salamanderparken 139, Stavtrup, 8260 Viby J",
+					"husnummerId": "daf7ca33-e693-472a-b566-d824e961de96"
+				},
+				{
+					"type": "adresse",
+					"id": "c9fd7df5-ff48-40e8-a145-c269ebbd762e",
+					"titel": "Salamanderparken 140, Stavtrup, 8260 Viby J",
+					"husnummerId": "c218bcbc-21db-4452-a16d-2592d7d87a70"
+				},
+				{
+					"type": "adresse",
+					"id": "30532491-5ace-4dd8-a297-25c5eb573832",
+					"titel": "Salamanderparken 141, Stavtrup, 8260 Viby J",
+					"husnummerId": "98cfeae0-aa7e-4428-9739-a0acef516881"
+				},
+				{
+					"type": "adresse",
+					"id": "3b0dbd80-1eec-4e66-b116-8dffe95445eb",
+					"titel": "Salamanderparken 142, Stavtrup, 8260 Viby J",
+					"husnummerId": "98de1617-7308-4e19-a624-ebbd49b1a52c"
+				},
+				{
+					"type": "adresse",
+					"id": "9654fd33-8681-4eca-931d-65c94d82062f",
+					"titel": "Salamanderparken 143, Stavtrup, 8260 Viby J",
+					"husnummerId": "eb3670cf-65c3-443a-aa8c-2d35ae32ed6d"
+				},
+				{
+					"type": "adresse",
+					"id": "932f9dff-a956-4588-af91-bc2b6723352e",
+					"titel": "Salamanderparken 144, Stavtrup, 8260 Viby J",
+					"husnummerId": "fd17107a-1d98-4e89-9718-b7c4ca2937bb"
+				},
+				{
+					"type": "adresse",
+					"id": "1e4fadfe-47b7-4559-baeb-3c138a1669ea",
+					"titel": "Salamanderparken 145, Stavtrup, 8260 Viby J",
+					"husnummerId": "6ea8ba56-fef5-4127-a4c6-e149f9f06358"
+				},
+				{
+					"type": "adresse",
+					"id": "6e061259-89d9-4093-b59f-2612f451e770",
+					"titel": "Salamanderparken 146, Stavtrup, 8260 Viby J",
+					"husnummerId": "47f7f0bd-968b-4301-a130-dc2261fad70b"
+				},
+				{
+					"type": "adresse",
+					"id": "ef90861e-c754-4167-bba2-6aa16ab18601",
+					"titel": "Salamanderparken 147, Stavtrup, 8260 Viby J",
+					"husnummerId": "bacf8904-50c2-4104-93af-04de4d67f155"
+				},
+				{
+					"type": "adresse",
+					"id": "3e742bf6-8ebd-4eca-afdb-983a9acdc868",
+					"titel": "Salamanderparken 148, Stavtrup, 8260 Viby J",
+					"husnummerId": "8a263722-c02f-461f-a113-08fe57d1914c"
+				},
+				{
+					"type": "adresse",
+					"id": "f417d505-8495-47eb-95ee-15e6c2354d0d",
+					"titel": "Salamanderparken 149, Stavtrup, 8260 Viby J",
+					"husnummerId": "7b6d1162-0cec-4c6e-9379-14d089998564"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=salatvej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "2986269f-9061-4d5c-a543-2eaa245561ad",
+					"titel": "Salatvej 1, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "82bae99d-f729-4ddb-8ff2-5e341d86aca7"
+				},
+				{
+					"type": "adresse",
+					"id": "d1164347-bfb0-4834-a3a9-554ca2b510de",
+					"titel": "Salatvej 2, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "40ebad94-9ace-4cf8-b32e-4cab7a5ab7f3"
+				},
+				{
+					"type": "adresse",
+					"id": "2420b9e3-601e-45c2-a213-30406271885e",
+					"titel": "Salatvej 3, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "e2c68b98-333e-432e-8ed5-40463331556f"
+				},
+				{
+					"type": "adresse",
+					"id": "4743f790-cdda-426e-8439-a6ce816d2aa6",
+					"titel": "Salatvej 4, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "4a76a0aa-75e4-4c77-a970-2c60baae4364"
+				},
+				{
+					"type": "adresse",
+					"id": "0b061dd8-4f01-40c7-b553-43ca1bfb096d",
+					"titel": "Salatvej 5, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "60313a2b-3f8a-4137-92f8-029994ad929b"
+				},
+				{
+					"type": "adresse",
+					"id": "b23051c9-484b-4951-9112-9bf5b44c123e",
+					"titel": "Salatvej 6, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "231746fc-550e-4435-8b0a-e68c759a832f"
+				},
+				{
+					"type": "adresse",
+					"id": "bab5f898-9b79-4ec1-b609-5f18ae7e6000",
+					"titel": "Salatvej 7, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "11712e15-1988-477e-8cf8-f6e6c3b0605b"
+				},
+				{
+					"type": "adresse",
+					"id": "1932769a-7b03-42f4-a31a-7391204d24eb",
+					"titel": "Salatvej 8, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "5d4774cc-7668-4262-9fef-3752269cf25c"
+				},
+				{
+					"type": "adresse",
+					"id": "80beb768-9d59-4943-9d3a-e1aadd4d1f66",
+					"titel": "Salatvej 9, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "712936a6-dc1e-4813-82a8-4e0d15f78ae3"
+				},
+				{
+					"type": "adresse",
+					"id": "0d7037da-4b09-431a-bce8-c985dcdadceb",
+					"titel": "Salatvej 10, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "29c7dcf0-c88b-4eb9-94e7-59449de3fd87"
+				},
+				{
+					"type": "adresse",
+					"id": "0000ee38-a966-4a72-9c34-19b0a32ad367",
+					"titel": "Salatvej 11, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "0f154efc-7c4e-4fa6-9bdb-efd6f1367034"
+				},
+				{
+					"type": "adresse",
+					"id": "14b0cccd-0952-4ab3-98a3-099a33aa1512",
+					"titel": "Salatvej 12, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "02bf400d-643a-478a-ad9f-555eb620768a"
+				},
+				{
+					"type": "adresse",
+					"id": "864eca7f-a2f2-4475-acbd-92bbdb7588fe",
+					"titel": "Salatvej 13, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "3cacc28a-4664-458d-932f-ab6dc36c4dfc"
+				},
+				{
+					"type": "adresse",
+					"id": "125366b3-b1c0-4cd1-94b7-e031bf26feba",
+					"titel": "Salatvej 14, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "a0ebc04c-16ca-4bc8-a23b-8bc25a5dbd73"
+				},
+				{
+					"type": "adresse",
+					"id": "057983c5-cfac-4f40-a6df-5a81f4f58842",
+					"titel": "Salatvej 15, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "8041ad07-9695-47b4-8d3e-bffc9dbe0a52"
+				},
+				{
+					"type": "adresse",
+					"id": "c038b48b-8e36-4553-b951-50d1da8aace0",
+					"titel": "Salatvej 16, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "d3078a88-fa3f-44e7-b221-f3346c96b19e"
+				},
+				{
+					"type": "adresse",
+					"id": "d180bdf1-f560-4312-aeeb-7d32bee89ba1",
+					"titel": "Salatvej 17, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "e4a2b15e-28fc-4304-a757-e272e3d79a8f"
+				},
+				{
+					"type": "adresse",
+					"id": "e0cfdb35-2ecb-428e-95ad-83fd17f37658",
+					"titel": "Salatvej 18, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "d4577969-bdb0-4265-90cb-a3c7a2271759"
+				},
+				{
+					"type": "adresse",
+					"id": "4440b4db-b141-43f8-aeb6-469cd98871ec",
+					"titel": "Salatvej 19, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "063f03d2-86cf-4d5b-96f9-52036741ce53"
+				},
+				{
+					"type": "adresse",
+					"id": "22e992f4-6b68-481f-bebd-0194ad441b5a",
+					"titel": "Salatvej 20, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "7e6964ed-a3c4-4cf2-8a07-8c2159951ea1"
+				},
+				{
+					"type": "adresse",
+					"id": "d9372f62-1e34-412c-a640-1f1e48bbc26e",
+					"titel": "Salatvej 21, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "fd32cffd-2a6a-4f80-a809-364b482dfb55"
+				},
+				{
+					"type": "adresse",
+					"id": "ea167b3b-bdc8-42b3-8265-f31b993f98be",
+					"titel": "Salatvej 22, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "24591925-84d7-41a1-9343-77b308219c56"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=salatvej 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "2986269f-9061-4d5c-a543-2eaa245561ad",
+					"titel": "Salatvej 1, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "82bae99d-f729-4ddb-8ff2-5e341d86aca7"
+				},
+				{
+					"type": "adresse",
+					"id": "0d7037da-4b09-431a-bce8-c985dcdadceb",
+					"titel": "Salatvej 10, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "29c7dcf0-c88b-4eb9-94e7-59449de3fd87"
+				},
+				{
+					"type": "adresse",
+					"id": "0000ee38-a966-4a72-9c34-19b0a32ad367",
+					"titel": "Salatvej 11, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "0f154efc-7c4e-4fa6-9bdb-efd6f1367034"
+				},
+				{
+					"type": "adresse",
+					"id": "14b0cccd-0952-4ab3-98a3-099a33aa1512",
+					"titel": "Salatvej 12, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "02bf400d-643a-478a-ad9f-555eb620768a"
+				},
+				{
+					"type": "adresse",
+					"id": "864eca7f-a2f2-4475-acbd-92bbdb7588fe",
+					"titel": "Salatvej 13, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "3cacc28a-4664-458d-932f-ab6dc36c4dfc"
+				},
+				{
+					"type": "adresse",
+					"id": "125366b3-b1c0-4cd1-94b7-e031bf26feba",
+					"titel": "Salatvej 14, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "a0ebc04c-16ca-4bc8-a23b-8bc25a5dbd73"
+				},
+				{
+					"type": "adresse",
+					"id": "057983c5-cfac-4f40-a6df-5a81f4f58842",
+					"titel": "Salatvej 15, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "8041ad07-9695-47b4-8d3e-bffc9dbe0a52"
+				},
+				{
+					"type": "adresse",
+					"id": "c038b48b-8e36-4553-b951-50d1da8aace0",
+					"titel": "Salatvej 16, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "d3078a88-fa3f-44e7-b221-f3346c96b19e"
+				},
+				{
+					"type": "adresse",
+					"id": "d180bdf1-f560-4312-aeeb-7d32bee89ba1",
+					"titel": "Salatvej 17, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "e4a2b15e-28fc-4304-a757-e272e3d79a8f"
+				},
+				{
+					"type": "adresse",
+					"id": "e0cfdb35-2ecb-428e-95ad-83fd17f37658",
+					"titel": "Salatvej 18, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "d4577969-bdb0-4265-90cb-a3c7a2271759"
+				},
+				{
+					"type": "adresse",
+					"id": "4440b4db-b141-43f8-aeb6-469cd98871ec",
+					"titel": "Salatvej 19, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "063f03d2-86cf-4d5b-96f9-52036741ce53"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=salatvej 11": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0000ee38-a966-4a72-9c34-19b0a32ad367",
+					"titel": "Salatvej 11, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "0f154efc-7c4e-4fa6-9bdb-efd6f1367034"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Salatvej 11, Hf Ryhaven, 8660 Skanderborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0000ee38-a966-4a72-9c34-19b0a32ad367",
+					"titel": "Salatvej 11, Hf Ryhaven, 8660 Skanderborg",
+					"husnummerId": "0f154efc-7c4e-4fa6-9bdb-efd6f1367034"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,5522 @@
+{
+	"tekst": "Nytorv 1, 9000 Aalborg",
+	"dawaId": "b1c2e3ac-103b-48fa-98e6-6c0a89ce0695",
+	"recordedAt": "2026-07-09T20:37:23.489Z",
+	"stages": [
+		{
+			"stage": "nyto",
+			"dawa": [
+				"Nytorv 5, 7323 Give",
+				"Nytorv 7, 7323 Give",
+				"Nytoft 1, 7100 Vejle",
+				"Nytoft 2, 7100 Vejle",
+				"Nytoft 3, 7100 Vejle",
+				"Nytoft 4, 7100 Vejle",
+				"Nytoft 5, 7100 Vejle",
+				"Nytoft 6, 7100 Vejle",
+				"Nytoft 7, 7100 Vejle",
+				"Nytoft 8, 7100 Vejle"
+			]
+		},
+		{
+			"stage": "nytorv",
+			"dawa": [
+				"Nytorv 5, 7323 Give",
+				"Nytorv 7, 7323 Give",
+				"Nytorv 1, 9500 Hobro",
+				"Nytorv 10, 7323 Give",
+				"Nytorv 1, 8464 Galten",
+				"Nytorv 2, 8464 Galten",
+				"Nytorv 3, 8500 Grenaa",
+				"Nytorv 3, 8464 Galten",
+				"Nytorv 3, 8800 Viborg",
+				"Nytorv 4, 8464 Galten"
+			]
+		},
+		{
+			"stage": "nytorv 1",
+			"dawa": [
+				"Nytorv 10A, 1. 1, 8800 Viborg",
+				"Nytorv 12, 1., 9500 Hobro",
+				"Nytorv 12, 1., 8800 Viborg",
+				"Nytorv 1A, 1., 9000 Aalborg",
+				"Nytorv 10, 1., 4340 Tølløse",
+				"Nytorv 10, 1., 9000 Aalborg",
+				"Nytorv 11, 1., 9000 Aalborg",
+				"Nytorv 12, 1., 4340 Tølløse",
+				"Nytorv 13, 1., 9000 Aalborg",
+				"Nytorv 14, 1., 4340 Tølløse"
+			]
+		},
+		{
+			"stage": "Nytorv 1, 9000 Aalborg",
+			"dawa": [
+				"Nytorv 1, 1. 1, 9000 Aalborg",
+				"Nytorv 1, 9000 Aalborg",
+				"Nytorv 1, 1. 3, 9000 Aalborg",
+				"Nytorv 1, 2. 1, 9000 Aalborg",
+				"Nytorv 1, 2. 2, 9000 Aalborg",
+				"Nytorv 1, 2. 3, 9000 Aalborg",
+				"Nytorv 1, 2. 4, 9000 Aalborg",
+				"Nytorv 1, st. mf, 9000 Aalborg",
+				"Nytorv 1, st. th, 9000 Aalborg",
+				"Nytorv 1, st. tv, 9000 Aalborg"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=nyto": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "177781da-ccbc-4b3b-ac81-3152839054d5",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoft 6000 Kolding",
+					"vejnavn": "Nytoft",
+					"postnr": "6000",
+					"postdistrikt": "Kolding",
+					"antal_husnumre": 25
+				},
+				{
+					"id": "29bb7770-448b-492d-9b02-65eb35f0ec46",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoft 6040 Egtved",
+					"vejnavn": "Nytoft",
+					"postnr": "6040",
+					"postdistrikt": "Egtved",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "b94ed4be-9bd1-4c9b-b8a2-94c109935d54",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoft 7100 Vejle",
+					"vejnavn": "Nytoft",
+					"postnr": "7100",
+					"postdistrikt": "Vejle",
+					"antal_husnumre": 12
+				},
+				{
+					"id": "011ce15c-0433-4fbf-bb83-d7dc76d53c66",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoften 2750 Ballerup",
+					"vejnavn": "Nytoften",
+					"postnr": "2750",
+					"postdistrikt": "Ballerup",
+					"antal_husnumre": 19
+				},
+				{
+					"id": "3f13e5b7-8c02-41d2-84fc-3850656cfcf4",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoften 3550 Slangerup",
+					"vejnavn": "Nytoften",
+					"postnr": "3550",
+					"postdistrikt": "Slangerup",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "3a41f46c-2a7e-41c0-8cd4-0a1332270639",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoften 4690 Haslev",
+					"vejnavn": "Nytoften",
+					"postnr": "4690",
+					"postdistrikt": "Haslev",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "a9c2c289-0bb4-4186-80a4-283ca831fac4",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoften 5220 Odense SØ",
+					"vejnavn": "Nytoften",
+					"postnr": "5220",
+					"postdistrikt": "Odense SØ",
+					"antal_husnumre": 70
+				},
+				{
+					"id": "5217a238-64f8-4800-b2ca-1132affe4988",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoften 5871 Frørup",
+					"vejnavn": "Nytoften",
+					"postnr": "5871",
+					"postdistrikt": "Frørup",
+					"antal_husnumre": 15
+				},
+				{
+					"id": "3d198e64-503e-4681-ad50-621fefe8e2da",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoften 6720 Fanø",
+					"vejnavn": "Nytoften",
+					"postnr": "6720",
+					"postdistrikt": "Fanø",
+					"antal_husnumre": 20
+				},
+				{
+					"id": "f3072b71-e6ae-41b0-be73-d0c3e897bff7",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoften 8462 Harlev J",
+					"vejnavn": "Nytoften",
+					"postnr": "8462",
+					"postdistrikt": "Harlev J",
+					"antal_husnumre": 23
+				},
+				{
+					"id": "9560ca35-39a0-4fd3-8c29-47d2b72df1f3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoftevej 6760 Ribe",
+					"vejnavn": "Nytoftevej",
+					"postnr": "6760",
+					"postdistrikt": "Ribe",
+					"antal_husnumre": 3
+				},
+				{
+					"id": "c82e1783-9a60-47fc-b188-b9dd183d07fe",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytoftevej 7400 Herning",
+					"vejnavn": "Nytoftevej",
+					"postnr": "7400",
+					"postdistrikt": "Herning",
+					"antal_husnumre": 12
+				},
+				{
+					"id": "84c4ac86-54d1-47cb-8ed5-a3b9e2fc1413",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 1450 København K",
+					"vejnavn": "Nytorv",
+					"postnr": "1450",
+					"postdistrikt": "København K",
+					"antal_husnumre": 21
+				},
+				{
+					"id": "5fd59f4f-18d7-4f5f-a3fe-0db554abefed",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 3200 Helsinge",
+					"vejnavn": "Nytorv",
+					"postnr": "3200",
+					"postdistrikt": "Helsinge",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "50101fd3-9a48-4029-9148-c407d15f8ce2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"postnr": "4200",
+					"postdistrikt": "Slagelse",
+					"antal_husnumre": 39
+				},
+				{
+					"id": "e8a8d021-9d55-4d31-96ff-d77b13e9bc8b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4230 Skælskør",
+					"vejnavn": "Nytorv",
+					"postnr": "4230",
+					"postdistrikt": "Skælskør",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "cffb49ca-10f1-4436-bb20-576e58404cb2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"postnr": "4340",
+					"postdistrikt": "Tølløse",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "4709417d-2559-45f2-b6e3-a599ebfa9965",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"postnr": "4400",
+					"postdistrikt": "Kalundborg",
+					"antal_husnumre": 15
+				},
+				{
+					"id": "5223972d-6d73-40a3-9e22-1f7dfb146cc0",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"postnr": "4660",
+					"postdistrikt": "Store Heddinge",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "8a511900-08fb-4b30-a754-4b3e2abffbd2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 5500 Middelfart",
+					"vejnavn": "Nytorv",
+					"postnr": "5500",
+					"postdistrikt": "Middelfart",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "d8a2b4d8-8efc-45c7-a692-2c39d660444c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 6000 Kolding",
+					"vejnavn": "Nytorv",
+					"postnr": "6000",
+					"postdistrikt": "Kolding",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "689ee826-e411-4651-a9fc-97732f6f707b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 7323 Give",
+					"vejnavn": "Nytorv",
+					"postnr": "7323",
+					"postdistrikt": "Give",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "6f93be77-00c4-42bb-880d-107705729769",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"postnr": "7700",
+					"postdistrikt": "Thisted",
+					"antal_husnumre": 22
+				},
+				{
+					"id": "082c9c74-dd6c-4385-bbf4-923f757a271b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 8400 Ebeltoft",
+					"vejnavn": "Nytorv",
+					"postnr": "8400",
+					"postdistrikt": "Ebeltoft",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "1b05c74d-9261-4cea-afa7-6d38e6ffb17b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 8464 Galten",
+					"vejnavn": "Nytorv",
+					"postnr": "8464",
+					"postdistrikt": "Galten",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "dbfcee8e-4106-4e9a-b7b6-319f91b8d7bd",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 8500 Grenaa",
+					"vejnavn": "Nytorv",
+					"postnr": "8500",
+					"postdistrikt": "Grenaa",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "50c1493c-b2fb-40db-9c79-b4d845a8456f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 39
+				},
+				{
+					"id": "d52390c0-e03b-4f92-96b0-ccfda9ad7a34",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"postnr": "9000",
+					"postdistrikt": "Aalborg",
+					"antal_husnumre": 24
+				},
+				{
+					"id": "e2b0c39d-b7ba-47a6-88dc-f4a15aad760b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 9500 Hobro",
+					"vejnavn": "Nytorv",
+					"postnr": "9500",
+					"postdistrikt": "Hobro",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "8ea79cbc-6735-4eeb-8ed9-3ee58c8b7463",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"postnr": "9900",
+					"postdistrikt": "Frederikshavn",
+					"antal_husnumre": 20
+				},
+				{
+					"id": "a1a893a4-c77d-4d5d-9bc9-f5ce1f664b66",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorvgyde 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "bb1ba93f-8956-4ba7-938b-11de3f230ea0",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ny Taastrupvej 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"postnr": "4300",
+					"postdistrikt": "Holbæk",
+					"antal_husnumre": 69
+				},
+				{
+					"id": "79de8bfe-8a06-4e61-9de4-f85d64bab9ab",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ny Toftegårdsvej 3650 Ølstykke",
+					"vejnavn": "Ny Toftegårdsvej",
+					"postnr": "3650",
+					"postdistrikt": "Ølstykke",
+					"antal_husnumre": 29
+				},
+				{
+					"id": "3402bb00-a0f5-4bf6-a982-cb2dd4c19967",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nythåbsvej 9830 Tårs",
+					"vejnavn": "Nythåbsvej",
+					"postnr": "9830",
+					"postdistrikt": "Tårs",
+					"antal_husnumre": 6
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoft 6000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-e571-32b8-e044-0003ba298018",
+					"titel": "Nytoft 1A, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-16c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-295b-32b8-e044-0003ba298018",
+					"titel": "Nytoft 1B, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-499f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-295c-32b8-e044-0003ba298018",
+					"titel": "Nytoft 2, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-295d-32b8-e044-0003ba298018",
+					"titel": "Nytoft 3, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-295e-32b8-e044-0003ba298018",
+					"titel": "Nytoft 4, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-295f-32b8-e044-0003ba298018",
+					"titel": "Nytoft 5, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2960-32b8-e044-0003ba298018",
+					"titel": "Nytoft 6, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2961-32b8-e044-0003ba298018",
+					"titel": "Nytoft 7, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2962-32b8-e044-0003ba298018",
+					"titel": "Nytoft 8, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2963-32b8-e044-0003ba298018",
+					"titel": "Nytoft 9, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2964-32b8-e044-0003ba298018",
+					"titel": "Nytoft 10, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2965-32b8-e044-0003ba298018",
+					"titel": "Nytoft 11, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2966-32b8-e044-0003ba298018",
+					"titel": "Nytoft 12, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2967-32b8-e044-0003ba298018",
+					"titel": "Nytoft 13, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2968-32b8-e044-0003ba298018",
+					"titel": "Nytoft 14, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2969-32b8-e044-0003ba298018",
+					"titel": "Nytoft 15, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-296a-32b8-e044-0003ba298018",
+					"titel": "Nytoft 16, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-296b-32b8-e044-0003ba298018",
+					"titel": "Nytoft 17, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-296c-32b8-e044-0003ba298018",
+					"titel": "Nytoft 18, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-296d-32b8-e044-0003ba298018",
+					"titel": "Nytoft 19, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-296e-32b8-e044-0003ba298018",
+					"titel": "Nytoft 20, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-296f-32b8-e044-0003ba298018",
+					"titel": "Nytoft 22, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49b3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2970-32b8-e044-0003ba298018",
+					"titel": "Nytoft 24, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49b4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2971-32b8-e044-0003ba298018",
+					"titel": "Nytoft 26, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49b5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2972-32b8-e044-0003ba298018",
+					"titel": "Nytoft 28, Bramdrupdam, 6000 Kolding",
+					"husnummerId": "0a3f5090-49b6-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoft 6040": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-75a8-32b8-e044-0003ba298018",
+					"titel": "Nytoft 1, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e472-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-75a9-32b8-e044-0003ba298018",
+					"titel": "Nytoft 2, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e473-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-75aa-32b8-e044-0003ba298018",
+					"titel": "Nytoft 3, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e474-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f6d3381b-b18c-4997-ba58-704c24a0aba4",
+					"titel": "Nytoft 4, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e475-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-75ab-32b8-e044-0003ba298018",
+					"titel": "Nytoft 5, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e476-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-75ac-32b8-e044-0003ba298018",
+					"titel": "Nytoft 7, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e477-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-75ad-32b8-e044-0003ba298018",
+					"titel": "Nytoft 9, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e478-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-75ae-32b8-e044-0003ba298018",
+					"titel": "Nytoft 11, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e479-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-75af-32b8-e044-0003ba298018",
+					"titel": "Nytoft 13, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e47a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-75b0-32b8-e044-0003ba298018",
+					"titel": "Nytoft 15, Vester Nebel, 6040 Egtved",
+					"husnummerId": "0a3f508e-e47b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoft 7100": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfd6-32b8-e044-0003ba298018",
+					"titel": "Nytoft 1, 7100 Vejle",
+					"husnummerId": "0a3f5090-dde7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfd7-32b8-e044-0003ba298018",
+					"titel": "Nytoft 2, 7100 Vejle",
+					"husnummerId": "0a3f5090-dde8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfd8-32b8-e044-0003ba298018",
+					"titel": "Nytoft 3, 7100 Vejle",
+					"husnummerId": "0a3f5090-dde9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfd9-32b8-e044-0003ba298018",
+					"titel": "Nytoft 4, 7100 Vejle",
+					"husnummerId": "0a3f5090-ddea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfda-32b8-e044-0003ba298018",
+					"titel": "Nytoft 5, 7100 Vejle",
+					"husnummerId": "0a3f5090-ddeb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfdb-32b8-e044-0003ba298018",
+					"titel": "Nytoft 6, 7100 Vejle",
+					"husnummerId": "0a3f5090-ddec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfdc-32b8-e044-0003ba298018",
+					"titel": "Nytoft 7, 7100 Vejle",
+					"husnummerId": "0a3f5090-dded-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfdd-32b8-e044-0003ba298018",
+					"titel": "Nytoft 8, 7100 Vejle",
+					"husnummerId": "0a3f5090-ddee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfde-32b8-e044-0003ba298018",
+					"titel": "Nytoft 9, 7100 Vejle",
+					"husnummerId": "0a3f5090-ddef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfdf-32b8-e044-0003ba298018",
+					"titel": "Nytoft 10, 7100 Vejle",
+					"husnummerId": "0a3f5090-ddf0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfe0-32b8-e044-0003ba298018",
+					"titel": "Nytoft 12, 7100 Vejle",
+					"husnummerId": "0a3f5090-ddf1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-dfe1-32b8-e044-0003ba298018",
+					"titel": "Nytoft 14, 7100 Vejle",
+					"husnummerId": "0a3f5090-ddf2-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoften 2750": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1077-32b8-e044-0003ba298018",
+					"titel": "Nytoften 2, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1078-32b8-e044-0003ba298018",
+					"titel": "Nytoften 3, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1079-32b8-e044-0003ba298018",
+					"titel": "Nytoften 4, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-107a-32b8-e044-0003ba298018",
+					"titel": "Nytoften 5, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-107b-32b8-e044-0003ba298018",
+					"titel": "Nytoften 6, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-107c-32b8-e044-0003ba298018",
+					"titel": "Nytoften 7, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-107d-32b8-e044-0003ba298018",
+					"titel": "Nytoften 8, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-107e-32b8-e044-0003ba298018",
+					"titel": "Nytoften 9, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-107f-32b8-e044-0003ba298018",
+					"titel": "Nytoften 10, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1080-32b8-e044-0003ba298018",
+					"titel": "Nytoften 11, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71cb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1081-32b8-e044-0003ba298018",
+					"titel": "Nytoften 12, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1082-32b8-e044-0003ba298018",
+					"titel": "Nytoften 13, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1083-32b8-e044-0003ba298018",
+					"titel": "Nytoften 14, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1084-32b8-e044-0003ba298018",
+					"titel": "Nytoften 15, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1085-32b8-e044-0003ba298018",
+					"titel": "Nytoften 16, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1086-32b8-e044-0003ba298018",
+					"titel": "Nytoften 17, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1087-32b8-e044-0003ba298018",
+					"titel": "Nytoften 18, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71d2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1088-32b8-e044-0003ba298018",
+					"titel": "Nytoften 19, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71d3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a3-1089-32b8-e044-0003ba298018",
+					"titel": "Nytoften 20, 2750 Ballerup",
+					"husnummerId": "0a3f507b-71d4-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoften 6720": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72a1-32b8-e044-0003ba298018",
+					"titel": "Nytoften 1, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72a2-32b8-e044-0003ba298018",
+					"titel": "Nytoften 2, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72a3-32b8-e044-0003ba298018",
+					"titel": "Nytoften 3, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72a4-32b8-e044-0003ba298018",
+					"titel": "Nytoften 4, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72a5-32b8-e044-0003ba298018",
+					"titel": "Nytoften 5A, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e8380030-3380-4429-832b-02917377e2bd",
+					"titel": "Nytoften 5B, 6720 Fanø",
+					"husnummerId": "0b384348-c486-42e7-ae18-bde83fb2395e"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72a6-32b8-e044-0003ba298018",
+					"titel": "Nytoften 6, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72a7-32b8-e044-0003ba298018",
+					"titel": "Nytoften 7, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72a8-32b8-e044-0003ba298018",
+					"titel": "Nytoften 8, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72a9-32b8-e044-0003ba298018",
+					"titel": "Nytoften 9, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72aa-32b8-e044-0003ba298018",
+					"titel": "Nytoften 10, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72ab-32b8-e044-0003ba298018",
+					"titel": "Nytoften 11, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72ac-32b8-e044-0003ba298018",
+					"titel": "Nytoften 12, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72ad-32b8-e044-0003ba298018",
+					"titel": "Nytoften 13, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72ae-32b8-e044-0003ba298018",
+					"titel": "Nytoften 14, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2cb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72af-32b8-e044-0003ba298018",
+					"titel": "Nytoften 16, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72b0-32b8-e044-0003ba298018",
+					"titel": "Nytoften 18, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72b1-32b8-e044-0003ba298018",
+					"titel": "Nytoften 20, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72b2-32b8-e044-0003ba298018",
+					"titel": "Nytoften 22, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-72b3-32b8-e044-0003ba298018",
+					"titel": "Nytoften 24, 6720 Fanø",
+					"husnummerId": "0a3f508d-e2d0-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoften 4690": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fdf-32b8-e044-0003ba298018",
+					"titel": "Nytoften 1, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-aca2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fe0-32b8-e044-0003ba298018",
+					"titel": "Nytoften 2, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-aca3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fe1-32b8-e044-0003ba298018",
+					"titel": "Nytoften 3, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-aca4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fe2-32b8-e044-0003ba298018",
+					"titel": "Nytoften 4, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-aca5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fe3-32b8-e044-0003ba298018",
+					"titel": "Nytoften 5, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-aca6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fe4-32b8-e044-0003ba298018",
+					"titel": "Nytoften 6, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-aca7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fe5-32b8-e044-0003ba298018",
+					"titel": "Nytoften 7, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-aca8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fe6-32b8-e044-0003ba298018",
+					"titel": "Nytoften 8, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-aca9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fe7-32b8-e044-0003ba298018",
+					"titel": "Nytoften 9, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-acaa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-2fe8-32b8-e044-0003ba298018",
+					"titel": "Nytoften 10, Dalby, 4690 Haslev",
+					"husnummerId": "0a3f5086-acab-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoften 3550": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-9418-32b8-e044-0003ba298018",
+					"titel": "Nytoften 2, Jørlunde, 3550 Slangerup",
+					"husnummerId": "0a3f5080-c406-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-9419-32b8-e044-0003ba298018",
+					"titel": "Nytoften 3, Jørlunde, 3550 Slangerup",
+					"husnummerId": "0a3f5080-c407-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-941a-32b8-e044-0003ba298018",
+					"titel": "Nytoften 4, Jørlunde, 3550 Slangerup",
+					"husnummerId": "0a3f5080-c408-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-941b-32b8-e044-0003ba298018",
+					"titel": "Nytoften 5, Jørlunde, 3550 Slangerup",
+					"husnummerId": "0a3f5080-c409-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-941c-32b8-e044-0003ba298018",
+					"titel": "Nytoften 6, Jørlunde, 3550 Slangerup",
+					"husnummerId": "0a3f5080-c40a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-941d-32b8-e044-0003ba298018",
+					"titel": "Nytoften 7, Jørlunde, 3550 Slangerup",
+					"husnummerId": "0a3f5080-c40b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-941e-32b8-e044-0003ba298018",
+					"titel": "Nytoften 8, Jørlunde, 3550 Slangerup",
+					"husnummerId": "0a3f5080-c40c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-941f-32b8-e044-0003ba298018",
+					"titel": "Nytoften 9, Jørlunde, 3550 Slangerup",
+					"husnummerId": "0a3f5080-c40d-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 4400": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "11db2423-4676-5796-e044-0003ba298018",
+					"titel": "Nytorv 2, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "93cb3db7-6118-4998-ae8b-f9226588b067",
+					"titel": "Nytorv 2A, 4400 Kalundborg",
+					"husnummerId": "19910d8f-ffa4-41c9-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7210-461c-e044-0003ba298018",
+					"titel": "Nytorv 4, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7211-461c-e044-0003ba298018",
+					"titel": "Nytorv 6, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7212-461c-e044-0003ba298018",
+					"titel": "Nytorv 8, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7213-461c-e044-0003ba298018",
+					"titel": "Nytorv 10, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7214-461c-e044-0003ba298018",
+					"titel": "Nytorv 12, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7215-461c-e044-0003ba298018",
+					"titel": "Nytorv 14, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7216-461c-e044-0003ba298018",
+					"titel": "Nytorv 16, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7217-461c-e044-0003ba298018",
+					"titel": "Nytorv 18, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7218-461c-e044-0003ba298018",
+					"titel": "Nytorv 20, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "20"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7219-461c-e044-0003ba298018",
+					"titel": "Nytorv 22, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "22"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-721a-461c-e044-0003ba298018",
+					"titel": "Nytorv 24, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-721b-461c-e044-0003ba298018",
+					"titel": "Nytorv 26, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-721c-461c-e044-0003ba298018",
+					"titel": "Nytorv 28, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "28"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 7700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-2248-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1A, 7700 Thisted",
+					"husnummerId": "0a3f5098-9068-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-2249-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1B, 7700 Thisted",
+					"husnummerId": "0a3f5098-9069-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-906a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1C, 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"husnummer": "1C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-224e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1D, 7700 Thisted",
+					"husnummerId": "0a3f5098-906b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-224f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2, 7700 Thisted",
+					"husnummerId": "0a3f5098-906c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-2250-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3A, 7700 Thisted",
+					"husnummerId": "0a3f5098-906d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-906e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3B, 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"husnummer": "3B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-2255-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3D, 7700 Thisted",
+					"husnummerId": "0a3f5098-906f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "42877e07-dd00-45dc-b436-10cca21ea506",
+					"titel": "Nytorv 3E, 7700 Thisted",
+					"husnummerId": "0a3f5098-9070-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-2256-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3F, 7700 Thisted",
+					"husnummerId": "0a3f5098-9071-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-2257-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4A, 7700 Thisted",
+					"husnummerId": "0a3f5098-9072-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-9073-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4B, 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"husnummer": "4B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-225c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4C, 7700 Thisted",
+					"husnummerId": "0a3f5098-9074-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-9075-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5, 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-9076-32b8-e044-0003ba298018",
+					"titel": "Nytorv 6, 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "8e9c2314-d567-4972-8a25-f31057eb9f74",
+					"titel": "Nytorv 8, 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-9077-32b8-e044-0003ba298018",
+					"titel": "Nytorv 8A, 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"husnummer": "8A"
+				},
+				{
+					"type": "adresse",
+					"id": "bcd3de5a-175b-414e-a89e-817336207d7d",
+					"titel": "Nytorv 8B, 7700 Thisted",
+					"husnummerId": "013631b6-4208-46f3-ab07-c8a74fc4964d"
+				},
+				{
+					"type": "husnummer",
+					"id": "49c3dd8c-572d-4d21-ab02-8cc559317282",
+					"titel": "Nytorv 8C, 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"husnummer": "8C"
+				},
+				{
+					"type": "adresse",
+					"id": "3f4d12c6-8670-4ef4-8455-df6ba25b3862",
+					"titel": "Nytorv 10, 7700 Thisted",
+					"husnummerId": "0a3f5098-907a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "342f7296-49fb-4bc3-8980-221ad94e9b3a",
+					"titel": "Nytorv 10B, 7700 Thisted",
+					"husnummerId": "48cf1403-d0d6-40d6-9832-5baddc456dcd"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 1450": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "f0ed913f-6628-4441-b094-c46ec56465d8",
+					"titel": "Nytorv 1F, 1450 København K",
+					"husnummerId": "0a3f507a-cebf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec0-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "e9a0d5c9-47e4-4d43-99c3-d84627de0f08",
+					"titel": "Nytorv 3A, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "3A"
+				},
+				{
+					"type": "husnummer",
+					"id": "3397d661-5e1a-40d6-9daa-3de40b0851e7",
+					"titel": "Nytorv 3B, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "3B"
+				},
+				{
+					"type": "adresse",
+					"id": "25f22b12-9cf2-4972-938a-0323b0775d63",
+					"titel": "Nytorv 3C, 1450 København K",
+					"husnummerId": "7867dd31-965d-4e99-b49f-2ef6acdc0d5d"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec1-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec2-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5A, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "5A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec3-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "4963c8cb-a13b-49d8-9b30-300fe7a06abc",
+					"titel": "Nytorv 7A, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "7A"
+				},
+				{
+					"type": "husnummer",
+					"id": "31843dc6-a691-4924-8697-87d55cccbe85",
+					"titel": "Nytorv 7B, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "7B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec4-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec5-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec6-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec7-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "51de9725-a6de-470b-a904-e0c0128ed616",
+					"titel": "Nytorv 17B, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "17B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec8-32b8-e044-0003ba298018",
+					"titel": "Nytorv 19, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "19"
+				},
+				{
+					"type": "adresse",
+					"id": "c9fbeaa1-75f1-490e-ad17-5d8ddcae47c9",
+					"titel": "Nytorv 21, 1450 København K",
+					"husnummerId": "0a3f507a-cec9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7cb67c2f-57c2-4da8-8e97-839416ffeba5",
+					"titel": "Nytorv 23, 1450 København K",
+					"husnummerId": "0a3f507a-ceca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cecb-32b8-e044-0003ba298018",
+					"titel": "Nytorv 25, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "6de331cc-5ed8-46ad-97d5-f6ecb37150bf",
+					"titel": "Nytorv 27, 1450 København K",
+					"husnummerId": "0a3f507a-cecc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c430dee6-ebd5-4e98-a9e9-ff49cb530356",
+					"titel": "Nytorv 29, 1450 København K",
+					"husnummerId": "2cc2d4ff-0b00-4936-9d52-109da28924b9"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 9000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f8d-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f8e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1A, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "1A"
+				},
+				{
+					"type": "husnummer",
+					"id": "3da2beca-e83f-463e-828a-407a37946fc7",
+					"titel": "Nytorv 1D, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "1D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f8f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f90-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3B, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "3B"
+				},
+				{
+					"type": "adresse",
+					"id": "719cf864-c619-40de-a0cf-91e74e0f519c",
+					"titel": "Nytorv 3C, 9000 Aalborg",
+					"husnummerId": "bac60a64-1dce-44cf-867b-83ec826a8d7b"
+				},
+				{
+					"type": "adresse",
+					"id": "950327dd-b4e1-4d36-b0e3-40ff35776919",
+					"titel": "Nytorv 5, 9000 Aalborg",
+					"husnummerId": "6be203eb-2827-4fe1-b76d-ec7c282308a5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f92-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5A, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "5A"
+				},
+				{
+					"type": "adresse",
+					"id": "8aa51468-fd07-45c4-934b-f9185cfb0338",
+					"titel": "Nytorv 5B, 9000 Aalborg",
+					"husnummerId": "4ddc37f8-f2a0-407d-89a3-9bf6b2bafae0"
+				},
+				{
+					"type": "husnummer",
+					"id": "675770f0-ef2f-4894-a4c1-95e4b5a6d9d9",
+					"titel": "Nytorv 7, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f94-32b8-e044-0003ba298018",
+					"titel": "Nytorv 8, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "ef7f1e7c-840c-4954-b95c-a56a19962c88",
+					"titel": "Nytorv 9, 9000 Aalborg",
+					"husnummerId": "d9f992c2-ecfb-4cbe-a54a-58ec79f4d258"
+				},
+				{
+					"type": "adresse",
+					"id": "9186df0c-aecd-4907-bda2-e953fb80810b",
+					"titel": "Nytorv 9A, 9000 Aalborg",
+					"husnummerId": "bf8479b2-661d-40a9-87d1-6b0f4451a741"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f95-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f96-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f97-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f98-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13B, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "13B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f99-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f9a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 18, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "18"
+				},
+				{
+					"type": "adresse",
+					"id": "6ac89a3e-ea16-4f69-b862-b6887ecbd932",
+					"titel": "Nytorv 24, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f9b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ca586ef3-2351-4149-9d54-ebafdfc457dd",
+					"titel": "Nytorv 26, 9000 Aalborg",
+					"husnummerId": "d9b4c0bd-f6a7-476f-a630-01f9adf64eea"
+				},
+				{
+					"type": "husnummer",
+					"id": "c8b52495-1226-48be-96ef-86cd106f0253",
+					"titel": "Nytorv 27, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "27"
+				},
+				{
+					"type": "husnummer",
+					"id": "3af9b0ce-6005-4083-b7d7-da8806a15f95",
+					"titel": "Nytorv 28, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "28"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoften 5871": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1cd9-32b8-e044-0003ba298018",
+					"titel": "Nytoften 1, 5871 Frørup",
+					"husnummerId": "0a3f508a-fc9b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1cda-32b8-e044-0003ba298018",
+					"titel": "Nytoften 2, 5871 Frørup",
+					"husnummerId": "0a3f508a-fc9c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1cdb-32b8-e044-0003ba298018",
+					"titel": "Nytoften 3, 5871 Frørup",
+					"husnummerId": "0a3f508a-fc9d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1cdc-32b8-e044-0003ba298018",
+					"titel": "Nytoften 4, 5871 Frørup",
+					"husnummerId": "0a3f508a-fc9e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1cdd-32b8-e044-0003ba298018",
+					"titel": "Nytoften 5, 5871 Frørup",
+					"husnummerId": "0a3f508a-fc9f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1cde-32b8-e044-0003ba298018",
+					"titel": "Nytoften 6, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1cdf-32b8-e044-0003ba298018",
+					"titel": "Nytoften 7, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1ce0-32b8-e044-0003ba298018",
+					"titel": "Nytoften 8, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1ce1-32b8-e044-0003ba298018",
+					"titel": "Nytoften 9, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1ce2-32b8-e044-0003ba298018",
+					"titel": "Nytoften 10, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1ce3-32b8-e044-0003ba298018",
+					"titel": "Nytoften 11, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1ce4-32b8-e044-0003ba298018",
+					"titel": "Nytoften 12, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1ce5-32b8-e044-0003ba298018",
+					"titel": "Nytoften 13, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1ce6-32b8-e044-0003ba298018",
+					"titel": "Nytoften 15, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1ce7-32b8-e044-0003ba298018",
+					"titel": "Nytoften 17, 5871 Frørup",
+					"husnummerId": "0a3f508a-fca9-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 5500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "d9b1a848-7ba4-4ff3-af17-3428e4bf73c2",
+					"titel": "Nytorv 1, Middelfart, 5500 Middelfart",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "87646327-3439-446e-9eee-bbd59379d415",
+					"titel": "Nytorv 3, Middelfart, 5500 Middelfart",
+					"husnummerId": "2ca5e348-9af8-4e46-bc33-02b4c978b564"
+				},
+				{
+					"type": "adresse",
+					"id": "c6b848c6-8dac-4da8-a24a-fd33cdd92394",
+					"titel": "Nytorv 5, Middelfart, 5500 Middelfart",
+					"husnummerId": "d7c840ce-9200-4228-be76-680f5fc29f56"
+				},
+				{
+					"type": "adresse",
+					"id": "ece4a54b-26f5-4633-a908-a1c62725ef6a",
+					"titel": "Nytorv 7, Middelfart, 5500 Middelfart",
+					"husnummerId": "d01975d3-1d83-4e38-803e-4af7ffd83e93"
+				},
+				{
+					"type": "adresse",
+					"id": "9e4c36ff-1b4c-4d40-a9aa-540f1d4b95b6",
+					"titel": "Nytorv 9, Middelfart, 5500 Middelfart",
+					"husnummerId": "08eb3346-26c1-43c5-b572-07aee698adde"
+				},
+				{
+					"type": "adresse",
+					"id": "836c5cd0-f7df-4a58-b8c6-518ba3b80ca3",
+					"titel": "Nytorv 11, Middelfart, 5500 Middelfart",
+					"husnummerId": "21562693-85b0-4952-b72a-520641b0a9d6"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 6000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-49b7-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 6000 Kolding",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-49b8-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2, 6000 Kolding",
+					"vejnavn": "Nytorv",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "73c6f9d6-225a-0b24-e044-00144f3ead67",
+					"titel": "Nytorv 5, 1., 6000 Kolding",
+					"husnummerId": "734c006f-bcbe-17af-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-2979-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9, 6000 Kolding",
+					"husnummerId": "0a3f5090-49bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d7239d60-3755-4706-a7d6-db52b6a057f7",
+					"titel": "Nytorv 9A, 6000 Kolding",
+					"husnummerId": "06cf05e0-31c8-47e8-bab8-268e84bd79c1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-297a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11, 6000 Kolding",
+					"husnummerId": "0a3f5090-49bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "47a0f66a-ca21-4245-bc71-cd0f63035d03",
+					"titel": "Nytorv 11A, 6000 Kolding",
+					"husnummerId": "60ea773b-bfa6-423e-8b74-f0e5bf53cfa0"
+				},
+				{
+					"type": "adresse",
+					"id": "ae5db709-582d-4cc4-a3c3-fea1235c1a8a",
+					"titel": "Nytorv 13, 6000 Kolding",
+					"husnummerId": "7b4a3697-8f4b-47cc-8cde-5af807f55343"
+				},
+				{
+					"type": "adresse",
+					"id": "4d650b01-585b-4bf3-8cbe-8837af891334",
+					"titel": "Nytorv 15A, 6000 Kolding",
+					"husnummerId": "15b7d4d1-22b5-4196-ad2f-e2b5b08750d6"
+				},
+				{
+					"type": "adresse",
+					"id": "e10edecc-4a98-4f78-985c-5b31e4bb9195",
+					"titel": "Nytorv 15B, 6000 Kolding",
+					"husnummerId": "aad7ab6a-a609-4a1c-a2a1-fef9d5240ddf"
+				},
+				{
+					"type": "adresse",
+					"id": "db44773e-1891-43d7-8720-e150c61f2d78",
+					"titel": "Nytorv 15C, 6000 Kolding",
+					"husnummerId": "a92f58f1-48cd-4484-8154-47f6c83cc7e3"
+				},
+				{
+					"type": "adresse",
+					"id": "0ee36301-64db-413b-a43a-811031f33e8a",
+					"titel": "Nytorv 15D, 6000 Kolding",
+					"husnummerId": "5d36c53e-64cd-4f81-800d-ba6d370a887c"
+				},
+				{
+					"type": "adresse",
+					"id": "ebd36cd3-ab77-4241-a145-c21f62d60771",
+					"titel": "Nytorv 15E, 6000 Kolding",
+					"husnummerId": "dbcbf5fe-26f3-4a4b-a986-ff741919422a"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 4340": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6495-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 4340 Tølløse",
+					"husnummerId": "0a3f5085-0a79-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a7a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6498-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3, 4340 Tølløse",
+					"husnummerId": "0a3f5085-0a7b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a7c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a7d-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a7e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 6, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a7f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a80-32b8-e044-0003ba298018",
+					"titel": "Nytorv 8, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a81-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a82-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "1bd2e313-d978-4ee2-afba-bf04a472775c",
+					"titel": "Nytorv 11, 4340 Tølløse",
+					"husnummerId": "fdc1054b-82ca-4b7d-b0ef-96945b5d0ffb"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a83-32b8-e044-0003ba298018",
+					"titel": "Nytorv 12, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a84-32b8-e044-0003ba298018",
+					"titel": "Nytorv 14, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "14"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 4200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d16-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d18-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "2A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d19-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "2B"
+				},
+				{
+					"type": "adresse",
+					"id": "ccf06069-f737-4f4f-a655-20dea09e6f2e",
+					"titel": "Nytorv 2C, 4200 Slagelse",
+					"husnummerId": "b9dcb1d7-63ab-413c-bde0-235476f28eae"
+				},
+				{
+					"type": "adresse",
+					"id": "e52c45cb-a1fd-4ba4-9af1-3f06875684c1",
+					"titel": "Nytorv 2D, 4200 Slagelse",
+					"husnummerId": "4cafb43f-9a11-4757-8157-47502c288832"
+				},
+				{
+					"type": "adresse",
+					"id": "a7aa1374-2496-437f-bc8d-719500418835",
+					"titel": "Nytorv 2E, 4200 Slagelse",
+					"husnummerId": "b8b37886-05dc-4704-b66d-9f19b7131d89"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d1a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d1b-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d1c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 6, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d1d-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d1e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 8A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "8A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d1f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 8B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "8B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d20-32b8-e044-0003ba298018",
+					"titel": "Nytorv 8C, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "8C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d21-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "9A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d22-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "9B"
+				},
+				{
+					"type": "husnummer",
+					"id": "70525577-9d36-4bc3-9dc8-e85d15420874",
+					"titel": "Nytorv 9C, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "9C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d23-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9D, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "9D"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-ae4f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9E, 4200 Slagelse",
+					"husnummerId": "0a3f5084-5d24-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-ae51-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9F, 4200 Slagelse",
+					"husnummerId": "0a3f5084-5d25-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-ae53-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9G, 4200 Slagelse",
+					"husnummerId": "0a3f5084-5d26-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d27-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9H, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "9H"
+				},
+				{
+					"type": "adresse",
+					"id": "374230b7-1719-51c5-e044-0003ba298018",
+					"titel": "Nytorv 9I, 4200 Slagelse",
+					"husnummerId": "37351fd3-d6f9-61ef-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "37351fd3-d6fa-61ef-e044-0003ba298018",
+					"titel": "Nytorv 9K, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "9K"
+				},
+				{
+					"type": "husnummer",
+					"id": "37351fd3-d6fb-61ef-e044-0003ba298018",
+					"titel": "Nytorv 9L, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "9L"
+				},
+				{
+					"type": "husnummer",
+					"id": "37351fd3-d6fc-61ef-e044-0003ba298018",
+					"titel": "Nytorv 9M, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "9M"
+				},
+				{
+					"type": "adresse",
+					"id": "9a73d068-4631-4e6e-a052-b07e019abeb4",
+					"titel": "Nytorv 9N, 4200 Slagelse",
+					"husnummerId": "2317805f-e8ec-4a41-9bbc-f8984c474fbf"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d28-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "10A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d29-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "10B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-ae5d-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10D, 4200 Slagelse",
+					"husnummerId": "0a3f5084-5d2a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d2b-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "11A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d2c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "11B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d2e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "13A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d2f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "13B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-ae6a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13C, 4200 Slagelse",
+					"husnummerId": "0a3f5084-5d30-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d31-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "3e1496ff-b5e7-4dd4-9464-38cb116a0a25",
+					"titel": "Nytorv 17, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d32-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "17A"
+				},
+				{
+					"type": "husnummer",
+					"id": "97860a8b-4543-4b9f-b3f5-2b3c20ddd8f1",
+					"titel": "Nytorv 17B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "17B"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoften 8462": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c312-32b8-e044-0003ba298018",
+					"titel": "Nytoften 2, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c313-32b8-e044-0003ba298018",
+					"titel": "Nytoften 3, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c314-32b8-e044-0003ba298018",
+					"titel": "Nytoften 4, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c315-32b8-e044-0003ba298018",
+					"titel": "Nytoften 5, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c316-32b8-e044-0003ba298018",
+					"titel": "Nytoften 6, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c317-32b8-e044-0003ba298018",
+					"titel": "Nytoften 7, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c318-32b8-e044-0003ba298018",
+					"titel": "Nytoften 8, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c319-32b8-e044-0003ba298018",
+					"titel": "Nytoften 9, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c31a-32b8-e044-0003ba298018",
+					"titel": "Nytoften 10, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c31b-32b8-e044-0003ba298018",
+					"titel": "Nytoften 11, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c31c-32b8-e044-0003ba298018",
+					"titel": "Nytoften 12, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c31d-32b8-e044-0003ba298018",
+					"titel": "Nytoften 13, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c31e-32b8-e044-0003ba298018",
+					"titel": "Nytoften 14, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c31f-32b8-e044-0003ba298018",
+					"titel": "Nytoften 15, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "11f17ae3-c4d3-0668-e044-0003ba298018",
+					"titel": "Nytoften 16, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c320-32b8-e044-0003ba298018",
+					"titel": "Nytoften 17, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c321-32b8-e044-0003ba298018",
+					"titel": "Nytoften 18, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c322-32b8-e044-0003ba298018",
+					"titel": "Nytoften 19, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c323-32b8-e044-0003ba298018",
+					"titel": "Nytoften 20, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5cb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c324-32b8-e044-0003ba298018",
+					"titel": "Nytoften 21, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c325-32b8-e044-0003ba298018",
+					"titel": "Nytoften 22, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c326-32b8-e044-0003ba298018",
+					"titel": "Nytoften 23, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-c327-32b8-e044-0003ba298018",
+					"titel": "Nytoften 24, 8462 Harlev J",
+					"husnummerId": "0a3f5096-a5cf-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 8464": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-a5db-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 8464 Galten",
+					"husnummerId": "0a3f5093-6d85-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-a5dc-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2, 8464 Galten",
+					"husnummerId": "0a3f5093-6d86-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2d180f8e-bade-4661-8a18-1d2d0d18061a",
+					"titel": "Nytorv 3, 8464 Galten",
+					"husnummerId": "61f82f8d-8d1a-49d3-9f94-b2a5f381fd06"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-a5dd-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4, 8464 Galten",
+					"husnummerId": "0a3f5093-6d87-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e9fe885d-36f8-4255-84b4-d1d88742c39d",
+					"titel": "Nytorv 5, 8464 Galten",
+					"husnummerId": "91bb5a3b-ba66-4380-a5f5-f5c643372049"
+				},
+				{
+					"type": "adresse",
+					"id": "044ed8a4-1d3d-4212-8929-a7dee17615b0",
+					"titel": "Nytorv 6, 8464 Galten",
+					"husnummerId": "0a3f5093-6d88-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "b58eef01-3b47-4b13-b68b-0a7be4dfac34",
+					"titel": "Nytorv 6A, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "6A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0e0f22cc-d89a-41f7-b038-2d6e5a956884",
+					"titel": "Nytorv 7, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "7"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-a5e1-32b8-e044-0003ba298018",
+					"titel": "Nytorv 8, 8464 Galten",
+					"husnummerId": "0a3f5093-6d89-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "96d29c5a-13cf-4729-b37a-b8b635814fd3",
+					"titel": "Nytorv 10, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "c50a9837-1802-4918-9547-acad5a219c0c",
+					"titel": "Nytorv 12, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "077cb201-6627-43b6-80aa-1d3c468ca1ea",
+					"titel": "Nytorv 14, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "6ed1fca3-06f1-44bd-9eff-2f3f0ede3b44",
+					"titel": "Nytorv 16, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "16"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 4660": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-d215-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "26eeb168-cd2d-4c80-ac58-b4ff8eebc2db",
+					"titel": "Nytorv 1A, 4660 Store Heddinge",
+					"husnummerId": "0a3f5086-d216-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-d217-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2, 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-54f6-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2A, 1. th, 4660 Store Heddinge",
+					"husnummerId": "0a3f5086-d218-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-54f7-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2B, 4660 Store Heddinge",
+					"husnummerId": "0a3f5086-d219-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b1-54f8-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2C, 4660 Store Heddinge",
+					"husnummerId": "0a3f5086-d21a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-d21b-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3, 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-d21c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3A, 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"husnummer": "3A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-d21d-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4, 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-d21e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5, 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-d21f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 6, 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"husnummer": "6"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 3200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-0856-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e15-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-0857-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e17-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-0858-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e18-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-0859-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e19-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-085a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e1a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-085b-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e1b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-085c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e1c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Toftegårdsvej 3650": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "d3aa3738-ae72-4c80-bffc-2896605bce01",
+					"titel": "Ny Toftegårdsvej 1, 3650 Ølstykke",
+					"husnummerId": "d6af6b4f-3ed5-4dc2-a115-e8f6319e3151"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd8d-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 2, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef3b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ff1abd4a-0fe8-4bdf-a3ff-9b50fa1c740e",
+					"titel": "Ny Toftegårdsvej 4G, 3650 Ølstykke",
+					"husnummerId": "218e7b8e-eed3-43c8-9701-a0abe0a35591"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd8e-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 7, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef3d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "16bed59f-9725-1efc-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 8, 3650 Ølstykke",
+					"vejnavn": "Ny Toftegårdsvej",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "ec233712-2fee-45bb-b986-91f09b17b13e",
+					"titel": "Ny Toftegårdsvej 9A, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cae226d6-e772-4607-8011-7952f10b0929",
+					"titel": "Ny Toftegårdsvej 9B, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef3f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d6822f01-ad9d-44e1-84df-8fca82005d15",
+					"titel": "Ny Toftegårdsvej 9G, 3650 Ølstykke",
+					"husnummerId": "1a89c932-0243-437a-9fb3-db648070f566"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd8f-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 12, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef40-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd90-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 14, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef41-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd91-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 16, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef42-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd92-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 18, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef43-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dfa498c9-f778-48e7-a159-5f53fbee59c2",
+					"titel": "Ny Toftegårdsvej 20A, 3650 Ølstykke",
+					"husnummerId": "02d43e0b-9146-4845-8030-9d7fdaf655ff"
+				},
+				{
+					"type": "adresse",
+					"id": "fb382449-7228-40c9-81bc-badbe8987123",
+					"titel": "Ny Toftegårdsvej 20B, 3650 Ølstykke",
+					"husnummerId": "908642de-ad66-478d-aab3-a093ebf68e61"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd94-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 22, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd96-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 26, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef47-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd97-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 28, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef48-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd98-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 30, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd99-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 32, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd9a-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 38, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd9b-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 40, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd9c-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 42, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef4d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-bd9d-32b8-e044-0003ba298018",
+					"titel": "Ny Toftegårdsvej 44, 3650 Ølstykke",
+					"husnummerId": "0a3f5080-ef4e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 9900": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-799a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d43e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-799b-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3A, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d43f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-799c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3B, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d440-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-d442-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-799d-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7A, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d443-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-799e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7B, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d444-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-d445-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7C, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "7C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-79a1-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7D, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d446-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-79a2-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d447-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6004fabe-9f59-46f1-998f-6a6951ab5827",
+					"titel": "Nytorv 11, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d448-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-d449-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13A, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "13A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-79a5-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13B, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d44a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-79a6-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d44b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-d44c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "17"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-79ad-32b8-e044-0003ba298018",
+					"titel": "Nytorv 19, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d44d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-d44e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 21, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "e27e5f7f-7cdf-4ffb-92c2-130c6efb2c46",
+					"titel": "Nytorv 23, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-d44f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 25, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "25"
+				},
+				{
+					"type": "husnummer",
+					"id": "96965b1f-a086-4107-8b14-9ccfeae636a1",
+					"titel": "Nytorv 27, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "27"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 8400": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-4c2c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 8400 Ebeltoft",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86b6-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2, 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c2d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86b7-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3, 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c2e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86b8-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4, 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c2f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86b9-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4A, 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c30-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86ba-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5, 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-4c32-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5A, 8400 Ebeltoft",
+					"vejnavn": "Nytorv",
+					"husnummer": "5A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-4c33-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5B, 8400 Ebeltoft",
+					"vejnavn": "Nytorv",
+					"husnummer": "5B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86bf-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5C, 1., 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c34-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86c0-32b8-e044-0003ba298018",
+					"titel": "Nytorv 5D, 1., 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c35-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86c1-32b8-e044-0003ba298018",
+					"titel": "Nytorv 6, 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c36-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86c2-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7, 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c37-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86c3-32b8-e044-0003ba298018",
+					"titel": "Nytorv 8, 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c38-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-86c4-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9, 8400 Ebeltoft",
+					"husnummerId": "0a3f5093-4c39-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nythåbsvej 9830": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-31f7-32b8-e044-0003ba298018",
+					"titel": "Nythåbsvej 2, Tranget, 9830 Tårs",
+					"husnummerId": "0a3f509a-8ab0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-31f8-32b8-e044-0003ba298018",
+					"titel": "Nythåbsvej 6, Tranget, 9830 Tårs",
+					"husnummerId": "0a3f509a-8ab1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-31f9-32b8-e044-0003ba298018",
+					"titel": "Nythåbsvej 8, Tranget, 9830 Tårs",
+					"husnummerId": "0a3f509a-8ab2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-31fa-32b8-e044-0003ba298018",
+					"titel": "Nythåbsvej 9, Tranget, 9830 Tårs",
+					"husnummerId": "0a3f509a-8ab3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-31fb-32b8-e044-0003ba298018",
+					"titel": "Nythåbsvej 20, Tranget, 9830 Tårs",
+					"husnummerId": "0a3f509a-8ab4-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoften 5220": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-712e-32b8-e044-0003ba298018",
+					"titel": "Nytoften 1, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d8b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-712f-32b8-e044-0003ba298018",
+					"titel": "Nytoften 2, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d8c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7130-32b8-e044-0003ba298018",
+					"titel": "Nytoften 3, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7131-32b8-e044-0003ba298018",
+					"titel": "Nytoften 4, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d8e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7132-32b8-e044-0003ba298018",
+					"titel": "Nytoften 5, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d8f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7133-32b8-e044-0003ba298018",
+					"titel": "Nytoften 6, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d90-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7134-32b8-e044-0003ba298018",
+					"titel": "Nytoften 7, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d91-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7135-32b8-e044-0003ba298018",
+					"titel": "Nytoften 8, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d92-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7136-32b8-e044-0003ba298018",
+					"titel": "Nytoften 9, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d93-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7137-32b8-e044-0003ba298018",
+					"titel": "Nytoften 10, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d94-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7138-32b8-e044-0003ba298018",
+					"titel": "Nytoften 11, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d95-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7139-32b8-e044-0003ba298018",
+					"titel": "Nytoften 12, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d96-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-713a-32b8-e044-0003ba298018",
+					"titel": "Nytoften 13, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d97-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-713b-32b8-e044-0003ba298018",
+					"titel": "Nytoften 14, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d98-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-713c-32b8-e044-0003ba298018",
+					"titel": "Nytoften 15, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d99-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-713d-32b8-e044-0003ba298018",
+					"titel": "Nytoften 16, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d9a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-713e-32b8-e044-0003ba298018",
+					"titel": "Nytoften 17, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d9b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-713f-32b8-e044-0003ba298018",
+					"titel": "Nytoften 18, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d9c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7140-32b8-e044-0003ba298018",
+					"titel": "Nytoften 19, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d9d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7141-32b8-e044-0003ba298018",
+					"titel": "Nytoften 20, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d9e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7142-32b8-e044-0003ba298018",
+					"titel": "Nytoften 21A, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8d9f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7143-32b8-e044-0003ba298018",
+					"titel": "Nytoften 21B, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7144-32b8-e044-0003ba298018",
+					"titel": "Nytoften 21C, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7145-32b8-e044-0003ba298018",
+					"titel": "Nytoften 21D, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7146-32b8-e044-0003ba298018",
+					"titel": "Nytoften 22, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7147-32b8-e044-0003ba298018",
+					"titel": "Nytoften 23A, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7148-32b8-e044-0003ba298018",
+					"titel": "Nytoften 23B, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7149-32b8-e044-0003ba298018",
+					"titel": "Nytoften 24, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-714a-32b8-e044-0003ba298018",
+					"titel": "Nytoften 25A, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-714b-32b8-e044-0003ba298018",
+					"titel": "Nytoften 25B, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-714c-32b8-e044-0003ba298018",
+					"titel": "Nytoften 26, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8da9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-714d-32b8-e044-0003ba298018",
+					"titel": "Nytoften 27A, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8daa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-714e-32b8-e044-0003ba298018",
+					"titel": "Nytoften 27B, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-714f-32b8-e044-0003ba298018",
+					"titel": "Nytoften 28, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7150-32b8-e044-0003ba298018",
+					"titel": "Nytoften 29A, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7151-32b8-e044-0003ba298018",
+					"titel": "Nytoften 29B, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7152-32b8-e044-0003ba298018",
+					"titel": "Nytoften 30, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8daf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7153-32b8-e044-0003ba298018",
+					"titel": "Nytoften 31A, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7154-32b8-e044-0003ba298018",
+					"titel": "Nytoften 31B, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7155-32b8-e044-0003ba298018",
+					"titel": "Nytoften 32, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7156-32b8-e044-0003ba298018",
+					"titel": "Nytoften 33A, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7157-32b8-e044-0003ba298018",
+					"titel": "Nytoften 33B, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7158-32b8-e044-0003ba298018",
+					"titel": "Nytoften 34, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7159-32b8-e044-0003ba298018",
+					"titel": "Nytoften 35A, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-715a-32b8-e044-0003ba298018",
+					"titel": "Nytoften 35B, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-715b-32b8-e044-0003ba298018",
+					"titel": "Nytoften 36, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-715c-32b8-e044-0003ba298018",
+					"titel": "Nytoften 37A, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8db9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-715d-32b8-e044-0003ba298018",
+					"titel": "Nytoften 37B, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-715e-32b8-e044-0003ba298018",
+					"titel": "Nytoften 38, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dbb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-715f-32b8-e044-0003ba298018",
+					"titel": "Nytoften 41, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dbc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7160-32b8-e044-0003ba298018",
+					"titel": "Nytoften 43, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dbd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7161-32b8-e044-0003ba298018",
+					"titel": "Nytoften 45, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dbe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7162-32b8-e044-0003ba298018",
+					"titel": "Nytoften 47, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dbf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7163-32b8-e044-0003ba298018",
+					"titel": "Nytoften 49, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7164-32b8-e044-0003ba298018",
+					"titel": "Nytoften 51, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7165-32b8-e044-0003ba298018",
+					"titel": "Nytoften 53, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7166-32b8-e044-0003ba298018",
+					"titel": "Nytoften 55, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7167-32b8-e044-0003ba298018",
+					"titel": "Nytoften 57, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7168-32b8-e044-0003ba298018",
+					"titel": "Nytoften 59, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7169-32b8-e044-0003ba298018",
+					"titel": "Nytoften 61, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-716a-32b8-e044-0003ba298018",
+					"titel": "Nytoften 63, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-716b-32b8-e044-0003ba298018",
+					"titel": "Nytoften 65, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-716c-32b8-e044-0003ba298018",
+					"titel": "Nytoften 67, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dc9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-716d-32b8-e044-0003ba298018",
+					"titel": "Nytoften 69, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-716e-32b8-e044-0003ba298018",
+					"titel": "Nytoften 71, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dcb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-716f-32b8-e044-0003ba298018",
+					"titel": "Nytoften 73, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dcc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7170-32b8-e044-0003ba298018",
+					"titel": "Nytoften 75, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dcd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7171-32b8-e044-0003ba298018",
+					"titel": "Nytoften 77, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7172-32b8-e044-0003ba298018",
+					"titel": "Nytoften 79, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dcf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b4-7173-32b8-e044-0003ba298018",
+					"titel": "Nytoften 81, Over Holluf, 5220 Odense SØ",
+					"husnummerId": "0a3f5089-8dd0-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoftevej 7400": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-91bf-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 2, Nybo, 7400 Herning",
+					"husnummerId": "0a3f5091-7166-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bad00eea-ee79-4e55-bce6-eb4fa9086489",
+					"titel": "Nytoftevej 4, Nybo, 7400 Herning",
+					"husnummerId": "b9609f45-ccd9-4c05-a1be-1d58a5a6f797"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-91c0-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 5, Nybo, 7400 Herning",
+					"husnummerId": "0a3f5091-7167-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-91c1-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 6, Nybo, 7400 Herning",
+					"husnummerId": "0a3f5091-7168-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-91c2-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 8, Nybo, 7400 Herning",
+					"husnummerId": "0a3f5091-7169-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4f3f3a69-3b0a-4866-9706-212b49b88d4b",
+					"titel": "Nytoftevej 8A, Nybo, 7400 Herning",
+					"husnummerId": "69e328fa-8b6b-4a0d-be6a-e3ac99a5a744"
+				},
+				{
+					"type": "adresse",
+					"id": "fd607d3d-128b-4347-988a-15411950f2b0",
+					"titel": "Nytoftevej 8B, Nybo, 7400 Herning",
+					"husnummerId": "54b049f2-4f0c-471e-86a5-8b4b93a2cc31"
+				},
+				{
+					"type": "adresse",
+					"id": "d2708838-4551-4f21-b914-75ffc5004b91",
+					"titel": "Nytoftevej 8C, Nybo, 7400 Herning",
+					"husnummerId": "26c995b7-4161-4433-9626-b33ac0e6aae5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-91c3-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 12, Nybo, 7400 Herning",
+					"husnummerId": "0a3f5091-716a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-91c4-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 14, Nybo, 7400 Herning",
+					"husnummerId": "0a3f5091-716b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bd-91c5-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 15, Nybo, 7400 Herning",
+					"husnummerId": "0a3f5091-716c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a638cb77-e726-4270-8185-37a2efa96085",
+					"titel": "Nytoftevej 17, Nybo, 7400 Herning",
+					"husnummerId": "1ce5ed8e-f63c-4155-bc4e-99dc932d36da"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 8800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "50c1493c-b2fb-40db-9c79-b4d845a8456f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 39
+				},
+				{
+					"id": "a1a893a4-c77d-4d5d-9bc9-f5ce1f664b66",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorvgyde 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 8
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorvgyde 8800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "3b2cfcdc-8c09-43c8-b203-de5a58b926b6",
+					"titel": "Nytorvgyde 1, 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-e8da-32b8-e044-0003ba298018",
+					"titel": "Nytorvgyde 3, 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "7b8cb6c4-156f-46a8-a3b2-7b8aa65c1321",
+					"titel": "Nytorvgyde 4, 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"husnummer": "4"
+				},
+				{
+					"type": "adresse",
+					"id": "e3e90847-005c-47a6-8d8d-11c8cdcc75cb",
+					"titel": "Nytorvgyde 5, 8800 Viborg",
+					"husnummerId": "bc8b0d50-a1bb-4695-b891-943f25c6ba43"
+				},
+				{
+					"type": "husnummer",
+					"id": "22f6e24d-1b50-45ff-80c7-51ae48e39805",
+					"titel": "Nytorvgyde 6, 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"husnummer": "6"
+				},
+				{
+					"type": "adresse",
+					"id": "50d40b49-77fd-41ef-bd0c-b385347c71a2",
+					"titel": "Nytorvgyde 7, 8800 Viborg",
+					"husnummerId": "0a3f5098-e8db-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "6c7c5275-f267-4cf6-8d9f-676b4fcdd497",
+					"titel": "Nytorvgyde 8, 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "75b8b15a-38f6-4fe6-9a52-62a200940fda",
+					"titel": "Nytorvgyde 9, 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"husnummer": "9"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 7323": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-0588-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, st., 7323 Give",
+					"husnummerId": "0a3f508f-5a80-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c67a2b1b-97d6-4965-99aa-589a10759d28",
+					"titel": "Nytorv 5, 7323 Give",
+					"husnummerId": "d81b0d24-321d-413c-8b53-d00f07ac5b81"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508f-5a81-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7, 7323 Give",
+					"vejnavn": "Nytorv",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508f-5a82-32b8-e044-0003ba298018",
+					"titel": "Nytorv 9, 7323 Give",
+					"vejnavn": "Nytorv",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508f-5a83-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 7323 Give",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytoftevej 6760": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-cc1a-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 3, Mandø, 6760 Ribe",
+					"husnummerId": "0a3f508e-3dea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-cc1b-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 10, Mandø, 6760 Ribe",
+					"husnummerId": "0a3f508e-3deb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b9-cc1c-32b8-e044-0003ba298018",
+					"titel": "Nytoftevej 21, Mandø, 6760 Ribe",
+					"husnummerId": "0a3f508e-3dec-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 4230": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c6e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1A, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d4d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-2d4e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1B, 4230 Skælskør",
+					"vejnavn": "Nytorv",
+					"husnummer": "1B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-2d4f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 2, 4230 Skælskør",
+					"vejnavn": "Nytorv",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c71-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3A, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d50-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c72-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3B, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d51-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-2d52-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4, 4230 Skælskør",
+					"vejnavn": "Nytorv",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-2d53-32b8-e044-0003ba298018",
+					"titel": "Nytorv 6, 4230 Skælskør",
+					"vejnavn": "Nytorv",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-2d54-32b8-e044-0003ba298018",
+					"titel": "Nytorv 8, 4230 Skælskør",
+					"vejnavn": "Nytorv",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c81-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c82-32b8-e044-0003ba298018",
+					"titel": "Nytorv 12, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d57-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c83-32b8-e044-0003ba298018",
+					"titel": "Nytorv 14, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d58-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c84-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c85-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d5a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c86-32b8-e044-0003ba298018",
+					"titel": "Nytorv 19, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d5b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 9500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "1d98cbeb-351c-4b45-b2d9-483887107e55",
+					"titel": "Nytorv 1, 9500 Hobro",
+					"husnummerId": "0a3f509a-bb56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-bb57-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3, 9500 Hobro",
+					"vejnavn": "Nytorv",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-bb58-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 9500 Hobro",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-bb59-32b8-e044-0003ba298018",
+					"titel": "Nytorv 12, 9500 Hobro",
+					"vejnavn": "Nytorv",
+					"husnummer": "12"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 4300": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a7a-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 1, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e43-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5083-3e44-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 2, 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "bce582f9-04fe-44d1-8400-3b9e1901186d",
+					"titel": "Ny Taastrupvej 2A, 4300 Holbæk",
+					"husnummerId": "cac7698f-e6da-4fc2-9318-60b235287b34"
+				},
+				{
+					"type": "adresse",
+					"id": "64808508-53d7-4ff9-9ef0-4ef78020819d",
+					"titel": "Ny Taastrupvej 2B, 4300 Holbæk",
+					"husnummerId": "e62002d7-fb94-4241-8d06-6dfbc862f391"
+				},
+				{
+					"type": "adresse",
+					"id": "de0b4b3f-e7a9-4a60-8e6f-362bf74f3825",
+					"titel": "Ny Taastrupvej 2C, 4300 Holbæk",
+					"husnummerId": "73af77c0-350a-4230-acd7-75e2fa3554ec"
+				},
+				{
+					"type": "adresse",
+					"id": "47ecf7c1-4ea8-4353-ab83-d6ab811bd741",
+					"titel": "Ny Taastrupvej 2D, 4300 Holbæk",
+					"husnummerId": "007c3174-6788-4dfb-a0d3-c11910e3f973"
+				},
+				{
+					"type": "adresse",
+					"id": "ad4bf475-32d5-4c33-afc0-e5d3168669de",
+					"titel": "Ny Taastrupvej 2E, 4300 Holbæk",
+					"husnummerId": "0979126a-a5b9-42c8-9255-c4a4b3e2a90a"
+				},
+				{
+					"type": "adresse",
+					"id": "22441b63-30d8-4de7-a3ef-7730f960b9fb",
+					"titel": "Ny Taastrupvej 2F, 4300 Holbæk",
+					"husnummerId": "07d5d8e1-6089-4212-932f-d191a27b8ff7"
+				},
+				{
+					"type": "adresse",
+					"id": "02c6ebd5-2b21-482f-b78d-2b6f03be2793",
+					"titel": "Ny Taastrupvej 2G, 4300 Holbæk",
+					"husnummerId": "fbc3e68a-661d-4370-9a8a-3c16fd3d6c8e"
+				},
+				{
+					"type": "adresse",
+					"id": "10840a96-f36c-4176-994b-8214ba1d1e3c",
+					"titel": "Ny Taastrupvej 2H, 4300 Holbæk",
+					"husnummerId": "8218f7b3-97d8-47d8-8d25-0bb99d87d709"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a7c-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 3, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0cf92a00-0e3f-4f7c-8c69-8496f792177e",
+					"titel": "Ny Taastrupvej 4A, 4300 Holbæk",
+					"husnummerId": "4c44c6c1-19b0-4573-8d1f-9564a63bd395"
+				},
+				{
+					"type": "adresse",
+					"id": "4ee08143-a556-4a72-9fc8-9f4513df5382",
+					"titel": "Ny Taastrupvej 4B, 4300 Holbæk",
+					"husnummerId": "7e9019b1-1945-46f3-87bf-eba9de6b307b"
+				},
+				{
+					"type": "adresse",
+					"id": "3ad57f76-d06e-4aec-abcf-5b5754bfac12",
+					"titel": "Ny Taastrupvej 4C, 4300 Holbæk",
+					"husnummerId": "dcf86881-be57-4565-a358-03ffcbaee2b2"
+				},
+				{
+					"type": "adresse",
+					"id": "ddfe82ce-e991-4b54-9f4e-6fd77a69b304",
+					"titel": "Ny Taastrupvej 4D, 4300 Holbæk",
+					"husnummerId": "4bec8d93-8c4a-4737-bae3-0e716709f85f"
+				},
+				{
+					"type": "adresse",
+					"id": "b1a142b9-a546-4fdc-a04a-61ef8ade4600",
+					"titel": "Ny Taastrupvej 4E, 4300 Holbæk",
+					"husnummerId": "4020c2ce-b45e-4654-a0eb-34cf04b998e2"
+				},
+				{
+					"type": "adresse",
+					"id": "34b32510-c885-41d0-af20-878be8d1b531",
+					"titel": "Ny Taastrupvej 4F, 4300 Holbæk",
+					"husnummerId": "ae7983b4-d465-4087-8523-55c68f8dd0a3"
+				},
+				{
+					"type": "adresse",
+					"id": "cd9aa02e-cde2-426d-b7df-4d317ca42fc1",
+					"titel": "Ny Taastrupvej 4G, 4300 Holbæk",
+					"husnummerId": "804fb15b-9715-4088-8157-1b766d78127c"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a7d-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 5, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e46-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "88076ce6-48cf-49c1-be23-f9d5e07d9f71",
+					"titel": "Ny Taastrupvej 6A, 4300 Holbæk",
+					"husnummerId": "dff3fde6-0768-49f8-b88e-b7b2e2a02110"
+				},
+				{
+					"type": "adresse",
+					"id": "7b503b05-7459-4d94-8ea7-68a1f943de28",
+					"titel": "Ny Taastrupvej 6B, 4300 Holbæk",
+					"husnummerId": "c9e3dfe6-f653-4d12-9034-a802501cef18"
+				},
+				{
+					"type": "adresse",
+					"id": "c7a3c370-42a4-455b-8647-b596618ecf98",
+					"titel": "Ny Taastrupvej 6C, 4300 Holbæk",
+					"husnummerId": "8c700a3d-4fc8-4a94-837e-e72d25122916"
+				},
+				{
+					"type": "adresse",
+					"id": "7a7bcdcf-db7d-477a-9a8c-1aef86b394df",
+					"titel": "Ny Taastrupvej 6D, 4300 Holbæk",
+					"husnummerId": "0f68a080-e11b-47f9-b79f-1d74320d7e4b"
+				},
+				{
+					"type": "adresse",
+					"id": "03fd61e3-53b4-4f01-9c57-ffd3bc0753eb",
+					"titel": "Ny Taastrupvej 6E, 4300 Holbæk",
+					"husnummerId": "b552b138-2161-46d2-b5bc-4ac7b9a3d916"
+				},
+				{
+					"type": "adresse",
+					"id": "54eb7904-6635-4d74-b2bb-e071b2139142",
+					"titel": "Ny Taastrupvej 6F, 4300 Holbæk",
+					"husnummerId": "95a96b32-f84e-4037-8481-c1a528fdf6b2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a7e-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 7, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e47-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0c59c229-37e5-4322-8dd1-6bee1e8e7283",
+					"titel": "Ny Taastrupvej 8A, 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"husnummer": "8A"
+				},
+				{
+					"type": "husnummer",
+					"id": "3e82bb68-9808-4b26-9300-b53bc0f23e3b",
+					"titel": "Ny Taastrupvej 8B, 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"husnummer": "8B"
+				},
+				{
+					"type": "husnummer",
+					"id": "dec43fe6-a229-4e67-ba4e-53b6f3214ae2",
+					"titel": "Ny Taastrupvej 8C, 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"husnummer": "8C"
+				},
+				{
+					"type": "husnummer",
+					"id": "d5355d23-a61b-40df-967b-6e7010c128a2",
+					"titel": "Ny Taastrupvej 8D, 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"husnummer": "8D"
+				},
+				{
+					"type": "husnummer",
+					"id": "3d553a99-11c6-49e3-bfe8-6bd34cd91452",
+					"titel": "Ny Taastrupvej 8E, 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"husnummer": "8E"
+				},
+				{
+					"type": "husnummer",
+					"id": "1f3f1973-12c6-432b-a075-bd01073c8798",
+					"titel": "Ny Taastrupvej 8F, 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"husnummer": "8F"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a7f-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 9, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e48-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "41a3404e-16cd-475a-b137-4a7b7771fdf8",
+					"titel": "Ny Taastrupvej 10A, st., 4300 Holbæk",
+					"husnummerId": "96b8726c-8bc4-4307-a31a-c3d28fd63c52"
+				},
+				{
+					"type": "adresse",
+					"id": "a81e8439-d1ec-40f4-8f20-1331aaf913c3",
+					"titel": "Ny Taastrupvej 10B, st., 4300 Holbæk",
+					"husnummerId": "dee8853d-dbec-475b-887d-b2c355964485"
+				},
+				{
+					"type": "adresse",
+					"id": "a6375f58-58e4-4e00-ae9c-ad97f7ce67df",
+					"titel": "Ny Taastrupvej 10C, st., 4300 Holbæk",
+					"husnummerId": "2915a893-e46e-4888-9c67-3deb8b036e79"
+				},
+				{
+					"type": "adresse",
+					"id": "a7b0a483-7adf-43fd-9cd7-7b0a9d16f81f",
+					"titel": "Ny Taastrupvej 10D, st., 4300 Holbæk",
+					"husnummerId": "196ab09e-a1ad-40dc-bd28-4f5a6c694374"
+				},
+				{
+					"type": "adresse",
+					"id": "949877da-ff97-4fea-ae38-64261df2ee1c",
+					"titel": "Ny Taastrupvej 10E, st., 4300 Holbæk",
+					"husnummerId": "c65f2a8c-0255-44bc-ae4b-4c45f8188f24"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a80-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 11, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b17c4948-5eac-465c-84ef-bcbb44737b6f",
+					"titel": "Ny Taastrupvej 12A, 1., 4300 Holbæk",
+					"husnummerId": "488a7a0b-ff3c-4a1a-bb8a-6d14c87c0502"
+				},
+				{
+					"type": "adresse",
+					"id": "a5e78219-b535-4e8e-9352-e24cdd61117a",
+					"titel": "Ny Taastrupvej 12B, 1., 4300 Holbæk",
+					"husnummerId": "5f8b9b01-c13e-450d-b646-6af0c2a7ee3a"
+				},
+				{
+					"type": "adresse",
+					"id": "923fec42-ffa0-4b5e-9407-0e12e80896c9",
+					"titel": "Ny Taastrupvej 12C, 1., 4300 Holbæk",
+					"husnummerId": "9ac5de1a-8b80-40d7-8fec-942f54c2c0b5"
+				},
+				{
+					"type": "adresse",
+					"id": "096508bc-2068-47e5-ac45-a0cdc606a6c2",
+					"titel": "Ny Taastrupvej 12D, 1., 4300 Holbæk",
+					"husnummerId": "3010bba3-6a56-45a5-8a8b-5507bdca657d"
+				},
+				{
+					"type": "adresse",
+					"id": "3f8f20a8-a929-4da1-821e-195d1cdf5842",
+					"titel": "Ny Taastrupvej 12E, 1., 4300 Holbæk",
+					"husnummerId": "036daacb-42cf-4938-9e87-478c946a64f1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a81-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 13, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "31bd5f60-3ca0-4958-b249-1f41df6bc7f3",
+					"titel": "Ny Taastrupvej 14A, 4300 Holbæk",
+					"husnummerId": "54abd273-0aec-4945-960c-d2298ea5ed6e"
+				},
+				{
+					"type": "adresse",
+					"id": "57e4693d-57e4-4621-9c2b-49a3331b84ed",
+					"titel": "Ny Taastrupvej 14B, 4300 Holbæk",
+					"husnummerId": "a6b9f9da-16ef-4eff-af1e-c3c4b099042b"
+				},
+				{
+					"type": "adresse",
+					"id": "27e24711-8cee-4466-b492-480cebf2cf8d",
+					"titel": "Ny Taastrupvej 14C, 4300 Holbæk",
+					"husnummerId": "b282acbe-d8d8-4b49-8fc2-fa98677df18f"
+				},
+				{
+					"type": "adresse",
+					"id": "54863509-c799-4318-b928-c9d033487346",
+					"titel": "Ny Taastrupvej 14D, 4300 Holbæk",
+					"husnummerId": "779ced26-609e-43db-905e-cbc4c43e7c2a"
+				},
+				{
+					"type": "adresse",
+					"id": "fa91a412-c43d-461c-9044-6271a97922e6",
+					"titel": "Ny Taastrupvej 14E, 4300 Holbæk",
+					"husnummerId": "be930439-17ac-41e0-b045-9b21f3f6cc30"
+				},
+				{
+					"type": "adresse",
+					"id": "f7b4aef6-eb0e-4661-8f02-2d4ef9072d3a",
+					"titel": "Ny Taastrupvej 14F, 4300 Holbæk",
+					"husnummerId": "b4879b16-d3e1-405f-ad46-85a7434138bf"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a82-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 15, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e4b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7b4e2d72-2ff8-4462-99ef-ac47744dada5",
+					"titel": "Ny Taastrupvej 16A, st., 4300 Holbæk",
+					"husnummerId": "50a985f9-f71c-4aca-8d5c-87dec6b2e923"
+				},
+				{
+					"type": "adresse",
+					"id": "a2928f12-30b1-4ec4-8b87-3409350dbfd8",
+					"titel": "Ny Taastrupvej 16B, st., 4300 Holbæk",
+					"husnummerId": "2b6902d8-4cc1-4325-926b-12d01d09e22a"
+				},
+				{
+					"type": "adresse",
+					"id": "1f77a7ca-dc98-4211-b6b6-ca7a9313d1b2",
+					"titel": "Ny Taastrupvej 16C, st., 4300 Holbæk",
+					"husnummerId": "8c0eeb3d-c06f-4041-88d7-87831a0e5b77"
+				},
+				{
+					"type": "adresse",
+					"id": "251f10ae-3c30-4b38-adb5-edd605cba61e",
+					"titel": "Ny Taastrupvej 16D, st., 4300 Holbæk",
+					"husnummerId": "82f6a151-aa0f-43e6-bc35-9c760a96f502"
+				},
+				{
+					"type": "adresse",
+					"id": "aca8914f-60f8-47bb-b0f1-bd4a3213f669",
+					"titel": "Ny Taastrupvej 16E, st., 4300 Holbæk",
+					"husnummerId": "10b5ca46-78f1-4723-b8c3-358261432880"
+				},
+				{
+					"type": "husnummer",
+					"id": "5e39b0ef-971b-47d5-b9f8-1dff2245bbe4",
+					"titel": "Ny Taastrupvej 16F, 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"husnummer": "16F"
+				},
+				{
+					"type": "husnummer",
+					"id": "c6ea9bb0-8f6a-4091-aa36-596e6b39646f",
+					"titel": "Ny Taastrupvej 16G, 4300 Holbæk",
+					"vejnavn": "Ny Taastrupvej",
+					"husnummer": "16G"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a83-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 17, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e4c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "447111b6-61ac-434c-9f3b-2a278385758f",
+					"titel": "Ny Taastrupvej 18A, 1., 4300 Holbæk",
+					"husnummerId": "78c6fe4c-06f3-4be5-adf8-c533fe96de0e"
+				},
+				{
+					"type": "adresse",
+					"id": "506f300e-f4cd-4718-8b0d-4d8d815862f9",
+					"titel": "Ny Taastrupvej 18B, 1., 4300 Holbæk",
+					"husnummerId": "6650f4ad-c139-4986-b9c3-31af05427b49"
+				},
+				{
+					"type": "adresse",
+					"id": "e3eb4f32-2499-4221-94e5-a4784f8b21c0",
+					"titel": "Ny Taastrupvej 18C, 1., 4300 Holbæk",
+					"husnummerId": "44c98e3f-3246-4bbc-abb7-82c6f15c135d"
+				},
+				{
+					"type": "adresse",
+					"id": "70428d59-db93-4c02-a770-a1f9ca5061c0",
+					"titel": "Ny Taastrupvej 18D, 1., 4300 Holbæk",
+					"husnummerId": "22983dd7-750f-40ca-92ea-a88c104faddd"
+				},
+				{
+					"type": "adresse",
+					"id": "322ad50c-3911-4f03-acb2-cb84bbf186ef",
+					"titel": "Ny Taastrupvej 18E, 1., 4300 Holbæk",
+					"husnummerId": "8add74a2-d1f2-425e-9020-3b5214fd5511"
+				},
+				{
+					"type": "adresse",
+					"id": "505e847a-b0d7-42ca-a136-58b529d79a20",
+					"titel": "Ny Taastrupvej 18F, 1., 4300 Holbæk",
+					"husnummerId": "36ea597c-7cf6-4e6e-9110-109a7d64d187"
+				},
+				{
+					"type": "adresse",
+					"id": "613f258c-c8c3-47ee-a4bb-26c446f2055f",
+					"titel": "Ny Taastrupvej 18G, 1., 4300 Holbæk",
+					"husnummerId": "ea6fc64a-a211-449a-b70b-2c1f78517e1e"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a84-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 19, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e4d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a85-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 21, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e4e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 8500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-a127-32b8-e044-0003ba298018",
+					"titel": "Nytorv 3, 8500 Grenaa",
+					"vejnavn": "Nytorv",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-a128-32b8-e044-0003ba298018",
+					"titel": "Nytorv 4, 8500 Grenaa",
+					"vejnavn": "Nytorv",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "22729a66-9236-44d0-e044-0003ba298018",
+					"titel": "Nytorv 5, 8500 Grenaa",
+					"vejnavn": "Nytorv",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "4713964f-3024-47ae-8635-1bc32e2824a1",
+					"titel": "Nytorv 6, 8500 Grenaa",
+					"husnummerId": "0a3f5093-a129-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-a12a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 7, 8500 Grenaa",
+					"vejnavn": "Nytorv",
+					"husnummer": "7"
+				},
+				{
+					"type": "adresse",
+					"id": "7d799de5-e990-496b-a3be-a6fd9d1f3f1a",
+					"titel": "Nytorv 9, 8500 Grenaa",
+					"husnummerId": "0a3f5093-a12b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 8A, 4300 Holbæk": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "ed7f946f-0e1e-46a1-82ff-472a9bc61a40",
+					"titel": "Ny Taastrupvej 8A, 4300 Holbæk",
+					"husnummerId": "0c59c229-37e5-4322-8dd1-6bee1e8e7283"
+				},
+				{
+					"type": "adresse",
+					"id": "774bfa0f-9574-4c6b-9e27-c7a23b36de5b",
+					"titel": "Ny Taastrupvej 8A, st., 4300 Holbæk",
+					"husnummerId": "0c59c229-37e5-4322-8dd1-6bee1e8e7283"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Toftegårdsvej 8, 3650 Ølstykke": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "45ca0798-58a8-4239-9027-be4bbce86fe4",
+					"titel": "Ny Toftegårdsvej 8, 1, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b57082bf-ad3b-47b8-8e43-98b834130c30",
+					"titel": "Ny Toftegårdsvej 8, 2, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9e0f298d-b54b-4c2f-ac69-3259f5aae759",
+					"titel": "Ny Toftegårdsvej 8, 3, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "587e042a-b596-4abb-8457-f65642340952",
+					"titel": "Ny Toftegårdsvej 8, 4, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1e1be8d4-f927-4c5c-a41e-2ee3082915e6",
+					"titel": "Ny Toftegårdsvej 8, 5, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dc0b9872-d2a4-4511-bb59-a2141172f7b2",
+					"titel": "Ny Toftegårdsvej 8, 6, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2d7bb53b-0e86-4466-a7f0-d07039867fe7",
+					"titel": "Ny Toftegårdsvej 8, 7, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "fd03ce71-3ffb-4d03-9176-2504b5da088c",
+					"titel": "Ny Toftegårdsvej 8, 8, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6f1be7d5-9664-4ca7-ad25-f491b4fe0809",
+					"titel": "Ny Toftegårdsvej 8, 9, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7ccf6e8e-811b-4b0b-9a73-50edc600c61f",
+					"titel": "Ny Toftegårdsvej 8, 10, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f12b01d9-db92-426e-b0e7-62e3af0e03a8",
+					"titel": "Ny Toftegårdsvej 8, 11, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "90a84f4e-cc3b-4c56-916e-6acae5b16acd",
+					"titel": "Ny Toftegårdsvej 8, 12, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "adc202bd-8c3c-4c59-aece-02e6562fea1c",
+					"titel": "Ny Toftegårdsvej 8, 13, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b7bd0e28-65ad-46b8-ba5d-321447b8a5b2",
+					"titel": "Ny Toftegårdsvej 8, 14, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5683815a-d3c2-42ca-9d6f-428795302d85",
+					"titel": "Ny Toftegårdsvej 8, 15, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "58cef138-a2c0-464d-87e5-943e9b7c2aa1",
+					"titel": "Ny Toftegårdsvej 8, 16, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "311152df-8797-48b8-8b8b-9a0d6eb8fe37",
+					"titel": "Ny Toftegårdsvej 8, 17, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "189e98b4-c9a8-4b57-a5c1-0dcc7a2bd28d",
+					"titel": "Ny Toftegårdsvej 8, 18, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5996cd5f-239b-433a-a890-23b47af5acb7",
+					"titel": "Ny Toftegårdsvej 8, 19, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "703bfbf4-f30b-40ed-a7d0-e9f5a4cd4de3",
+					"titel": "Ny Toftegårdsvej 8, 20, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4bb8fdff-071d-4c6f-bfe3-86269996bcb8",
+					"titel": "Ny Toftegårdsvej 8, 21, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4affed21-a742-4df2-a0e2-0f3f0ea26f0b",
+					"titel": "Ny Toftegårdsvej 8, 22, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6f187f33-ba73-4e41-af8a-f9fbd9e88337",
+					"titel": "Ny Toftegårdsvej 8, 23, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b4f0fc28-ae85-42d7-a529-4109d6845b8d",
+					"titel": "Ny Toftegårdsvej 8, 24, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b0fe4332-f872-4fee-abb6-2bd72c8c2838",
+					"titel": "Ny Toftegårdsvej 8, 25, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "43678d1f-d82d-49b7-9f7f-ccb0df64c561",
+					"titel": "Ny Toftegårdsvej 8, 26, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cf2fd4b4-0cc1-4ebe-8d44-1e0cbceacbdc",
+					"titel": "Ny Toftegårdsvej 8, 27, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "15f347a9-5797-409e-91dc-2885688c9ac5",
+					"titel": "Ny Toftegårdsvej 8, 28, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "66e3bec1-4acd-4777-891e-32ef96172aef",
+					"titel": "Ny Toftegårdsvej 8, 3650 Ølstykke",
+					"husnummerId": "16bed59f-9725-1efc-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 8C, 4300 Holbæk": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "88f04ed1-eea6-42d0-b5d2-c4c63c4b2ea2",
+					"titel": "Ny Taastrupvej 8C, 4300 Holbæk",
+					"husnummerId": "dec43fe6-a229-4e67-ba4e-53b6f3214ae2"
+				},
+				{
+					"type": "adresse",
+					"id": "71ba6a96-30f3-4997-8739-24ee5bbf8f49",
+					"titel": "Ny Taastrupvej 8C, st., 4300 Holbæk",
+					"husnummerId": "dec43fe6-a229-4e67-ba4e-53b6f3214ae2"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 8B, 4300 Holbæk": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "ed6169ce-89d8-41ec-a092-441581c6b6f3",
+					"titel": "Ny Taastrupvej 8B, 4300 Holbæk",
+					"husnummerId": "3e82bb68-9808-4b26-9300-b53bc0f23e3b"
+				},
+				{
+					"type": "adresse",
+					"id": "574515f9-ff7e-4869-a573-b9373e5aaca8",
+					"titel": "Ny Taastrupvej 8B, st., 4300 Holbæk",
+					"husnummerId": "3e82bb68-9808-4b26-9300-b53bc0f23e3b"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 16F, 4300 Holbæk": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "17e8eefe-09d2-4cd7-b6c0-d97179a56a59",
+					"titel": "Ny Taastrupvej 16F, st., 4300 Holbæk",
+					"husnummerId": "5e39b0ef-971b-47d5-b9f8-1dff2245bbe4"
+				},
+				{
+					"type": "adresse",
+					"id": "1189adb7-fd77-47bd-91bf-dcd7b5574f0f",
+					"titel": "Ny Taastrupvej 16F, 1., 4300 Holbæk",
+					"husnummerId": "5e39b0ef-971b-47d5-b9f8-1dff2245bbe4"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 8D, 4300 Holbæk": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "d580752d-277a-49f3-b555-fd3fa2e89fcf",
+					"titel": "Ny Taastrupvej 8D, 4300 Holbæk",
+					"husnummerId": "d5355d23-a61b-40df-967b-6e7010c128a2"
+				},
+				{
+					"type": "adresse",
+					"id": "97e62258-9af6-4f61-927e-0db1754304bd",
+					"titel": "Ny Taastrupvej 8D, st., 4300 Holbæk",
+					"husnummerId": "d5355d23-a61b-40df-967b-6e7010c128a2"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 8E, 4300 Holbæk": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "54515d09-a554-4ff9-be43-e75d5879f892",
+					"titel": "Ny Taastrupvej 8E, 4300 Holbæk",
+					"husnummerId": "3d553a99-11c6-49e3-bfe8-6bd34cd91452"
+				},
+				{
+					"type": "adresse",
+					"id": "91e31d7e-90a8-49c9-97a4-a428f1d61067",
+					"titel": "Ny Taastrupvej 8E, st., 4300 Holbæk",
+					"husnummerId": "3d553a99-11c6-49e3-bfe8-6bd34cd91452"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 8F, 4300 Holbæk": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "65171d3b-2316-453b-b37b-fc1fee1d892c",
+					"titel": "Ny Taastrupvej 8F, 4300 Holbæk",
+					"husnummerId": "1f3f1973-12c6-432b-a075-bd01073c8798"
+				},
+				{
+					"type": "adresse",
+					"id": "27179848-d080-4a63-9977-c87b9655891d",
+					"titel": "Ny Taastrupvej 8F, st., 4300 Holbæk",
+					"husnummerId": "1f3f1973-12c6-432b-a075-bd01073c8798"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 16G, 4300 Holbæk": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "9d33fb1b-ab56-493d-bdbb-8c896bb67eaf",
+					"titel": "Ny Taastrupvej 16G, 4300 Holbæk",
+					"husnummerId": "c6ea9bb0-8f6a-4091-aa36-596e6b39646f"
+				},
+				{
+					"type": "adresse",
+					"id": "40db540d-b05c-4ad9-9a8f-2c2923c14cb5",
+					"titel": "Ny Taastrupvej 16G, st., 4300 Holbæk",
+					"husnummerId": "c6ea9bb0-8f6a-4091-aa36-596e6b39646f"
+				},
+				{
+					"type": "adresse",
+					"id": "4cdae729-df9a-4cbc-8c0e-59e18722477e",
+					"titel": "Ny Taastrupvej 16G, 1., 4300 Holbæk",
+					"husnummerId": "c6ea9bb0-8f6a-4091-aa36-596e6b39646f"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ny Taastrupvej 2, 4300 Holbæk": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ad-5a7b-32b8-e044-0003ba298018",
+					"titel": "Ny Taastrupvej 2, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "afac7a2f-527e-419d-8245-c885529e49ce",
+					"titel": "Ny Taastrupvej 2, st. 1, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2273f120-57cf-45cd-833b-f8a34f8e773a",
+					"titel": "Ny Taastrupvej 2, st. 2, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "33dd79ed-1b22-49c3-9a41-6d6a5e19abcd",
+					"titel": "Ny Taastrupvej 2, st. 3, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "badfd417-af78-48de-9107-5971b33c15a8",
+					"titel": "Ny Taastrupvej 2, st. 4, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c77bdac0-dcd4-439d-953b-db99e4baaf9c",
+					"titel": "Ny Taastrupvej 2, st. 5, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0ba97264-8c75-49bd-8eb6-d6942166eb7b",
+					"titel": "Ny Taastrupvej 2, st. 6, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8b19bdef-c4f0-4d95-9a19-6bd9f216aa5c",
+					"titel": "Ny Taastrupvej 2, st. 7, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ac3134d7-1f27-4fad-9fa3-333ddc592760",
+					"titel": "Ny Taastrupvej 2, st. 8, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dbe21b9a-cbd8-4438-a60d-b6513fc04ffa",
+					"titel": "Ny Taastrupvej 2, st. 9, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c3442d73-7ffc-46d8-bc2c-fa7caa09be57",
+					"titel": "Ny Taastrupvej 2, st. 10, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "49d28776-94e4-48f2-ac2e-17d2bb778cba",
+					"titel": "Ny Taastrupvej 2, st. 11, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "91483e6e-427a-449f-85ac-5d70167881be",
+					"titel": "Ny Taastrupvej 2, st. 12, 4300 Holbæk",
+					"husnummerId": "0a3f5083-3e44-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=nytorv": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "84c4ac86-54d1-47cb-8ed5-a3b9e2fc1413",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 1450 København K",
+					"vejnavn": "Nytorv",
+					"postnr": "1450",
+					"postdistrikt": "København K",
+					"antal_husnumre": 21
+				},
+				{
+					"id": "5fd59f4f-18d7-4f5f-a3fe-0db554abefed",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 3200 Helsinge",
+					"vejnavn": "Nytorv",
+					"postnr": "3200",
+					"postdistrikt": "Helsinge",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "50101fd3-9a48-4029-9148-c407d15f8ce2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"postnr": "4200",
+					"postdistrikt": "Slagelse",
+					"antal_husnumre": 39
+				},
+				{
+					"id": "e8a8d021-9d55-4d31-96ff-d77b13e9bc8b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4230 Skælskør",
+					"vejnavn": "Nytorv",
+					"postnr": "4230",
+					"postdistrikt": "Skælskør",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "cffb49ca-10f1-4436-bb20-576e58404cb2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"postnr": "4340",
+					"postdistrikt": "Tølløse",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "4709417d-2559-45f2-b6e3-a599ebfa9965",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"postnr": "4400",
+					"postdistrikt": "Kalundborg",
+					"antal_husnumre": 15
+				},
+				{
+					"id": "5223972d-6d73-40a3-9e22-1f7dfb146cc0",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"postnr": "4660",
+					"postdistrikt": "Store Heddinge",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "8a511900-08fb-4b30-a754-4b3e2abffbd2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 5500 Middelfart",
+					"vejnavn": "Nytorv",
+					"postnr": "5500",
+					"postdistrikt": "Middelfart",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "d8a2b4d8-8efc-45c7-a692-2c39d660444c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 6000 Kolding",
+					"vejnavn": "Nytorv",
+					"postnr": "6000",
+					"postdistrikt": "Kolding",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "689ee826-e411-4651-a9fc-97732f6f707b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 7323 Give",
+					"vejnavn": "Nytorv",
+					"postnr": "7323",
+					"postdistrikt": "Give",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "6f93be77-00c4-42bb-880d-107705729769",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"postnr": "7700",
+					"postdistrikt": "Thisted",
+					"antal_husnumre": 22
+				},
+				{
+					"id": "082c9c74-dd6c-4385-bbf4-923f757a271b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 8400 Ebeltoft",
+					"vejnavn": "Nytorv",
+					"postnr": "8400",
+					"postdistrikt": "Ebeltoft",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "1b05c74d-9261-4cea-afa7-6d38e6ffb17b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 8464 Galten",
+					"vejnavn": "Nytorv",
+					"postnr": "8464",
+					"postdistrikt": "Galten",
+					"antal_husnumre": 13
+				},
+				{
+					"id": "dbfcee8e-4106-4e9a-b7b6-319f91b8d7bd",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 8500 Grenaa",
+					"vejnavn": "Nytorv",
+					"postnr": "8500",
+					"postdistrikt": "Grenaa",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "50c1493c-b2fb-40db-9c79-b4d845a8456f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 39
+				},
+				{
+					"id": "d52390c0-e03b-4f92-96b0-ccfda9ad7a34",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"postnr": "9000",
+					"postdistrikt": "Aalborg",
+					"antal_husnumre": 24
+				},
+				{
+					"id": "e2b0c39d-b7ba-47a6-88dc-f4a15aad760b",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 9500 Hobro",
+					"vejnavn": "Nytorv",
+					"postnr": "9500",
+					"postdistrikt": "Hobro",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "8ea79cbc-6735-4eeb-8ed9-3ee58c8b7463",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorv 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"postnr": "9900",
+					"postdistrikt": "Frederikshavn",
+					"antal_husnumre": 20
+				},
+				{
+					"id": "a1a893a4-c77d-4d5d-9bc9-f5ce1f664b66",
+					"type": "navngivenvejpostnummer",
+					"titel": "Nytorvgyde 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 8
+				}
+			]
+		},
+		"/adresser/soeg?tekst=nytorv 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-0856-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e15-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d16-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-6495-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 4340 Tølløse",
+					"husnummerId": "0a3f5085-0a79-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5086-d215-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 4660 Store Heddinge",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "d9b1a848-7ba4-4ff3-af17-3428e4bf73c2",
+					"titel": "Nytorv 1, Middelfart, 5500 Middelfart",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5090-49b7-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 6000 Kolding",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-0588-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, st., 7323 Give",
+					"husnummerId": "0a3f508f-5a80-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5093-4c2c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 8400 Ebeltoft",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-a5db-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 8464 Galten",
+					"husnummerId": "0a3f5093-6d85-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-e8c4-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f8d-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "1d98cbeb-351c-4b45-b2d9-483887107e55",
+					"titel": "Nytorv 1, 9500 Hobro",
+					"husnummerId": "0a3f509a-bb56-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-799a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d43e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f0ed913f-6628-4441-b094-c46ec56465d8",
+					"titel": "Nytorv 1F, 1450 København K",
+					"husnummerId": "0a3f507a-cebf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec5-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec6-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec7-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-cec8-32b8-e044-0003ba298018",
+					"titel": "Nytorv 19, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "19"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-0859-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e19-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-085a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e1a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-085b-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e1b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-085c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17, 3200 Helsinge",
+					"husnummerId": "0a3f507f-7e1c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d31-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "3e1496ff-b5e7-4dd4-9464-38cb116a0a25",
+					"titel": "Nytorv 17, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "17"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c6e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1A, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d4d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-2d4e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1B, 4230 Skælskør",
+					"vejnavn": "Nytorv",
+					"husnummer": "1B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c81-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c82-32b8-e044-0003ba298018",
+					"titel": "Nytorv 12, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d57-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c83-32b8-e044-0003ba298018",
+					"titel": "Nytorv 14, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d58-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c84-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d59-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c85-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d5a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-6c86-32b8-e044-0003ba298018",
+					"titel": "Nytorv 19, 4230 Skælskør",
+					"husnummerId": "0a3f5084-2d5b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a82-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "1bd2e313-d978-4ee2-afba-bf04a472775c",
+					"titel": "Nytorv 11, 4340 Tølløse",
+					"husnummerId": "fdc1054b-82ca-4b7d-b0ef-96945b5d0ffb"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a83-32b8-e044-0003ba298018",
+					"titel": "Nytorv 12, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5085-0a84-32b8-e044-0003ba298018",
+					"titel": "Nytorv 14, 4340 Tølløse",
+					"vejnavn": "Nytorv",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7213-461c-e044-0003ba298018",
+					"titel": "Nytorv 10, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7214-461c-e044-0003ba298018",
+					"titel": "Nytorv 12, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7215-461c-e044-0003ba298018",
+					"titel": "Nytorv 14, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7216-461c-e044-0003ba298018",
+					"titel": "Nytorv 16, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "1b231335-7217-461c-e044-0003ba298018",
+					"titel": "Nytorv 18, 4400 Kalundborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "18"
+				},
+				{
+					"type": "adresse",
+					"id": "26eeb168-cd2d-4c80-ac58-b4ff8eebc2db",
+					"titel": "Nytorv 1A, 4660 Store Heddinge",
+					"husnummerId": "0a3f5086-d216-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "836c5cd0-f7df-4a58-b8c6-518ba3b80ca3",
+					"titel": "Nytorv 11, Middelfart, 5500 Middelfart",
+					"husnummerId": "21562693-85b0-4952-b72a-520641b0a9d6"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bc-297a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11, 6000 Kolding",
+					"husnummerId": "0a3f5090-49bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ae5db709-582d-4cc4-a3c3-fea1235c1a8a",
+					"titel": "Nytorv 13, 6000 Kolding",
+					"husnummerId": "7b4a3697-8f4b-47cc-8cde-5af807f55343"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508f-5a83-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 7323 Give",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-2248-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1A, 7700 Thisted",
+					"husnummerId": "0a3f5098-9068-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-2249-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1B, 7700 Thisted",
+					"husnummerId": "0a3f5098-9069-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-906a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1C, 7700 Thisted",
+					"vejnavn": "Nytorv",
+					"husnummer": "1C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-224e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1D, 7700 Thisted",
+					"husnummerId": "0a3f5098-906b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3f4d12c6-8670-4ef4-8455-df6ba25b3862",
+					"titel": "Nytorv 10, 7700 Thisted",
+					"husnummerId": "0a3f5098-907a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "96d29c5a-13cf-4729-b37a-b8b635814fd3",
+					"titel": "Nytorv 10, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "c50a9837-1802-4918-9547-acad5a219c0c",
+					"titel": "Nytorv 12, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "077cb201-6627-43b6-80aa-1d3c468ca1ea",
+					"titel": "Nytorv 14, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "6ed1fca3-06f1-44bd-9eff-2f3f0ede3b44",
+					"titel": "Nytorv 16, 8464 Galten",
+					"vejnavn": "Nytorv",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "2b4cec94-c8dc-4220-9437-d3101a173829",
+					"titel": "Nytorv 1T, 8800 Viborg",
+					"husnummerId": "b7cdc5da-85b5-4181-ade4-b6f4a42e3e25"
+				},
+				{
+					"type": "adresse",
+					"id": "17c0fcdd-1805-4a6b-97f4-bae3094881e5",
+					"titel": "Nytorv 11, 8800 Viborg",
+					"husnummerId": "c9ff9814-7a92-43db-9f94-cb251f9ad560"
+				},
+				{
+					"type": "husnummer",
+					"id": "5c172748-41cc-4ebe-824f-e9a5e6489cf4",
+					"titel": "Nytorv 12, 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "ffeefda8-a1ab-411c-b0d9-5145525a3a34",
+					"titel": "Nytorv 13, 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "13"
+				},
+				{
+					"type": "adresse",
+					"id": "b79f4e94-84ee-408a-8035-78b6dc14494f",
+					"titel": "Nytorv 15, 8800 Viborg",
+					"husnummerId": "698ee999-006b-448a-a647-20d933a1aeff"
+				},
+				{
+					"type": "husnummer",
+					"id": "8d1c1340-48a4-4754-b093-df5527199578",
+					"titel": "Nytorv 17, 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f8e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1A, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "1A"
+				},
+				{
+					"type": "husnummer",
+					"id": "3da2beca-e83f-463e-828a-407a37946fc7",
+					"titel": "Nytorv 1D, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "1D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f95-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f96-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f97-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f99-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "15"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f9a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 18, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-bb58-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10, 9500 Hobro",
+					"vejnavn": "Nytorv",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509a-bb59-32b8-e044-0003ba298018",
+					"titel": "Nytorv 12, 9500 Hobro",
+					"vejnavn": "Nytorv",
+					"husnummer": "12"
+				},
+				{
+					"type": "adresse",
+					"id": "6004fabe-9f59-46f1-998f-6a6951ab5827",
+					"titel": "Nytorv 11, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d448-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-79a6-32b8-e044-0003ba298018",
+					"titel": "Nytorv 15, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d44b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-d44c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "17"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-79ad-32b8-e044-0003ba298018",
+					"titel": "Nytorv 19, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d44d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "51de9725-a6de-470b-a904-e0c0128ed616",
+					"titel": "Nytorv 17B, 1450 København K",
+					"vejnavn": "Nytorv",
+					"husnummer": "17B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d28-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "10A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d29-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "10B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-ae5d-32b8-e044-0003ba298018",
+					"titel": "Nytorv 10D, 4200 Slagelse",
+					"husnummerId": "0a3f5084-5d2a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d2b-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "11A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d2c-32b8-e044-0003ba298018",
+					"titel": "Nytorv 11B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "11B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d2e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "13A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d2f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "13B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-ae6a-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13C, 4200 Slagelse",
+					"husnummerId": "0a3f5084-5d30-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5084-5d32-32b8-e044-0003ba298018",
+					"titel": "Nytorv 17A, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "17A"
+				},
+				{
+					"type": "husnummer",
+					"id": "97860a8b-4543-4b9f-b3f5-2b3c20ddd8f1",
+					"titel": "Nytorv 17B, 4200 Slagelse",
+					"vejnavn": "Nytorv",
+					"husnummer": "17B"
+				},
+				{
+					"type": "adresse",
+					"id": "47a0f66a-ca21-4245-bc71-cd0f63035d03",
+					"titel": "Nytorv 11A, 6000 Kolding",
+					"husnummerId": "60ea773b-bfa6-423e-8b74-f0e5bf53cfa0"
+				},
+				{
+					"type": "adresse",
+					"id": "4d650b01-585b-4bf3-8cbe-8837af891334",
+					"titel": "Nytorv 15A, 6000 Kolding",
+					"husnummerId": "15b7d4d1-22b5-4196-ad2f-e2b5b08750d6"
+				},
+				{
+					"type": "adresse",
+					"id": "e10edecc-4a98-4f78-985c-5b31e4bb9195",
+					"titel": "Nytorv 15B, 6000 Kolding",
+					"husnummerId": "aad7ab6a-a609-4a1c-a2a1-fef9d5240ddf"
+				},
+				{
+					"type": "adresse",
+					"id": "db44773e-1891-43d7-8720-e150c61f2d78",
+					"titel": "Nytorv 15C, 6000 Kolding",
+					"husnummerId": "a92f58f1-48cd-4484-8154-47f6c83cc7e3"
+				},
+				{
+					"type": "adresse",
+					"id": "0ee36301-64db-413b-a43a-811031f33e8a",
+					"titel": "Nytorv 15D, 6000 Kolding",
+					"husnummerId": "5d36c53e-64cd-4f81-800d-ba6d370a887c"
+				},
+				{
+					"type": "adresse",
+					"id": "ebd36cd3-ab77-4241-a145-c21f62d60771",
+					"titel": "Nytorv 15E, 6000 Kolding",
+					"husnummerId": "dbcbf5fe-26f3-4a4b-a986-ff741919422a"
+				},
+				{
+					"type": "adresse",
+					"id": "342f7296-49fb-4bc3-8980-221ad94e9b3a",
+					"titel": "Nytorv 10B, 7700 Thisted",
+					"husnummerId": "48cf1403-d0d6-40d6-9832-5baddc456dcd"
+				},
+				{
+					"type": "husnummer",
+					"id": "b20823e5-eacb-4c04-8a3a-67231b25a1c1",
+					"titel": "Nytorv 10A, 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "10A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0d556202-dc12-44bf-ad98-d5e9c99b4c2e",
+					"titel": "Nytorv 10B, 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "10B"
+				},
+				{
+					"type": "husnummer",
+					"id": "f96d5be9-f5ce-4795-b6a5-9fb837377a42",
+					"titel": "Nytorv 10C, 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "10C"
+				},
+				{
+					"type": "husnummer",
+					"id": "042c4ceb-92c1-41f7-a3ed-b173766bb1a6",
+					"titel": "Nytorv 10D, 8800 Viborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "10D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-8f98-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13B, 9000 Aalborg",
+					"vejnavn": "Nytorv",
+					"husnummer": "13B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-d449-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13A, 9900 Frederikshavn",
+					"vejnavn": "Nytorv",
+					"husnummer": "13A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-79a5-32b8-e044-0003ba298018",
+					"titel": "Nytorv 13B, 9900 Frederikshavn",
+					"husnummerId": "0a3f5099-d44a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "3b2cfcdc-8c09-43c8-b203-de5a58b926b6",
+					"titel": "Nytorvgyde 1, 8800 Viborg",
+					"vejnavn": "Nytorvgyde",
+					"husnummer": "1"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Nytorv 1, 9000 Aalborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "b1c2e3ac-103b-48fa-98e6-6c0a89ce0695",
+					"titel": "Nytorv 1, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-7430-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, st. tv, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-742e-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, st. mf, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-742f-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, st. th, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-7431-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 1. 1, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-7432-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 1. 3, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-7433-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 2. 1, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-7434-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 2. 2, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-7435-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 2. 3, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-7436-32b8-e044-0003ba298018",
+					"titel": "Nytorv 1, 2. 4, 9000 Aalborg",
+					"husnummerId": "0a3f509c-8f8d-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

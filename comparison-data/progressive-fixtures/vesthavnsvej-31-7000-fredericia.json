@@ -1,0 +1,1097 @@
+{
+	"tekst": "Vesthavnsvej 31, 7000 Fredericia",
+	"dawaId": "000f3e11-99f3-4fcd-99eb-cffb68c3809e",
+	"recordedAt": "2026-07-09T20:38:41.514Z",
+	"stages": [
+		{
+			"stage": "vest",
+			"dawa": [
+				"Vestre Søvej 4A, 7451 Sunds",
+				"Vestre Ringgade 63, 4200 Slagelse",
+				"Vestre Landevej 147, 4952 Stokkemarke",
+				"V Doensevej 1, V. Doense, 9500 Hobro",
+				"V Doensevej 2, V. Doense, 9500 Hobro",
+				"V Doensevej 3, V. Doense, 9500 Hobro",
+				"Vestre Strand 7, 4874 Gedser",
+				"Vestre Gade 18D, 2605 Brøndby",
+				"Vester Halne Vej 61, 9430 Vadum",
+				"V Tørslev Bygade 3, 9550 Mariager"
+			]
+		},
+		{
+			"stage": "vesthavnsvej",
+			"dawa": [
+				"Vesthavnsvej 1, 7000 Fredericia",
+				"Vesthavnsvej 2, 7000 Fredericia",
+				"Vesthavnsvej 5, 7000 Fredericia",
+				"Vesthavnsvej 7, 7000 Fredericia",
+				"Vesthavnsvej 9, 7000 Fredericia",
+				"Vesthavnsvej 5A, 7000 Fredericia",
+				"Vesthavnsvej 10, 7000 Fredericia",
+				"Vesthavnsvej 11, 7000 Fredericia",
+				"Vesthavnsvej 13, 7000 Fredericia",
+				"Vesthavnsvej 15, 7000 Fredericia"
+			]
+		},
+		{
+			"stage": "vesthavnsvej 3",
+			"dawa": [
+				"Vesthavnsvej 30, Hasle, 3790 Hasle",
+				"Vesthavnsvej 32, Hasle, 3790 Hasle",
+				"Vesthavnsvej 34, Hasle, 3790 Hasle",
+				"Vesthavnsvej 36, Hasle, 3790 Hasle",
+				"Vesthavnsvej 38, Hasle, 3790 Hasle",
+				"Vesthavnsvej 30, 7000 Fredericia",
+				"Vesthavnsvej 31, 7000 Fredericia",
+				"Vesthavnsvej 32, 7000 Fredericia",
+				"Vesthavnsvej 33, 7000 Fredericia",
+				"Vesthavnsvej 34, 7000 Fredericia"
+			]
+		},
+		{
+			"stage": "vesthavnsvej 31",
+			"dawa": [
+				"Vesthavnsvej 31, 7000 Fredericia"
+			]
+		},
+		{
+			"stage": "Vesthavnsvej 31, 7000 Fredericia",
+			"dawa": [
+				"Vesthavnsvej 31, 7000 Fredericia"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=vest": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Vest Hemvej",
+					"vejNavn": "Vest Hemvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestager",
+					"vejNavn": "Vestager"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestager Have",
+					"vejNavn": "Vestager Have"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestagervej",
+					"vejNavn": "Vestagervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestavej",
+					"vejNavn": "Vestavej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbakken",
+					"vejNavn": "Vestbakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestballevej",
+					"vejNavn": "Vestballevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbanegade",
+					"vejNavn": "Vestbanegade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbanen",
+					"vejNavn": "Vestbanen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbanevej",
+					"vejNavn": "Vestbanevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbirk Alle",
+					"vejNavn": "Vestbirk Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbirkvej",
+					"vejNavn": "Vestbirkvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbjerg Kærvej",
+					"vejNavn": "Vestbjerg Kærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbjerg Skolesti",
+					"vejNavn": "Vestbjerg Skolesti"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbjerg Skovvej",
+					"vejNavn": "Vestbjerg Skovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbjerggårdvej",
+					"vejNavn": "Vestbjerggårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbovej",
+					"vejNavn": "Vestbovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbuen",
+					"vejNavn": "Vestbuen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbyen",
+					"vejNavn": "Vestbyen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestbygade",
+					"vejNavn": "Vestbygade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vesten Bavnen",
+					"vejNavn": "Vesten Bavnen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vesten Sandene",
+					"vejNavn": "Vesten Sandene"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestenbækvej",
+					"vejNavn": "Vestenbækvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestensborg Alle",
+					"vejNavn": "Vestensborg Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestensborgparken",
+					"vejNavn": "Vestensborgparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestenskov Kirkevej",
+					"vejNavn": "Vestenskov Kirkevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestenskovvej",
+					"vejNavn": "Vestenskovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestensvej",
+					"vejNavn": "Vestensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestensøvej",
+					"vejNavn": "Vestensøvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vestenvej",
+					"vejNavn": "Vestenvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Alle",
+					"vejNavn": "Vester Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Allé",
+					"vejNavn": "Vester Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Altan",
+					"vejNavn": "Vester Altan"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Altanvej",
+					"vejNavn": "Vester Altanvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Bakker",
+					"vejNavn": "Vester Bakker"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Ballingvej",
+					"vejNavn": "Vester Ballingvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Bardevej",
+					"vejNavn": "Vester Bardevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Birk",
+					"vejNavn": "Vester Birk"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Bjergvej",
+					"vejNavn": "Vester Bjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Bjerndrupvej",
+					"vejNavn": "Vester Bjerndrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Bomvej",
+					"vejNavn": "Vester Bomvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Bordingvej",
+					"vejNavn": "Vester Bordingvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Borupvej",
+					"vejNavn": "Vester Borupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Boulevard",
+					"vejNavn": "Vester Boulevard"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Bregninge",
+					"vejNavn": "Vester Bregninge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Bregningemark",
+					"vejNavn": "Vester Bregningemark"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Bøgebjergvej",
+					"vejNavn": "Vester Bøgebjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Dammenvej",
+					"vejNavn": "Vester Dammenvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Dørkenvej",
+					"vejNavn": "Vester Dørkenvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Egebjergvej",
+					"vejNavn": "Vester Egebjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Egesborgvej",
+					"vejNavn": "Vester Egesborgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Engvej",
+					"vejNavn": "Vester Engvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Fald",
+					"vejNavn": "Vester Fald"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Farimagsgade",
+					"vejNavn": "Vester Farimagsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Feldborgvej",
+					"vejNavn": "Vester Feldborgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Fjordvej",
+					"vejNavn": "Vester Fjordvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Fælled",
+					"vejNavn": "Vester Fælled"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Fælled Vej",
+					"vejNavn": "Vester Fælled Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Fælledvej",
+					"vejNavn": "Vester Fælledvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Gasse",
+					"vejNavn": "Vester Gasse"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Gimsingvej",
+					"vejNavn": "Vester Gimsingvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Gjesingvej",
+					"vejNavn": "Vester Gjesingvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Grenevej",
+					"vejNavn": "Vester Grenevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Gunderuphedev",
+					"vejNavn": "Vester Gunderuphedev"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Gydejevej",
+					"vejNavn": "Vester Gydejevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Halgårdvej",
+					"vejNavn": "Vester Halgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Halne Vej",
+					"vejNavn": "Vester Halne Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Hanevad",
+					"vejNavn": "Vester Hanevad"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Hedensvej",
+					"vejNavn": "Vester Hedensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Hedevej",
+					"vejNavn": "Vester Hedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Herredsvej",
+					"vejNavn": "Vester Herredsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Herrupvej",
+					"vejNavn": "Vester Herrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Hessel",
+					"vejNavn": "Vester Hessel"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Hesseldal",
+					"vejNavn": "Vester Hesseldal"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Hesselvej",
+					"vejNavn": "Vester Hesselvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Hjelmstedvej",
+					"vejNavn": "Vester Hjelmstedvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Hornumvej",
+					"vejNavn": "Vester Hornumvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Hærup Strandvej",
+					"vejNavn": "Vester Hærup Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Højgård Vej",
+					"vejNavn": "Vester Højgård Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Isen Vej",
+					"vejNavn": "Vester Isen Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Kirkebakke",
+					"vejNavn": "Vester Kirkebakke"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Kirkestræde",
+					"vejNavn": "Vester Kirkestræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Kirketoft",
+					"vejNavn": "Vester Kirketoft"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Klitvej",
+					"vejNavn": "Vester Klitvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Korupvej",
+					"vejNavn": "Vester Korupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Kringelvej",
+					"vejNavn": "Vester Kringelvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Kær",
+					"vejNavn": "Vester Kær"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Kærvej",
+					"vejNavn": "Vester Kærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Land",
+					"vejNavn": "Vester Land"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Lemtorp",
+					"vejNavn": "Vester Lemtorp"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Lindetvej",
+					"vejNavn": "Vester Lindetvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Lintrupvej",
+					"vejNavn": "Vester Lintrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Løve Vej",
+					"vejNavn": "Vester Løve Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Markvej",
+					"vejNavn": "Vester Markvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Moselundvej",
+					"vejNavn": "Vester Moselundvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Mosevej",
+					"vejNavn": "Vester Mosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Møllebakke",
+					"vejNavn": "Vester Møllebakke"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Møllevej",
+					"vejNavn": "Vester Møllevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Nebelvej",
+					"vejNavn": "Vester Nebelvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Vester Nørlundvej",
+					"vejNavn": "Vester Nørlundvej"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=vesthavnsvej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "af52c6fd-b734-4925-8d35-14651825a2eb",
+					"type": "navngivenvejpostnummer",
+					"titel": "Vesthavnsvej 3700 Rønne",
+					"vejnavn": "Vesthavnsvej",
+					"postnr": "3700",
+					"postdistrikt": "Rønne",
+					"antal_husnumre": 4
+				},
+				{
+					"id": "ac11f29f-7594-44b6-9867-431a85be6fce",
+					"type": "navngivenvejpostnummer",
+					"titel": "Vesthavnsvej 3790 Hasle",
+					"vejnavn": "Vesthavnsvej",
+					"postnr": "3790",
+					"postdistrikt": "Hasle",
+					"antal_husnumre": 36
+				},
+				{
+					"id": "46ffc37a-343f-4fb2-9c29-b95cd932c5a7",
+					"type": "navngivenvejpostnummer",
+					"titel": "Vesthavnsvej 7000 Fredericia",
+					"vejnavn": "Vesthavnsvej",
+					"postnr": "7000",
+					"postdistrikt": "Fredericia",
+					"antal_husnumre": 39
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Vesthavnsvej 3700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "5b79b542-ad72-4f84-b116-e3a6158fbe21",
+					"titel": "Vesthavnsvej 1, Rønne, 3700 Rønne",
+					"husnummerId": "82d144ae-da88-43cf-899d-b361e1c5976f"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-382c-32b8-e044-0003ba298018",
+					"titel": "Vesthavnsvej 4, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-b3cb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-382d-32b8-e044-0003ba298018",
+					"titel": "Vesthavnsvej 6, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-b3cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-382e-32b8-e044-0003ba298018",
+					"titel": "Vesthavnsvej 8, Rønne, 3700 Rønne",
+					"husnummerId": "0a3f5087-b3cd-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Vesthavnsvej 7000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "fd29ba83-a168-4ca6-ab6a-a8e7ea6d6ee2",
+					"titel": "Vesthavnsvej 1, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35b4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3ad67510-9db9-4b80-b784-0af70064e4f4",
+					"titel": "Vesthavnsvej 2, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35b6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0c2f4c77-6a66-4c4b-a835-60f3c8a56cab",
+					"titel": "Vesthavnsvej 5, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "88a3f951-1e65-4746-8d40-758e030e58e7",
+					"titel": "Vesthavnsvej 5A, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35b8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b71a8bb0-2e04-415b-ad02-c25379905309",
+					"titel": "Vesthavnsvej 7, 7000 Fredericia",
+					"husnummerId": "0cdb4c3d-287b-4015-8b22-03c50570dca4"
+				},
+				{
+					"type": "adresse",
+					"id": "14517ed5-57af-42ee-a00f-cc9f6481981a",
+					"titel": "Vesthavnsvej 9, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2ea485c9-f1c4-4359-a77e-351a9152e7b1",
+					"titel": "Vesthavnsvej 10, 7000 Fredericia",
+					"husnummerId": "3166ab95-3263-4d52-9eef-454ad6da90de"
+				},
+				{
+					"type": "adresse",
+					"id": "185f3420-25c2-4351-b819-eeb8f8746961",
+					"titel": "Vesthavnsvej 11, 7000 Fredericia",
+					"husnummerId": "d93a8ed9-a73a-4521-a8a4-036af1ca261f"
+				},
+				{
+					"type": "adresse",
+					"id": "58bf8185-367b-4ca7-ba33-5efcc2f20f3a",
+					"titel": "Vesthavnsvej 13, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "19808b46-f6fd-467f-b10e-2e9a15fbe1e7",
+					"titel": "Vesthavnsvej 15, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d62f7d54-7c03-468f-82ad-660d35b78864",
+					"titel": "Vesthavnsvej 16, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c1825056-4b65-4502-b784-42be21de68f5",
+					"titel": "Vesthavnsvej 17, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c485b78b-a708-4c6b-ae45-d074652756d8",
+					"titel": "Vesthavnsvej 24, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "61ea0bf0-9a69-4677-bbb7-1823a75cb163",
+					"titel": "Vesthavnsvej 26, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "336655b2-0f21-4b7c-bb12-e3109a370423",
+					"titel": "Vesthavnsvej 27, 7000 Fredericia",
+					"husnummerId": "d13c8843-21c6-4c11-a7f8-539fd8913b45"
+				},
+				{
+					"type": "adresse",
+					"id": "d7bc5b7f-cc2e-465a-a9d1-1ff6b67d5aae",
+					"titel": "Vesthavnsvej 30, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "000f3e11-99f3-4fcd-99eb-cffb68c3809e",
+					"titel": "Vesthavnsvej 31, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "43e82213-7a5b-4a10-9da5-a315b7788301",
+					"titel": "Vesthavnsvej 32, 7000 Fredericia",
+					"husnummerId": "56d9838e-0843-4730-8ac1-2fa63d5322a2"
+				},
+				{
+					"type": "adresse",
+					"id": "389b4959-1cf1-441e-8c31-8cf198cfb022",
+					"titel": "Vesthavnsvej 33, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d8f9fd02-c5da-43f3-8c64-91c189c08bf4",
+					"titel": "Vesthavnsvej 34, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "94cd11c7-99c2-4350-a62f-8b3b96043a98",
+					"titel": "Vesthavnsvej 35, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30e33900-8fc8-4960-ab88-ff8cfcd4be71",
+					"titel": "Vesthavnsvej 37, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ea234716-af73-4240-a88f-7e848ed53312",
+					"titel": "Vesthavnsvej 39, 7000 Fredericia",
+					"husnummerId": "f1d7ad34-7468-4b4b-8542-04bfe17760ba"
+				},
+				{
+					"type": "adresse",
+					"id": "31646c22-d8b2-4929-9112-eb377756d51c",
+					"titel": "Vesthavnsvej 40, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c60375ad-b03d-481f-b8db-45414b63bfb2",
+					"titel": "Vesthavnsvej 41, 7000 Fredericia",
+					"husnummerId": "44179b58-f498-41c8-931f-a41990f4751c"
+				},
+				{
+					"type": "adresse",
+					"id": "00c72c52-822f-4a75-8b63-cf18f64d36d1",
+					"titel": "Vesthavnsvej 44, 7000 Fredericia",
+					"husnummerId": "592ae650-67c0-4d74-b00a-7a4024488b12"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Vesthavnsvej 3790": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "5a7f0077-1300-49b0-a6de-e01fa48ed3e1",
+					"titel": "Vesthavnsvej 2, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3b5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b1eb8889-4393-4319-8ebf-10b184b96c12",
+					"titel": "Vesthavnsvej 10, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3b6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "493ec221-ee6f-4580-a250-36ba663489c5",
+					"titel": "Vesthavnsvej 12, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "26456aeb-48fc-4208-aca7-32589aaf8f3b",
+					"titel": "Vesthavnsvej 14, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3b8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5198caf7-7b95-49bf-9860-1af4ef850a62",
+					"titel": "Vesthavnsvej 16, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9015d703-2b45-44fc-a513-848381baed8e",
+					"titel": "Vesthavnsvej 18, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "743dda60-ce56-44be-a01d-50e9d1b6e69c",
+					"titel": "Vesthavnsvej 20, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "027dbc19-a068-4f01-904f-82a165640e7e",
+					"titel": "Vesthavnsvej 22, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3bc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ab99bd57-10bf-429d-a93f-d5fa66461151",
+					"titel": "Vesthavnsvej 24, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0234cf33-dd32-4134-99e0-54d7bdacb570",
+					"titel": "Vesthavnsvej 26, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3be-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9d352e5b-231d-40b9-8713-6013312989c0",
+					"titel": "Vesthavnsvej 28, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6017f81d-7d1a-4349-b0fc-27316e3d9efe",
+					"titel": "Vesthavnsvej 30, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "72494fd9-58f8-4543-ac24-9c3f9d332dc9",
+					"titel": "Vesthavnsvej 32, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f29f24b1-b8b7-4b6f-aeea-85a10bca4b27",
+					"titel": "Vesthavnsvej 34, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a5e9df9e-6aa5-429a-9145-b355507738cd",
+					"titel": "Vesthavnsvej 36, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d2044293-dace-49b0-b98d-47a27f5fe022",
+					"titel": "Vesthavnsvej 38, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b2-382b-32b8-e044-0003ba298018",
+					"titel": "Vesthavnsvej 40, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1d653392-3c8f-4022-8c66-159ea48eeb69",
+					"titel": "Vesthavnsvej 42, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "9be9c13c-c1c4-46af-9874-2c5810a20aa7",
+					"titel": "Vesthavnsvej 44, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a73097dc-f84c-4a69-8eef-411199c244db",
+					"titel": "Vesthavnsvej 46, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "eb7573df-e9c4-4d77-9996-f21082eb4ba9",
+					"titel": "Vesthavnsvej 50, Hasle, 3790 Hasle",
+					"husnummerId": "4b0d7eed-4f56-442f-979c-1869d1886026"
+				},
+				{
+					"type": "adresse",
+					"id": "a6adaa8a-16ae-46c8-82a2-9cec9af9d2d2",
+					"titel": "Vesthavnsvej 52, Hasle, 3790 Hasle",
+					"husnummerId": "d1301497-4aaa-4ee6-887f-9bdf869907e5"
+				},
+				{
+					"type": "adresse",
+					"id": "37bba768-1df4-4607-897a-e3d4e50653f9",
+					"titel": "Vesthavnsvej 54, Hasle, 3790 Hasle",
+					"husnummerId": "d8bf9782-38c2-4059-88d1-5b7ad07cb6c2"
+				},
+				{
+					"type": "adresse",
+					"id": "421e7376-34d2-4e39-9939-f54433185d99",
+					"titel": "Vesthavnsvej 56, Hasle, 3790 Hasle",
+					"husnummerId": "f7d40971-a027-47ed-b8fa-07d2d7a0b991"
+				},
+				{
+					"type": "adresse",
+					"id": "856b687f-834e-4296-9aba-eae03b6aa2af",
+					"titel": "Vesthavnsvej 58A, Hasle, 3790 Hasle",
+					"husnummerId": "09ec57df-1da7-4925-9f14-cccbd3fbf56b"
+				},
+				{
+					"type": "adresse",
+					"id": "324be21d-c744-4e7a-8edb-74546a10c11b",
+					"titel": "Vesthavnsvej 60, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "61987782-8568-4a66-8d88-ce0aae1d4abf",
+					"titel": "Vesthavnsvej 62, Hasle, 3790 Hasle",
+					"husnummerId": "d973e2c4-e1b0-4ae0-a337-304e5809b50a"
+				},
+				{
+					"type": "adresse",
+					"id": "81f1abdd-17b2-4f94-8012-8c504cbce2ba",
+					"titel": "Vesthavnsvej 64, Hasle, 3790 Hasle",
+					"husnummerId": "3b17bf20-d46a-421b-af50-71bf712bbc8a"
+				},
+				{
+					"type": "adresse",
+					"id": "c5af52d6-d657-4cae-a951-a7cb26f23ceb",
+					"titel": "Vesthavnsvej 66, Hasle, 3790 Hasle",
+					"husnummerId": "4c85f00b-4bde-4ec3-b0d0-e018fb988821"
+				},
+				{
+					"type": "adresse",
+					"id": "abb8e9e8-0859-4ffc-9ba6-3d17ac8ff7b0",
+					"titel": "Vesthavnsvej 68, Hasle, 3790 Hasle",
+					"husnummerId": "510715b8-bd0e-46ef-b933-80bfa8892a4a"
+				},
+				{
+					"type": "adresse",
+					"id": "9db7cc34-8241-42b7-b853-d2cebae2b193",
+					"titel": "Vesthavnsvej 90, Hasle, 3790 Hasle",
+					"husnummerId": "f32c7fa7-e719-435e-9115-dea1fa75c916"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=vesthavnsvej 3": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "6017f81d-7d1a-4349-b0fc-27316e3d9efe",
+					"titel": "Vesthavnsvej 30, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "72494fd9-58f8-4543-ac24-9c3f9d332dc9",
+					"titel": "Vesthavnsvej 32, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f29f24b1-b8b7-4b6f-aeea-85a10bca4b27",
+					"titel": "Vesthavnsvej 34, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a5e9df9e-6aa5-429a-9145-b355507738cd",
+					"titel": "Vesthavnsvej 36, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d2044293-dace-49b0-b98d-47a27f5fe022",
+					"titel": "Vesthavnsvej 38, Hasle, 3790 Hasle",
+					"husnummerId": "0a3f5087-b3c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d7bc5b7f-cc2e-465a-a9d1-1ff6b67d5aae",
+					"titel": "Vesthavnsvej 30, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "000f3e11-99f3-4fcd-99eb-cffb68c3809e",
+					"titel": "Vesthavnsvej 31, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "43e82213-7a5b-4a10-9da5-a315b7788301",
+					"titel": "Vesthavnsvej 32, 7000 Fredericia",
+					"husnummerId": "56d9838e-0843-4730-8ac1-2fa63d5322a2"
+				},
+				{
+					"type": "adresse",
+					"id": "389b4959-1cf1-441e-8c31-8cf198cfb022",
+					"titel": "Vesthavnsvej 33, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d8f9fd02-c5da-43f3-8c64-91c189c08bf4",
+					"titel": "Vesthavnsvej 34, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "94cd11c7-99c2-4350-a62f-8b3b96043a98",
+					"titel": "Vesthavnsvej 35, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "30e33900-8fc8-4960-ab88-ff8cfcd4be71",
+					"titel": "Vesthavnsvej 37, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "ea234716-af73-4240-a88f-7e848ed53312",
+					"titel": "Vesthavnsvej 39, 7000 Fredericia",
+					"husnummerId": "f1d7ad34-7468-4b4b-8542-04bfe17760ba"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=vesthavnsvej 31": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "000f3e11-99f3-4fcd-99eb-cffb68c3809e",
+					"titel": "Vesthavnsvej 31, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cc-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Vesthavnsvej 31, 7000 Fredericia": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "000f3e11-99f3-4fcd-99eb-cffb68c3809e",
+					"titel": "Vesthavnsvej 31, 7000 Fredericia",
+					"husnummerId": "0a3f508f-35cc-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

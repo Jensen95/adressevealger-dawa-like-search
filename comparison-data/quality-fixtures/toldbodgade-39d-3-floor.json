@@ -1,0 +1,111 @@
+{
+	"query": "toldbodgade 39d 3",
+	"recordedAt": "2026-07-09T19:51:54.464Z",
+	"dawa": {
+		"texts": [
+			"Toldbodgade 39D, 3. 3, 5000 Odense C",
+			"Toldbodgade 39D, 5000 Odense C",
+			"Toldbodgade 39D, 1. 3, 5000 Odense C",
+			"Toldbodgade 39D, 2. 3, 5000 Odense C",
+			"Toldbodgade 39D, 3. 1, 5000 Odense C",
+			"Toldbodgade 39D, 3. 2, 5000 Odense C",
+			"Toldbodgade 39D, 3. 4, 5000 Odense C",
+			"Toldbodgade 39D, 3. 5, 5000 Odense C",
+			"Toldbodgade 39D, 3. 6, 5000 Odense C",
+			"Toldbodgade 39D, 3. 7, 5000 Odense C"
+		],
+		"ids": [
+			"1cf26740-5039-49d3-944d-a2f545d52d5f",
+			"45cd0aef-f9d1-4abb-9736-58385de2a916",
+			"375ee56d-8a79-43d5-b488-1910471256d9",
+			"bea6f722-416e-42c2-84cd-140508a4bd99",
+			"0000bf23-21f1-4fbb-85ae-3089bc6cf623",
+			"a026559a-8e84-453f-a8a5-f89087d88df6",
+			"7603aa14-c923-4247-af3a-2e3bc42c3ce0",
+			"93996ba1-c02e-459b-a8bd-48ba736926e7",
+			"82c88574-e1e2-4b90-95bb-857737ec695f",
+			"c1267a0b-87d1-4d69-b460-38e56b83d8d7"
+		],
+		"count": 10
+	},
+	"adressevaelger": {
+		"/adresser/soeg?tekst=toldbodgade 39d 3": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0000bf23-21f1-4fbb-85ae-3089bc6cf623",
+					"titel": "Toldbodgade 39D, 3. 1, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "a026559a-8e84-453f-a8a5-f89087d88df6",
+					"titel": "Toldbodgade 39D, 3. 2, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "1cf26740-5039-49d3-944d-a2f545d52d5f",
+					"titel": "Toldbodgade 39D, 3. 3, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "7603aa14-c923-4247-af3a-2e3bc42c3ce0",
+					"titel": "Toldbodgade 39D, 3. 4, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "93996ba1-c02e-459b-a8bd-48ba736926e7",
+					"titel": "Toldbodgade 39D, 3. 5, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "82c88574-e1e2-4b90-95bb-857737ec695f",
+					"titel": "Toldbodgade 39D, 3. 6, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "c1267a0b-87d1-4d69-b460-38e56b83d8d7",
+					"titel": "Toldbodgade 39D, 3. 7, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "e94f3fd0-b309-4b6f-aadb-e37bfb0c9c89",
+					"titel": "Toldbodgade 39D, 3. 8, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "68027b40-03f1-48b4-9b1c-8b8644066392",
+					"titel": "Toldbodgade 39D, 3. 9, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "0bcd8216-b0e2-4239-94cc-72f9d22c1fef",
+					"titel": "Toldbodgade 39D, 3. 10, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "4e0d1e14-adcd-4c99-bdae-feeda8a9297e",
+					"titel": "Toldbodgade 39D, 3. 11, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				},
+				{
+					"type": "adresse",
+					"id": "5731239d-56d6-41f5-ac3f-c119b9d021fc",
+					"titel": "Toldbodgade 39D, 3. 12, 5000 Odense C",
+					"husnummerId": "8036b1c8-17d0-44a3-945f-f58fe113b424"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,3129 @@
+{
+	"tekst": "Tolstrupvej 61, 9320 Hjallerup",
+	"dawaId": "00002ec8-9a05-423c-abf2-3d0f4ccb03e0",
+	"recordedAt": "2026-07-09T20:34:31.143Z",
+	"stages": [
+		{
+			"stage": "tols",
+			"dawa": [
+				"Tolstrupvej 1, Tolstrup, 8832 Skals",
+				"Tolstrupvej 1, Tolstrup, 7800 Skive",
+				"Tolstrupvej 2, Tolstrup, 8832 Skals",
+				"Tolstrupvej 3, Tolstrup, 8832 Skals",
+				"Tolstrupvej 4, Tolstrup, 8832 Skals",
+				"Tolstrupvej 6, Tolstrup, 8832 Skals",
+				"Tolstrupvej 6, Tolstrup, 7800 Skive",
+				"Tolstrupvej 8, Tolstrup, 8832 Skals",
+				"Tolstrupvej 1, Tolstrup, 8500 Grenaa",
+				"Tolstrupvej 2, Tolstrup, 8500 Grenaa"
+			]
+		},
+		{
+			"stage": "tolstrupvej",
+			"dawa": [
+				"Tolstrupvej 2, 4735 Mern",
+				"Tolstrupvej 4, 4735 Mern",
+				"Tolstrupvej 6, 4735 Mern",
+				"Tolstrupvej 8, 4735 Mern",
+				"Tolstrupvej 1A, 4735 Mern",
+				"Tolstrupvej 1B, 4735 Mern",
+				"Tolstrupvej 8A, 4735 Mern",
+				"Tolstrupvej 8C, 4735 Mern",
+				"Tolstrupvej 10, 4735 Mern",
+				"Tolstrupvej 1, 4330 Hvalsø"
+			]
+		},
+		{
+			"stage": "tolstrupvej 6",
+			"dawa": [
+				"Tolstrupvej 6, 4735 Mern",
+				"Tolstrupvej 6, 8751 Gedved",
+				"Tolstrupvej 6, 8800 Viborg",
+				"Tolstrupvej 6, 4330 Hvalsø",
+				"Tolstrupvej 6, 4682 Tureby",
+				"Tolstrupvej 6, 9670 Løgstør",
+				"Tolstrupvej 60, 4330 Hvalsø",
+				"Tolstrupvej 62, 4330 Hvalsø",
+				"Tolstrupvej 64, 4330 Hvalsø",
+				"Tolstrupvej 66, 4330 Hvalsø"
+			]
+		},
+		{
+			"stage": "tolstrupvej 61",
+			"dawa": [
+				"Tolstrupvej 61, 9320 Hjallerup",
+				"Tolstrupvej 61, 9700 Brønderslev"
+			]
+		},
+		{
+			"stage": "Tolstrupvej 61, 9320 Hjallerup",
+			"dawa": [
+				"Tolstrupvej 61, 9320 Hjallerup"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=tols": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Tolsagervej",
+					"vejNavn": "Tolsagervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolsbjergvej",
+					"vejNavn": "Tolsbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolsbro",
+					"vejNavn": "Tolsbro"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolsgaardsvej",
+					"vejNavn": "Tolsgaardsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolsgårdvej",
+					"vejNavn": "Tolsgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolshavevej",
+					"vejNavn": "Tolshavevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolshøj",
+					"vejNavn": "Tolshøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolskovgård",
+					"vejNavn": "Tolskovgård"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolskovvej",
+					"vejNavn": "Tolskovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstedhaven",
+					"vejNavn": "Tolstedhaven"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstedhøjen",
+					"vejNavn": "Tolstedhøjen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstedparken",
+					"vejNavn": "Tolstedparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstedvej",
+					"vejNavn": "Tolstedvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstojs Alle",
+					"vejNavn": "Tolstojs Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstrup Allé",
+					"vejNavn": "Tolstrup Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstrup Byvej",
+					"vejNavn": "Tolstrup Byvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolstrupvej",
+					"vejNavn": "Tolstrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toelbjergvej",
+					"vejNavn": "Toelbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toelhøjvej",
+					"vejNavn": "Toelhøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toelstangsvej",
+					"vejNavn": "Toelstangsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toeltvej",
+					"vejNavn": "Toeltvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbakken",
+					"vejNavn": "Toldbakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbod Plads",
+					"vejNavn": "Toldbod Plads"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldboden",
+					"vejNavn": "Toldboden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldboderne",
+					"vejNavn": "Toldboderne"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodgade",
+					"vejNavn": "Toldbodgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodgyde",
+					"vejNavn": "Toldbodgyde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodhusevej",
+					"vejNavn": "Toldbodhusevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodstræde",
+					"vejNavn": "Toldbodstræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodvej",
+					"vejNavn": "Toldbodvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbodvænget",
+					"vejNavn": "Toldbodvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldbuen",
+					"vejNavn": "Toldbuen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolderensstræde",
+					"vejNavn": "Tolderensstræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldergade",
+					"vejNavn": "Toldergade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldergårdsvej",
+					"vejNavn": "Toldergårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolderhusene",
+					"vejNavn": "Tolderhusene"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolderlundsvej",
+					"vejNavn": "Tolderlundsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolderstien",
+					"vejNavn": "Tolderstien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldertoften",
+					"vejNavn": "Toldertoften"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldertoftvej",
+					"vejNavn": "Toldertoftvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldervej",
+					"vejNavn": "Toldervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldgade",
+					"vejNavn": "Toldgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldgårdsvej",
+					"vejNavn": "Toldgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldhusvej",
+					"vejNavn": "Toldhusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldkammeret",
+					"vejNavn": "Toldkammeret"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldmestervej",
+					"vejNavn": "Toldmestervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldmose",
+					"vejNavn": "Toldmose"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldskrivervej",
+					"vejNavn": "Toldskrivervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldstedet",
+					"vejNavn": "Toldstedet"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldstedvej",
+					"vejNavn": "Toldstedvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldstien",
+					"vejNavn": "Toldstien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldstrupsgade",
+					"vejNavn": "Toldstrupsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldvagten",
+					"vejNavn": "Toldvagten"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldvej",
+					"vejNavn": "Toldvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Toldvejen",
+					"vejNavn": "Toldvejen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollemosevej",
+					"vejNavn": "Tollemosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollerup Strandvej",
+					"vejNavn": "Tollerup Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolleruphusvej",
+					"vejNavn": "Tolleruphusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollerupparken",
+					"vejNavn": "Tollerupparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollerupvej",
+					"vejNavn": "Tollerupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollerødvej",
+					"vejNavn": "Tollerødvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollesensvej",
+					"vejNavn": "Tollesensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollestruphedevej",
+					"vejNavn": "Tollestruphedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollestrupvej",
+					"vejNavn": "Tollestrupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tollundvej",
+					"vejNavn": "Tollundvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolmehøjvej",
+					"vejNavn": "Tolmehøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolnevej",
+					"vejNavn": "Tolnevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolumvej",
+					"vejNavn": "Tolumvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolvalenvej",
+					"vejNavn": "Tolvalenvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tolvkarlevej",
+					"vejNavn": "Tolvkarlevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tågelundvej",
+					"vejNavn": "Tågelundvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tålforhøj",
+					"vejNavn": "Tålforhøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tålforvej",
+					"vejNavn": "Tålforvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tålforvænget",
+					"vejNavn": "Tålforvænget"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=tolstrupvej": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "edb1dd81-321f-436e-963e-63282336e709",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 4100 Ringsted",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "4100",
+					"postdistrikt": "Ringsted",
+					"antal_husnumre": 38
+				},
+				{
+					"id": "c0b023cb-189d-4387-91d8-bc1fa6bebf08",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 4330 Hvalsø",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "4330",
+					"postdistrikt": "Hvalsø",
+					"antal_husnumre": 82
+				},
+				{
+					"id": "c948437d-a3e6-4435-a414-e6035aecadd3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 4682 Tureby",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "4682",
+					"postdistrikt": "Tureby",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "e2c78392-ba57-40d1-acf1-7bbbae1bd0f5",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 4735 Mern",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "4735",
+					"postdistrikt": "Mern",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "e2ddaa4e-52d1-4913-ad52-aa9df07fcf03",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 7800 Skive",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "7800",
+					"postdistrikt": "Skive",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "9e6854f6-4665-44d8-b6a2-ce77574238b5",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 8500 Grenaa",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "8500",
+					"postdistrikt": "Grenaa",
+					"antal_husnumre": 8
+				},
+				{
+					"id": "796226da-f3ad-4b46-b6bc-beffc96a0787",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 8700 Horsens",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "8700",
+					"postdistrikt": "Horsens",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "30a73442-3523-4542-8f3f-69973c3c7a97",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 8751 Gedved",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "8751",
+					"postdistrikt": "Gedved",
+					"antal_husnumre": 9
+				},
+				{
+					"id": "fcfaa6a5-55e6-41f6-9248-e56c07e01d00",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 8800 Viborg",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "d3462b6a-1ae9-498a-837c-e20746c45322",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 8832 Skals",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "8832",
+					"postdistrikt": "Skals",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "1f1d88b4-85ec-4542-851c-4c6b7f1cace4",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 9320 Hjallerup",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "9320",
+					"postdistrikt": "Hjallerup",
+					"antal_husnumre": 19
+				},
+				{
+					"id": "4122e4c4-77fe-4efb-a8a5-9f0c702bb9f1",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 9330 Dronninglund",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "9330",
+					"postdistrikt": "Dronninglund",
+					"antal_husnumre": 37
+				},
+				{
+					"id": "80091d11-ba44-4338-8003-0e0329a92cc2",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 9670 Løgstør",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "9670",
+					"postdistrikt": "Løgstør",
+					"antal_husnumre": 30
+				},
+				{
+					"id": "998c446d-f336-48de-b68b-997e2a285c5f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "9700",
+					"postdistrikt": "Brønderslev",
+					"antal_husnumre": 98
+				},
+				{
+					"id": "2a2eac4f-816e-4a52-9d57-fe9ad9f3f8d3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Tolstrupvej 9800 Hjørring",
+					"vejnavn": "Tolstrupvej",
+					"postnr": "9800",
+					"postdistrikt": "Hjørring",
+					"antal_husnumre": 17
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 4735": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50af-be96-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1A, 4735 Mern",
+					"husnummerId": "0a3f5085-668c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-be97-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1B, 4735 Mern",
+					"husnummerId": "0a3f5085-668d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-be98-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, 4735 Mern",
+					"husnummerId": "0a3f5085-668e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-be99-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 4, 4735 Mern",
+					"husnummerId": "0a3f5085-668f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-be9a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, 4735 Mern",
+					"husnummerId": "0a3f5085-6690-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-be9b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, 4735 Mern",
+					"husnummerId": "0a3f5085-6691-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d407eed5-13a9-4cff-bf23-c0a5915f7d18",
+					"titel": "Tolstrupvej 8A, 4735 Mern",
+					"husnummerId": "7d83a12b-7f60-4e64-9913-c572ea593623"
+				},
+				{
+					"type": "adresse",
+					"id": "095422eb-308b-4873-bddd-e09c69cf3269",
+					"titel": "Tolstrupvej 8C, 4735 Mern",
+					"husnummerId": "e977fd6f-7a0b-45dc-94a6-65777bc06bf5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-be9c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 10, 4735 Mern",
+					"husnummerId": "0a3f5085-6692-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "15f5ec30-be5f-4d25-888f-3c1bcd7c4718",
+					"titel": "Tolstrupvej 11, Ø Egesborg, 4735 Mern",
+					"husnummerId": "57170e12-0091-476e-90af-1d81ae1a31b2"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 4682": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-97d7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1, 4682 Tureby",
+					"husnummerId": "0a3f5081-b2c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-97d8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, 4682 Tureby",
+					"husnummerId": "0a3f5081-b2c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-97d9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 3, 4682 Tureby",
+					"husnummerId": "0a3f5081-b2c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-97da-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 4, 4682 Tureby",
+					"husnummerId": "0a3f5081-b2c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b77a5488-58ff-4d57-aaa2-0e82e547132a",
+					"titel": "Tolstrupvej 6, 4682 Tureby",
+					"husnummerId": "0a3f5081-b2c8-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 9320": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b94-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 45, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-795c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b95-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 47, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-795e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b96-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 49, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-795f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b97-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 55, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7960-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b99-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 57, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7962-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "00002ec8-9a05-423c-abf2-3d0f4ccb03e0",
+					"titel": "Tolstrupvej 61, 9320 Hjallerup",
+					"husnummerId": "d7a85869-28be-4927-8cfa-e05fd73ba2ce"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 62, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7963-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7964-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 66, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7965-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 68, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7966-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 72, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7967-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 74, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7968-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1ba0-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 78, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7969-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1ba1-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 82, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-796a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1ba2-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 86, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-796b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f9da62d9-d6a7-4268-965b-f64d30c6d16e",
+					"titel": "Tolstrupvej 88A, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "79316d0a-d01e-41e9-a53b-df686bfede26"
+				},
+				{
+					"type": "adresse",
+					"id": "a7bc06f9-b62c-498e-8477-e6a8bef31ff8",
+					"titel": "Tolstrupvej 92, 9320 Hjallerup",
+					"husnummerId": "f05676b7-3038-4ffb-9dfb-90cfe3cba4ac"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 4100": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5812-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 12, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18eb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5813-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 13, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18ec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5814-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 14, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5815-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 16, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18ee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5816-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 17, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18ef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5817-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 20B, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18f0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5818-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 20C, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18f1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5819-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 21, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18f2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-581a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 22B, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18f3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "304a5b2c-49b9-4025-a270-6939be82768f",
+					"titel": "Tolstrupvej 23A, Tolstrup, 4100 Ringsted",
+					"husnummerId": "3d2ed03e-87dc-4030-ae95-88213e5f4f6d"
+				},
+				{
+					"type": "adresse",
+					"id": "0dee3da6-84be-4174-b03a-395df29db9fd",
+					"titel": "Tolstrupvej 23B, Tolstrup, 4100 Ringsted",
+					"husnummerId": "a8461783-25d3-4a02-826d-007b00e8ede5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-581c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 23C, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18f5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "31b17d21-dd59-4690-b005-f16b92f807f3",
+					"titel": "Tolstrupvej 23D, Tolstrup, 4100 Ringsted",
+					"husnummerId": "e78fd0d9-be54-4585-857b-28dffb8b61ff"
+				},
+				{
+					"type": "adresse",
+					"id": "ffc769f6-ec5a-4d44-99a7-e59c458c7bd7",
+					"titel": "Tolstrupvej 25, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18f6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-581d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 27, Tolstrup, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18f7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-581e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18f8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-581f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 30, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18f9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5820-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 31, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18fa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5821-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 35, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18fb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5822-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 37, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18fc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5823-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 41, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18fd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5824-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 42, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18fe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5825-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 44, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-18ff-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5826-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 45, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1900-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5827-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 46, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1901-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5828-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 47, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1902-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5829-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 48, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1903-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-582a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 50, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1904-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-582b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 52, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1905-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-582c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 54, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1906-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-582d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 55, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1907-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-582e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 60, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1908-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-582f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 70, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1909-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "885f9995-eaff-477c-bcef-ec030606ae20",
+					"titel": "Tolstrupvej 74, Havbyrd, 4100 Ringsted",
+					"husnummerId": "19910d90-0017-41c9-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5830-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 80B, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-190a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-5831-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 80C, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-190b-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 8500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-e43d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1, Tolstrup, 8500 Grenaa",
+					"husnummerId": "0a3f5093-aa8a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-e43e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, Tolstrup, 8500 Grenaa",
+					"husnummerId": "0a3f5093-aa8b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-e43f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 5, Tolstrup, 8500 Grenaa",
+					"husnummerId": "0a3f5093-aa8c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-e440-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, Tolstrup, 8500 Grenaa",
+					"husnummerId": "0a3f5093-aa8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-e441-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, Tolstrup, 8500 Grenaa",
+					"husnummerId": "0a3f5093-aa8e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-e442-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 10, Tolstrup, 8500 Grenaa",
+					"husnummerId": "0a3f5093-aa8f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-e443-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 12, Tolstrup, 8500 Grenaa",
+					"husnummerId": "0a3f5093-aa90-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 7800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-b8b4-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1, Tolstrup, 7800 Skive",
+					"husnummerId": "0a3f5098-2279-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-b8b5-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, Vinde, 7800 Skive",
+					"husnummerId": "0a3f5098-227a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-b8b6-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 4, Tolstrup, 7800 Skive",
+					"husnummerId": "0a3f5098-227b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-b8b7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, Tolstrup, 7800 Skive",
+					"husnummerId": "0a3f5098-227c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-b8b8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, Tolstrup, 7800 Skive",
+					"husnummerId": "0a3f5098-227d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-b8b9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 10, Tolstrup, 7800 Skive",
+					"husnummerId": "0a3f5098-227e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-b8ba-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 12, Tolstrup, 7800 Skive",
+					"husnummerId": "0a3f5098-227f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-b8bb-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 14, Tolstrup, 7800 Skive",
+					"husnummerId": "0a3f5098-2280-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 8700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-9a6b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 9, 8700 Horsens",
+					"husnummerId": "0a3f508f-d0e9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508f-d0ea-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 10, 8700 Horsens",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "f6cc3a93-6834-4534-99c6-537e14142ecd",
+					"titel": "Tolstrupvej 13, 8700 Horsens",
+					"husnummerId": "0a3f508f-d0eb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-9a6d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 17, 8700 Horsens",
+					"husnummerId": "0a3f508f-d0ec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-9a6e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 19, 8700 Horsens",
+					"husnummerId": "0a3f508f-d0ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-9a6f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 22, 8700 Horsens",
+					"husnummerId": "0a3f508f-d0ee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bb-9a70-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 24, 8700 Horsens",
+					"husnummerId": "0a3f508f-d0ef-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 8751": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f522-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1, 8751 Gedved",
+					"husnummerId": "0a3f508f-47ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f523-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, 8751 Gedved",
+					"husnummerId": "0a3f508f-47ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f524-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2A, 8751 Gedved",
+					"husnummerId": "0a3f508f-47ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f525-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 3, 8751 Gedved",
+					"husnummerId": "0a3f508f-47ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f526-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 4, 8751 Gedved",
+					"husnummerId": "0a3f508f-47af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f527-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 5, 8751 Gedved",
+					"husnummerId": "0a3f508f-47b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f528-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, 8751 Gedved",
+					"husnummerId": "0a3f508f-47b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f529-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 7, 8751 Gedved",
+					"husnummerId": "0a3f508f-47b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f52a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, 8751 Gedved",
+					"husnummerId": "0a3f508f-47b3-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 9330": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "11909ef9-f4a9-4799-8576-f9dfac4e769b",
+					"titel": "Tolstrupvej 1, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7939-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b74-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 4, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-793a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-793b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 5, Thorup, 9330 Dronninglund",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b78-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-793c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b79-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6A, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-793d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b7a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-793e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b7b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 9, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-793f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b7c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 11, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7940-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6c5ece90-d954-4803-e044-00144f3ead67",
+					"titel": "Tolstrupvej 12, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7941-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b7e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 13, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7942-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b7f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 13A, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7943-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6ab0da1b-6187-4d2d-8aff-310334ed3bb5",
+					"titel": "Tolstrupvej 14, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7944-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b80-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 15, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7945-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b81-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 15A, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7946-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b82-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 16, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7947-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b83-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 17, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7948-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b84-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 18, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7949-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b85-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 19, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-794a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b86-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 20, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-794b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "afb4de79-4e4f-42f7-b50a-209e5d127b2d",
+					"titel": "Tolstrupvej 21, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-794c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b87-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 22, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-794d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b88-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 23, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-794e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b89-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 24, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-794f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b8a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 25, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7950-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b8b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 26, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7951-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b8c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 28, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7952-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b8d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 30, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7953-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b8e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 32, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7955-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b8f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 34, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7956-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "61b4e5bf-b45b-4b19-a310-009580791e07",
+					"titel": "Tolstrupvej 36, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7957-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b90-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 38, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7958-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b91-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 40, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7959-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b92-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 42, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-795a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b93-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 44, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-795b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-795d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 46, Thorup, 9330 Dronninglund",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "46"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b98-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 56, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-7961-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 8800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a131-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcd0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a132-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 3, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcd2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a133-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 5, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcd3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a134-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcd4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a135-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 7, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcd5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a136-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcd6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a137-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 9, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcd7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a138-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 11, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcd9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a139-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 13, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcda-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a13a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 15, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcdb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a13b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 17, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcdc-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 8832": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-7552-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1, Tolstrup, 8832 Skals",
+					"husnummerId": "0a3f5097-e64f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-7553-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, Tolstrup, 8832 Skals",
+					"husnummerId": "0a3f5097-e650-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-7554-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 3, Tolstrup, 8832 Skals",
+					"husnummerId": "0a3f5097-e651-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-7555-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 4, Tolstrup, 8832 Skals",
+					"husnummerId": "0a3f5097-e652-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-7556-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, Tolstrup, 8832 Skals",
+					"husnummerId": "0a3f5097-e653-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-7557-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, Tolstrup, 8832 Skals",
+					"husnummerId": "0a3f5097-e654-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 9670": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92d5-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e883-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92d6-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e884-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92d7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 3, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e885-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92d8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 4, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e886-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92d9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 5, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e887-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92da-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e888-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92db-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 7, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e889-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92dc-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e88a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92dd-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 9, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e88b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92de-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 10, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e88c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92df-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 11, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e88d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e0-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 12, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e88e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e1-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 13, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e88f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e2-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 15, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e890-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e3-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 17, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e891-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "cccf62c1-dc5f-42c1-8038-add0736d418d",
+					"titel": "Tolstrupvej 19, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e892-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e4-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 24, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e893-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e5-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 25, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e894-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e6-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 26, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e895-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d42691b5-78ad-45a6-b397-cf2c06d1e472",
+					"titel": "Tolstrupvej 30, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e896-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b7a18ede-cf4f-4def-9eb9-9b9fc65cab25",
+					"titel": "Tolstrupvej 30C, 9670 Løgstør",
+					"husnummerId": "f0b8203a-4a98-4119-9a3d-45f8d057ff03"
+				},
+				{
+					"type": "adresse",
+					"id": "5d2c80a3-e294-4421-80a3-c69cdd0342e7",
+					"titel": "Tolstrupvej 31, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e897-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "22228a5a-9223-4fef-a967-403f4ca11f70",
+					"titel": "Tolstrupvej 32, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e898-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 40, Tolstrup, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e899-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "81a71256-4ba7-4854-a08a-c0120552d31a",
+					"titel": "Tolstrupvej 46, Tolstrup, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e89b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 52, Tolstrup, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e89c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92e9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 54, Tolstrup, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e89d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92ea-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 55, Tolstrup, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e89e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92eb-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 56, Tolstrup, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e89f-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 4330": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-5499-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fd6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "05d68363-f330-45b2-8130-9da01cc267de",
+					"titel": "Tolstrupvej 1A, 4330 Hvalsø",
+					"husnummerId": "553fcefd-cc6e-4fb0-ada5-029391b7ef20"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-549a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fd7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-549b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 3, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fd8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-549c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 4, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fd9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-549d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 5, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fda-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3aa46fc3-5289-4d1e-8efc-ca0ef288422c",
+					"titel": "Tolstrupvej 6, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fdb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-549e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 7, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fdc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-549f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fdd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a0-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 9, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fde-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a1-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 10, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fdf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a2-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 11, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a3-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 12, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a4-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 13, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a5-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 14, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a6-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 15, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 17, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "67b3f9be-595e-4c35-a4f5-a9c276c7b0b3",
+					"titel": "Tolstrupvej 18, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 19, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54a9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 20, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54aa-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 21, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fe9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54ab-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 22, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54ac-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 23, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7feb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54ad-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 24, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54ae-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 25, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54af-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 26, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b0-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 27, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b1-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 28, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b2-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b3-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29A, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b4-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29B, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b5-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29C, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b6-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29D, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29E, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29F, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54b9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29G, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54ba-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29H, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ff9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "26b01095-3def-4972-a67e-f4722ba5248d",
+					"titel": "Tolstrupvej 29K, 4330 Hvalsø",
+					"husnummerId": "ef8c77e1-c949-416d-adc1-e5814d5138b1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54bb-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 30, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ffa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54bc-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 31, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ffb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54bd-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 32, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ffc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54be-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 33, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ffd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54bf-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 34, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7ffe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c0-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 35, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fff-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c1-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 36, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8000-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c2-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 37, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8001-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c3-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 38, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8002-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c4-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 39, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8003-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c5-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 40, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8004-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c6-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 41, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8005-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 42, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8006-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 43, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8007-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54c9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 44, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8008-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54ca-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 45, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8009-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54cb-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 46, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-800a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54cc-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 47, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-800b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54cd-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 48, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-800c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54ce-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 49, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-800d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54cf-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 50, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-800e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d0-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 51A, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-800f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d1-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 51B, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8010-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d2-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 52, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8011-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d3-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 53, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8012-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d4-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 54, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8013-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d5-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 55, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8014-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d6-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 56, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8015-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 57, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8016-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 58, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8017-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54d9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 59, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8018-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54da-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 60, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8019-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54db-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 62, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54dc-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54dd-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64A, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54de-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64B, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54df-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 66, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8752768f-7253-43f7-b8f2-0ca2e69745d8",
+					"titel": "Tolstrupvej 66H, 4330 Hvalsø",
+					"husnummerId": "f7dff220-abc0-4b61-991f-663f7fa03373"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54e0-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 68, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-afb3-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 70, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-cafa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-afb4-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 71, Boruphuse, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-cafb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-afb5-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 72, Boruphuse, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-cafc-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 9800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd22-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 1, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5910-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd23-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5911-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd24-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 3, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5912-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd25-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6A, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5913-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd26-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6B, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5914-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd27-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 7, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5915-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "36c6e225-e88a-4638-bf61-aa1724f0b9e9",
+					"titel": "Tolstrupvej 7A, Uggerby, 9800 Hjørring",
+					"husnummerId": "1de21027-a7df-1d9f-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd28-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 8, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5916-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd29-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 10, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5918-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd2a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 12, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5919-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd2b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 14, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-591a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1798898f-6fb0-4374-ad56-0ee115fdc40f",
+					"titel": "Tolstrupvej 15, 9800 Hjørring",
+					"husnummerId": "0a3f509a-591b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd2c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 16, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-591c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd2d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 18A, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-591d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd2e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 18B, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-591e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd2f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 20, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-591f-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 9700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0555897d-138c-41b1-b3af-eb6ebd622f37",
+					"titel": "Tolstrupvej 1, 9700 Brønderslev",
+					"husnummerId": "f81f9dcf-2de7-461b-be73-4bb23be1d5a1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fde7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 2, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f4d768b5-b0db-4b91-9e5b-4f0abf717c9f",
+					"titel": "Tolstrupvej 3, 9700 Brønderslev",
+					"husnummerId": "42bd0c9e-5661-4768-b585-88788d91b6e2"
+				},
+				{
+					"type": "husnummer",
+					"id": "fc9baa74-d782-4752-878c-678d8531e1d5",
+					"titel": "Tolstrupvej 5, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "beefc558-1245-45a9-8237-77ea8a1385cf",
+					"titel": "Tolstrupvej 7, 9700 Brønderslev",
+					"husnummerId": "b79bb8ec-8d46-4532-b26c-0b7a2d7c91a8"
+				},
+				{
+					"type": "adresse",
+					"id": "199d3710-3645-4e87-b58e-c4bbd3226230",
+					"titel": "Tolstrupvej 9, 9700 Brønderslev",
+					"husnummerId": "b9d136dc-d65e-4bc0-ad96-bc516e9df59e"
+				},
+				{
+					"type": "adresse",
+					"id": "d47962d4-db5f-44b9-96bf-25d0b003043b",
+					"titel": "Tolstrupvej 11, 9700 Brønderslev",
+					"husnummerId": "c1a3277c-cfa9-41dd-8a02-8fbeba578a7e"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fde8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 13, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fde9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 15, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdea-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 16, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "ce9ec3fc-0fd1-4b53-94db-0e50c7f890fb",
+					"titel": "Tolstrupvej 17A, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "17A"
+				},
+				{
+					"type": "husnummer",
+					"id": "a1bb30df-cfd9-45ef-95d9-f79e49c1f40f",
+					"titel": "Tolstrupvej 17B, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "17B"
+				},
+				{
+					"type": "husnummer",
+					"id": "f0ec3b2e-65f6-477f-addc-de4d5ad2606a",
+					"titel": "Tolstrupvej 17C, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "17C"
+				},
+				{
+					"type": "husnummer",
+					"id": "32b3f65e-b2d9-4b36-a4a7-01efe45075c3",
+					"titel": "Tolstrupvej 17D, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "17D"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdeb-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 18, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ac-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdec-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 20, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ad-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fded-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 21, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ae-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdee-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 22, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59af-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdef-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 24, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf0-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 25, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf1-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 26, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf2-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 27, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf3-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 28, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf4-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 29, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf5-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 30, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf6-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 31, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 32, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf8-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 33, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59b9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdf9-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 34, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ba-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdfa-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 35, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59bb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f346b5f9-4100-4d17-8aac-e76a9080104a",
+					"titel": "Tolstrupvej 36A, 9700 Brønderslev",
+					"husnummerId": "ea4f22ae-8a6c-45b8-903e-b36e44bfaf33"
+				},
+				{
+					"type": "adresse",
+					"id": "43b79a0a-9efe-4109-b7dd-8ba2eb75e0a4",
+					"titel": "Tolstrupvej 36B, 9700 Brønderslev",
+					"husnummerId": "6f94d147-d8c2-4600-b497-867283c6c3d2"
+				},
+				{
+					"type": "adresse",
+					"id": "d31e4b3e-4076-4fef-a8ae-e48a9cee5719",
+					"titel": "Tolstrupvej 36C, 9700 Brønderslev",
+					"husnummerId": "519c1380-93f5-4894-983a-976a8fce6b11"
+				},
+				{
+					"type": "adresse",
+					"id": "51574a17-5b84-4a24-b1ef-6407043858f4",
+					"titel": "Tolstrupvej 36D, 9700 Brønderslev",
+					"husnummerId": "94dc890e-3e9d-4f41-8b25-92e980f232fc"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdfc-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 37, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59bd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-59be-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 39, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "39"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdfe-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 40, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59bf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fdff-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 42, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe00-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 43, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe01-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 44, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe02-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 45, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe03-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 47, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe04-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 48, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe05-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 49, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe06-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 50, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe07-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 51, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-59ca-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 52A, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "52A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-59cb-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 52B, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "52B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5099-59cc-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 52C, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "52C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe11-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 53, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe12-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 54, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe13-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 55, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe14-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 56, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe16-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 58, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "398de6dc-e8ec-4d6b-86e8-7c97b23c24f2",
+					"titel": "Tolstrupvej 60A, 9700 Brønderslev",
+					"husnummerId": "7c87ffd3-c432-49fc-85a6-5412d21e5f24"
+				},
+				{
+					"type": "adresse",
+					"id": "489c15df-3fa8-4222-a4e3-7d23227de21d",
+					"titel": "Tolstrupvej 60B, 9700 Brønderslev",
+					"husnummerId": "36f58a2b-b8b9-4906-a797-9805c5afa223"
+				},
+				{
+					"type": "adresse",
+					"id": "3a158105-e263-43dd-a1d2-85e998cc8427",
+					"titel": "Tolstrupvej 60C, 9700 Brønderslev",
+					"husnummerId": "bc985337-1089-4768-9335-bcf11daa9603"
+				},
+				{
+					"type": "adresse",
+					"id": "1b8e278f-af7f-4dfb-80a3-1d6f9e6629e2",
+					"titel": "Tolstrupvej 60D, 9700 Brønderslev",
+					"husnummerId": "a96a4e3e-c9a8-4dc5-b6ff-befb1b0f5902"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe18-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 61, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 63, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 65, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 67, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 69, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59da-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 71, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59db-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe20-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 73, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59dc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "45eedea9-53f3-4964-bbf6-36ca8afb18f4",
+					"titel": "Tolstrupvej 90, 9700 Brønderslev",
+					"husnummerId": "45732676-a58a-4c27-a795-8fdc10f9e85d"
+				},
+				{
+					"type": "adresse",
+					"id": "43bb3db4-e569-4319-9495-76b7d720534c",
+					"titel": "Tolstrupvej 91, 9700 Brønderslev",
+					"husnummerId": "c208ab69-6f1a-43e8-9913-8c39b2bb137e"
+				},
+				{
+					"type": "adresse",
+					"id": "31e539fb-b092-4441-8869-225e26bb8986",
+					"titel": "Tolstrupvej 100, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59df-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "8a978ce5-4f4d-4432-8c43-e68752aa96dc",
+					"titel": "Tolstrupvej 102, 9700 Brønderslev",
+					"vejnavn": "Tolstrupvej",
+					"husnummer": "102"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe21-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 120, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59e1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe22-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 120A, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59e2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe23-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 121, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59e3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe24-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 141, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59e4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe25-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 176, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59e5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe26-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 178, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59e6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe27-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 180, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59e7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe28-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 191, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59e8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe29-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 231, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59e9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe2a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 231A, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ea-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe2b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 256, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59eb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe2c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 257, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ec-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe2d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 263, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ed-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe2e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 271, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ee-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe2f-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 280, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59ef-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe30-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 297, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59f0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e7273f4e-e859-4a45-9f80-2756197c1033",
+					"titel": "Tolstrupvej 299, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59f1-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=tolstrupvej 6": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "3aa46fc3-5289-4d1e-8efc-ca0ef288422c",
+					"titel": "Tolstrupvej 6, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-7fdb-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b77a5488-58ff-4d57-aaa2-0e82e547132a",
+					"titel": "Tolstrupvej 6, 4682 Tureby",
+					"husnummerId": "0a3f5081-b2c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-be9a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, 4735 Mern",
+					"husnummerId": "0a3f5085-6690-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-b8b7-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, Tolstrup, 7800 Skive",
+					"husnummerId": "0a3f5098-227c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50bf-e440-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, Tolstrup, 8500 Grenaa",
+					"husnummerId": "0a3f5093-aa8d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ba-f528-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, 8751 Gedved",
+					"husnummerId": "0a3f508f-47b1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-a134-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, 8800 Viborg",
+					"husnummerId": "0a3f5098-fcd4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c5-7556-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, Tolstrup, 8832 Skals",
+					"husnummerId": "0a3f5097-e653-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b78-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-793c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c8-92da-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6, 9670 Løgstør",
+					"husnummerId": "0a3f509a-e888-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ae-582e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 60, Havbyrd, 4100 Ringsted",
+					"husnummerId": "0a3f5084-1908-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54da-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 60, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-8019-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54db-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 62, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54dc-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54df-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 66, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54e0-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 68, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "00002ec8-9a05-423c-abf2-3d0f4ccb03e0",
+					"titel": "Tolstrupvej 61, 9320 Hjallerup",
+					"husnummerId": "d7a85869-28be-4927-8cfa-e05fd73ba2ce"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 62, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7963-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7964-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 66, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7965-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b9d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 68, Tolstrup, 9320 Hjallerup",
+					"husnummerId": "0a3f5099-7966-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-1b79-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6A, Thorup, 9330 Dronninglund",
+					"husnummerId": "0a3f5099-793d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe18-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 61, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1a-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 63, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1b-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1c-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 65, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1d-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 67, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe1e-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 69, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59da-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd25-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6A, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5913-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c7-fd26-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 6B, Uggerby, 9800 Hjørring",
+					"husnummerId": "0a3f509a-5914-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54dd-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64A, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-54de-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 64B, 4330 Hvalsø",
+					"husnummerId": "0a3f5081-801d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8752768f-7253-43f7-b8f2-0ca2e69745d8",
+					"titel": "Tolstrupvej 66H, 4330 Hvalsø",
+					"husnummerId": "f7dff220-abc0-4b61-991f-663f7fa03373"
+				},
+				{
+					"type": "adresse",
+					"id": "398de6dc-e8ec-4d6b-86e8-7c97b23c24f2",
+					"titel": "Tolstrupvej 60A, 9700 Brønderslev",
+					"husnummerId": "7c87ffd3-c432-49fc-85a6-5412d21e5f24"
+				},
+				{
+					"type": "adresse",
+					"id": "489c15df-3fa8-4222-a4e3-7d23227de21d",
+					"titel": "Tolstrupvej 60B, 9700 Brønderslev",
+					"husnummerId": "36f58a2b-b8b9-4906-a797-9805c5afa223"
+				},
+				{
+					"type": "adresse",
+					"id": "3a158105-e263-43dd-a1d2-85e998cc8427",
+					"titel": "Tolstrupvej 60C, 9700 Brønderslev",
+					"husnummerId": "bc985337-1089-4768-9335-bcf11daa9603"
+				},
+				{
+					"type": "adresse",
+					"id": "1b8e278f-af7f-4dfb-80a3-1d6f9e6629e2",
+					"titel": "Tolstrupvej 60D, 9700 Brønderslev",
+					"husnummerId": "a96a4e3e-c9a8-4dc5-b6ff-befb1b0f5902"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=tolstrupvej 61": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00002ec8-9a05-423c-abf2-3d0f4ccb03e0",
+					"titel": "Tolstrupvej 61, 9320 Hjallerup",
+					"husnummerId": "d7a85869-28be-4927-8cfa-e05fd73ba2ce"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-fe18-32b8-e044-0003ba298018",
+					"titel": "Tolstrupvej 61, 9700 Brønderslev",
+					"husnummerId": "0a3f5099-59d4-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tolstrupvej 61, 9320 Hjallerup": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00002ec8-9a05-423c-abf2-3d0f4ccb03e0",
+					"titel": "Tolstrupvej 61, 9320 Hjallerup",
+					"husnummerId": "d7a85869-28be-4927-8cfa-e05fd73ba2ce"
+				}
+			]
+		}
+	}
+}

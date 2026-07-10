@@ -1,0 +1,1881 @@
+{
+	"tekst": "Østerlunden 10, st. 1, 5000 Odense C",
+	"dawaId": "00032b93-d8b4-45b5-956d-f677ee356442",
+	"recordedAt": "2026-07-09T20:38:24.535Z",
+	"stages": [
+		{
+			"stage": "øste",
+			"dawa": [
+				"Østerbyvej 82, Østerby, 6470 Sydals",
+				"Østerbyvej 54C, Østerby, 6470 Sydals",
+				"Østervej 10, Østeregnen, 5935 Bagenkop",
+				"Østergade 7A, 9500 Hobro",
+				"Østertoft 88, 7490 Aulum",
+				"Østerbro 6C, 8970 Havndal",
+				"Østergade 9B, 8963 Auning",
+				"Østergade 25B, 7430 Ikast",
+				"Østergade 59, 9460 Brovst",
+				"Østergade 61, 9460 Brovst"
+			]
+		},
+		{
+			"stage": "østerlunden",
+			"dawa": [
+				"Østerlunden 3, 5000 Odense C",
+				"Østerlunden 4, 5000 Odense C",
+				"Østerlunden 6, 5000 Odense C",
+				"Østerlunden 7, 5000 Odense C",
+				"Østerlunden 8, 5000 Odense C",
+				"Østerlunden 9, 5000 Odense C",
+				"Østerlunden 10, 5000 Odense C",
+				"Østerlunden 11, 5000 Odense C",
+				"Østerlunden 12, 5000 Odense C",
+				"Østerlunden 13, 5000 Odense C"
+			]
+		},
+		{
+			"stage": "østerlunden 1",
+			"dawa": [
+				"Østerlunden 10, 1. 1, 5000 Odense C",
+				"Østerlunden 12, 1. 1, 5000 Odense C",
+				"Østerlunden 14, 1. 1, 5000 Odense C",
+				"Østerlunden 16, 1. 1, 5000 Odense C",
+				"Østerlunden 18, 1. 1, 5000 Odense C",
+				"Østerlunden 1, 1. 1, 5000 Odense C",
+				"Østerlunden 10, 1. 2, 5000 Odense C",
+				"Østerlunden 10, 1. 3, 5000 Odense C",
+				"Østerlunden 10, 2. 1, 5000 Odense C",
+				"Østerlunden 10, 3. 1, 5000 Odense C"
+			]
+		},
+		{
+			"stage": "østerlunden 10",
+			"dawa": [
+				"Østerlunden 10, 5000 Odense C",
+				"Østerlunden 10, Saksild, 8300 Odder",
+				"Østerlunden 10, 1. 1, 5000 Odense C",
+				"Østerlunden 10, 2. 2, 5000 Odense C",
+				"Østerlunden 10, 3. 3, 5000 Odense C",
+				"Østerlunden 10, 1. 2, 5000 Odense C",
+				"Østerlunden 10, 1. 3, 5000 Odense C",
+				"Østerlunden 10, 2. 1, 5000 Odense C",
+				"Østerlunden 10, 2. 3, 5000 Odense C",
+				"Østerlunden 10, 3. 1, 5000 Odense C"
+			]
+		},
+		{
+			"stage": "østerlunden 10 st",
+			"dawa": [
+				"Østerlunden 10, st. 1, 5000 Odense C",
+				"Østerlunden 10, st. 2, 5000 Odense C",
+				"Østerlunden 10, st. 3, 5000 Odense C"
+			]
+		},
+		{
+			"stage": "østerlunden 10 st 1",
+			"dawa": [
+				"Østerlunden 10, st. 1, 5000 Odense C",
+				"Østerlunden 10, st. 2, 5000 Odense C",
+				"Østerlunden 10, st. 3, 5000 Odense C"
+			]
+		},
+		{
+			"stage": "Østerlunden 10, st. 1, 5000 Odense C",
+			"dawa": [
+				"Østerlunden 10, st. 1, 5000 Odense C"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=øste": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Østenbjergvej",
+					"vejNavn": "Østenbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Østendalsvej",
+					"vejNavn": "Østendalsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Østenfjeldvej",
+					"vejNavn": "Østenfjeldvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Østengen",
+					"vejNavn": "Østengen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Østengårdvej",
+					"vejNavn": "Østengårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Østenkrog",
+					"vejNavn": "Østenkrog"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Østensvej",
+					"vejNavn": "Østensvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Østenvinden",
+					"vejNavn": "Østenvinden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Alle",
+					"vejNavn": "Øster Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Allé",
+					"vejNavn": "Øster Allé"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Aslund",
+					"vejNavn": "Øster Aslund"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Bisholtvej",
+					"vejNavn": "Øster Bisholtvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Boldbane",
+					"vejNavn": "Øster Boldbane"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Bordingstræde",
+					"vejNavn": "Øster Bordingstræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Bordingtoften",
+					"vejNavn": "Øster Bordingtoften"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Bordingvej",
+					"vejNavn": "Øster Bordingvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Bordingvænget",
+					"vejNavn": "Øster Bordingvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Bregninge",
+					"vejNavn": "Øster Bregninge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Bregningemark",
+					"vejNavn": "Øster Bregningemark"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Brødbækvej",
+					"vejNavn": "Øster Brødbækvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Brønderslevvej",
+					"vejNavn": "Øster Brønderslevvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Bøgebjergvej",
+					"vejNavn": "Øster Bøgebjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Dal Vej",
+					"vejNavn": "Øster Dal Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Dalgårdvej",
+					"vejNavn": "Øster Dalgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Dammenvej",
+					"vejNavn": "Øster Dammenvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Digetoft",
+					"vejNavn": "Øster Digetoft"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Dørkenvej",
+					"vejNavn": "Øster Dørkenvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Egesborgvej",
+					"vejNavn": "Øster Egesborgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Farimagsgade",
+					"vejNavn": "Øster Farimagsgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Flak",
+					"vejNavn": "Øster Flak"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Fælled Vej",
+					"vejNavn": "Øster Fælled Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Fælledvej",
+					"vejNavn": "Øster Fælledvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Grønskovvej",
+					"vejNavn": "Øster Grønskovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Gunderuphedev",
+					"vejNavn": "Øster Gunderuphedev"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Halne Hedevej",
+					"vejNavn": "Øster Halne Hedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hanevad",
+					"vejNavn": "Øster Hanevad"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hassing Vej",
+					"vejNavn": "Øster Hassing Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hedegårdsvej",
+					"vejNavn": "Øster Hedegårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hedevej",
+					"vejNavn": "Øster Hedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Herborgvej",
+					"vejNavn": "Øster Herborgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Herredsvej",
+					"vejNavn": "Øster Herredsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hessel",
+					"vejNavn": "Øster Hessel"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hjelmstedvej",
+					"vejNavn": "Øster Hjelmstedvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hjermvej",
+					"vejNavn": "Øster Hjermvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hjulskovvej",
+					"vejNavn": "Øster Hjulskovvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hornumvej",
+					"vejNavn": "Øster Hornumvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hulsigvej",
+					"vejNavn": "Øster Hulsigvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hurupvej",
+					"vejNavn": "Øster Hurupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hærup Strandvej",
+					"vejNavn": "Øster Hærup Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Hæsingevej",
+					"vejNavn": "Øster Hæsingevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Kjulvej",
+					"vejNavn": "Øster Kjulvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Korupvej",
+					"vejNavn": "Øster Korupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Kringelvej",
+					"vejNavn": "Øster Kringelvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Kærvej",
+					"vejNavn": "Øster Kærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Land",
+					"vejNavn": "Øster Land"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Lemvej",
+					"vejNavn": "Øster Lemvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Lievej",
+					"vejNavn": "Øster Lievej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Linderupvej",
+					"vejNavn": "Øster Linderupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Lindet Præstegårdsvej",
+					"vejNavn": "Øster Lindet Præstegårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Lindetvej",
+					"vejNavn": "Øster Lindetvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Linåvej",
+					"vejNavn": "Øster Linåvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Lundevej",
+					"vejNavn": "Øster Lundevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Lundgårdvej",
+					"vejNavn": "Øster Lundgårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Løgumvej",
+					"vejNavn": "Øster Løgumvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Madevej",
+					"vejNavn": "Øster Madevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Markvej",
+					"vejNavn": "Øster Markvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Mellerupvej",
+					"vejNavn": "Øster Mellerupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Mogensbækvej",
+					"vejNavn": "Øster Mogensbækvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Momhøjvej",
+					"vejNavn": "Øster Momhøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Møllevej",
+					"vejNavn": "Øster Møllevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Nordlundevej",
+					"vejNavn": "Øster Nordlundevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Nørbyvej",
+					"vejNavn": "Øster Nørbyvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Parkvej",
+					"vejNavn": "Øster Parkvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Rærupvej",
+					"vejNavn": "Øster Rærupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Rør Vej",
+					"vejNavn": "Øster Rør Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Skerningevej",
+					"vejNavn": "Øster Skerningevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Skovbyvej",
+					"vejNavn": "Øster Skovbyvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Snedevej",
+					"vejNavn": "Øster Snedevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Starupvej",
+					"vejNavn": "Øster Starupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Stendisvej",
+					"vejNavn": "Øster Stendisvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Stokbrovej",
+					"vejNavn": "Øster Stokbrovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Strandvej",
+					"vejNavn": "Øster Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Sundby Vej",
+					"vejNavn": "Øster Sundby Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Søgade",
+					"vejNavn": "Øster Søgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Søttrup Vej",
+					"vejNavn": "Øster Søttrup Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Søvej",
+					"vejNavn": "Øster Søvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Teglgårdsvej",
+					"vejNavn": "Øster Teglgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Terplingvej",
+					"vejNavn": "Øster Terplingvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Thirupvej",
+					"vejNavn": "Øster Thirupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Toksvigvej",
+					"vejNavn": "Øster Toksvigvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Torv",
+					"vejNavn": "Øster Torv"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Trabjergvej",
+					"vejNavn": "Øster Trabjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Tverstedvej",
+					"vejNavn": "Øster Tverstedvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Tværlinie",
+					"vejNavn": "Øster Tværlinie"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Tværvej",
+					"vejNavn": "Øster Tværvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Uttrup Vej",
+					"vejNavn": "Øster Uttrup Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Vandkrogvej",
+					"vejNavn": "Øster Vandkrogvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Vase",
+					"vejNavn": "Øster Vase"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Vedsted Vej",
+					"vejNavn": "Øster Vedsted Vej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Øster Vejrupvej",
+					"vejNavn": "Øster Vejrupvej"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=østerlunden": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "77d5022b-5831-4299-a274-b9cfbbf034b9",
+					"type": "navngivenvejpostnummer",
+					"titel": "Østerlunden 4500 Nykøbing Sj",
+					"vejnavn": "Østerlunden",
+					"postnr": "4500",
+					"postdistrikt": "Nykøbing Sj",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "796f1b35-92c8-40dd-aebb-4cfd30c63410",
+					"type": "navngivenvejpostnummer",
+					"titel": "Østerlunden 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"postnr": "5000",
+					"postdistrikt": "Odense C",
+					"antal_husnumre": 103
+				},
+				{
+					"id": "d8447f7f-9eac-45bc-a179-111333e13faa",
+					"type": "navngivenvejpostnummer",
+					"titel": "Østerlunden 8300 Odder",
+					"vejnavn": "Østerlunden",
+					"postnr": "8300",
+					"postdistrikt": "Odder",
+					"antal_husnumre": 39
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Østerlunden 4500": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50af-59ff-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 1, Nyrup, 4500 Nykøbing Sj",
+					"husnummerId": "0a3f5084-ffdc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5a00-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 2, Nyrup, 4500 Nykøbing Sj",
+					"husnummerId": "0a3f5084-ffdd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "434d4d3b-1235-0401-e044-0003ba298018",
+					"titel": "Østerlunden 3, Nyrup, 4500 Nykøbing Sj",
+					"husnummerId": "0a3f5084-ffde-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5a01-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 4, Nyrup, 4500 Nykøbing Sj",
+					"husnummerId": "0a3f5084-ffdf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5a02-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 5, Nyrup, 4500 Nykøbing Sj",
+					"husnummerId": "0a3f5084-ffe0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5a03-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 6, Nyrup, 4500 Nykøbing Sj",
+					"husnummerId": "0a3f5084-ffe1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50af-5a04-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 7, Nyrup, 4500 Nykøbing Sj",
+					"husnummerId": "0a3f5084-ffe2-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Østerlunden 8300": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-beea-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 1, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-beeb-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 2, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-beec-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 3, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-beed-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 4, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-beee-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 5, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-beef-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 6, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef0-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 7, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef1-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 8, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef2-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 9, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef3-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 10, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef4-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 11, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "16e3c7a5-644c-4046-bdf1-9835cd8ce319",
+					"titel": "Østerlunden 11F, Saksild, 8300 Odder",
+					"husnummerId": "7350768b-dc55-45bf-a1fb-3c91b731bc06"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef5-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 12, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2b3d6b24-c589-29a6-e044-0003ba298018",
+					"titel": "Østerlunden 13, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9323-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef6-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 14, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2b3d6b24-c58a-29a6-e044-0003ba298018",
+					"titel": "Østerlunden 15, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9324-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef7-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 16, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "282eb622-40d3-351f-e044-0003ba298018",
+					"titel": "Østerlunden 17, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9325-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef8-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 18, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3e7c85ea-db1f-3e52-e044-0003ba298018",
+					"titel": "Østerlunden 19, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9326-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef9-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 20, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87d0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2ef51a73-b784-4ee7-e044-0003ba298018",
+					"titel": "Østerlunden 21, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9327-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-befa-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 22, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87d1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2374c2e5-9b3e-3ff2-e044-0003ba298018",
+					"titel": "Østerlunden 23, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9328-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-befb-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 24, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87d2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2b3d6b24-c58b-29a6-e044-0003ba298018",
+					"titel": "Østerlunden 25, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9329-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-befc-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 26, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87d3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "34c5f28e-3978-4c88-a8a5-7b5500224a19",
+					"titel": "Østerlunden 26F, Saksild, 8300 Odder",
+					"husnummerId": "af1f654f-8bbb-4932-b880-f1a3ba250fa4"
+				},
+				{
+					"type": "adresse",
+					"id": "363cc2db-6e0a-1eb8-e044-0003ba298018",
+					"titel": "Østerlunden 27, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-932a-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-befd-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 28, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87d5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-befe-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 30, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87d6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-beff-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 32, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87d7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bf00-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 34, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87d8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bf01-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 36, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87d9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bf02-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 38, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87da-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bf03-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 40, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87db-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bf04-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 42, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87dc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bf05-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 44, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87dd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bf06-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 46, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87de-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Østerlunden 5000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "60fce8b5-d6ee-431c-9d38-374a4dc0317e",
+					"titel": "Østerlunden 1, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "a7394794-a2fe-46f1-bd63-3d1e0c3f85fc",
+					"titel": "Østerlunden 3, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "461e2f3e-e85f-4b75-b59f-b32710b9e3d3",
+					"titel": "Østerlunden 4, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "fab0c681-07e5-4c59-8738-a838f958aac8",
+					"titel": "Østerlunden 5, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "e6fb2e9a-0d31-492e-a77d-b138e034318f",
+					"titel": "Østerlunden 6, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5089-f2f6-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 7, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "e9e75a29-417c-4c76-bbd1-9dae21bd8bf9",
+					"titel": "Østerlunden 8, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "8"
+				},
+				{
+					"type": "adresse",
+					"id": "e55c775c-e20e-40b7-a0bc-9f792d8efae9",
+					"titel": "Østerlunden 9, 5000 Odense C",
+					"husnummerId": "f08b8e05-46b6-4940-8d12-602d32797cc9"
+				},
+				{
+					"type": "husnummer",
+					"id": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1",
+					"titel": "Østerlunden 10, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "f2eee95b-67e8-4fa1-8443-1d0b42ec4bb0",
+					"titel": "Østerlunden 11, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "ed0c8e50-add3-44a2-aaa5-140c9cdd9996",
+					"titel": "Østerlunden 12, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "12"
+				},
+				{
+					"type": "adresse",
+					"id": "288f2b99-9af7-44d3-9a76-c5fb85c62735",
+					"titel": "Østerlunden 13, 5000 Odense C",
+					"husnummerId": "7a9ed1e8-5d10-4b0b-bbf6-91180b9a7d43"
+				},
+				{
+					"type": "husnummer",
+					"id": "049f3bab-0191-4b10-94d3-110147745b56",
+					"titel": "Østerlunden 14, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "9886cf1f-fbca-43bf-813c-dfc8c9198e61",
+					"titel": "Østerlunden 15, 5000 Odense C",
+					"husnummerId": "fe9b40f3-bbb3-4064-83e5-2e2f1e5ac8c9"
+				},
+				{
+					"type": "husnummer",
+					"id": "40e663e2-3bcb-483d-b4e4-11f275ff8f34",
+					"titel": "Østerlunden 16, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "3d5f353b-0a72-4524-b565-8b828badf272",
+					"titel": "Østerlunden 17, 5000 Odense C",
+					"husnummerId": "4865628f-ef2f-4d4c-87cc-28107a96e6cd"
+				},
+				{
+					"type": "husnummer",
+					"id": "9ab3c926-e74c-4baa-967c-5f0abdde5b5c",
+					"titel": "Østerlunden 18, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "18"
+				},
+				{
+					"type": "adresse",
+					"id": "97997702-1f82-479b-ae3b-d3ba6c7b9039",
+					"titel": "Østerlunden 19, 5000 Odense C",
+					"husnummerId": "7dfe8c4b-5ee8-44ce-b873-56b1e504601b"
+				},
+				{
+					"type": "husnummer",
+					"id": "e9460bd3-2bc3-434b-84f6-e4e6640461c1",
+					"titel": "Østerlunden 20, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "20"
+				},
+				{
+					"type": "adresse",
+					"id": "bff0de78-4068-48b6-993e-0afd8e63d769",
+					"titel": "Østerlunden 21, 5000 Odense C",
+					"husnummerId": "0f041235-aa6b-4e27-87e9-e590a5c692de"
+				},
+				{
+					"type": "husnummer",
+					"id": "2d4898b8-d03c-4d8c-8fb7-06a2b39e301a",
+					"titel": "Østerlunden 22, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "22"
+				},
+				{
+					"type": "adresse",
+					"id": "1ad3b399-d28f-4c4b-983f-68f11e3236eb",
+					"titel": "Østerlunden 23, 5000 Odense C",
+					"husnummerId": "39d7bbbe-f635-4d9b-801d-96891c896ab0"
+				},
+				{
+					"type": "husnummer",
+					"id": "64498f25-d1c0-48f2-a2be-edc61431f2f4",
+					"titel": "Østerlunden 24, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "deb9917f-0d04-444e-9c79-a5782b410e7d",
+					"titel": "Østerlunden 26, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "ffb61aa5-dbc5-4c24-8e72-41892284730c",
+					"titel": "Østerlunden 28, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "28"
+				},
+				{
+					"type": "husnummer",
+					"id": "b0216b8e-8aba-4038-9f9b-6f7fd37802ba",
+					"titel": "Østerlunden 30, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "30"
+				},
+				{
+					"type": "husnummer",
+					"id": "2de07c6c-26a4-42fe-abb3-bb5c018e95e4",
+					"titel": "Østerlunden 32, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "32"
+				},
+				{
+					"type": "husnummer",
+					"id": "393af6d4-c7ee-433c-9fa6-76447f905eec",
+					"titel": "Østerlunden 34, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "34"
+				},
+				{
+					"type": "husnummer",
+					"id": "dc45c032-59f8-4707-b985-2a0630f38af2",
+					"titel": "Østerlunden 36, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "36"
+				},
+				{
+					"type": "husnummer",
+					"id": "a7f41883-9d7b-40b0-8874-f57611b81132",
+					"titel": "Østerlunden 38, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "38"
+				},
+				{
+					"type": "adresse",
+					"id": "0a53f09a-dc39-4541-a9d9-6ff1542b69d5",
+					"titel": "Østerlunden 39A, 5000 Odense C",
+					"husnummerId": "e814784b-09af-4a9a-a594-3824cf254ef7"
+				},
+				{
+					"type": "adresse",
+					"id": "79c39d1f-8137-4999-84a3-6aca0f9ba873",
+					"titel": "Østerlunden 39B, 5000 Odense C",
+					"husnummerId": "46e0df32-dd13-4607-b365-5325a46727ff"
+				},
+				{
+					"type": "adresse",
+					"id": "e7477f95-fe5a-4996-a2a2-e0f410bd2e33",
+					"titel": "Østerlunden 39C, 5000 Odense C",
+					"husnummerId": "b8b94de8-125a-4d62-b164-2039e0ee9926"
+				},
+				{
+					"type": "adresse",
+					"id": "8bcd1027-1f5a-492a-90ac-f737fc3d9dda",
+					"titel": "Østerlunden 39D, 5000 Odense C",
+					"husnummerId": "5f8eafde-bfc8-4fe0-b80c-436e8c900a94"
+				},
+				{
+					"type": "adresse",
+					"id": "d9e5622b-37ad-4a9d-8ee6-3fcbc7c327a0",
+					"titel": "Østerlunden 39E, 5000 Odense C",
+					"husnummerId": "dea01187-46c9-47cd-beff-93d6b3e7ab92"
+				},
+				{
+					"type": "adresse",
+					"id": "7638f421-e255-40a9-9f4f-eda5f531c433",
+					"titel": "Østerlunden 39F, 5000 Odense C",
+					"husnummerId": "ee7463f5-de2c-4fa3-86e0-1866c0c6b6db"
+				},
+				{
+					"type": "adresse",
+					"id": "d53b171c-9bdf-4729-993c-f7404d9a8e4b",
+					"titel": "Østerlunden 39G, 5000 Odense C",
+					"husnummerId": "1656eb50-c9fd-4ee7-9099-689a4572241b"
+				},
+				{
+					"type": "adresse",
+					"id": "a0f4c839-a444-4418-b0fe-5b8cdb7fbba8",
+					"titel": "Østerlunden 39H, 5000 Odense C",
+					"husnummerId": "67595ea6-a918-49d8-a187-ae03dc4a0bb5"
+				},
+				{
+					"type": "husnummer",
+					"id": "df690641-ef8f-42f3-8891-c78322b80780",
+					"titel": "Østerlunden 40, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "40"
+				},
+				{
+					"type": "adresse",
+					"id": "31f84733-ebea-40df-8d7c-6a9507e31b62",
+					"titel": "Østerlunden 41A, 5000 Odense C",
+					"husnummerId": "dc969230-2971-44cf-8dc3-95320f1b07e8"
+				},
+				{
+					"type": "adresse",
+					"id": "8fd6da03-1125-482e-8e5e-43c88a4a62a0",
+					"titel": "Østerlunden 41B, 5000 Odense C",
+					"husnummerId": "cf3947f2-b420-490f-a268-e65ead351b78"
+				},
+				{
+					"type": "adresse",
+					"id": "01b8fef4-cbc8-46a2-8d17-53c26708af63",
+					"titel": "Østerlunden 41C, 5000 Odense C",
+					"husnummerId": "20280a18-1c95-4503-8d08-1a21b3a16795"
+				},
+				{
+					"type": "adresse",
+					"id": "102dc429-2bc6-4f99-ba13-3b0d0ff791af",
+					"titel": "Østerlunden 41D, 5000 Odense C",
+					"husnummerId": "b0219772-920f-4c66-970f-0b691ec902ac"
+				},
+				{
+					"type": "adresse",
+					"id": "1533c7d5-de88-4d47-9022-e1bffb0e4941",
+					"titel": "Østerlunden 41E, 5000 Odense C",
+					"husnummerId": "fa7d80fa-2ead-49c2-8a76-4dfa36fab220"
+				},
+				{
+					"type": "adresse",
+					"id": "1235d15e-274c-40f8-ae2a-00aa5bde1b48",
+					"titel": "Østerlunden 41F, 5000 Odense C",
+					"husnummerId": "c5fc6b78-656a-4243-b75a-9d3112c5e57e"
+				},
+				{
+					"type": "adresse",
+					"id": "db365fef-7a80-45da-9839-0b01f678e6f3",
+					"titel": "Østerlunden 41G, 5000 Odense C",
+					"husnummerId": "da19693d-49b3-46f9-bc51-ed5bf0769767"
+				},
+				{
+					"type": "adresse",
+					"id": "01f37d45-b874-4949-8a95-d3ed619e3017",
+					"titel": "Østerlunden 41H, 5000 Odense C",
+					"husnummerId": "14acf9f0-a408-48a6-9e6d-8d0144ff7e99"
+				},
+				{
+					"type": "adresse",
+					"id": "6c2f69f7-9682-4123-b12b-ea523dd2dcab",
+					"titel": "Østerlunden 41K, 5000 Odense C",
+					"husnummerId": "deda340f-4c81-4003-adb1-4c3d80d9ad44"
+				},
+				{
+					"type": "adresse",
+					"id": "aa5b5af8-c4bf-413f-ad84-64025b5b322d",
+					"titel": "Østerlunden 41L, 5000 Odense C",
+					"husnummerId": "5904175f-b272-446d-968e-ae97a8a704e0"
+				},
+				{
+					"type": "adresse",
+					"id": "a145c8e8-ca68-4a01-a8a6-2951ebb1fef8",
+					"titel": "Østerlunden 41M, 5000 Odense C",
+					"husnummerId": "49c37584-42f1-476b-a02b-c13a6837457d"
+				},
+				{
+					"type": "adresse",
+					"id": "b93accdd-d0c3-495c-bf7b-94235833b414",
+					"titel": "Østerlunden 41N, 5000 Odense C",
+					"husnummerId": "8cdd7389-26c2-4b4a-b926-66b11cc3928c"
+				},
+				{
+					"type": "husnummer",
+					"id": "64268157-9d2f-46e4-a0a4-ca21cb1772ba",
+					"titel": "Østerlunden 42, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "42"
+				},
+				{
+					"type": "adresse",
+					"id": "8cc65353-7257-4124-9436-a7f4d7374f5c",
+					"titel": "Østerlunden 42B, 5000 Odense C",
+					"husnummerId": "26ba3635-b8dc-4adc-bd04-f06587a08c9e"
+				},
+				{
+					"type": "adresse",
+					"id": "c54e4dc3-f614-4175-98bd-b3ad10f18206",
+					"titel": "Østerlunden 43A, 5000 Odense C",
+					"husnummerId": "ada6dc65-eebb-49d7-a5d5-a4efb6978888"
+				},
+				{
+					"type": "adresse",
+					"id": "4dca5b04-e75e-41ed-ab48-9b2375e74a75",
+					"titel": "Østerlunden 43B, 5000 Odense C",
+					"husnummerId": "b2d61de3-3582-445e-bfd4-d653408c8d74"
+				},
+				{
+					"type": "adresse",
+					"id": "6e065408-5742-4e1e-8ba2-6e553247bbd8",
+					"titel": "Østerlunden 43C, 5000 Odense C",
+					"husnummerId": "0d0a16ed-4c8d-4082-a97f-8e8f07106271"
+				},
+				{
+					"type": "adresse",
+					"id": "34fe55c7-0db0-4c5f-b877-1c8f92606c75",
+					"titel": "Østerlunden 43D, 5000 Odense C",
+					"husnummerId": "7dcc1fbf-58e2-475e-8043-37919b354ea6"
+				},
+				{
+					"type": "adresse",
+					"id": "7f655dd8-7740-4855-8ad5-8f9f0b07048d",
+					"titel": "Østerlunden 43E, 5000 Odense C",
+					"husnummerId": "b9d72be0-b1c3-4ef0-b335-e70409795b4b"
+				},
+				{
+					"type": "adresse",
+					"id": "dfd0404c-d1c0-44ac-920d-39229ebcfc82",
+					"titel": "Østerlunden 43F, 5000 Odense C",
+					"husnummerId": "851a9614-70eb-4eba-a4da-8e2e2f607ea4"
+				},
+				{
+					"type": "adresse",
+					"id": "ca0faf24-d75a-4e40-ae90-4ba3aa2599d0",
+					"titel": "Østerlunden 43G, 5000 Odense C",
+					"husnummerId": "3ededda2-4129-486a-bb88-35144e6e6139"
+				},
+				{
+					"type": "adresse",
+					"id": "6351943c-3777-4724-959c-b43abb6d8b91",
+					"titel": "Østerlunden 43H, 5000 Odense C",
+					"husnummerId": "9aa58548-441a-4b83-ac69-b16141281263"
+				},
+				{
+					"type": "adresse",
+					"id": "17ef712c-5e58-4350-a4ca-b57ebf0846ea",
+					"titel": "Østerlunden 43K, 5000 Odense C",
+					"husnummerId": "1bc88328-9048-45e5-afd9-e83fc7015e5d"
+				},
+				{
+					"type": "adresse",
+					"id": "e4abcf34-6a89-4323-a076-f8565ef90617",
+					"titel": "Østerlunden 43L, 5000 Odense C",
+					"husnummerId": "3955eeb2-cd43-43a9-bb81-077d3e4b6aec"
+				},
+				{
+					"type": "husnummer",
+					"id": "d20d0d14-a385-458e-b9e6-51f1cefef89c",
+					"titel": "Østerlunden 44, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "44"
+				},
+				{
+					"type": "adresse",
+					"id": "63e4da1b-ce2a-4bfb-9605-79b457029e22",
+					"titel": "Østerlunden 45A, 5000 Odense C",
+					"husnummerId": "a5eba135-a42f-46f4-bd12-0ba08c02e0f1"
+				},
+				{
+					"type": "adresse",
+					"id": "74b5d530-faac-4d6d-bc95-5d5dca87fb68",
+					"titel": "Østerlunden 45B, 5000 Odense C",
+					"husnummerId": "c342e2d7-6cdf-4ac5-b34a-07e9aacafad9"
+				},
+				{
+					"type": "adresse",
+					"id": "34647c73-acf1-4c57-bea4-7085a3ee808f",
+					"titel": "Østerlunden 45C, 5000 Odense C",
+					"husnummerId": "60dfe7c8-a642-4444-b65c-13191737edac"
+				},
+				{
+					"type": "adresse",
+					"id": "2465a76d-ad15-4282-9cf4-a4c2657d2027",
+					"titel": "Østerlunden 45D, 5000 Odense C",
+					"husnummerId": "0dcf0e79-1702-4fa9-a5b6-517db30d3d74"
+				},
+				{
+					"type": "adresse",
+					"id": "b49094b9-ffde-4fb0-a485-516e08bf4ed6",
+					"titel": "Østerlunden 45E, 5000 Odense C",
+					"husnummerId": "cc477beb-b86d-4626-91d8-48b0428cc8f8"
+				},
+				{
+					"type": "adresse",
+					"id": "fe6f2bfa-54c1-48d8-a3d1-bb90eda6f3f2",
+					"titel": "Østerlunden 45F, 5000 Odense C",
+					"husnummerId": "94777297-36fe-4278-a7e2-54ee33f1587a"
+				},
+				{
+					"type": "husnummer",
+					"id": "42de9d1e-7dd3-4ca4-9a04-0aed864875f3",
+					"titel": "Østerlunden 46, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "46"
+				},
+				{
+					"type": "adresse",
+					"id": "ed8fab7a-1967-49af-b8cb-549308f2f188",
+					"titel": "Østerlunden 47A, 5000 Odense C",
+					"husnummerId": "24411dda-df2b-42cb-9ae7-6c489d93f157"
+				},
+				{
+					"type": "adresse",
+					"id": "127580b6-0b58-4865-88d0-056f310d78dc",
+					"titel": "Østerlunden 47B, 5000 Odense C",
+					"husnummerId": "f648ad93-de70-4680-8a69-39ce80199f39"
+				},
+				{
+					"type": "adresse",
+					"id": "12a2bb98-ab8a-4838-8ee5-0b14c9a2abc9",
+					"titel": "Østerlunden 47C, 5000 Odense C",
+					"husnummerId": "8eb55039-25df-4807-8207-bfa5a18f24bf"
+				},
+				{
+					"type": "adresse",
+					"id": "20a3304d-4ce9-4e70-b87f-c984a54f2660",
+					"titel": "Østerlunden 47D, 5000 Odense C",
+					"husnummerId": "e99b6021-cee9-4e8d-8bd4-4dde4c3f75b3"
+				},
+				{
+					"type": "adresse",
+					"id": "1aa9f39d-c636-433d-aeae-722b42a7c562",
+					"titel": "Østerlunden 47E, 5000 Odense C",
+					"husnummerId": "d659a061-f2e9-44ac-8245-11f2e31c454c"
+				},
+				{
+					"type": "adresse",
+					"id": "02f8e756-be82-4c15-a876-ab56e69267ec",
+					"titel": "Østerlunden 47F, 5000 Odense C",
+					"husnummerId": "f8c8c773-4399-4f72-9bd3-7472dc2dec58"
+				},
+				{
+					"type": "husnummer",
+					"id": "84613bf9-fabc-4908-937f-493d4aba3941",
+					"titel": "Østerlunden 48, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "48"
+				},
+				{
+					"type": "adresse",
+					"id": "364b6e27-918b-4033-8cc6-6583aea62446",
+					"titel": "Østerlunden 49A, 5000 Odense C",
+					"husnummerId": "4666aa52-9395-4a42-b6c6-6fd6d0977534"
+				},
+				{
+					"type": "adresse",
+					"id": "7330b7a3-9f62-4e49-b242-c9e7d15bfa37",
+					"titel": "Østerlunden 49B, 5000 Odense C",
+					"husnummerId": "d31f32ac-146f-4287-af81-23724b3af0be"
+				},
+				{
+					"type": "adresse",
+					"id": "33651ef1-5ae7-488f-b90a-82fbd6c0dd73",
+					"titel": "Østerlunden 49C, 5000 Odense C",
+					"husnummerId": "718e8084-6802-4abc-b711-3f4b5052e310"
+				},
+				{
+					"type": "adresse",
+					"id": "cadcb32f-78aa-4049-b20f-b57819ab2fd1",
+					"titel": "Østerlunden 49D, 5000 Odense C",
+					"husnummerId": "2bcfa0bc-f60d-4e9a-b0bc-92d5d5dc4175"
+				},
+				{
+					"type": "husnummer",
+					"id": "1a317b42-6650-4e37-8fec-82c3bcda2dd1",
+					"titel": "Østerlunden 50, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "50"
+				},
+				{
+					"type": "adresse",
+					"id": "6226623f-fa7b-4b3d-a1bf-d354b981455c",
+					"titel": "Østerlunden 51A, 5000 Odense C",
+					"husnummerId": "31514414-ae2d-481f-8be2-ece32ef7125d"
+				},
+				{
+					"type": "adresse",
+					"id": "3d274f24-e069-4a9b-947e-b6be4396540f",
+					"titel": "Østerlunden 51B, 5000 Odense C",
+					"husnummerId": "7a4275b4-e2e5-406c-8034-88b8f2acd116"
+				},
+				{
+					"type": "adresse",
+					"id": "6a3f42d1-5b92-481e-a0ef-0d6cb7dfd87e",
+					"titel": "Østerlunden 53A, 5000 Odense C",
+					"husnummerId": "0e8b6893-c8a6-4c1c-a5dc-0f39db73bfbf"
+				},
+				{
+					"type": "adresse",
+					"id": "35477f3f-35cf-4f09-839d-bd8772d4c170",
+					"titel": "Østerlunden 53B, 5000 Odense C",
+					"husnummerId": "43e6a536-cb9f-447d-b7a0-f15f3e9979f6"
+				},
+				{
+					"type": "adresse",
+					"id": "1d5f00df-1656-48ab-9463-b5a93fb99837",
+					"titel": "Østerlunden 53C, 5000 Odense C",
+					"husnummerId": "9d7b884b-f69f-42ec-abb6-258c9f29a453"
+				},
+				{
+					"type": "adresse",
+					"id": "8dddf119-6293-4157-82b0-ee33ba1ec777",
+					"titel": "Østerlunden 53D, 5000 Odense C",
+					"husnummerId": "25014313-128e-4e90-a60f-fc6d15c81d38"
+				},
+				{
+					"type": "adresse",
+					"id": "727ab553-15c3-4e55-a073-7aa75a985b0c",
+					"titel": "Østerlunden 55A, 5000 Odense C",
+					"husnummerId": "93f077c7-6ca8-4193-9525-3e82cad9de56"
+				},
+				{
+					"type": "adresse",
+					"id": "eab5410e-2bd2-4293-b8bc-c37e58acea6d",
+					"titel": "Østerlunden 55B, 5000 Odense C",
+					"husnummerId": "c779c008-a535-486a-b73d-7eb1ac847e18"
+				},
+				{
+					"type": "adresse",
+					"id": "dea8117d-dc9c-40b5-b1c9-796c02b02db0",
+					"titel": "Østerlunden 55C, 5000 Odense C",
+					"husnummerId": "3b451767-9c00-48d2-ada9-3c374f759c5c"
+				},
+				{
+					"type": "adresse",
+					"id": "e6cebbad-04f4-4496-b829-24544dcd9f02",
+					"titel": "Østerlunden 55D, 5000 Odense C",
+					"husnummerId": "0c32bbfe-11b7-48ed-9cf6-44fec9ca1a30"
+				},
+				{
+					"type": "adresse",
+					"id": "903c18b8-4bf1-4f81-93bb-c71f8c3ea555",
+					"titel": "Østerlunden 60A, 5000 Odense C",
+					"husnummerId": "4f9d7d02-4154-469d-bdda-cfd897696932"
+				},
+				{
+					"type": "adresse",
+					"id": "970fe91a-1d96-4fb5-b579-26c2e1c83284",
+					"titel": "Østerlunden 60B, 5000 Odense C",
+					"husnummerId": "96f402a7-b5e3-4f06-b31b-6e6169e93cce"
+				},
+				{
+					"type": "adresse",
+					"id": "304a0f2a-1aa4-4153-a480-b1408f29a026",
+					"titel": "Østerlunden 60C, 5000 Odense C",
+					"husnummerId": "11822f59-6677-4728-a396-dac4a40c6f3b"
+				},
+				{
+					"type": "adresse",
+					"id": "e5b8c42f-c026-47dd-a1e2-4908db39a216",
+					"titel": "Østerlunden 60D, 5000 Odense C",
+					"husnummerId": "80ea230b-5c80-42fc-a6c3-b9b4be734a56"
+				},
+				{
+					"type": "adresse",
+					"id": "efae42f1-ff97-409f-9a01-a3409d41508f",
+					"titel": "Østerlunden 60E, 5000 Odense C",
+					"husnummerId": "61c990bb-9baf-4a57-a6cc-d872f32b9e22"
+				},
+				{
+					"type": "adresse",
+					"id": "da2da31c-a24c-4586-9ea9-354d154ef4fc",
+					"titel": "Østerlunden 60F, 5000 Odense C",
+					"husnummerId": "c4254c8b-4438-46d0-8a6c-e4c09adbd38e"
+				},
+				{
+					"type": "adresse",
+					"id": "692534bd-1fbf-4269-ac61-6cd28b7da41e",
+					"titel": "Østerlunden 60G, 5000 Odense C",
+					"husnummerId": "af2719ad-3aac-4081-bf42-38a1f853ee1d"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=østerlunden 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50af-59ff-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 1, Nyrup, 4500 Nykøbing Sj",
+					"husnummerId": "0a3f5084-ffdc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "60fce8b5-d6ee-431c-9d38-374a4dc0317e",
+					"titel": "Østerlunden 1, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-beea-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 1, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1",
+					"titel": "Østerlunden 10, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "f2eee95b-67e8-4fa1-8443-1d0b42ec4bb0",
+					"titel": "Østerlunden 11, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "ed0c8e50-add3-44a2-aaa5-140c9cdd9996",
+					"titel": "Østerlunden 12, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "12"
+				},
+				{
+					"type": "adresse",
+					"id": "288f2b99-9af7-44d3-9a76-c5fb85c62735",
+					"titel": "Østerlunden 13, 5000 Odense C",
+					"husnummerId": "7a9ed1e8-5d10-4b0b-bbf6-91180b9a7d43"
+				},
+				{
+					"type": "husnummer",
+					"id": "049f3bab-0191-4b10-94d3-110147745b56",
+					"titel": "Østerlunden 14, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "9886cf1f-fbca-43bf-813c-dfc8c9198e61",
+					"titel": "Østerlunden 15, 5000 Odense C",
+					"husnummerId": "fe9b40f3-bbb3-4064-83e5-2e2f1e5ac8c9"
+				},
+				{
+					"type": "husnummer",
+					"id": "40e663e2-3bcb-483d-b4e4-11f275ff8f34",
+					"titel": "Østerlunden 16, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "3d5f353b-0a72-4524-b565-8b828badf272",
+					"titel": "Østerlunden 17, 5000 Odense C",
+					"husnummerId": "4865628f-ef2f-4d4c-87cc-28107a96e6cd"
+				},
+				{
+					"type": "husnummer",
+					"id": "9ab3c926-e74c-4baa-967c-5f0abdde5b5c",
+					"titel": "Østerlunden 18, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "18"
+				},
+				{
+					"type": "adresse",
+					"id": "97997702-1f82-479b-ae3b-d3ba6c7b9039",
+					"titel": "Østerlunden 19, 5000 Odense C",
+					"husnummerId": "7dfe8c4b-5ee8-44ce-b873-56b1e504601b"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef3-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 10, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef4-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 11, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87ca-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef5-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 12, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87cc-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2b3d6b24-c589-29a6-e044-0003ba298018",
+					"titel": "Østerlunden 13, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9323-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef6-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 14, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87cd-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "2b3d6b24-c58a-29a6-e044-0003ba298018",
+					"titel": "Østerlunden 15, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9324-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef7-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 16, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87ce-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "282eb622-40d3-351f-e044-0003ba298018",
+					"titel": "Østerlunden 17, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9325-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef8-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 18, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87cf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3e7c85ea-db1f-3e52-e044-0003ba298018",
+					"titel": "Østerlunden 19, Saksild, 8300 Odder",
+					"husnummerId": "22729a66-9326-44d0-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "16e3c7a5-644c-4046-bdf1-9835cd8ce319",
+					"titel": "Østerlunden 11F, Saksild, 8300 Odder",
+					"husnummerId": "7350768b-dc55-45bf-a1fb-3c91b731bc06"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=østerlunden 10": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1",
+					"titel": "Østerlunden 10, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef3-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 10, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c9-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=østerlunden 10 st": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1",
+					"titel": "Østerlunden 10, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef3-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 10, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c9-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Østerlunden 10, 5000 Odense C": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "b8c6aa8a-8d50-4239-9593-948da4283d1e",
+					"titel": "Østerlunden 10, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "00032b93-d8b4-45b5-956d-f677ee356442",
+					"titel": "Østerlunden 10, st. 1, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "ccd6cb51-b4c0-49eb-ae92-7a5590df33f6",
+					"titel": "Østerlunden 10, st. 2, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "eac09c2b-81c6-4cf9-a603-7229e302b31e",
+					"titel": "Østerlunden 10, st. 3, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "03c120b5-2663-40e3-abd4-03ef3a32f24c",
+					"titel": "Østerlunden 10, 1. 1, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "7ddfd30c-043f-4661-9b5d-a9e7d3c74204",
+					"titel": "Østerlunden 10, 1. 2, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "fd11432c-63b3-48c6-9848-af9ab2aa292f",
+					"titel": "Østerlunden 10, 1. 3, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "c32f0334-492d-4efd-bcf4-581d0b0ad78d",
+					"titel": "Østerlunden 10, 2. 1, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "d77f45bf-0c99-43bf-ac64-0220c23f8175",
+					"titel": "Østerlunden 10, 2. 2, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "b2bb3c07-9db8-4ea2-bb72-3d7ee1c61580",
+					"titel": "Østerlunden 10, 2. 3, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "8b36018a-66e0-472a-a9a4-59950b144204",
+					"titel": "Østerlunden 10, 3. 1, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "3e91ee7e-e457-4e2d-90fd-0a992f5c335b",
+					"titel": "Østerlunden 10, 3. 2, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "da8f8bbd-0c8f-47ce-9c82-44f03493bbb6",
+					"titel": "Østerlunden 10, 3. 3, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "29ffe0ba-06d9-4a3e-bc42-ead426406065",
+					"titel": "Østerlunden 10, 4. 1, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "23f001d3-214c-436e-be1c-cad6a638589f",
+					"titel": "Østerlunden 10, 4. 2, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				},
+				{
+					"type": "adresse",
+					"id": "db317cc8-9b0f-4ab3-b62f-3758c5f39227",
+					"titel": "Østerlunden 10, 4. 3, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=østerlunden 10 st 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1",
+					"titel": "Østerlunden 10, 5000 Odense C",
+					"vejnavn": "Østerlunden",
+					"husnummer": "10"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-bef3-32b8-e044-0003ba298018",
+					"titel": "Østerlunden 10, Saksild, 8300 Odder",
+					"husnummerId": "0a3f5094-87c9-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Østerlunden 10, st. 1, 5000 Odense C": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "00032b93-d8b4-45b5-956d-f677ee356442",
+					"titel": "Østerlunden 10, st. 1, 5000 Odense C",
+					"husnummerId": "626dcfaf-6cc4-4938-97c5-c5ede60ab2f1"
+				}
+			]
+		}
+	}
+}

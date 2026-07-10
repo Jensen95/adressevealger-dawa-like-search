@@ -1,0 +1,4901 @@
+{
+	"tekst": "Rantzausgade 14, 4. th, 9000 Aalborg",
+	"dawaId": "bf8079cc-3c63-4e9b-aa85-9f0286a4b3a0",
+	"recordedAt": "2026-07-09T20:36:55.413Z",
+	"stages": [
+		{
+			"stage": "rant",
+			"dawa": [
+				"Rantzausvej 1, 5700 Svendborg",
+				"Rantzausvej 5, 5700 Svendborg",
+				"Rantzausgade 34, 9000 Aalborg",
+				"Rantzausgade 41, 9000 Aalborg",
+				"Rantzausgade 47, 9000 Aalborg",
+				"Rantzausvej 3A, 5700 Svendborg",
+				"Rantzausvej 3C, 5700 Svendborg",
+				"Rantzausvej 3D, 5700 Svendborg",
+				"Rantzausvej 3F, 5700 Svendborg",
+				"Rantzausvej 3G, 5700 Svendborg"
+			]
+		},
+		{
+			"stage": "rantzausgade",
+			"dawa": [
+				"Rantzausgade 2, 9000 Aalborg",
+				"Rantzausgade 4, 9000 Aalborg",
+				"Rantzausgade 5, 9000 Aalborg",
+				"Rantzausgade 6, 9000 Aalborg",
+				"Rantzausgade 8, 9000 Aalborg",
+				"Rantzausgade 1B, 9000 Aalborg",
+				"Rantzausgade 1C, 9000 Aalborg",
+				"Rantzausgade 7A, 9000 Aalborg",
+				"Rantzausgade 13, 9000 Aalborg",
+				"Rantzausgade 15, 9000 Aalborg"
+			]
+		},
+		{
+			"stage": "rantzausgade 1",
+			"dawa": [
+				"Rantzausgade 1A, 1., 9000 Aalborg",
+				"Rantzausgade 1C, 1., 9000 Aalborg",
+				"Rantzausgade 17A, 1., 9000 Aalborg",
+				"Rantzausgade 19A, 1., 9000 Aalborg",
+				"Rantzausgade 19B, 1., 9000 Aalborg",
+				"Rantzausgade 1B, 9000 Aalborg",
+				"Rantzausgade 1C, 9000 Aalborg",
+				"Rantzausgade 1D, 9000 Aalborg",
+				"Rantzausgade 1E, 9000 Aalborg",
+				"Rantzausgade 13, 9000 Aalborg"
+			]
+		},
+		{
+			"stage": "rantzausgade 14",
+			"dawa": [
+				"Rantzausgade 14, 4., 9000 Aalborg",
+				"Rantzausgade 14, 1. th, 9000 Aalborg",
+				"Rantzausgade 14, 1. tv, 9000 Aalborg",
+				"Rantzausgade 14, 2. th, 9000 Aalborg",
+				"Rantzausgade 14, 2. tv, 9000 Aalborg",
+				"Rantzausgade 14, 3. th, 9000 Aalborg",
+				"Rantzausgade 14, 3. tv, 9000 Aalborg",
+				"Rantzausgade 14, 4. th, 9000 Aalborg",
+				"Rantzausgade 14, 4. tv, 9000 Aalborg",
+				"Rantzausgade 14, 1., 2200 København N"
+			]
+		},
+		{
+			"stage": "rantzausgade 14 4",
+			"dawa": [
+				"Rantzausgade 14, 4., 9000 Aalborg",
+				"Rantzausgade 14, 4. th, 9000 Aalborg",
+				"Rantzausgade 14, 4. tv, 9000 Aalborg",
+				"Rantzausgade 14, 4., 2200 København N",
+				"Rantzausgade 11, 4. 14, 2200 København N"
+			]
+		},
+		{
+			"stage": "rantzausgade 14 4 th",
+			"dawa": [
+				"Rantzausgade 14, 4. th, 9000 Aalborg"
+			]
+		},
+		{
+			"stage": "Rantzausgade 14, 4. th, 9000 Aalborg",
+			"dawa": [
+				"Rantzausgade 14, 4. th, 9000 Aalborg"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=rant": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "2955373b-2116-4141-877b-976d7e216c03",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausbakke 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"postnr": "8700",
+					"postdistrikt": "Horsens",
+					"antal_husnumre": 93
+				},
+				{
+					"id": "a44b5f2d-3905-4291-b4e8-0a9574bd57a8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausgade 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"postnr": "2200",
+					"postdistrikt": "København N",
+					"antal_husnumre": 98
+				},
+				{
+					"id": "c15c89e3-728b-4a9b-86fd-83584ba0671a",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausgade 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"postnr": "9000",
+					"postdistrikt": "Aalborg",
+					"antal_husnumre": 53
+				},
+				{
+					"id": "12eca98c-b548-46f5-b766-60735daea978",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausgavevej 8300 Odder",
+					"vejnavn": "Rantzausgavevej",
+					"postnr": "8300",
+					"postdistrikt": "Odder",
+					"antal_husnumre": 7
+				},
+				{
+					"id": "37840900-4502-454e-889e-a9111b43c216",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausgavevej 8355 Solbjerg",
+					"vejnavn": "Rantzausgavevej",
+					"postnr": "8355",
+					"postdistrikt": "Solbjerg",
+					"antal_husnumre": 11
+				},
+				{
+					"id": "4a9c8046-9db4-4eec-bde7-b59ba4de302f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausmindevej 5700 Svendborg",
+					"vejnavn": "Rantzausmindevej",
+					"postnr": "5700",
+					"postdistrikt": "Svendborg",
+					"antal_husnumre": 176
+				},
+				{
+					"id": "9165675f-cbee-4d45-803f-4b2b048dd4b3",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausvej 2990 Nivå",
+					"vejnavn": "Rantzausvej",
+					"postnr": "2990",
+					"postdistrikt": "Nivå",
+					"antal_husnumre": 21
+				},
+				{
+					"id": "165ec461-9f95-4115-8bf1-dc99da17d10c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausvej 3000 Helsingør",
+					"vejnavn": "Rantzausvej",
+					"postnr": "3000",
+					"postdistrikt": "Helsingør",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "552a12ca-bcbc-4f47-82a8-e4653296be58",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausvej 5700 Svendborg",
+					"vejnavn": "Rantzausvej",
+					"postnr": "5700",
+					"postdistrikt": "Svendborg",
+					"antal_husnumre": 14
+				},
+				{
+					"id": "951c9437-1f8f-455d-8b9a-d1a1f6d963ae",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausvej 6200 Aabenraa",
+					"vejnavn": "Rantzausvej",
+					"postnr": "6200",
+					"postdistrikt": "Aabenraa",
+					"antal_husnumre": 22
+				},
+				{
+					"id": "956f12dc-667e-47f8-9fc5-562cede166b7",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausvej 6261 Bredebro",
+					"vejnavn": "Rantzausvej",
+					"postnr": "6261",
+					"postdistrikt": "Bredebro",
+					"antal_husnumre": 34
+				},
+				{
+					"id": "78a8ae49-352f-4270-ba89-697e87c8094c",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausvej 9460 Brovst",
+					"vejnavn": "Rantzausvej",
+					"postnr": "9460",
+					"postdistrikt": "Brovst",
+					"antal_husnumre": 27
+				},
+				{
+					"id": "dd1d4247-15ef-45f8-bc13-7210f6840241",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausvænget 6261 Bredebro",
+					"vejnavn": "Rantzausvænget",
+					"postnr": "6261",
+					"postdistrikt": "Bredebro",
+					"antal_husnumre": 12
+				},
+				{
+					"id": "959535e3-1dc8-402e-8cc7-837b344c786f",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rams Tværvej 8800 Viborg",
+					"vejnavn": "Rams Tværvej",
+					"postnr": "8800",
+					"postdistrikt": "Viborg",
+					"antal_husnumre": 5
+				},
+				{
+					"id": "1bca0250-a8a9-4697-8f35-e9e975e6ca37",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ramten Hedevej 8586 Ørum Djurs",
+					"vejnavn": "Ramten Hedevej",
+					"postnr": "8586",
+					"postdistrikt": "Ørum Djurs",
+					"antal_husnumre": 22
+				},
+				{
+					"id": "b729aee8-bdff-44d0-8a34-335f781d41de",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ramten Skovvej 8586 Ørum Djurs",
+					"vejnavn": "Ramten Skovvej",
+					"postnr": "8586",
+					"postdistrikt": "Ørum Djurs",
+					"antal_husnumre": 10
+				},
+				{
+					"id": "a135fb13-b346-4c65-813b-1848c6ab67cb",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ramten Søvej 8586 Ørum Djurs",
+					"vejnavn": "Ramten Søvej",
+					"postnr": "8586",
+					"postdistrikt": "Ørum Djurs",
+					"antal_husnumre": 6
+				},
+				{
+					"id": "508e7b27-028d-49f8-a5c0-742827a922fb",
+					"type": "navngivenvejpostnummer",
+					"titel": "Ramtenvej 8581 Nimtofte",
+					"vejnavn": "Ramtenvej",
+					"postnr": "8581",
+					"postdistrikt": "Nimtofte",
+					"antal_husnumre": 55
+				},
+				{
+					"id": "a71feff9-9c79-4dc6-8b47-ac97a73ca595",
+					"type": "navngivenvejpostnummer",
+					"titel": "Randtofte Søvej 2670 Greve",
+					"vejnavn": "Randtofte Søvej",
+					"postnr": "2670",
+					"postdistrikt": "Greve",
+					"antal_husnumre": 15
+				},
+				{
+					"id": "1035df0c-7144-4a07-aa76-248639e42702",
+					"type": "navngivenvejpostnummer",
+					"titel": "Randtoftevej 2670 Greve",
+					"vejnavn": "Randtoftevej",
+					"postnr": "2670",
+					"postdistrikt": "Greve",
+					"antal_husnumre": 26
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausgade 2200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df24-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 1, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df25-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 2, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df26-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 4, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df27-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 5, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df28-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 6, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "6"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df29-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 7, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df2a-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 8A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "8A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df2b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 8B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "8B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df2c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 9, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df2d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 10, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df2e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 11, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df2f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 11A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "11A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df30-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 12, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df31-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df32-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 16, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "60039af1-d2a9-4695-9a41-d41195b25985",
+					"titel": "Rantzausgade 17, 2200 København N",
+					"husnummerId": "0a3f507a-df33-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df34-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 18, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3aaf-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19A, 2200 København N",
+					"husnummerId": "0a3f507a-df35-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df36-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df37-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19C"
+				},
+				{
+					"type": "husnummer",
+					"id": "f4bc914f-3353-48e3-a1e3-19e378ead3a4",
+					"titel": "Rantzausgade 20, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "20"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df38-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 20A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "20A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df39-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 20B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "20B"
+				},
+				{
+					"type": "adresse",
+					"id": "b535ed29-d37a-45fa-ae5d-1f96d7aab4cc",
+					"titel": "Rantzausgade 21, 2200 København N",
+					"husnummerId": "1c3c784f-2085-40a9-aa3e-567f06cd1771"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df3a-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 21A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "21A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df3b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 21B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "21B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3ae4-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 21C, 2200 København N",
+					"husnummerId": "0a3f507a-df3c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df3d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 22A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "22A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3af4-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 22B, 2200 København N",
+					"husnummerId": "0a3f507a-df3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df3f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 23A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "23A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df40-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 23B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "23B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df41-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 23C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "23C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3b10-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 23D, st., 2200 København N",
+					"husnummerId": "0a3f507a-df42-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "dd588b77-c4c5-4caf-98af-150323a69936",
+					"titel": "Rantzausgade 23E, 2200 København N",
+					"husnummerId": "0a3f507a-df43-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df44-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 24, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3b25-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 25, 2200 København N",
+					"husnummerId": "0a3f507a-df45-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df46-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 26, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df47-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 27A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "27A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df48-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 27B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "27B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df49-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 27C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "27C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df4a-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 28A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "28A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df4b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 28B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "28B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df4c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 30, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "30"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df4d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 32, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "32"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df4e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 33, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "33"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df4f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 34A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "34A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df50-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 34B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "34B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3b9c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 35A, 2200 København N",
+					"husnummerId": "0a3f507a-df51-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df52-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 35B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "35B"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3ba3-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 35C, 2200 København N",
+					"husnummerId": "0a3f507a-df53-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df54-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 36, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "36"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3baa-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 37A, 2200 København N",
+					"husnummerId": "0a3f507a-df55-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df56-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 37B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "37B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df57-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 37C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "37C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3bb5-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 37D, 2200 København N",
+					"husnummerId": "0a3f507a-df58-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df59-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 38, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "38"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df5a-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 39, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "39"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df5b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 40, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "40"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df5c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 42, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "42"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df5d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 42A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "42A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df5e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 42B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "42B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df5f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 42C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "42C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df60-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 44, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "44"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df61-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 44A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "44A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df62-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 44B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "44B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df63-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 44C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "44C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df64-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 45, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "45"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df65-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 47, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "47"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3c45-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 48, 2200 København N",
+					"husnummerId": "0a3f507a-df66-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1ff62313-d0ca-4367-85a9-2c94581a616e",
+					"titel": "Rantzausgade 49, 2200 København N",
+					"husnummerId": "0a3f507a-df67-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df68-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 50A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "50A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df69-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 50B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "50B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df6a-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 50C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "50C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3c64-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 51, 2200 København N",
+					"husnummerId": "0a3f507a-df6b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df6c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 52, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "52"
+				},
+				{
+					"type": "adresse",
+					"id": "914a0912-3189-4a5c-9600-4fd374be98b7",
+					"titel": "Rantzausgade 53, 2200 København N",
+					"husnummerId": "0a3f507a-df6d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df6e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 54, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "54"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df6f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 56, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "56"
+				},
+				{
+					"type": "adresse",
+					"id": "f074ba4c-989d-42d7-bd6e-ce8c2aa89338",
+					"titel": "Rantzausgade 57, 2200 København N",
+					"husnummerId": "0a3f507a-df70-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df71-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 58A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "58A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df72-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 58B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "58B"
+				},
+				{
+					"type": "husnummer",
+					"id": "b4044cf9-a332-49e2-8eda-4ed28b67deaf",
+					"titel": "Rantzausgade 60, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "60"
+				},
+				{
+					"type": "adresse",
+					"id": "6cb2d3cd-7f7a-4373-8091-15f54a71a717",
+					"titel": "Rantzausgade 60A, 2200 København N",
+					"husnummerId": "0a3f507a-df74-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "de6389dc-b30b-48e3-b442-d055fb1eaac4",
+					"titel": "Rantzausgade 60B, 2200 København N",
+					"husnummerId": "0a3f507a-df75-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df76-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 60C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "60C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df77-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 60D, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "60D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df78-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 62, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "62"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df79-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 64, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "64"
+				},
+				{
+					"type": "adresse",
+					"id": "8b391906-d14c-440f-ba3b-8bc331447e62",
+					"titel": "Rantzausgade 68, 2200 København N",
+					"husnummerId": "0a3f507a-df7a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df7b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 70, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "70"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df7c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 70A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "70A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df7d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 70B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "70B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df7e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 70C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "70C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df7f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 70D, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "70D"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df80-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 72, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "72"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df81-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 74, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "74"
+				},
+				{
+					"type": "adresse",
+					"id": "da750249-c8d6-456e-bf7e-bb41ddfb1e85",
+					"titel": "Rantzausgade 75, 2200 København N",
+					"husnummerId": "ee120d21-e3ae-4250-8e56-87897cf2b9a4"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausbakke 8700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "012ee188-17bc-4599-b31f-796eef7e4ce0",
+					"titel": "Rantzausbakke 1, 8700 Horsens",
+					"husnummerId": "f26ac723-52f6-45e7-b734-a23e24be5613"
+				},
+				{
+					"type": "husnummer",
+					"id": "bd584e24-3a6a-40db-ac29-87cc47e55801",
+					"titel": "Rantzausbakke 2, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "cd2c67f5-89f8-4cef-9fed-121735b834a6",
+					"titel": "Rantzausbakke 3, 8700 Horsens",
+					"husnummerId": "66df7a39-fdc9-4412-b100-8eade7e2f9c4"
+				},
+				{
+					"type": "adresse",
+					"id": "2bd4908f-5f4f-4bf8-876e-56ec57ef4323",
+					"titel": "Rantzausbakke 4, 8700 Horsens",
+					"husnummerId": "3f0308b8-5abb-42a7-adc2-10126cd4bfb5"
+				},
+				{
+					"type": "husnummer",
+					"id": "bf4e4122-f5c8-4f5a-811d-420086f978f1",
+					"titel": "Rantzausbakke 5, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "a96c2e43-b3af-4861-86e9-b6e90804d424",
+					"titel": "Rantzausbakke 6, 8700 Horsens",
+					"husnummerId": "8faca0c7-153f-4919-a31e-c0df6f4c6f54"
+				},
+				{
+					"type": "adresse",
+					"id": "f433cd10-3267-4252-b094-c19ddf89fe18",
+					"titel": "Rantzausbakke 7, 8700 Horsens",
+					"husnummerId": "afdc8b04-534f-425f-9cf8-1285122a6db1"
+				},
+				{
+					"type": "adresse",
+					"id": "9f2e348b-dd36-404a-9c7f-31deba07dac4",
+					"titel": "Rantzausbakke 8, 8700 Horsens",
+					"husnummerId": "b0f9fa26-9975-4aac-9a5b-54ed2bf8a774"
+				},
+				{
+					"type": "adresse",
+					"id": "1ad70324-1359-4812-b631-52b852aa8757",
+					"titel": "Rantzausbakke 9, 8700 Horsens",
+					"husnummerId": "9650d4d5-17e2-443a-80d9-df97062a89c6"
+				},
+				{
+					"type": "adresse",
+					"id": "c4598cc8-b08b-457c-8196-b5a8679964bc",
+					"titel": "Rantzausbakke 10, 8700 Horsens",
+					"husnummerId": "684da874-6997-43d2-b813-5791340fab69"
+				},
+				{
+					"type": "husnummer",
+					"id": "9860138e-da1f-4f7a-95d6-adfa2b82e46c",
+					"titel": "Rantzausbakke 11, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "b029cbf0-dd9e-416c-907c-9a54f6911eb3",
+					"titel": "Rantzausbakke 12, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "12"
+				},
+				{
+					"type": "adresse",
+					"id": "8988bc78-2425-4ae5-9f71-21a45b3b3f4c",
+					"titel": "Rantzausbakke 13, 8700 Horsens",
+					"husnummerId": "562a8728-1ff8-4f9d-a43c-d07d743d2e4d"
+				},
+				{
+					"type": "adresse",
+					"id": "1e97df52-99ce-421e-9167-c916d583247e",
+					"titel": "Rantzausbakke 14, 8700 Horsens",
+					"husnummerId": "2097131c-20ef-467f-af29-150bf442b9b9"
+				},
+				{
+					"type": "adresse",
+					"id": "7c48ad67-57bf-4acb-b71b-a3c9c5278f01",
+					"titel": "Rantzausbakke 15, 8700 Horsens",
+					"husnummerId": "3093a03f-bc38-4093-9a14-e8b08b4bb441"
+				},
+				{
+					"type": "adresse",
+					"id": "9c6da9bb-13f5-4d17-8b21-99808e2eb037",
+					"titel": "Rantzausbakke 16, 8700 Horsens",
+					"husnummerId": "93ae3ef7-c566-4164-9319-1ca0b627f8bb"
+				},
+				{
+					"type": "adresse",
+					"id": "2d53c3c1-79d6-48b4-b7ea-71d6ea32c955",
+					"titel": "Rantzausbakke 17, 8700 Horsens",
+					"husnummerId": "e7caf6ba-7893-461a-98d4-b638d84a3bf0"
+				},
+				{
+					"type": "adresse",
+					"id": "ca2c6a5e-d623-4156-97ea-e59afeb9dd7b",
+					"titel": "Rantzausbakke 18, 8700 Horsens",
+					"husnummerId": "9f5b8ece-8493-4737-b595-5915d6d811db"
+				},
+				{
+					"type": "adresse",
+					"id": "ee4ebb0f-5526-44c9-b644-f956ce7a7393",
+					"titel": "Rantzausbakke 19, 8700 Horsens",
+					"husnummerId": "8a6b0dde-a190-4c0b-8d0f-d7e4997276d2"
+				},
+				{
+					"type": "adresse",
+					"id": "f91f6f84-8121-4dde-8cd2-785c823f0240",
+					"titel": "Rantzausbakke 20, 8700 Horsens",
+					"husnummerId": "b607744f-a94b-4025-baba-a57fd8b6d89e"
+				},
+				{
+					"type": "adresse",
+					"id": "a6b6c26f-4863-4f68-8e0a-5edede7ecbff",
+					"titel": "Rantzausbakke 21, 8700 Horsens",
+					"husnummerId": "7ea0dc56-2621-4102-880e-b32ec811a29c"
+				},
+				{
+					"type": "husnummer",
+					"id": "8cadf216-9b44-4bfa-be03-511c1138e693",
+					"titel": "Rantzausbakke 22, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "22"
+				},
+				{
+					"type": "adresse",
+					"id": "db620dcd-56d6-4074-b013-8b1e39c8b22a",
+					"titel": "Rantzausbakke 23, 8700 Horsens",
+					"husnummerId": "90f65f83-d253-4eb6-8640-c3b2a925b8da"
+				},
+				{
+					"type": "husnummer",
+					"id": "b4074d6f-5da4-49aa-b608-a3945c428cf2",
+					"titel": "Rantzausbakke 24, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "24"
+				},
+				{
+					"type": "adresse",
+					"id": "c5667525-8490-44e8-a8f5-44c1c20784ee",
+					"titel": "Rantzausbakke 25, 8700 Horsens",
+					"husnummerId": "1d002e99-6d49-4713-bc6f-2c7f9321858f"
+				},
+				{
+					"type": "adresse",
+					"id": "12e3f0ff-e32f-4150-a782-b19f158ae86f",
+					"titel": "Rantzausbakke 26, 8700 Horsens",
+					"husnummerId": "8650b82b-e2b0-4316-bcb7-060652d85423"
+				},
+				{
+					"type": "adresse",
+					"id": "8cab3c08-03d4-4f7a-bff4-cfc46c44bfce",
+					"titel": "Rantzausbakke 27, 8700 Horsens",
+					"husnummerId": "db9ac8f7-cabc-4669-b9c5-481c069d052b"
+				},
+				{
+					"type": "adresse",
+					"id": "1b3b96db-e511-4643-b0d2-5c3d1da8c6ad",
+					"titel": "Rantzausbakke 28, 8700 Horsens",
+					"husnummerId": "1c6638b6-0e7a-4568-b19a-8ab5f6be2e1f"
+				},
+				{
+					"type": "adresse",
+					"id": "63644b46-935c-4ad2-a8f4-62e1500de5b4",
+					"titel": "Rantzausbakke 29, 8700 Horsens",
+					"husnummerId": "44ee28f1-4326-49cd-b0bf-48034a557ed3"
+				},
+				{
+					"type": "adresse",
+					"id": "3fb07e64-1d60-4c87-9484-34116e89c591",
+					"titel": "Rantzausbakke 30, 8700 Horsens",
+					"husnummerId": "4b0c1cc1-a295-47c7-bc73-83dddf4394a1"
+				},
+				{
+					"type": "adresse",
+					"id": "782178d7-8dd2-410e-925d-df0dee51368e",
+					"titel": "Rantzausbakke 31, 8700 Horsens",
+					"husnummerId": "f5295174-f458-4d18-b3a3-5a8690439a12"
+				},
+				{
+					"type": "adresse",
+					"id": "9f3598ce-a75b-41ec-997f-a767d0b14d34",
+					"titel": "Rantzausbakke 32, 8700 Horsens",
+					"husnummerId": "6cbec963-1a4d-4a26-bb03-06fae3721c9a"
+				},
+				{
+					"type": "husnummer",
+					"id": "556b7438-5345-457e-911b-4653a2461461",
+					"titel": "Rantzausbakke 33, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "33"
+				},
+				{
+					"type": "husnummer",
+					"id": "122a070b-7855-4eb6-a584-51d104f1ec64",
+					"titel": "Rantzausbakke 34, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "34"
+				},
+				{
+					"type": "adresse",
+					"id": "6b9eb7d4-fd12-46f8-b5a2-4b41f1dfaf1e",
+					"titel": "Rantzausbakke 35, 8700 Horsens",
+					"husnummerId": "c0c87475-1f1d-438a-bcf3-a1f7894391c5"
+				},
+				{
+					"type": "husnummer",
+					"id": "71d95244-a8cb-411d-897d-6982cc6154f9",
+					"titel": "Rantzausbakke 36, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "36"
+				},
+				{
+					"type": "adresse",
+					"id": "ddf17841-4b4a-478f-b3e4-e8eabe72b0d8",
+					"titel": "Rantzausbakke 37, 8700 Horsens",
+					"husnummerId": "2c9bb6cd-4121-4087-af79-6c84b3543724"
+				},
+				{
+					"type": "husnummer",
+					"id": "357608e9-cc1a-418d-ab8a-99a39e1f39c3",
+					"titel": "Rantzausbakke 38, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "38"
+				},
+				{
+					"type": "husnummer",
+					"id": "321d0768-c229-447a-8a15-b8b6a332328d",
+					"titel": "Rantzausbakke 39, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "39"
+				},
+				{
+					"type": "husnummer",
+					"id": "b665fa5c-19c6-40a1-8cda-6909902ac94a",
+					"titel": "Rantzausbakke 40, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "40"
+				},
+				{
+					"type": "adresse",
+					"id": "bcb9599c-2a2a-4c73-9548-00bbc6b61e9a",
+					"titel": "Rantzausbakke 41, 8700 Horsens",
+					"husnummerId": "ad0779df-7b6e-478a-91c7-228f1b56e430"
+				},
+				{
+					"type": "husnummer",
+					"id": "f7af3fac-8278-4246-bdbf-e500527b638f",
+					"titel": "Rantzausbakke 42, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "42"
+				},
+				{
+					"type": "adresse",
+					"id": "27498f18-cb9b-4b1a-8287-f847b5f180ea",
+					"titel": "Rantzausbakke 43, 8700 Horsens",
+					"husnummerId": "4ffb7230-34f1-4001-8c28-f62510d26844"
+				},
+				{
+					"type": "husnummer",
+					"id": "b2e6bde5-99da-4281-9f9c-09c9649836dd",
+					"titel": "Rantzausbakke 44, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "44"
+				},
+				{
+					"type": "husnummer",
+					"id": "ec10b3b6-365e-40e9-8ddd-3f2cd8be9679",
+					"titel": "Rantzausbakke 45, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "45"
+				},
+				{
+					"type": "adresse",
+					"id": "1f9a53fb-6854-493e-af0d-1125effada0d",
+					"titel": "Rantzausbakke 46, 8700 Horsens",
+					"husnummerId": "9da0604b-12a9-489d-b384-8d1f482f6597"
+				},
+				{
+					"type": "adresse",
+					"id": "73ff040a-5f6d-4481-9f0c-8fb4cca9c1c3",
+					"titel": "Rantzausbakke 47, 8700 Horsens",
+					"husnummerId": "61b9900c-8294-4cde-ae20-73ae90b6b16c"
+				},
+				{
+					"type": "adresse",
+					"id": "6ab588d0-82ec-4b05-b4f1-1036ee1beba0",
+					"titel": "Rantzausbakke 48, 8700 Horsens",
+					"husnummerId": "dafccc5e-300f-4451-b3a3-96e2e798a9df"
+				},
+				{
+					"type": "adresse",
+					"id": "ce0cf541-5775-462f-8e7c-b574b9ba37b1",
+					"titel": "Rantzausbakke 49, 8700 Horsens",
+					"husnummerId": "96625b0a-69d9-456f-bdf7-b4413a965b5d"
+				},
+				{
+					"type": "adresse",
+					"id": "3da252ed-0fc7-4a9e-83fe-07d12dfb27df",
+					"titel": "Rantzausbakke 50, 8700 Horsens",
+					"husnummerId": "4b4ac23c-92e2-4031-8afc-127aaedc6508"
+				},
+				{
+					"type": "adresse",
+					"id": "705f2311-9e31-40f8-bd38-369cf5ed6a77",
+					"titel": "Rantzausbakke 51, 8700 Horsens",
+					"husnummerId": "d1fb863d-5f2a-4925-ab18-fbbce43ca914"
+				},
+				{
+					"type": "adresse",
+					"id": "49b83661-40d5-40e1-bdfb-c878160f04a9",
+					"titel": "Rantzausbakke 52, 8700 Horsens",
+					"husnummerId": "da53ad88-58ad-48f6-a831-9584cd6697c6"
+				},
+				{
+					"type": "adresse",
+					"id": "e4370849-99a3-4d12-b69d-eaa5206ebfc1",
+					"titel": "Rantzausbakke 53, 8700 Horsens",
+					"husnummerId": "649ee00f-b361-40c7-8890-a3b14456e112"
+				},
+				{
+					"type": "husnummer",
+					"id": "299fa56e-543e-45ac-a000-d4d30d78bf79",
+					"titel": "Rantzausbakke 54, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "54"
+				},
+				{
+					"type": "adresse",
+					"id": "8ffa7327-3ac5-4337-bb7f-b5e68e8e77e8",
+					"titel": "Rantzausbakke 55, 8700 Horsens",
+					"husnummerId": "fbd6e045-431b-4ff3-ad73-43c9df68d403"
+				},
+				{
+					"type": "adresse",
+					"id": "b816a2df-8b62-483f-84b0-e7930ae25c8c",
+					"titel": "Rantzausbakke 56, 8700 Horsens",
+					"husnummerId": "dee9004f-00bf-4beb-ae63-7aa6170fc40f"
+				},
+				{
+					"type": "adresse",
+					"id": "499dfd2b-309a-4992-9397-367dc4e677ae",
+					"titel": "Rantzausbakke 57, 8700 Horsens",
+					"husnummerId": "7571ad9c-9376-4e98-83cb-87dec4ec6f74"
+				},
+				{
+					"type": "adresse",
+					"id": "c1a9ad34-fc18-40c3-89d5-83fa1b102ddc",
+					"titel": "Rantzausbakke 58, 8700 Horsens",
+					"husnummerId": "35459ff5-7a1c-4738-8848-1cd95323f2bb"
+				},
+				{
+					"type": "adresse",
+					"id": "5e27a839-7af0-483e-86fc-cf3fbe435288",
+					"titel": "Rantzausbakke 59, 8700 Horsens",
+					"husnummerId": "8c628737-36a1-438d-9a06-1f3e6c64fed6"
+				},
+				{
+					"type": "adresse",
+					"id": "8112089f-a395-44bc-99bd-2792c1c2fd68",
+					"titel": "Rantzausbakke 60, 8700 Horsens",
+					"husnummerId": "d4bb23f3-5d74-4b5a-b531-c999800dbf5d"
+				},
+				{
+					"type": "adresse",
+					"id": "fac6f451-b469-4464-b03f-544022da8a9f",
+					"titel": "Rantzausbakke 61, 8700 Horsens",
+					"husnummerId": "83ba933b-17a9-4da9-81d7-06c814585dc6"
+				},
+				{
+					"type": "adresse",
+					"id": "fffe54e1-298f-4851-b106-c56a1f1e4555",
+					"titel": "Rantzausbakke 62, 8700 Horsens",
+					"husnummerId": "43877061-20bb-48f7-9c18-0bba95920dbe"
+				},
+				{
+					"type": "adresse",
+					"id": "a46183d0-473b-40fa-b07d-94e0b467db4d",
+					"titel": "Rantzausbakke 63, 8700 Horsens",
+					"husnummerId": "cb770715-dfe5-4b18-871e-28ba08138739"
+				},
+				{
+					"type": "husnummer",
+					"id": "f8886da9-42ff-4d75-8335-ca6d39c00cfc",
+					"titel": "Rantzausbakke 64, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "64"
+				},
+				{
+					"type": "adresse",
+					"id": "a72aeff3-1650-467e-94c4-beca5f5bff6a",
+					"titel": "Rantzausbakke 65, 8700 Horsens",
+					"husnummerId": "0a856120-bbc3-4e3c-b737-698c9ba5f81c"
+				},
+				{
+					"type": "adresse",
+					"id": "303fd967-e085-48fc-9278-72d82120bac9",
+					"titel": "Rantzausbakke 66, 8700 Horsens",
+					"husnummerId": "ee9e54d9-a697-44f9-8ea2-09086f7cbe1c"
+				},
+				{
+					"type": "husnummer",
+					"id": "a3f6bed4-fdd0-49db-8b3a-f65e7a25354e",
+					"titel": "Rantzausbakke 67, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "67"
+				},
+				{
+					"type": "adresse",
+					"id": "b8052de1-8ee2-46c9-916a-6bb4804c71ba",
+					"titel": "Rantzausbakke 68, 8700 Horsens",
+					"husnummerId": "511d1bbb-2f6b-47cb-b6bd-1bbe5dcc1469"
+				},
+				{
+					"type": "husnummer",
+					"id": "9f822cb4-fdda-48a4-9af3-422e2624d6a2",
+					"titel": "Rantzausbakke 69, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "69"
+				},
+				{
+					"type": "adresse",
+					"id": "61d8a61b-2d06-4b4b-8de9-9f5ec6b5381f",
+					"titel": "Rantzausbakke 70, 8700 Horsens",
+					"husnummerId": "7e0838be-e5a4-4503-b622-482bbd8cb0dd"
+				},
+				{
+					"type": "adresse",
+					"id": "b5bc47ce-c3bc-4587-b813-7a064dd58af8",
+					"titel": "Rantzausbakke 71, 8700 Horsens",
+					"husnummerId": "ed109539-40ce-4f37-a040-5fcc7726959f"
+				},
+				{
+					"type": "adresse",
+					"id": "08191dc9-c9a2-4f42-a145-23a61e84b182",
+					"titel": "Rantzausbakke 72, 8700 Horsens",
+					"husnummerId": "4bd63241-8cc9-4e7a-af8e-1bb43ccdb31a"
+				},
+				{
+					"type": "adresse",
+					"id": "d4e0141e-fe2b-4ad7-a715-132c6654ce79",
+					"titel": "Rantzausbakke 73, 8700 Horsens",
+					"husnummerId": "2112e880-3062-4e77-a14d-7b5c3cafdee1"
+				},
+				{
+					"type": "husnummer",
+					"id": "f3fd5ebc-6577-4401-8209-fd6b5ce292a3",
+					"titel": "Rantzausbakke 74, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "74"
+				},
+				{
+					"type": "adresse",
+					"id": "2d1e2bd9-6922-48c8-99d0-3d728f386bea",
+					"titel": "Rantzausbakke 74A, 8700 Horsens",
+					"husnummerId": "bc6f92e0-8485-42a1-aad2-3c4b854e9e5c"
+				},
+				{
+					"type": "adresse",
+					"id": "509cff13-5477-4a1c-9ffa-0d2582f43edc",
+					"titel": "Rantzausbakke 75, 8700 Horsens",
+					"husnummerId": "cad23b4b-1121-4108-86a3-fe4b829c3ea1"
+				},
+				{
+					"type": "husnummer",
+					"id": "a0bfa5d2-1f97-4844-9953-b1a22c2e1e8c",
+					"titel": "Rantzausbakke 76, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "76"
+				},
+				{
+					"type": "husnummer",
+					"id": "a09d9504-314c-4096-8c74-42a4a42266bf",
+					"titel": "Rantzausbakke 77, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "77"
+				},
+				{
+					"type": "husnummer",
+					"id": "16d5a8d9-3d88-4126-b9d4-ca270b99cc0f",
+					"titel": "Rantzausbakke 78, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "78"
+				},
+				{
+					"type": "adresse",
+					"id": "14d0decc-08b9-4275-925e-510d86d15a08",
+					"titel": "Rantzausbakke 79, 8700 Horsens",
+					"husnummerId": "a0a4dc6c-a873-41a3-a60b-72790ba5014c"
+				},
+				{
+					"type": "husnummer",
+					"id": "edab31dd-685a-4695-931b-67148ffaceb1",
+					"titel": "Rantzausbakke 80, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "80"
+				},
+				{
+					"type": "adresse",
+					"id": "f76f40d0-f228-47e9-b5ce-03334eacfae5",
+					"titel": "Rantzausbakke 81, 8700 Horsens",
+					"husnummerId": "ee8e5d0b-38b4-4247-8b4c-0fefcf9c0aa8"
+				},
+				{
+					"type": "husnummer",
+					"id": "c4befa91-ffe0-40c7-a4be-a26e529ec8a6",
+					"titel": "Rantzausbakke 82, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "82"
+				},
+				{
+					"type": "adresse",
+					"id": "84722bbe-6634-4bcc-a183-a244ba5a5929",
+					"titel": "Rantzausbakke 83, 8700 Horsens",
+					"husnummerId": "829cbdeb-2939-4f9f-b301-25bb26a91d59"
+				},
+				{
+					"type": "adresse",
+					"id": "bd92075a-4d03-45fc-827a-cfcac17ee27f",
+					"titel": "Rantzausbakke 85, 8700 Horsens",
+					"husnummerId": "c089fcfc-2235-4ec8-8ee8-71bfc5fc27db"
+				},
+				{
+					"type": "adresse",
+					"id": "37fd3108-9b38-4b0b-9929-28f0655485f5",
+					"titel": "Rantzausbakke 87, 8700 Horsens",
+					"husnummerId": "6e3b6633-18ae-4249-8331-dd169aa0f6ec"
+				},
+				{
+					"type": "adresse",
+					"id": "8864f730-e0d7-4740-9c44-0c4f475dcd5d",
+					"titel": "Rantzausbakke 89, 8700 Horsens",
+					"husnummerId": "97870444-386e-42c0-b143-d377aa644d3d"
+				},
+				{
+					"type": "adresse",
+					"id": "d24af0c0-2eb4-4a6f-8ed0-bf10bb9174c2",
+					"titel": "Rantzausbakke 91, 8700 Horsens",
+					"husnummerId": "a135715c-d189-4250-a357-53f47b03451b"
+				},
+				{
+					"type": "adresse",
+					"id": "8195a15a-d424-4a88-a130-b4f15a5f2be5",
+					"titel": "Rantzausbakke 93, 8700 Horsens",
+					"husnummerId": "bde5349a-c8ba-463d-859b-d4e90ca14351"
+				},
+				{
+					"type": "husnummer",
+					"id": "9a584101-e940-491c-b5a9-17c21d702a56",
+					"titel": "Rantzausbakke 95, 8700 Horsens",
+					"vejnavn": "Rantzausbakke",
+					"husnummer": "95"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausgavevej 8300": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-ac20-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 8, Kanne, 8300 Odder",
+					"husnummerId": "0a3f5094-7684-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8ba65860-6b64-40c1-82fb-cd71c62e4683",
+					"titel": "Rantzausgavevej 8B, Kanne, 8300 Odder",
+					"husnummerId": "bbb6cd9f-b349-436d-9f24-ba6969ccb735"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-ac21-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 10, Kanne, 8300 Odder",
+					"husnummerId": "0a3f5094-7686-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-ac22-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 11, Kanne, 8300 Odder",
+					"husnummerId": "0a3f5094-7687-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-ac23-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 12, Kanne, 8300 Odder",
+					"husnummerId": "0a3f5094-7688-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-ac24-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 13, Kanne, 8300 Odder",
+					"husnummerId": "0a3f5094-7689-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-ac25-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 15, Kanne, 8300 Odder",
+					"husnummerId": "0a3f5094-768a-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausvej 9460": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d3f6-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 1, 9460 Brovst",
+					"husnummerId": "0a3f5099-3085-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d3f7-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 2, 9460 Brovst",
+					"husnummerId": "0a3f5099-3086-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d3f8-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 3, 9460 Brovst",
+					"husnummerId": "0a3f5099-3087-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d3f9-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 4, 9460 Brovst",
+					"husnummerId": "0a3f5099-3088-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d3fa-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 5, 9460 Brovst",
+					"husnummerId": "0a3f5099-3089-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6a43f54d-7f4f-3e7f-e044-00144f3ead67",
+					"titel": "Rantzausvej 6, 9460 Brovst",
+					"husnummerId": "693c8a91-8199-28de-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d3fc-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 7, 9460 Brovst",
+					"husnummerId": "0a3f5099-308b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d3fd-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 8, 9460 Brovst",
+					"husnummerId": "0a3f5099-308c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d3fe-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 9, 9460 Brovst",
+					"husnummerId": "0a3f5099-308d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d3ff-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 10, 9460 Brovst",
+					"husnummerId": "0a3f5099-308e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d400-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 11, 9460 Brovst",
+					"husnummerId": "0a3f5099-308f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d401-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 12, 9460 Brovst",
+					"husnummerId": "0a3f5099-3090-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d402-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 14, 9460 Brovst",
+					"husnummerId": "0a3f5099-3091-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d403-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 16, 9460 Brovst",
+					"husnummerId": "0a3f5099-3092-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d404-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 18, 9460 Brovst",
+					"husnummerId": "0a3f5099-3093-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d405-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 20, 9460 Brovst",
+					"husnummerId": "0a3f5099-3094-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d406-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 22, 9460 Brovst",
+					"husnummerId": "0a3f5099-3095-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d407-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 24, 9460 Brovst",
+					"husnummerId": "0a3f5099-3096-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d408-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 26, 9460 Brovst",
+					"husnummerId": "0a3f5099-3097-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d409-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 28, 9460 Brovst",
+					"husnummerId": "0a3f5099-3098-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d40a-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 30, 9460 Brovst",
+					"husnummerId": "0a3f5099-3099-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d40b-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 32, 9460 Brovst",
+					"husnummerId": "0a3f5099-309a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d40c-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 34, 9460 Brovst",
+					"husnummerId": "0a3f5099-309b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d40d-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 36, 9460 Brovst",
+					"husnummerId": "0a3f5099-309c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d40e-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 38, 9460 Brovst",
+					"husnummerId": "0a3f5099-309d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d40f-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 40, 9460 Brovst",
+					"husnummerId": "0a3f5099-309e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-d410-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 42, 9460 Brovst",
+					"husnummerId": "0a3f5099-309f-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ramten Skovvej 8586": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8876-32b8-e044-0003ba298018",
+					"titel": "Ramten Skovvej 1, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5369-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8877-32b8-e044-0003ba298018",
+					"titel": "Ramten Skovvej 2, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-536a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8878-32b8-e044-0003ba298018",
+					"titel": "Ramten Skovvej 3, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-536b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d6fc5cb3-cacd-43cd-96a7-ede55a90a277",
+					"titel": "Ramten Skovvej 3A, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-536c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8879-32b8-e044-0003ba298018",
+					"titel": "Ramten Skovvej 4, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-536d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "76637bad-9789-4cc6-9955-fd0eeaf8088c",
+					"titel": "Ramten Skovvej 4A, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-536e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-887a-32b8-e044-0003ba298018",
+					"titel": "Ramten Skovvej 5, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-536f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-887b-32b8-e044-0003ba298018",
+					"titel": "Ramten Skovvej 6, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5370-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-887c-32b8-e044-0003ba298018",
+					"titel": "Ramten Skovvej 8, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5371-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-887d-32b8-e044-0003ba298018",
+					"titel": "Ramten Skovvej 10, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5372-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausgade 9000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e3b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 1A, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e3c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 1B, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e3d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 1C, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1C"
+				},
+				{
+					"type": "husnummer",
+					"id": "99748fa2-d0fd-475d-894d-62a4a0560dde",
+					"titel": "Rantzausgade 1D, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1D"
+				},
+				{
+					"type": "adresse",
+					"id": "33655216-9eb0-424e-aaac-93011a816e88",
+					"titel": "Rantzausgade 1E, 9000 Aalborg",
+					"husnummerId": "a3fd7f56-fc76-49db-b469-40eb60ed0033"
+				},
+				{
+					"type": "adresse",
+					"id": "df3d1245-25b9-4fbf-82ef-e1453aed9b8c",
+					"titel": "Rantzausgade 2, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e3e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e3f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 3, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "3"
+				},
+				{
+					"type": "adresse",
+					"id": "ffbb13c4-e689-475c-ac72-fc76f72c235f",
+					"titel": "Rantzausgade 3A, 9000 Aalborg",
+					"husnummerId": "bad15c57-8ea5-43b2-9c1d-1929e2ba1aae"
+				},
+				{
+					"type": "adresse",
+					"id": "8bdc18f6-c00c-4ef8-93b1-56271a888462",
+					"titel": "Rantzausgade 3C, 9000 Aalborg",
+					"husnummerId": "92a7164d-eaf8-4b0c-a10f-f5bfc302b038"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e40-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 4, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "4"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e41-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 5, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "91b251b8-04d2-4583-875d-f3a5a232cbe7",
+					"titel": "Rantzausgade 6, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e42-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e43-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 7, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "7"
+				},
+				{
+					"type": "adresse",
+					"id": "2c798ce8-7218-4c8d-a044-c83a1cbaac42",
+					"titel": "Rantzausgade 7A, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e44-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e45-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 8, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "8"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e46-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 9, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "9"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e47-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 11, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e48-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 13, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e49-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "03fa47cf-1b7d-43bf-b453-17e9c81ef971",
+					"titel": "Rantzausgade 15, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e4b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 16, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e4c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 17, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e4d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 17A, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "17A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e4e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 18, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "adresse",
+					"id": "f6a4601e-b570-4cf2-a209-f3a6e9fc053d",
+					"titel": "Rantzausgade 18A, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e50-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e51-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19A, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19A"
+				},
+				{
+					"type": "husnummer",
+					"id": "86cc3df2-fe13-42f8-9d9c-ec30be9f4e56",
+					"titel": "Rantzausgade 19B, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e52-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 20, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "20"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e53-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 21, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "21"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e54-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 22, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "22"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e55-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 23, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "23"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e56-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 24, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "24"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e57-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 25, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "25"
+				},
+				{
+					"type": "adresse",
+					"id": "f17e932b-e2a6-4bb3-b6f1-56c77641c8c7",
+					"titel": "Rantzausgade 25B, 9000 Aalborg",
+					"husnummerId": "362e6b23-586c-0f9b-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e58-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 26, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "26"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e59-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 28, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "28"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e5a-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 30, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "30"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e5b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 31, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "31"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e5c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 32, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "32"
+				},
+				{
+					"type": "adresse",
+					"id": "7b49184c-ef2f-4cfa-9832-0631f4ccc9c5",
+					"titel": "Rantzausgade 32B, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e5d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e5e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 33, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "33"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e5f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 34, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "34"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e60-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 35, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "35"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e61-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 36, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "36"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e62-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 37, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "37"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e63-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 38, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "38"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e64-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 39, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "39"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e65-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 40, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "40"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e66-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 41, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "41"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e67-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 43, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "43"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e68-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 45, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "45"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e69-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 47, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "47"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausgavevej 8355": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-e6c0-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 1, Onsted, 8355 Solbjerg",
+					"husnummerId": "0a3f5096-ba07-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-e6c1-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 2, Onsted, 8355 Solbjerg",
+					"husnummerId": "0a3f5096-ba08-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-e6c2-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 3, Onsted, 8355 Solbjerg",
+					"husnummerId": "0a3f5096-ba09-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-e6c3-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 4, Kanne, 8355 Solbjerg",
+					"husnummerId": "0a3f5096-ba0a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-e6c4-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 5, Kanne, 8355 Solbjerg",
+					"husnummerId": "0a3f5096-ba0b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-e6c5-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 6, Kanne, 8355 Solbjerg",
+					"husnummerId": "0a3f5096-ba0c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c3-e6c6-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 7, Kanne, 8355 Solbjerg",
+					"husnummerId": "0a3f5096-ba0d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5096-ba0e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgavevej 9A, Kanne, 8355 Solbjerg",
+					"vejnavn": "Rantzausgavevej",
+					"husnummer": "9A"
+				},
+				{
+					"type": "adresse",
+					"id": "9c862bac-5834-4cd2-9aab-e5dfcb68f216",
+					"titel": "Rantzausgavevej 9B, Kanne, 8355 Solbjerg",
+					"husnummerId": "f6bd595b-baa3-4e45-8225-3416d3223531"
+				},
+				{
+					"type": "adresse",
+					"id": "bf808af5-3a0c-4b41-863e-aed16ddf9ae4",
+					"titel": "Rantzausgavevej 9C, Kanne, 8355 Solbjerg",
+					"husnummerId": "d5cd0be0-67a0-4426-8647-13cc3ef19fdc"
+				},
+				{
+					"type": "adresse",
+					"id": "c9b6fd6f-723b-413d-8f83-f29415c6f5ef",
+					"titel": "Rantzausgavevej 9D, Kanne, 8355 Solbjerg",
+					"husnummerId": "abb48ea9-d688-4083-99d8-7ad550b7856e"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausvej 6261": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-621e-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 1, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4251-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-621f-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 2, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4252-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6220-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 3, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4253-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6221-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 4, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4254-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6222-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 5, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4255-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6223-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 6, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4256-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6224-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 7, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4257-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6225-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 8, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4258-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6226-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 9, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4259-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6227-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 10, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-425a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6228-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 11, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-425b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6229-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 13, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-425c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-622a-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 14, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-425d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-622b-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 15, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-425e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-622c-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 17, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-425f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-622d-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 18, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4260-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-622e-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 19, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4261-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-622f-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 20, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4263-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6230-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 21, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4264-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6231-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 22, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4265-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6232-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 23, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4266-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6233-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 24, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4267-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6234-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 25, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4268-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6235-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 26, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4269-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6236-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 27, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-426a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6237-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 28, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-426b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6238-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 29, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-426c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6239-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 30, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-426d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-623a-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 31, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-426e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-623b-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 32, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-426f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-623c-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 33, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4270-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-623d-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 34, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4271-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-623e-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 35, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4272-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-623f-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 36, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4273-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Randtofte Søvej 2670": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17c1-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 1, 2670 Greve",
+					"husnummerId": "0a3f5081-4270-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17c2-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 3, 2670 Greve",
+					"husnummerId": "0a3f5081-4271-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17c3-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 4, 2670 Greve",
+					"husnummerId": "0a3f5081-4272-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17c4-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 5, 2670 Greve",
+					"husnummerId": "0a3f5081-4273-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17c5-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 6, 2670 Greve",
+					"husnummerId": "0a3f5081-4274-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17c6-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 7, 2670 Greve",
+					"husnummerId": "0a3f5081-4275-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17c7-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 8, 2670 Greve",
+					"husnummerId": "0a3f5081-4276-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17c8-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 9, 2670 Greve",
+					"husnummerId": "0a3f5081-4277-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17c9-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 10, 2670 Greve",
+					"husnummerId": "0a3f5081-4278-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17ca-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 11, 2670 Greve",
+					"husnummerId": "0a3f5081-4279-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17cb-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 12, 2670 Greve",
+					"husnummerId": "0a3f5081-427a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17cc-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 13, 2670 Greve",
+					"husnummerId": "0a3f5081-427b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17cd-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 14, 2670 Greve",
+					"husnummerId": "0a3f5081-427c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17ce-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 15, 2670 Greve",
+					"husnummerId": "0a3f5081-427d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17cf-32b8-e044-0003ba298018",
+					"titel": "Randtofte Søvej 17, 2670 Greve",
+					"husnummerId": "0a3f5081-427e-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausvej 3000": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-71f0-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 2, 3000 Helsingør",
+					"husnummerId": "0a3f507f-d15d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-71f1-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 3, 3000 Helsingør",
+					"husnummerId": "0a3f507f-d15e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-71f2-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 4, 3000 Helsingør",
+					"husnummerId": "0a3f507f-d15f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507f-d160-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 5, 3000 Helsingør",
+					"vejnavn": "Rantzausvej",
+					"husnummer": "5"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-71f5-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 6, 3000 Helsingør",
+					"husnummerId": "0a3f507f-d161-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a9-71f6-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 7, 3000 Helsingør",
+					"husnummerId": "0a3f507f-d162-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ramten Hedevej 8586": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "a63a667e-9dcb-4582-8af6-8eba5a2d45c3",
+					"titel": "Ramten Hedevej 1, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5353-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "369ceacc-4430-4f01-a5e8-3f09fb3f712c",
+					"titel": "Ramten Hedevej 2, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5354-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8864-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 3, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5355-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8865-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 4, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5356-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b59a93b7-5bf6-4c62-890d-709d70d91951",
+					"titel": "Ramten Hedevej 5, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5357-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8866-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 6, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5358-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8867-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 7, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5359-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8868-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 8, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-535a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8869-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 9, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-535b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-886a-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 10, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-535c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3f7705c0-044f-4474-b912-9deed440a25b",
+					"titel": "Ramten Hedevej 11, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-535d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-886b-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 13, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-535e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-886c-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 15, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-535f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-886d-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 17, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5360-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-886e-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 19, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5361-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-886f-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 21, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5362-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8870-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 21A, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5363-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8871-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 23, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5364-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8872-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 25, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5365-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8873-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 27, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5366-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8874-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 29, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5367-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8875-32b8-e044-0003ba298018",
+					"titel": "Ramten Hedevej 31, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5368-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Randtoftevej 2670": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d0-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 2B, 2670 Greve",
+					"husnummerId": "0a3f5081-4280-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d1-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 2C, 2670 Greve",
+					"husnummerId": "0a3f5081-4281-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d2-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 3A, 2670 Greve",
+					"husnummerId": "0a3f5081-4282-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d3-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 3B, 2670 Greve",
+					"husnummerId": "0a3f5081-4283-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d4-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 3C, 2670 Greve",
+					"husnummerId": "0a3f5081-4284-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d5-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 4, 2670 Greve",
+					"husnummerId": "0a3f5081-4285-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d6-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 5, 2670 Greve",
+					"husnummerId": "0a3f5081-4286-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d7-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 6, 2670 Greve",
+					"husnummerId": "0a3f5081-4287-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d8-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 7A, 2670 Greve",
+					"husnummerId": "0a3f5081-4289-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17d9-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 7B, 2670 Greve",
+					"husnummerId": "0a3f5081-428a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17da-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 8, 2670 Greve",
+					"husnummerId": "0a3f5081-428b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17db-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 9, 2670 Greve",
+					"husnummerId": "0a3f5081-428c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17dc-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 10, 2670 Greve",
+					"husnummerId": "0a3f5081-428d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17dd-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 11, 2670 Greve",
+					"husnummerId": "0a3f5081-428e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17de-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 12, 2670 Greve",
+					"husnummerId": "0a3f5081-428f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17df-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 13, 2670 Greve",
+					"husnummerId": "0a3f5081-4290-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17e0-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 14, 2670 Greve",
+					"husnummerId": "0a3f5081-4291-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17e1-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 15, 2670 Greve",
+					"husnummerId": "0a3f5081-4292-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17e2-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 16, 2670 Greve",
+					"husnummerId": "0a3f5081-4293-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "1a1f4c44-f34c-4543-9a85-454f5aa05978",
+					"titel": "Randtoftevej 17, 2670 Greve",
+					"husnummerId": "405ccb4b-c878-4e86-889e-1d809fd8c75b"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17e3-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 18, 2670 Greve",
+					"husnummerId": "0a3f5081-4294-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17e4-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 19, 2670 Greve",
+					"husnummerId": "0a3f5081-4295-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17e5-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 20, 2670 Greve",
+					"husnummerId": "0a3f5081-4296-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ab-17e6-32b8-e044-0003ba298018",
+					"titel": "Randtoftevej 21, 2670 Greve",
+					"husnummerId": "0a3f5081-4297-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ramtenvej 8581": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5094-27fe-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 1, 8581 Nimtofte",
+					"vejnavn": "Ramtenvej",
+					"husnummer": "1"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6063-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 3, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-27ff-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6064-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 4, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2800-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6065-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 5, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2801-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6066-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 6, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2802-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8220be7e-7b95-44e1-8963-b389632cfa8f",
+					"titel": "Ramtenvej 7, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2803-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6067-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 8, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2804-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6068-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 9, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2805-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6069-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 10, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2806-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-606a-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 11, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2807-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-606b-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 12, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2808-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-606c-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 13A, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2809-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a45f21ef-d5d2-45c7-be82-c997c0229f61",
+					"titel": "Ramtenvej 13B, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-280a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-606d-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 14A, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-280c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "26b05167-bc33-4ca5-a64e-07ac45a50011",
+					"titel": "Ramtenvej 14B, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-280d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "c7085bca-9955-4bee-a012-f29397251017",
+					"titel": "Ramtenvej 14C, st., 8581 Nimtofte",
+					"husnummerId": "00295f91-69da-448e-9b84-3281cfdedd1c"
+				},
+				{
+					"type": "adresse",
+					"id": "93ae171f-3fd0-48ca-91ed-049bb44d8c6e",
+					"titel": "Ramtenvej 14D, 8581 Nimtofte",
+					"husnummerId": "afae842f-4188-4264-8491-41f41fea05d4"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-606e-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 15, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-280e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-606f-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 16, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-280f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6070-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 17, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2810-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6071-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 18, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2811-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d2595582-2844-41d8-9fdc-18e041288343",
+					"titel": "Ramtenvej 20, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2812-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6072-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 26, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2813-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6073-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 28, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2814-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6074-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 30, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2815-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6075-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 32, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2816-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6076-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 34, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2817-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6077-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 36, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2818-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6078-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 38, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2819-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6079-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 40, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-281a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-607a-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 42, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-281b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-607b-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 44, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-281c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "78e95e4b-4e90-4d76-8023-24e6a4eda4f2",
+					"titel": "Ramtenvej 45, 8581 Nimtofte",
+					"husnummerId": "c5a24302-fffb-4903-beeb-a4b96ea8d051"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-607c-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 46, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-281e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-607d-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 47, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-281f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-607e-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 48, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2820-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b8f87158-ce79-4d77-9ec3-ae8e11c9389a",
+					"titel": "Ramtenvej 48A, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2821-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-607f-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 49, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2822-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6080-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 50, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2823-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6082-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 52A, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2825-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "28e6f6d3-d844-4828-a695-266526eb85f6",
+					"titel": "Ramtenvej 52B, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2826-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6083-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 53, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2827-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6084-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 54, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2828-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6085-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 55, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-2829-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6086-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 57, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-282a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b794f819-64c6-4361-b9ed-4e5482eb56ef",
+					"titel": "Ramtenvej 59A, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "d03f18ee-fb6d-480e-b7e5-73711c2e9b17"
+				},
+				{
+					"type": "adresse",
+					"id": "dac549ab-1822-4cad-b903-2c55ac81922b",
+					"titel": "Ramtenvej 59B, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "e950d65e-80a0-49ce-8848-dccc3e81b1ee"
+				},
+				{
+					"type": "husnummer",
+					"id": "7f6be543-ca5e-45fa-b1cb-776517008239",
+					"titel": "Ramtenvej 59C, Mogenstrup, 8581 Nimtofte",
+					"vejnavn": "Ramtenvej",
+					"husnummer": "59C"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6088-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 61, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "0a3f5094-282c-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausvej 5700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9676-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 1, 5700 Svendborg",
+					"husnummerId": "0a3f508a-76de-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7587d3fb-a98d-4965-bc3f-7fa722842e6b",
+					"titel": "Rantzausvej 3, 5700 Svendborg",
+					"husnummerId": "92553250-9ac8-4cd3-9c93-4813225ff755"
+				},
+				{
+					"type": "adresse",
+					"id": "5a28090b-def1-4a7e-96b7-b6b7cf5db58d",
+					"titel": "Rantzausvej 3A, 5700 Svendborg",
+					"husnummerId": "7f33beb9-7838-4130-8c01-ba7d0db8aa1e"
+				},
+				{
+					"type": "adresse",
+					"id": "bb3ba91e-c2d9-4197-a830-2ea41f3252b2",
+					"titel": "Rantzausvej 3B, 5700 Svendborg",
+					"husnummerId": "d497c498-4ad1-46fb-a705-df54a3815de4"
+				},
+				{
+					"type": "adresse",
+					"id": "29a72ba6-9172-4a74-9f7b-6da753714246",
+					"titel": "Rantzausvej 3C, 5700 Svendborg",
+					"husnummerId": "aa2cde7a-2de0-4b28-8916-5dfee2dc9d1c"
+				},
+				{
+					"type": "adresse",
+					"id": "4f28ec14-beb2-4d82-9f6a-fe08cdbeee76",
+					"titel": "Rantzausvej 3D, 5700 Svendborg",
+					"husnummerId": "82feabaa-c3d8-436b-9432-bdd947d3e415"
+				},
+				{
+					"type": "adresse",
+					"id": "f70c379c-f6a4-4a05-ac43-431b01259c42",
+					"titel": "Rantzausvej 3E, 5700 Svendborg",
+					"husnummerId": "97c4669b-6136-46cb-8151-a9291ac29c1a"
+				},
+				{
+					"type": "adresse",
+					"id": "0c257598-bb27-4588-bb19-4de3bf2b5403",
+					"titel": "Rantzausvej 3F, 5700 Svendborg",
+					"husnummerId": "27f5beaf-06dc-4ac1-b4e8-0713c769359e"
+				},
+				{
+					"type": "adresse",
+					"id": "7c92d12c-e7d2-4d27-8081-dc517458ddfd",
+					"titel": "Rantzausvej 3G, 5700 Svendborg",
+					"husnummerId": "dc009f1a-413e-4bb0-a2af-4cca637b1526"
+				},
+				{
+					"type": "adresse",
+					"id": "1b345391-5bd0-42db-9a16-1fc426513083",
+					"titel": "Rantzausvej 3H, 5700 Svendborg",
+					"husnummerId": "a61542f1-da1e-4b9e-a936-c645c2f933e8"
+				},
+				{
+					"type": "adresse",
+					"id": "4f99cf32-74da-4c05-8e3f-d8cf5c7ddc4b",
+					"titel": "Rantzausvej 3K, 5700 Svendborg",
+					"husnummerId": "ad8f2877-e82c-4d9d-899a-2a240bce26e8"
+				},
+				{
+					"type": "adresse",
+					"id": "7cb32bb8-d741-4415-9a98-c1da8550b6e3",
+					"titel": "Rantzausvej 3L, 5700 Svendborg",
+					"husnummerId": "17589281-e333-401f-9ae7-45bf0707141c"
+				},
+				{
+					"type": "adresse",
+					"id": "62ecda77-a7c5-4a8d-81b2-9ae37184388d",
+					"titel": "Rantzausvej 5, 5700 Svendborg",
+					"husnummerId": "0a3f508a-76df-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b35f60dc-c441-4751-a789-a5e3baeaaf11",
+					"titel": "Rantzausvej 7, 5700 Svendborg",
+					"husnummerId": "e3110eb0-4c84-45ec-96d5-d26cf40a44fe"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausvænget 6261": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6240-32b8-e044-0003ba298018",
+					"titel": "Rantzausvænget 1, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4274-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6241-32b8-e044-0003ba298018",
+					"titel": "Rantzausvænget 2, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4275-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6242-32b8-e044-0003ba298018",
+					"titel": "Rantzausvænget 3, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4276-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6243-32b8-e044-0003ba298018",
+					"titel": "Rantzausvænget 4, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4277-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6244-32b8-e044-0003ba298018",
+					"titel": "Rantzausvænget 5, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4278-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bca5a0b2-2274-404d-917b-ac673f6934c3",
+					"titel": "Rantzausvænget 6, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-4279-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6245-32b8-e044-0003ba298018",
+					"titel": "Rantzausvænget 7, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-427a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4eca26b5-f7e2-6765-e044-0003ba298018",
+					"titel": "Rantzausvænget 8, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-427b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6246-32b8-e044-0003ba298018",
+					"titel": "Rantzausvænget 9, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-427c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6247-32b8-e044-0003ba298018",
+					"titel": "Rantzausvænget 10, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-427d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d7341c4e-6cdd-46ca-bfa7-b97dc1da8970",
+					"titel": "Rantzausvænget 11, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-427e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-6248-32b8-e044-0003ba298018",
+					"titel": "Rantzausvænget 13, Visby, 6261 Bredebro",
+					"husnummerId": "0a3f508b-427f-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ramten Søvej 8586": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-887e-32b8-e044-0003ba298018",
+					"titel": "Ramten Søvej 1, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5373-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-887f-32b8-e044-0003ba298018",
+					"titel": "Ramten Søvej 2, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5374-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8880-32b8-e044-0003ba298018",
+					"titel": "Ramten Søvej 3, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5375-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8881-32b8-e044-0003ba298018",
+					"titel": "Ramten Søvej 5, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5376-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-8882-32b8-e044-0003ba298018",
+					"titel": "Ramten Søvej 7, Ramten, 8586 Ørum Djurs",
+					"husnummerId": "0a3f5094-5377-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rams Tværvej 8800": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-eccf-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 1, 8800 Viborg",
+					"vejnavn": "Rams Tværvej",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f5098-ecd0-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 3, 8800 Viborg",
+					"vejnavn": "Rams Tværvej",
+					"husnummer": "3"
+				},
+				{
+					"type": "husnummer",
+					"id": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24",
+					"titel": "Rams Tværvej 3A, 8800 Viborg",
+					"vejnavn": "Rams Tværvej",
+					"husnummer": "3A"
+				},
+				{
+					"type": "adresse",
+					"id": "8adc567b-7599-40da-b19b-e1b2ad901173",
+					"titel": "Rams Tværvej 3B, 8800 Viborg",
+					"husnummerId": "4dd4ccd8-1f7d-4df6-b125-b954285a7bbd"
+				},
+				{
+					"type": "adresse",
+					"id": "e89db801-d43e-4c8f-be09-cb1f52e20ea6",
+					"titel": "Rams Tværvej 3C, 8800 Viborg",
+					"husnummerId": "08ab6c0e-9a8c-4449-83d7-8745a63acda9"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausvej 2990": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "b6173c86-4ec3-4e41-9cbd-18d518266676",
+					"titel": "Rantzausvej 2, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-9498-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6708-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 4A, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-9499-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6709-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 4B, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-949a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-670a-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 4C, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-949b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-670b-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 5, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-949c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-670c-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 6A, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-949d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-670d-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 6B, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-949e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-670e-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 6C, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-949f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-670f-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 6D, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6710-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 6E, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6711-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 11, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6712-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 13, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6713-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 14, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6714-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 16, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6715-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 18, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6716-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 20, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6717-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 22, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a8-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6718-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 24, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94a9-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-6719-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 26, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94aa-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-671a-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 28, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94ab-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50aa-671b-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 30, Niverød, 2990 Nivå",
+					"husnummerId": "0a3f5080-94ac-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausvej 6200": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb1a-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 1, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c693-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4d473c9d-1abe-47b3-e044-0003ba298018",
+					"titel": "Rantzausvej 2, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c694-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb1b-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 3, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c695-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4d473c9d-1abf-47b3-e044-0003ba298018",
+					"titel": "Rantzausvej 4, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c696-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb1c-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 5, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c697-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "98220680-cfab-4b5b-b91d-9da94495e3b8",
+					"titel": "Rantzausvej 6, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c698-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb1d-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 7, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c699-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "b42e65b6-d0b4-446e-bee5-ea92b964d83f",
+					"titel": "Rantzausvej 8, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c69a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "4d473c9d-1ac0-47b3-e044-0003ba298018",
+					"titel": "Rantzausvej 9, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c69b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "32609aa6-ade3-400e-a85b-d1d8a7d4aaa7",
+					"titel": "Rantzausvej 10, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c69c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "48284790-bce4-61c5-e044-0003ba298018",
+					"titel": "Rantzausvej 11, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c69d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb1e-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 12, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c69e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "f2a646df-e8d1-4a45-9c1c-bfd48b70c7a6",
+					"titel": "Rantzausvej 13, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c69f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb1f-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 14, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c6a0-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb20-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 15, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c6a1-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb21-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 16, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c6a2-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb22-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 18, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c6a3-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb23-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 20, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c6a4-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb24-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 22, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c6a5-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb25-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 24, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c6a6-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb26-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 26, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c6a7-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-fb27-32b8-e044-0003ba298018",
+					"titel": "Rantzausvej 28, Søgaard, 6200 Aabenraa",
+					"husnummerId": "0a3f508b-c6a8-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausmindevej 5700": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95de-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 1, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7636-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95df-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 5, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7637-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e0-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 7A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7638-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e1-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 7B, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7639-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e2-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 9, 5700 Svendborg",
+					"husnummerId": "0a3f508a-763a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e3-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 11, 5700 Svendborg",
+					"husnummerId": "0a3f508a-763b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e4-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 15, 5700 Svendborg",
+					"husnummerId": "0a3f508a-763c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e5-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 17, 5700 Svendborg",
+					"husnummerId": "0a3f508a-763d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e6-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 19A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-763e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e7-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 19B, 5700 Svendborg",
+					"husnummerId": "0a3f508a-763f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e8-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 21A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7640-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95e9-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 21B, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7641-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95ea-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 21C, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7642-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95eb-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 23, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7643-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95ec-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 25, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7644-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0739e3eb-5c7d-4902-b7bd-f29a3d35e948",
+					"titel": "Rantzausmindevej 25A, 5700 Svendborg",
+					"husnummerId": "7f03464b-d568-40ef-b040-be798f0e2e44"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95ed-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 27, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7645-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95ee-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 29, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7646-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95ef-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 31A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7647-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f0-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 31B, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7648-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f1-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 31C, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7649-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7d20bb72-dde6-4901-8066-f9ed970f6a0f",
+					"titel": "Rantzausmindevej 31D, 5700 Svendborg",
+					"husnummerId": "bdc91885-4fbb-4aef-98ec-33f63478a0c0"
+				},
+				{
+					"type": "adresse",
+					"id": "d66ab8b9-be5d-4039-a491-87e94a7f47dc",
+					"titel": "Rantzausmindevej 31E, 5700 Svendborg",
+					"husnummerId": "0a3f508a-764a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f2-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 33, 5700 Svendborg",
+					"husnummerId": "0a3f508a-764b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f3-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 35A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-764c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f4-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 35B, 5700 Svendborg",
+					"husnummerId": "0a3f508a-764d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f5-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 35C, 5700 Svendborg",
+					"husnummerId": "0a3f508a-764e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f6-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 37A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-764f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f7-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 37B, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7650-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f8-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 37C, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7651-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95f9-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 41, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7652-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95fa-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 45, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7653-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95fb-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 47, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7654-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95fc-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 49, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7655-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95fd-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 51, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7656-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95fe-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 53, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7657-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-95ff-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 57, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7658-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9600-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 59, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7659-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508a-765b-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 67, 5700 Svendborg",
+					"vejnavn": "Rantzausmindevej",
+					"husnummer": "67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9604-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 69, 5700 Svendborg",
+					"husnummerId": "0a3f508a-765c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9605-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 71, 5700 Svendborg",
+					"husnummerId": "0a3f508a-765d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "6fa3cf76-c00f-4d60-ac27-5494660ee20e",
+					"titel": "Rantzausmindevej 77, Egense, 5700 Svendborg",
+					"husnummerId": "ce55b816-e6a4-4f5e-a546-9e55c722fc29"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9606-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 80, 5700 Svendborg",
+					"husnummerId": "0a3f508a-765e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9607-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 83, 5700 Svendborg",
+					"husnummerId": "0a3f508a-765f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9608-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 84, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7660-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9609-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 85, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7661-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a390f8c4-9f36-45aa-a8ee-fa57ef215fc9",
+					"titel": "Rantzausmindevej 85C, 5700 Svendborg",
+					"husnummerId": "0a8bfb5e-adf9-400b-997d-2ed9a6de88d6"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-960c-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 86, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7665-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-960d-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 87, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7666-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-960e-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 88, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7667-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508a-7668-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 90, 5700 Svendborg",
+					"vejnavn": "Rantzausmindevej",
+					"husnummer": "90"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-960f-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 91, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7669-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "5074be0a-e926-478c-b3c7-da2ffb93a3e2",
+					"titel": "Rantzausmindevej 92, 5700 Svendborg",
+					"husnummerId": "70f8f976-3784-03b7-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9610-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 94, 5700 Svendborg",
+					"husnummerId": "0a3f508a-766a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9611-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 95, 5700 Svendborg",
+					"husnummerId": "0a3f508a-766b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "a622b1e1-b330-473b-b187-1d61f2cebe80",
+					"titel": "Rantzausmindevej 95A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-766c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9612-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 96, 5700 Svendborg",
+					"husnummerId": "0a3f508a-766d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9613-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 98, 5700 Svendborg",
+					"husnummerId": "0a3f508a-766e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9614-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 100, 5700 Svendborg",
+					"husnummerId": "0a3f508a-766f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9615-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 101, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7670-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9616-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 102, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7671-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9617-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 105, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7672-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9618-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 106, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7673-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9619-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 109, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7674-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-961b-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 111A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7676-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "70a02049-5f6a-44d4-b7d4-f7d9279e9833",
+					"titel": "Rantzausmindevej 111B, 5700 Svendborg",
+					"husnummerId": "461b7af3-5f5b-48fb-aa4f-22ffa9744bf6"
+				},
+				{
+					"type": "adresse",
+					"id": "f6be5c2a-80d1-4f53-b640-54feb587ee55",
+					"titel": "Rantzausmindevej 111C, 5700 Svendborg",
+					"husnummerId": "0a9e9bee-b2bc-48aa-a40d-6f4668834933"
+				},
+				{
+					"type": "adresse",
+					"id": "b78c5466-c30f-46da-84ca-5851fb31d93b",
+					"titel": "Rantzausmindevej 112, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7677-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-961c-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 113, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7678-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-961d-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 114, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7679-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-961e-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 115, 5700 Svendborg",
+					"husnummerId": "0a3f508a-767a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-961f-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 117, 5700 Svendborg",
+					"husnummerId": "0a3f508a-767b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9620-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 118, 5700 Svendborg",
+					"husnummerId": "0a3f508a-767c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9621-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 119, 5700 Svendborg",
+					"husnummerId": "0a3f508a-767d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9622-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 120, 5700 Svendborg",
+					"husnummerId": "0a3f508a-767e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9623-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 121, 5700 Svendborg",
+					"husnummerId": "0a3f508a-767f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9624-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 122, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7680-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9625-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 123, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7681-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "df065789-a7fc-41be-af94-e9548c1120e2",
+					"titel": "Rantzausmindevej 123A, 5700 Svendborg",
+					"husnummerId": "afd1b948-cae6-4e20-9f10-b72e287adf0c"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9626-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 125, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7682-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9627-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 126, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7683-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "82962c0e-005b-4869-8cc5-a7358b895e20",
+					"titel": "Rantzausmindevej 127, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7684-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9628-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 128, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7685-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9629-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 128A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7686-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-962a-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 129, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7687-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-962b-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 130, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7688-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "e191c057-d8aa-40d5-815b-95fde93fa504",
+					"titel": "Rantzausmindevej 131, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7689-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3c4e9ad1-12d4-43f0-a4d6-e37d0c07f962",
+					"titel": "Rantzausmindevej 133, 5700 Svendborg",
+					"husnummerId": "0a3f508a-768b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "3e7c85ea-d817-3e52-e044-0003ba298018",
+					"titel": "Rantzausmindevej 134, 5700 Svendborg",
+					"husnummerId": "3e704ca9-ab2b-3598-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-962f-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 136, 5700 Svendborg",
+					"husnummerId": "0a3f508a-768f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "d57b1755-27bc-491c-88a2-12e1a61b7889",
+					"titel": "Rantzausmindevej 139, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7690-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "8bac3390-40f8-4f74-87aa-2c2a52235bac",
+					"titel": "Rantzausmindevej 139A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7691-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "db7243a3-6ca3-4ab2-b279-e5459e87c011",
+					"titel": "Rantzausmindevej 139B, 5700 Svendborg",
+					"husnummerId": "eeea157d-2961-4b6c-a3cf-a8b7a152165c"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9630-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 140, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7692-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "7115abb4-599c-6bfc-e044-00144f3ead67",
+					"titel": "Rantzausmindevej 141A, 5700 Svendborg",
+					"husnummerId": "70f8f976-3785-03b7-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "8bd73db1-66f9-4f6b-864f-0d373df77f00",
+					"titel": "Rantzausmindevej 141B, 5700 Svendborg",
+					"husnummerId": "70f8f976-3786-03b7-e044-00144f3ead67"
+				},
+				{
+					"type": "adresse",
+					"id": "e1e7428a-0455-4ff2-9eef-9aa4249a2cb5",
+					"titel": "Rantzausmindevej 143, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7694-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9632-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 144, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7695-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9633-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 145, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7696-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b5-9634-32b8-e044-0003ba298018",
+					"titel": "Rantzausmindevej 146A, 5700 Svendborg",
+					"husnummerId": "0a3f508a-7697-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ramtenvej 59C, Mogenstrup, 8581 Nimtofte": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "99073b60-d835-47d9-a2bb-7868bc82db2a",
+					"titel": "Ramtenvej 59C, Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "7f6be543-ca5e-45fa-b1cb-776517008239"
+				},
+				{
+					"type": "adresse",
+					"id": "4e869256-1f9d-40c5-bae4-e9f7ca24cecc",
+					"titel": "Ramtenvej 59C, 1., Mogenstrup, 8581 Nimtofte",
+					"husnummerId": "7f6be543-ca5e-45fa-b1cb-776517008239"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rams Tværvej 3A, 8800 Viborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "957be6f7-73fb-4e1a-a24d-0eee4b304ee6",
+					"titel": "Rams Tværvej 3A, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "6416223e-2c5b-45c6-8690-e8f98def6fd0",
+					"titel": "Rams Tværvej 3A, st. 1, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "66f5716d-0d36-45a7-b92f-4e24c814e917",
+					"titel": "Rams Tværvej 3A, st. 2, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "dff34812-3510-4b72-9e07-c5dcac49a5e8",
+					"titel": "Rams Tværvej 3A, st. 3, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "859091ce-983b-4ca5-9a09-b97667cbe95b",
+					"titel": "Rams Tværvej 3A, st. 4, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "c439519c-0d06-42d7-b921-49dce097491f",
+					"titel": "Rams Tværvej 3A, 1. 1, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "ac616d40-fa21-42f7-8489-a527a230460e",
+					"titel": "Rams Tværvej 3A, 1. 2, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "07f4a5d4-71cf-446f-9af3-1eda9f139a98",
+					"titel": "Rams Tværvej 3A, 1. 3, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "9c3ad115-79ea-4f9b-94c4-4a4bbcdeb504",
+					"titel": "Rams Tværvej 3A, 1. 4, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "37d7638f-35ad-4eac-a88f-b98de64d2f6f",
+					"titel": "Rams Tværvej 3A, 2. 1, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "bff792a2-0746-4157-aa3e-c7faee93abb4",
+					"titel": "Rams Tværvej 3A, 2. 2, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "8af41125-c2ca-48f0-8f64-c205f73b4b16",
+					"titel": "Rams Tværvej 3A, 2. 3, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				},
+				{
+					"type": "adresse",
+					"id": "ac4ecd23-6508-40c7-a9b6-8d8079791707",
+					"titel": "Rams Tværvej 3A, 2. 4, 8800 Viborg",
+					"husnummerId": "f4658192-6ad5-4b30-bca2-9d7c4ac80f24"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Ramtenvej 1, 8581 Nimtofte": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6061-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 1, st., 8581 Nimtofte",
+					"husnummerId": "0a3f5094-27fe-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c0-6062-32b8-e044-0003ba298018",
+					"titel": "Ramtenvej 1, 1., 8581 Nimtofte",
+					"husnummerId": "0a3f5094-27fe-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rams Tværvej 1, 8800 Viborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8d8e-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 1, st. tv, 8800 Viborg",
+					"husnummerId": "0a3f5098-eccf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8d8d-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 1, st. th, 8800 Viborg",
+					"husnummerId": "0a3f5098-eccf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8d90-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 1, 1. tv, 8800 Viborg",
+					"husnummerId": "0a3f5098-eccf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8d8f-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 1, 1. th, 8800 Viborg",
+					"husnummerId": "0a3f5098-eccf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8d92-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 1, 2. tv, 8800 Viborg",
+					"husnummerId": "0a3f5098-eccf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8d91-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 1, 2. th, 8800 Viborg",
+					"husnummerId": "0a3f5098-eccf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8d94-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 1, 3. tv, 8800 Viborg",
+					"husnummerId": "0a3f5098-eccf-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8d93-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 1, 3. th, 8800 Viborg",
+					"husnummerId": "0a3f5098-eccf-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rams Tværvej 3, 8800 Viborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50c6-8d95-32b8-e044-0003ba298018",
+					"titel": "Rams Tværvej 3, st., 8800 Viborg",
+					"husnummerId": "0a3f5098-ecd0-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=rantzausgade": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"id": "a44b5f2d-3905-4291-b4e8-0a9574bd57a8",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausgade 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"postnr": "2200",
+					"postdistrikt": "København N",
+					"antal_husnumre": 98
+				},
+				{
+					"id": "c15c89e3-728b-4a9b-86fd-83584ba0671a",
+					"type": "navngivenvejpostnummer",
+					"titel": "Rantzausgade 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"postnr": "9000",
+					"postdistrikt": "Aalborg",
+					"antal_husnumre": 53
+				}
+			]
+		},
+		"/adresser/soeg?tekst=rantzausgade 1": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df24-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 1, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df2d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 10, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "10"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df2e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 11, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df30-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 12, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "12"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df31-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df32-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 16, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "adresse",
+					"id": "60039af1-d2a9-4695-9a41-d41195b25985",
+					"titel": "Rantzausgade 17, 2200 København N",
+					"husnummerId": "0a3f507a-df33-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df34-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 18, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e3b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 1A, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1A"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e3c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 1B, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e3d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 1C, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1C"
+				},
+				{
+					"type": "husnummer",
+					"id": "99748fa2-d0fd-475d-894d-62a4a0560dde",
+					"titel": "Rantzausgade 1D, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "1D"
+				},
+				{
+					"type": "adresse",
+					"id": "33655216-9eb0-424e-aaac-93011a816e88",
+					"titel": "Rantzausgade 1E, 9000 Aalborg",
+					"husnummerId": "a3fd7f56-fc76-49db-b469-40eb60ed0033"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e47-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 11, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "11"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e48-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 13, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "13"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e49-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "adresse",
+					"id": "03fa47cf-1b7d-43bf-b453-17e9c81ef971",
+					"titel": "Rantzausgade 15, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e4a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e4b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 16, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "16"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e4c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 17, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "17"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e4e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 18, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "18"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e50-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df2f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 11A, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "11A"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3aaf-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19A, 2200 København N",
+					"husnummerId": "0a3f507a-df35-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df36-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19B, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19B"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df37-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19C, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19C"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e4d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 17A, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "17A"
+				},
+				{
+					"type": "adresse",
+					"id": "f6a4601e-b570-4cf2-a209-f3a6e9fc053d",
+					"titel": "Rantzausgade 18A, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e4f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e51-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 19A, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19A"
+				},
+				{
+					"type": "husnummer",
+					"id": "86cc3df2-fe13-42f8-9d9c-ec30be9f4e56",
+					"titel": "Rantzausgade 19B, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "19B"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=rantzausgade 14": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df31-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e49-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=rantzausgade 14 4": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df31-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e49-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausgade 14, 2200 København N": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3a95-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, kl., 2200 København N",
+					"husnummerId": "0a3f507a-df31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3a96-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, st., 2200 København N",
+					"husnummerId": "0a3f507a-df31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3a97-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 1., 2200 København N",
+					"husnummerId": "0a3f507a-df31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3a98-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 2., 2200 København N",
+					"husnummerId": "0a3f507a-df31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3a99-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 3., 2200 København N",
+					"husnummerId": "0a3f507a-df31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3a9a-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 4., 2200 København N",
+					"husnummerId": "0a3f507a-df31-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50a0-3a9b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 5., 2200 København N",
+					"husnummerId": "0a3f507a-df31-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausgade 14, 9000 Aalborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-8a1a-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, st. tv, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-8a19-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, st. th, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-8a1c-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 1. tv, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-8a1b-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 1. th, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-8a1e-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 2. tv, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-8a1d-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 2. th, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-8a20-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 3. tv, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-8a1f-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 3. th, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "77310613-34bb-442c-8f42-ddcc8906556b",
+					"titel": "Rantzausgade 14, 4. tv, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "bf8079cc-3c63-4e9b-aa85-9f0286a4b3a0",
+					"titel": "Rantzausgade 14, 4. th, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50ca-8a21-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 4., 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=rantzausgade 14 4 th": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "husnummer",
+					"id": "0a3f507a-df31-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 2200 København N",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f509c-9e49-32b8-e044-0003ba298018",
+					"titel": "Rantzausgade 14, 9000 Aalborg",
+					"vejnavn": "Rantzausgade",
+					"husnummer": "14"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Rantzausgade 14, 4. th, 9000 Aalborg": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "bf8079cc-3c63-4e9b-aa85-9f0286a4b3a0",
+					"titel": "Rantzausgade 14, 4. th, 9000 Aalborg",
+					"husnummerId": "0a3f509c-9e49-32b8-e044-0003ba298018"
+				}
+			]
+		}
+	}
+}

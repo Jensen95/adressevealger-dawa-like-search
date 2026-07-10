@@ -1,0 +1,898 @@
+{
+	"tekst": "Tranderupgade 65, 5970 Ærøskøbing",
+	"dawaId": "005671b9-0611-422a-81e2-698850edd6f5",
+	"recordedAt": "2026-07-09T20:38:33.459Z",
+	"stages": [
+		{
+			"stage": "tran",
+			"dawa": [
+				"Tranhøj 2A, Tranum, 9460 Brovst",
+				"Transvej 71, Trans, 7620 Lemvig",
+				"Tranen 9, 6430 Nordborg",
+				"Tranen 10, 6430 Nordborg",
+				"Tranen 15, 6430 Nordborg",
+				"Tranen 16, 6430 Nordborg",
+				"Tranen 22, 6430 Nordborg",
+				"Tranen 23, 6430 Nordborg",
+				"Tranen 25, 6430 Nordborg",
+				"Tranen 27, 6430 Nordborg"
+			]
+		},
+		{
+			"stage": "tranderupgade",
+			"dawa": [
+				"Tranderupgade 1, 5970 Ærøskøbing",
+				"Tranderupgade 3, 5970 Ærøskøbing",
+				"Tranderupgade 5, 5970 Ærøskøbing",
+				"Tranderupgade 7, 5970 Ærøskøbing",
+				"Tranderupgade 8, 5970 Ærøskøbing",
+				"Tranderupgade 9, 5970 Ærøskøbing",
+				"Tranderupgade 3A, 5970 Ærøskøbing",
+				"Tranderupgade 10, 5970 Ærøskøbing",
+				"Tranderupgade 12, 5970 Ærøskøbing",
+				"Tranderupgade 13, 5970 Ærøskøbing"
+			]
+		},
+		{
+			"stage": "tranderupgade 6",
+			"dawa": [
+				"Tranderupgade 61, 5970 Ærøskøbing",
+				"Tranderupgade 63, 5970 Ærøskøbing",
+				"Tranderupgade 65, 5970 Ærøskøbing"
+			]
+		},
+		{
+			"stage": "tranderupgade 65",
+			"dawa": [
+				"Tranderupgade 65, 5970 Ærøskøbing"
+			]
+		},
+		{
+			"stage": "Tranderupgade 65, 5970 Ærøskøbing",
+			"dawa": [
+				"Tranderupgade 65, 5970 Ærøskøbing"
+			]
+		}
+	],
+	"adressevaelger": {
+		"/adresser/soeg?tekst=tran": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "vejnavn",
+					"titel": "Tranbergvænget",
+					"vejNavn": "Tranbergvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranbjerg Hovedgade",
+					"vejNavn": "Tranbjerg Hovedgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranbjerg Midtpunkt",
+					"vejNavn": "Tranbjerg Midtpunkt"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranbjerg Stationsvej",
+					"vejNavn": "Tranbjerg Stationsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranbjerg Tværvej",
+					"vejNavn": "Tranbjerg Tværvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranbjerggårdsparken",
+					"vejNavn": "Tranbjerggårdsparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranbjerggårdsvej",
+					"vejNavn": "Tranbjerggårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranbjergvej",
+					"vejNavn": "Tranbjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranderup Nørremark",
+					"vejNavn": "Tranderup Nørremark"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranderupgade",
+					"vejNavn": "Tranderupgade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranderupmark",
+					"vejNavn": "Tranderupmark"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranderupvej",
+					"vejNavn": "Tranderupvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trandumvej",
+					"vejNavn": "Trandumvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Traneagervej",
+					"vejNavn": "Traneagervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebakken",
+					"vejNavn": "Tranebakken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebanken",
+					"vejNavn": "Tranebanken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebjerget",
+					"vejNavn": "Tranebjerget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebjergvej",
+					"vejNavn": "Tranebjergvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Traneborgvej",
+					"vejNavn": "Traneborgvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebovej",
+					"vejNavn": "Tranebovej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebæksvej",
+					"vejNavn": "Tranebæksvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebær Alle",
+					"vejNavn": "Tranebær Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebærhaven",
+					"vejNavn": "Tranebærhaven"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebærkvisten",
+					"vejNavn": "Tranebærkvisten"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebærkæret",
+					"vejNavn": "Tranebærkæret"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebærparken",
+					"vejNavn": "Tranebærparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebærstien",
+					"vejNavn": "Tranebærstien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebærvej",
+					"vejNavn": "Tranebærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebærvænge",
+					"vejNavn": "Tranebærvænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranebærvænget",
+					"vejNavn": "Tranebærvænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranedalen",
+					"vejNavn": "Tranedalen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranegilde Bygade",
+					"vejNavn": "Tranegilde Bygade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranegilde Strandvej",
+					"vejNavn": "Tranegilde Strandvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranegårdsvej",
+					"vejNavn": "Tranegårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranehalsen",
+					"vejNavn": "Tranehalsen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranehavegård",
+					"vejNavn": "Tranehavegård"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranehaven",
+					"vejNavn": "Tranehaven"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranehavevej",
+					"vejNavn": "Tranehavevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Traneholmen",
+					"vejNavn": "Traneholmen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Traneholmvej",
+					"vejNavn": "Traneholmvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranehusene",
+					"vejNavn": "Tranehusene"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranehusevej",
+					"vejNavn": "Tranehusevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranehusvej",
+					"vejNavn": "Tranehusvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranehøj",
+					"vejNavn": "Tranehøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranehøjen",
+					"vejNavn": "Tranehøjen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranekjærvej",
+					"vejNavn": "Tranekjærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranekær",
+					"vejNavn": "Tranekær"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranekæret",
+					"vejNavn": "Tranekæret"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranekærparken",
+					"vejNavn": "Tranekærparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranekærsvej",
+					"vejNavn": "Tranekærsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranekærvej",
+					"vejNavn": "Tranekærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranelunden",
+					"vejNavn": "Tranelunden"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranemarken",
+					"vejNavn": "Tranemarken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranemosen",
+					"vejNavn": "Tranemosen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranemosevej",
+					"vejNavn": "Tranemosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranemosevænget",
+					"vejNavn": "Tranemosevænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranen",
+					"vejNavn": "Tranen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Traneparken",
+					"vejNavn": "Traneparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranestien",
+					"vejNavn": "Tranestien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranevang",
+					"vejNavn": "Tranevang"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranevej",
+					"vejNavn": "Tranevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranevænget",
+					"vejNavn": "Tranevænget"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trangbæk",
+					"vejNavn": "Trangbæk"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trangbækvej",
+					"vejNavn": "Trangbækvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trangetvej",
+					"vejNavn": "Trangetvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranggade",
+					"vejNavn": "Tranggade"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trangravsvej",
+					"vejNavn": "Trangravsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trangstræde",
+					"vejNavn": "Trangstræde"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trangtrappevej",
+					"vejNavn": "Trangtrappevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranholmsstien",
+					"vejNavn": "Tranholmsstien"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranholmsvej",
+					"vejNavn": "Tranholmsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranholmvej",
+					"vejNavn": "Tranholmvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranhøj",
+					"vejNavn": "Tranhøj"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranhøjvej",
+					"vejNavn": "Tranhøjvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trankær Hole",
+					"vejNavn": "Trankær Hole"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trankær Mosevej",
+					"vejNavn": "Trankær Mosevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trankær Vænge",
+					"vejNavn": "Trankær Vænge"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trankærgårdsvej",
+					"vejNavn": "Trankærgårdsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trankærvej",
+					"vejNavn": "Trankærvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranmose",
+					"vejNavn": "Tranmose"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trannisvej",
+					"vejNavn": "Trannisvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transbjergholt",
+					"vejNavn": "Transbjergholt"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transbølvej",
+					"vejNavn": "Transbølvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transformervej",
+					"vejNavn": "Transformervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transiggårdvej",
+					"vejNavn": "Transiggårdvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transitgården",
+					"vejNavn": "Transitgården"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transitvej",
+					"vejNavn": "Transitvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transportbuen",
+					"vejNavn": "Transportbuen"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transportcenter Alle",
+					"vejNavn": "Transportcenter Alle"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transportcentervej",
+					"vejNavn": "Transportcentervej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transportvej",
+					"vejNavn": "Transportvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Transvej",
+					"vejNavn": "Transvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranum Engevej",
+					"vejNavn": "Tranum Engevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranum Klit Skolevej",
+					"vejNavn": "Tranum Klit Skolevej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranumparken",
+					"vejNavn": "Tranumparken"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranumvej",
+					"vejNavn": "Tranumvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Tranåsvej",
+					"vejNavn": "Tranåsvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Thranesvej",
+					"vejNavn": "Thranesvej"
+				},
+				{
+					"type": "vejnavn",
+					"titel": "Trampelmosevej",
+					"vejNavn": "Trampelmosevej"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=tranderupgade": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1345-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 1, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f239-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "b05863d3-0979-48dc-80e1-6f6d572c76ba",
+					"titel": "Tranderupgade 2, 5970 Ærøskøbing",
+					"vejnavn": "Tranderupgade",
+					"husnummer": "2"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1346-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 3, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f23a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "16d19f5b-ea40-16bd-e044-0003ba298018",
+					"titel": "Tranderupgade 3A, 5970 Ærøskøbing",
+					"husnummerId": "16bed59f-9e54-1efc-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1347-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 5, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f23b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1348-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 7, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f23c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1349-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 8, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f23d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-134a-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 9, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f23e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-134b-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 10, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f23f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-134c-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 12, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f240-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-134d-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 13, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f241-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-134e-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 14, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f242-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-134f-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 15, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f243-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1350-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 16, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f244-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1351-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 18, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f245-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1352-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 19, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f246-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1353-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 21, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f247-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1354-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 23, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f248-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1355-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 24, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f249-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1356-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 25, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f24a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1357-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 26, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f24b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1358-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 27, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f24c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1359-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 28, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f24d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-135a-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 29, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f24e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-135b-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 30, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f24f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1360-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 33, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f251-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1361-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 34, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f252-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1362-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 35, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f253-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1363-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 36, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f254-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1364-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 37, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f255-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1365-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 39, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f256-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0cd9b456-326e-48e8-bb85-9f1322015199",
+					"titel": "Tranderupgade 39A, 5970 Ærøskøbing",
+					"husnummerId": "ae30610d-ca68-4c1b-bab1-6571de13ff56"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1366-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 41, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f257-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1367-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 43, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f258-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1368-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 45, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f259-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1369-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 47, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f25a-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-136a-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 49, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f25b-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-136b-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 50, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f25c-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-136c-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 51, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f25d-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-136d-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 53, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f25e-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-136e-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 55, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f25f-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-136f-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 56, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f260-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1370-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 57, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f261-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "husnummer",
+					"id": "0a3f508a-f262-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 59, 5970 Ærøskøbing",
+					"vejnavn": "Tranderupgade",
+					"husnummer": "59"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1372-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 61, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f263-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1373-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 63, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f264-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "005671b9-0611-422a-81e2-698850edd6f5",
+					"titel": "Tranderupgade 65, 5970 Ærøskøbing",
+					"husnummerId": "d6511adf-b3b4-4173-9541-7bf7bff6147a"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=tranderupgade 6": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1372-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 61, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f263-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "0a3f50b6-1373-32b8-e044-0003ba298018",
+					"titel": "Tranderupgade 63, 5970 Ærøskøbing",
+					"husnummerId": "0a3f508a-f264-32b8-e044-0003ba298018"
+				},
+				{
+					"type": "adresse",
+					"id": "005671b9-0611-422a-81e2-698850edd6f5",
+					"titel": "Tranderupgade 65, 5970 Ærøskøbing",
+					"husnummerId": "d6511adf-b3b4-4173-9541-7bf7bff6147a"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=tranderupgade 65": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "005671b9-0611-422a-81e2-698850edd6f5",
+					"titel": "Tranderupgade 65, 5970 Ærøskøbing",
+					"husnummerId": "d6511adf-b3b4-4173-9541-7bf7bff6147a"
+				}
+			]
+		},
+		"/adresser/soeg?tekst=Tranderupgade 65, 5970 Ærøskøbing": {
+			"status": "ok",
+			"beskrivelse": "",
+			"fund": [
+				{
+					"type": "adresse",
+					"id": "005671b9-0611-422a-81e2-698850edd6f5",
+					"titel": "Tranderupgade 65, 5970 Ærøskøbing",
+					"husnummerId": "d6511adf-b3b4-4173-9541-7bf7bff6147a"
+				}
+			]
+		}
+	}
+}
