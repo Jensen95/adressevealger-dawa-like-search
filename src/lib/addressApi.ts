@@ -104,6 +104,28 @@ export interface AddressSearchClient {
 
 const MAX_CACHE_ENTRIES = 100
 
+// The /adresser/soeg endpoint caps its response at `maksimum` results (API
+// default 100, hard max 200). We only ever display a handful, but ranking
+// needs a full candidate pool, so the initial/fallback searches and
+// husnummer→unit expansions keep the default-sized pool.
+const SEARCH_RESULT_MAX = 100
+// Street-level expansions only need each postal area's *lowest* house numbers
+// (the same-street tie-break and DAWA both surface house number 1-6 first),
+// so their many payloads are right-sized well below the default — we never
+// look past the first handful of an expansion's ascending house-number list.
+const STREET_EXPANSION_RESULT_MAX = 30
+// A street-only query (e.g. "Askevænget") returns one navngivenvejpostnummer
+// per postal area the street exists in — 100-175 entries for common names —
+// and the pipeline fires one "<street> <postnr>" expansion per entry, which
+// is what makes the first keystrokes of a typing session cost dozens of
+// requests. Cap the fan-out to the first N entries (the API returns them in
+// postal-code order). 20 is the smallest cap that still preserves DAWA parity
+// for the worst-spread street in the recorded comparison data: Askevænget
+// exists in 19 postal areas (2830→7100) and its DAWA-top house-number-1
+// candidates include the very last one (7100), so any cap below 19 would
+// drop them.
+const MAX_STREET_EXPANSIONS = 20
+
 function normalizeQuery(term: string): string {
   return term.trim().replaceAll(/\s+/g, ' ').toLowerCase()
 }
@@ -181,12 +203,16 @@ export function createAddressSearch(
   // malformed body — callers handle caching/errors. Takes no AbortSignal: the
   // promise is shared across callers via the cache below, so one caller
   // aborting must never affect another caller awaiting the same in-flight
-  // request.
+  // request. `maksimum` right-sizes the response (see the constants above).
   async function fetchSearchResults(
     addressTerm: string,
+    maksimum: number,
   ): Promise<AddressSearchResult[]> {
     const response = await fetch(
-      buildUrl('/adresser/soeg', { tekst: addressTerm }),
+      buildUrl('/adresser/soeg', {
+        tekst: addressTerm,
+        maksimum: String(maksimum),
+      }),
     )
     if (!response.ok) {
       throw new Error(`Address search failed with status ${response.status}`)
@@ -202,9 +228,14 @@ export function createAddressSearch(
   // concurrent/duplicate lookups for the same text share a single request.
   const searchCache = new Map<string, Promise<AddressSearchResult[]>>()
 
-  function cachedSearch(addressTerm: string): Promise<AddressSearchResult[]> {
+  function cachedSearch(
+    addressTerm: string,
+    maksimum: number,
+  ): Promise<AddressSearchResult[]> {
     const trimmed = addressTerm.trim()
-    const key = normalizeQuery(trimmed)
+    // `maksimum` is part of the request, so it must key the cache too — the
+    // same term fetched with a smaller cap returns a different response.
+    const key = `max${maksimum}:${normalizeQuery(trimmed)}`
     const cached = searchCache.get(key)
     if (cached) {
       // Refresh recency for the simple LRU below.
@@ -213,7 +244,7 @@ export function createAddressSearch(
       return cached
     }
 
-    const promise = retryOnce(() => fetchSearchResults(trimmed))
+    const promise = retryOnce(() => fetchSearchResults(trimmed, maksimum))
     promise.catch(() => {
       // Never cache a failed lookup.
       searchCache.delete(key)
@@ -235,7 +266,7 @@ export function createAddressSearch(
     if (!addressTerm?.trim()) return []
 
     try {
-      let initialResults = await cachedSearch(addressTerm)
+      let initialResults = await cachedSearch(addressTerm, SEARCH_RESULT_MAX)
 
       // The API treats every word before a house number as part of the street
       // name, so a street + city query ("Askevænget Vejle") matches no street
@@ -258,7 +289,7 @@ export function createAddressSearch(
         }
         if (truncations.length > 0) {
           const fallbackResults = await Promise.allSettled(
-            truncations.map((term) => cachedSearch(term)),
+            truncations.map((term) => cachedSearch(term, SEARCH_RESULT_MAX)),
           )
           // truncations is ordered longest-first, so the first non-empty
           // result is the most specific match — same choice the old
@@ -287,7 +318,9 @@ export function createAddressSearch(
       ): Promise<AddressSearchResult[][]> =>
         expandable.length > 0
           ? allFulfilled(
-              expandable.map((candidate) => cachedSearch(candidate.titel)),
+              expandable.map((candidate) =>
+                cachedSearch(candidate.titel, SEARCH_RESULT_MAX),
+              ),
             )
           : Promise.resolve([])
 
@@ -299,15 +332,23 @@ export function createAddressSearch(
         // selectable addresses. Searching "<street> <postnr>" returns that
         // street's house numbers, so fetch those to show concrete addresses
         // the way the old DAWA autocomplete did.
-        const streets = initialResults.filter(
-          (found): found is NavngivenVejPostnummerSearchResult =>
-            found.type === 'navngivenvejpostnummer',
-        )
+        // The fan-out is capped: common street names exist in 100+ postal
+        // areas and expanding every one of them is what made the first
+        // keystrokes of a typing session cost dozens of requests.
+        const streets = initialResults
+          .filter(
+            (found): found is NavngivenVejPostnummerSearchResult =>
+              found.type === 'navngivenvejpostnummer',
+          )
+          .slice(0, MAX_STREET_EXPANSIONS)
         const streetExpansionsPromise =
           streets.length > 0
             ? allFulfilled(
                 streets.map((street) =>
-                  cachedSearch(`${street.vejnavn} ${street.postnr}`),
+                  cachedSearch(
+                    `${street.vejnavn} ${street.postnr}`,
+                    STREET_EXPANSION_RESULT_MAX,
+                  ),
                 ),
               )
             : Promise.resolve([])

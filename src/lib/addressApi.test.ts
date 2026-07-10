@@ -209,6 +209,91 @@ describe('search', () => {
     ])
   })
 
+  it('right-sizes responses with maksimum: 100 for candidate pools, 30 for street expansions', async () => {
+    fetchMock.mockImplementation((url: string) => {
+      const tekst = new URL(url).searchParams.get('tekst')
+      if (tekst === 'Askevænget 2830') {
+        return Promise.resolve(
+          jsonResponse([adresse('a2', 'Askevænget 2, 2830 Virum')]),
+        )
+      }
+      return Promise.resolve(
+        jsonResponse([
+          {
+            type: 'navngivenvejpostnummer',
+            id: 'nv-1',
+            titel: 'Askevænget 2830 Virum',
+            vejnavn: 'Askevænget',
+            postnr: '2830',
+            postdistrikt: 'Virum',
+            antal_husnumre: 5,
+          },
+        ]),
+      )
+    })
+    const controller = new AbortController()
+
+    await client.search(controller.signal, 'Askevænget')
+
+    const maksimumByTekst = new Map(
+      fetchMock.mock.calls.map((call) => {
+        const url = new URL(call[0] as string)
+        return [url.searchParams.get('tekst'), url.searchParams.get('maksimum')]
+      }),
+    )
+    // The initial search keeps the full candidate pool for ranking; a street
+    // expansion only ever contributes each area's lowest house numbers.
+    expect(maksimumByTekst.get('Askevænget')).toBe('100')
+    expect(maksimumByTekst.get('Askevænget 2830')).toBe('30')
+  })
+
+  it('caps the street-expansion fan-out so a common street name stays bounded', async () => {
+    // A street name that exists in 25 postal areas returns 25
+    // navngivenvejpostnummer suggestions; only the first 20 are expanded, so
+    // the whole query costs 1 initial + 20 expansion requests, not 1 + 25.
+    const streets = Array.from({ length: 25 }, (_, i) => ({
+      type: 'navngivenvejpostnummer' as const,
+      id: `nv-${i}`,
+      titel: `Fælledvej ${1000 + i} By${i}`,
+      vejnavn: 'Fælledvej',
+      postnr: String(1000 + i),
+      postdistrikt: `By${i}`,
+      antal_husnumre: 3,
+    }))
+    fetchMock.mockImplementation((url: string) => {
+      const tekst = new URL(url).searchParams.get('tekst')
+      if (tekst === 'Fælledvej') {
+        return Promise.resolve(jsonResponse(streets))
+      }
+      const match = /^Fælledvej (\d{4})$/.exec(tekst ?? '')
+      if (match) {
+        return Promise.resolve(
+          jsonResponse([
+            adresse(`a-${match[1]}`, `Fælledvej 1, ${match[1]} By`),
+          ]),
+        )
+      }
+      return Promise.resolve(jsonResponse([]))
+    })
+    const controller = new AbortController()
+
+    const result = await client.search(controller.signal, 'Fælledvej')
+
+    // 1 initial + 20 capped expansions (postal-code order, i.e. the first 20).
+    expect(fetchMock).toHaveBeenCalledTimes(21)
+    const expandedPostnrs = fetchMock.mock.calls
+      .map((call) => {
+        const tekst = new URL(call[0] as string).searchParams.get('tekst')
+        return /^Fælledvej (\d{4})$/.exec(tekst ?? '')?.[1]
+      })
+      .filter((postnr): postnr is string => postnr !== undefined)
+    expect(expandedPostnrs).toHaveLength(20)
+    expect(expandedPostnrs[0]).toBe('1000')
+    expect(expandedPostnrs.at(-1)).toBe('1019')
+    // Results come back from the expanded areas (display-capped at 10).
+    expect(result).toHaveLength(10)
+  })
+
   it('drops trailing words when a query matches nothing (street + city)', async () => {
     fetchMock.mockImplementation((url: string) => {
       const tekst = new URL(url).searchParams.get('tekst')
