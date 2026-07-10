@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Benchmark — adressevaelger-enhanced</title>
+    <meta
+      name="description"
+      content="Hourly latency benchmark: adressevaelger.dk (raw + enhanced pipeline) vs DAWA, with history."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site">
+      <nav>
+        <a class="brand" href="./index.html">adressevaelger-enhanced</a>
+        <a href="./index.html">Demo</a>
+        <a href="./docs.html">Docs</a>
+        <a href="./benchmark.html" aria-current="page">Benchmark</a>
+        <a href="https://github.com/Jensen95/adressevaelger-enhanced">GitHub</a>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Benchmark dashboard</h1>
+      <p class="lede">
+        Hourly latency of DAWA vs adressevaelger.dk (raw single search and the
+        full enhanced pipeline). See
+        <a href="./docs.html#methodology">methodology</a>.
+      </p>
+
+      <p class="notice">
+        DAWA (<code>api.dataforsyningen.dk</code>) is scheduled to shut down on
+        <strong>2026-08-17</strong>. After that its series is expected to show
+        failures — the history is designed to capture the transition.
+      </p>
+
+      <p id="status" style="color: var(--muted)">Loading benchmark history…</p>
+
+      <section id="dashboard" hidden>
+        <h2>Median latency (p50) over time</h2>
+        <div class="chart-wrap"><canvas id="latencyChart"></canvas></div>
+
+        <h2>Requests per query (enhanced pipeline)</h2>
+        <div class="chart-wrap"><canvas id="requestsChart"></canvas></div>
+
+        <h2>Latest run</h2>
+        <p id="latestMeta" style="color: var(--muted)"></p>
+        <table>
+          <thead>
+            <tr>
+              <th>Scenario</th>
+              <th>p50 (ms)</th>
+              <th>mean (ms)</th>
+              <th>mean requests</th>
+              <th>failures</th>
+            </tr>
+          </thead>
+          <tbody id="latestBody"></tbody>
+        </table>
+
+        <h3 style="margin-top: 2rem">Latest per-query latency</h3>
+        <table>
+          <thead>
+            <tr>
+              <th>Query</th>
+              <th>DAWA</th>
+              <th>Raw</th>
+              <th>Full</th>
+              <th>Full requests</th>
+            </tr>
+          </thead>
+          <tbody id="perQueryBody"></tbody>
+        </table>
+      </section>
+    </main>
+
+    <footer class="site">
+      MIT © 2026 Morten Jensen ·
+      <a href="https://github.com/Jensen95/adressevaelger-enhanced"
+        >github.com/Jensen95/adressevaelger-enhanced</a
+      >
+    </footer>
+
+    <script type="module" src="./benchmark.ts"></script>
+  </body>
+</html>

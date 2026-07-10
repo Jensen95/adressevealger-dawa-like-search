@@ -1,0 +1,330 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Docs — adressevaelger-enhanced</title>
+    <meta
+      name="description"
+      content="Reference documentation for the adressevaelger-enhanced web component and headless search library."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site">
+      <nav>
+        <a class="brand" href="./index.html">adressevaelger-enhanced</a>
+        <a href="./index.html">Demo</a>
+        <a href="./docs.html" aria-current="page">Docs</a>
+        <a href="./benchmark.html">Benchmark</a>
+        <a href="https://github.com/Jensen95/adressevaelger-enhanced">GitHub</a>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Documentation</h1>
+      <p class="lede">
+        Everything the library exposes: the web component, the headless client,
+        how the ranking works, and how the benchmark is measured.
+      </p>
+
+      <h2 id="component">Component reference</h2>
+      <p>
+        <code>&lt;adressevaelger-search&gt;</code> is a Lit 3 element. Import
+        <code>adressevaelger-enhanced</code> (or
+        <code>adressevaelger-enhanced/component</code>) to register it.
+      </p>
+
+      <h3>Attributes &amp; properties</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Attribute</th>
+            <th>Property</th>
+            <th>Type</th>
+            <th>Default</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>token</code></td>
+            <td><code>token</code></td>
+            <td>string</td>
+            <td>—</td>
+            <td>API access token (required to search).</td>
+          </tr>
+          <tr>
+            <td><code>base-url</code></td>
+            <td><code>baseUrl</code></td>
+            <td>string</td>
+            <td><code>https://adressevaelger.dk</code></td>
+            <td>Override the API base URL.</td>
+          </tr>
+          <tr>
+            <td><code>include-preliminary</code></td>
+            <td><code>includePreliminary</code></td>
+            <td>boolean</td>
+            <td><code>false</code></td>
+            <td>Include preliminary (not-yet-finalized) addresses.</td>
+          </tr>
+          <tr>
+            <td><code>placeholder</code></td>
+            <td><code>placeholder</code></td>
+            <td>string</td>
+            <td><code>Søg efter adresse…</code></td>
+            <td>Input placeholder text.</td>
+          </tr>
+          <tr>
+            <td><code>max-results</code></td>
+            <td><code>maxResults</code></td>
+            <td>number</td>
+            <td><code>10</code></td>
+            <td>Maximum suggestions shown.</td>
+          </tr>
+          <tr>
+            <td><code>value</code></td>
+            <td><code>value</code></td>
+            <td>string</td>
+            <td><code>''</code></td>
+            <td>Current input text (read/write).</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Events</h3>
+      <table>
+        <thead>
+          <tr>
+            <th>Event</th>
+            <th>Detail</th>
+            <th>When</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>adresse-selected</code></td>
+            <td>
+              <code
+                >{ suggestion, address: FullAddress | null, houseNumber:
+                HouseNumber | null }</code
+              >
+            </td>
+            <td>
+              A suggestion is chosen. The picked item is resolved by id
+              (cached);
+              <code>adresse</code> suggestions fill <code>address</code>,
+              <code>husnummer</code> suggestions fill <code>houseNumber</code>.
+            </td>
+          </tr>
+          <tr>
+            <td><code>adresse-input</code></td>
+            <td><code>{ value: string }</code></td>
+            <td>On every debounced (250 ms) query change.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>Styling — CSS custom properties &amp; parts</h3>
+      <p>
+        The component uses Shadow DOM. Style it from the outside with these
+        custom properties and <code>::part()</code> selectors.
+      </p>
+      <pre><code>adressevaelger-search {
+  --adressevaelger-font: system-ui, sans-serif;
+  --adressevaelger-radius: 8px;
+  --adressevaelger-border: #c4c9d4;
+  --adressevaelger-accent: #2f6feb;
+  --adressevaelger-bg: Canvas;
+  --adressevaelger-fg: CanvasText;
+}
+
+adressevaelger-search::part(input) { font-size: 1rem; }
+adressevaelger-search::part(list)  { max-height: 24rem; }
+adressevaelger-search::part(item)  { padding: 0.75rem; }</code></pre>
+
+      <h3>Accessibility</h3>
+      <ul>
+        <li>
+          Implements the
+          <a href="https://www.w3.org/WAI/ARIA/apg/patterns/combobox/"
+            >WAI-ARIA 1.2 combobox pattern</a
+          >: the input is <code>role="combobox"</code> with
+          <code>aria-autocomplete="list"</code>, <code>aria-expanded</code> and
+          <code>aria-controls</code> pointing at the popup
+          <code>role="listbox"</code>.
+        </li>
+        <li>
+          Keyboard: <kbd>↓</kbd>/<kbd>↑</kbd> move (and wrap) the active option
+          via <code>aria-activedescendant</code>, <kbd>Enter</kbd> selects,
+          <kbd>Esc</kbd> closes.
+        </li>
+        <li>
+          The matched portion of each suggestion is wrapped in
+          <code>&lt;mark&gt;</code>; a visually-hidden
+          <code>aria-live</code> region announces result counts.
+        </li>
+      </ul>
+
+      <h2 id="headless">Headless API reference</h2>
+      <p>
+        <code>createAddressSearch(options)</code> returns a client with its own
+        request caches. It has no DOM dependency — use it in any framework or on
+        the server.
+      </p>
+      <pre><code>import { createAddressSearch } from 'adressevaelger-enhanced/lib'
+
+const search = createAddressSearch({
+  token: 'your-token',        // required (>=10 chars today; see terms)
+  baseUrl: 'https://adressevaelger.dk', // optional
+  includePreliminary: false,  // optional
+  maxResults: 10,             // optional
+})
+
+const controller = new AbortController()
+const results = await search.search(controller.signal, 'askevænget 9 2 tv')
+// -&gt; AutocompletedAddress[] ranked by relevance, at most maxResults
+
+const full = await search.getAddressById(results[0].id)   // FullAddress | null
+const hn = await search.getHouseNumberById('...')          // HouseNumber | null
+search.clearCache()</code></pre>
+
+      <p>
+        Ranking utilities are exported too:
+        <code>rankAddressResults</code>, <code>scoreAddress</code>,
+        <code>tokenize</code>, <code>tokenMatchScore</code>,
+        <code>hasUnmatchedQueryTokens</code>.
+      </p>
+
+      <h3>React</h3>
+      <pre><code>import { useMemo, useState } from 'react'
+import { createAddressSearch } from 'adressevaelger-enhanced/lib'
+
+function useAddressSearch(token) {
+  const client = useMemo(() =&gt; createAddressSearch({ token }), [token])
+  const [results, setResults] = useState([])
+  async function onChange(term) {
+    const controller = new AbortController()
+    setResults(await client.search(controller.signal, term))
+  }
+  return { results, onChange }
+}</code></pre>
+
+      <h3>Vue</h3>
+      <pre><code>import { ref } from 'vue'
+import { createAddressSearch } from 'adressevaelger-enhanced/lib'
+
+const client = createAddressSearch({ token: 'your-token' })
+const results = ref([])
+async function onInput(term) {
+  const controller = new AbortController()
+  results.value = await client.search(controller.signal, term)
+}</code></pre>
+      <p>
+        Or drop the web component straight into a Vue template — custom elements
+        need
+        <a href="https://vuejs.org/guide/extras/web-components.html"
+          >compilerOptions.isCustomElement</a
+        >
+        configured.
+      </p>
+
+      <h2 id="ranking">How the ranking works</h2>
+      <p>
+        The search API only filters on street / house number / postal code and
+        orders results by <em>postal code</em>, not relevance — and it ignores
+        floor, door and city in the query. The library re-ranks every
+        candidate's display string (<code>titel</code>) against the raw query.
+      </p>
+      <ol>
+        <li>
+          <strong>Tokenize</strong> both query and titel (lowercase; commas and
+          periods split; <code>"st. tv"</code> → <code>["st","tv"]</code>).
+        </li>
+        <li>
+          <strong>Token scoring</strong> with Danish-letter folding (aa↔å, ae↔æ,
+          oe↔ø): exact = 1.0, prefix = partial credit growing with coverage. A
+          lone digit never prefix-matches a 4-digit postal code (so
+          <code>"2"</code> reads as a floor, not the start of
+          <code>2830</code>).
+        </li>
+        <li>
+          <strong>Greedy match</strong> each query token to its best unused
+          titel token; the score is average query coverage plus a small
+          titel-coverage term (favouring the shorter / more exact titel among
+          equal matches).
+        </li>
+        <li>
+          <strong>DAWA same-street tie-break</strong>: equal scores on the same
+          street sort by house number, then floor (<code
+            >kl &lt; st &lt; 1 &lt; …</code
+          >), then door (<code>tv &lt; mf &lt; th &lt; numeric</code>), then
+          postal code — so a street-only query spreads low house numbers across
+          postal areas the way DAWA did.
+        </li>
+      </ol>
+
+      <h3>Expansion pipeline</h3>
+      <pre><code>query "askevænget 9 2 tv"
+      │
+      ▼
+  /adresser/soeg  ──►  husnummer "Askevænget 9, …"   (floor/door unmatched)
+      │                        │
+      │         hasUnmatchedQueryTokens? ──► search titel ──► adresse units
+      │
+  street-only? navngivenvejpostnummer ──► search "vejnavn postnr" ──► husnumre
+      │                                          │
+      │                              (their own unmatched units expand too)
+      ▼
+  dedupe by id  ──►  rankAddressResults(query)  ──►  slice(maxResults)</code></pre>
+      <p>
+        A street + city query (<code>"askevænget vejle"</code>) that the API
+        can't match triggers a concurrent fallback: every trailing-word
+        truncation is searched in one wave and the longest match kept, then
+        ranked against the original query so the intended city surfaces first.
+        All lookups share an LRU promise cache, so duplicate and in-flight
+        requests are coalesced.
+      </p>
+
+      <h2 id="methodology">Benchmark methodology</h2>
+      <p>
+        <a href="./benchmark.html">The dashboard</a> is fed by an hourly GitHub
+        Action running <code>scripts/benchmark.mjs</code>. Each run times three
+        scenarios over a fixed ~10-query set, 3 iterations each, sequentially
+        with ~100 ms gaps to stay polite:
+      </p>
+      <ul>
+        <li>
+          <strong>dawa</strong> — one
+          <code
+            >api.dataforsyningen.dk/adresser?autocomplete=true&amp;per_side=8</code
+          >
+          request.
+        </li>
+        <li>
+          <strong>adressevaelgerRaw</strong> — one
+          <code>/adresser/soeg</code> request.
+        </li>
+        <li>
+          <strong>adressevaelgerFull</strong> — the full library pipeline (cache
+          cleared per query), counting the requests it issues.
+        </li>
+      </ul>
+      <p>
+        Each run appends one JSON line to <code>history.jsonl</code> on the
+        <code>benchmark-data</code> branch (the "database" is a git branch).
+        DAWA failures are recorded as nulls + a failure count rather than
+        crashing —
+        <strong>DAWA is scheduled to shut down on 2026-08-17</strong>, and the
+        history is meant to capture that transition.
+      </p>
+    </main>
+
+    <footer class="site">
+      MIT © 2026 Morten Jensen ·
+      <a href="https://github.com/Jensen95/adressevaelger-enhanced"
+        >github.com/Jensen95/adressevaelger-enhanced</a
+      >
+    </footer>
+  </body>
+</html>

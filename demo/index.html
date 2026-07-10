@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>adressevaelger-enhanced — Danish address picker</title>
+    <meta
+      name="description"
+      content="Enhanced Danish address picker web component for adressevaelger.dk with DAWA-style ranking, floor/door expansion, street+city fallback, typo folding and caching."
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site">
+      <nav>
+        <a class="brand" href="./index.html">adressevaelger-enhanced</a>
+        <a href="./index.html" aria-current="page">Demo</a>
+        <a href="./docs.html">Docs</a>
+        <a href="./benchmark.html">Benchmark</a>
+        <a href="https://github.com/Jensen95/adressevaelger-enhanced">GitHub</a>
+      </nav>
+    </header>
+
+    <main>
+      <span class="pill">Lit 3 · WAI-ARIA combobox · MIT</span>
+      <h1>The Danish address picker, upgraded.</h1>
+      <p class="lede">
+        A drop-in <code>&lt;adressevaelger-search&gt;</code> web component (and
+        headless library) for
+        <a href="https://adressevaelger.dk">adressevaelger.dk</a>, DAWA's
+        successor — with the relevance ranking, unit expansion and typo
+        tolerance the raw API leaves out.
+      </p>
+
+      <section class="card demo-card">
+        <h2>Try it</h2>
+        <p>
+          Type a real Danish address — e.g.
+          <code>askevænget 9 2 tv</code>, <code>brogaardsvej 102</code> (note
+          the <code>aa</code>), or a street + city like
+          <code>askevænget vejle</code>.
+        </p>
+        <adressevaelger-search
+          id="picker"
+          placeholder="Søg efter adresse…"
+        ></adressevaelger-search>
+        <p style="margin-top: 1rem">
+          <strong>Selected:</strong>
+          <span id="selected" class="result-json">— nothing yet —</span>
+        </p>
+      </section>
+
+      <section>
+        <h2>Why not just the raw API?</h2>
+        <table class="feature-table">
+          <thead>
+            <tr>
+              <th>Feature</th>
+              <th>Raw <code>/adresser/soeg</code></th>
+              <th>Official picker</th>
+              <th>This library</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>DAWA-style relevance ranking</td>
+              <td class="no">postal-code order</td>
+              <td class="no">postal-code order</td>
+              <td class="yes">✓</td>
+            </tr>
+            <tr>
+              <td>Floor/door expansion (<code>9 2 tv</code>)</td>
+              <td class="no">—</td>
+              <td class="no">—</td>
+              <td class="yes">✓</td>
+            </tr>
+            <tr>
+              <td>Street + city fallback (<code>askevænget vejle</code>)</td>
+              <td class="no">no match</td>
+              <td class="no">no match</td>
+              <td class="yes">✓</td>
+            </tr>
+            <tr>
+              <td>Danish-letter typo folding (aa↔å)</td>
+              <td class="yes">server-side</td>
+              <td class="yes">server-side</td>
+              <td class="yes">✓ client + server</td>
+            </tr>
+            <tr>
+              <td>Request caching (LRU, shared promises)</td>
+              <td class="no">—</td>
+              <td class="no">—</td>
+              <td class="yes">✓</td>
+            </tr>
+            <tr>
+              <td>One-request selection resolve</td>
+              <td class="no">—</td>
+              <td class="no">—</td>
+              <td class="yes">✓</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <section>
+        <h2>Quick start</h2>
+        <h3>Web component (npm)</h3>
+        <pre><code>npm install adressevaelger-enhanced lit</code></pre>
+        <pre><code>import 'adressevaelger-enhanced'
+
+// &lt;adressevaelger-search token="your-token"&gt;&lt;/adressevaelger-search&gt;
+document
+  .querySelector('adressevaelger-search')
+  .addEventListener('adresse-selected', (e) =&gt; {
+    console.log(e.detail.suggestion, e.detail.address)
+  })</code></pre>
+
+        <h3>Headless library</h3>
+        <pre><code>import { createAddressSearch } from 'adressevaelger-enhanced/lib'
+
+const search = createAddressSearch({ token: 'your-token' })
+const controller = new AbortController()
+const results = await search.search(controller.signal, 'askevænget 9 2 tv')
+const full = await search.getAddressById(results[0].id)</code></pre>
+
+        <p class="notice">
+          <strong>Token &amp; terms:</strong> the service needs a
+          <code>token</code> query parameter. Any string of ≥10 characters works
+          today, but that may change — request a real token from
+          <a href="mailto:support@kds.dk">support@kds.dk</a> and honour the
+          service's terms. No token ships with this library. This demo uses a
+          throwaway placeholder.
+        </p>
+      </section>
+    </main>
+
+    <footer class="site">
+      MIT © 2026 Morten Jensen ·
+      <a href="https://github.com/Jensen95/adressevaelger-enhanced"
+        >github.com/Jensen95/adressevaelger-enhanced</a
+      >
+      · Not affiliated with Klimadatastyrelsen (KDS)
+    </footer>
+
+    <script type="module" src="./index.ts"></script>
+  </body>
+</html>
