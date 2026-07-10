@@ -250,6 +250,25 @@ describe('<adressevaelger-search>', () => {
       expect(field.hasAttribute('aria-activedescendant')).toBe(false)
       expect(el.shadowRoot!.querySelectorAll('[role="option"]').length).toBe(2)
     })
+
+    it('reopens a closed listbox on ArrowUp without jumping to a suggestion', async () => {
+      const el = mountedElement()
+      await el.updateComplete
+      const field = await openWithTwoSuggestions(el)
+
+      keydown(field, 'Escape')
+      await el.updateComplete
+      expect(field.getAttribute('aria-expanded')).toBe('false')
+
+      keydown(field, 'ArrowUp')
+      await el.updateComplete
+
+      // Symmetric with ArrowDown: reopens without activating an option, rather
+      // than landing on the second-to-last one (the old -1 + -1 off-by-one).
+      expect(field.getAttribute('aria-expanded')).toBe('true')
+      expect(field.hasAttribute('aria-activedescendant')).toBe(false)
+      expect(el.shadowRoot!.querySelectorAll('[role="option"]').length).toBe(2)
+    })
   })
 
   describe('error handling', () => {

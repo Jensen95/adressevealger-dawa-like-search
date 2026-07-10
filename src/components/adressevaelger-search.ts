@@ -240,6 +240,10 @@ export class AdressevaelgerSearch extends LitElement {
         break
       case 'ArrowUp':
         event.preventDefault()
+        if (!this.open && this.suggestions.length > 0) {
+          this.open = true
+          return
+        }
         this.move(-1)
         break
       case 'Enter':
