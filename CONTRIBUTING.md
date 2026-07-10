@@ -7,7 +7,7 @@ Thanks for your interest in improving `adressevaelger-enhanced`.
 ```sh
 npm install
 npm test          # vitest, runs fully offline
-npm run lint      # eslint + prettier --check
+npm run lint      # oxlint + prettier --check
 npm run build     # builds dist/ and regenerates custom-elements.json
 npm run dev       # demo site at http://localhost:5173
 ```

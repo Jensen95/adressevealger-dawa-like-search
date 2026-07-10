@@ -28,5 +28,17 @@ export default defineConfig({
     environment: 'happy-dom',
     include: ['src/**/*.test.ts'],
     globals: true,
+    coverage: {
+      provider: 'v8',
+      reporter: ['text', 'html', 'lcov'],
+      include: ['src/**'],
+      exclude: [
+        'src/**/*.test.ts',
+        'dist/**',
+        'dist-site/**',
+        '**/*.config.*',
+        '**/*.d.ts',
+      ],
+    },
   },
 })

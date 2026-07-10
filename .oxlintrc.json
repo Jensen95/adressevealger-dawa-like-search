@@ -1,0 +1,29 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["eslint", "typescript", "unicorn", "import"],
+  "categories": {
+    "correctness": "error"
+  },
+  "ignorePatterns": [
+    "dist/**",
+    "dist-site/**",
+    "custom-elements.json",
+    "coverage/**"
+  ],
+  "rules": {
+    "no-console": "error"
+  },
+  "env": {
+    "builtin": true,
+    "browser": true,
+    "node": true
+  },
+  "overrides": [
+    {
+      "files": ["scripts/**/*.mjs", "demo/**/*.ts"],
+      "rules": {
+        "no-console": "off"
+      }
+    }
+  ]
+}
