@@ -30,15 +30,18 @@ Requires Node ≥ 22 and npm.
 ## Commits & branches
 
 This repo follows the [Conventional Commits](https://www.conventionalcommits.org)
-and [Conventional Branches](https://conventional-branch.github.io) standards, and
-CI enforces both on every pull request.
+and [Conventional Branches](https://conventional-branch.github.io) standards.
 
 - **Commit messages**: `<type>[optional scope]: <description>` — e.g.
   `feat: add keyboard navigation`, `fix(ranking): break score ties by id`,
-  `chore(deps): bump vite`. A local `commit-msg` hook (via Husky + commitlint)
-  checks each message as you commit; run `npm install` once to activate it.
+  `chore(deps): bump vite`. A local `commit-msg` hook (Husky + commitlint) checks
+  each message as you commit; run `npm install` once to activate it.
 - **Branch names**: `<type>/<description>` using the same types — e.g.
   `feature/floor-expansion`, `fix/debounce-race`, `chore/upgrade-vite`.
+
+On pull requests, CI validates the **branch name** and the **PR title** (PRs are
+squash-merged, so the title becomes the commit subject on `main`). Dependabot PRs
+are exempt from the title check.
 
 ## Live API & token
 

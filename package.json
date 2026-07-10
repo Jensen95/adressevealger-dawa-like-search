@@ -91,5 +91,8 @@
   },
   "overrides": {
     "esbuild": "^0.25.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

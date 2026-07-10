@@ -45,5 +45,11 @@ jobs:
             echo "::error::Branch '$branch' must follow Conventional Branches: <type>/<description> (e.g. feature/…, fix/…, chore/…)."
             exit 1
           fi
-      - name: Validate commit messages (Conventional Commits)
-        run: npx commitlint --from "${{ github.event.pull_request.base.sha }}" --to "${{ github.event.pull_request.head.sha }}" --verbose
+      - name: Validate PR title (Conventional Commits)
+        # The repo squash-merges, so the PR title becomes the commit subject on
+        # main — that's what we lint. Dependabot's titles are trusted automation
+        # (sentence-cased "Bump …"), so they're exempt.
+        if: github.actor != 'dependabot[bot]'
+        env:
+          PR_TITLE: ${{ github.event.pull_request.title }}
+        run: printf '%s' "$PR_TITLE" | npx commitlint --verbose
