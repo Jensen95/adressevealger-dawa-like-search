@@ -1,0 +1,110 @@
+name: Benchmark
+
+on:
+  schedule:
+    # Every hour at minute 17.
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+# Never let two benchmark runs overlap.
+concurrency:
+  group: benchmark
+  cancel-in-progress: false
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run build
+
+      - name: Checkout benchmark-data branch
+        uses: actions/checkout@v4
+        with:
+          ref: benchmark-data
+          path: benchmark-data
+        continue-on-error: true
+
+      - name: Ensure benchmark-data working copy exists
+        run: |
+          if [ ! -d benchmark-data/.git ]; then
+            echo "benchmark-data branch not found — creating it"
+            rm -rf benchmark-data
+            mkdir benchmark-data
+            cd benchmark-data
+            git init -b benchmark-data
+            git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          fi
+
+      - name: Run benchmark
+        run: node scripts/benchmark.mjs > run.json
+
+      - name: Append run to history and commit
+        run: |
+          cd benchmark-data
+          cat ../run.json >> history.jsonl
+          cp ../run.json latest.json
+          git add history.jsonl latest.json
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m "benchmark: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push origin HEAD:benchmark-data
+
+  deploy:
+    needs: benchmark
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run build:site
+
+      - name: Fetch benchmark data
+        uses: actions/checkout@v4
+        with:
+          ref: benchmark-data
+          path: benchmark-data
+        continue-on-error: true
+
+      - name: Copy benchmark data into the site
+        run: |
+          mkdir -p dist-site/data
+          if [ -f benchmark-data/history.jsonl ]; then
+            cp benchmark-data/history.jsonl dist-site/data/
+          fi
+          if [ -f benchmark-data/latest.json ]; then
+            cp benchmark-data/latest.json dist-site/data/
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist-site
+      - id: deploy
+        uses: actions/deploy-pages@v4

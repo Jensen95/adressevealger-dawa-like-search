@@ -1,0 +1,60 @@
+name: Deploy Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Serialise Pages deployments (shared with the benchmark workflow's deploy job).
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+      - run: npm run build:site
+
+      # Pull whatever benchmark history exists; tolerate its absence on a fresh
+      # repo where the hourly workflow has not run yet.
+      - name: Fetch benchmark data (optional)
+        uses: actions/checkout@v4
+        with:
+          ref: benchmark-data
+          path: benchmark-data
+        continue-on-error: true
+
+      - name: Copy benchmark data if present
+        run: |
+          mkdir -p dist-site/data
+          if [ -f benchmark-data/history.jsonl ]; then
+            cp benchmark-data/history.jsonl dist-site/data/
+          fi
+          if [ -f benchmark-data/latest.json ]; then
+            cp benchmark-data/latest.json dist-site/data/
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist-site
+      - id: deploy
+        uses: actions/deploy-pages@v4
