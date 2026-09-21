@@ -81,12 +81,12 @@
     "chart.js": "^4.4.7",
     "chartjs-adapter-date-fns": "^3.0.0",
     "date-fns": "^4.1.0",
-    "happy-dom": "^20.11.6",
+    "happy-dom": "^20.14.5",
     "husky": "^9.1.7",
-    "oxlint": "^1.79.0",
-    "prettier": "^3.9.6",
+    "oxlint": "^1.83.0",
+    "prettier": "^3.9.8",
     "typescript": "^7.0.2",
-    "vite": "^8.2.2",
+    "vite": "^8.3.0",
     "vitest": "^4.1.10"
   },
   "overrides": {
